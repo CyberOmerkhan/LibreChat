@@ -1,0 +1,25 @@
+Title: Creating Project Pages on GitHub Enterprise
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775021
+Version: 1
+---
+
+Like public GitHub, Swarthmore's GitHub Enterprise installation is also capable of creating simple pages for a given repository. Keep in mind that the page will only be viewable by Swarthmore community members.
+Although there are more advanced methods for creating GitHub pages, the following instructions will address two basic workflows:
+GitHub Automatic Page Generator
+Log into Github Enterprise and navigate to your project repository
+Click on the repository settings icon on the right side of the screen
+From the Repository Settings page, scroll down until you see the section marked
+GitHub Pages
+Click on the button marked
+Launch automatic page generator.
+This will take you through a series of steps resulting in your completed GitHub Page
+Manually create a GitHub Page
+Log into Github Enterprise and navigate to your project repository
+Create a new branch titled
+gh-pages
+Add an index.html file to the
+gh-pages
+branch
+Add your project page content to the index.html file
+After completing one of the sets of instructions listed above, your new page will be available by visiting the following URL: https://github.swarthmore.edu/pages/your-username/your-project-name/
+(Be sure to replace "your-username" and "your-project-name" with the appropriate information).

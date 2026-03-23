@@ -1,0 +1,20 @@
+Title: comm-chester227-color Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530147
+Version: 10
+---
+
+Department
+Communications
+Location
+Chester 101 Room 227
+Queue Name
+comm-chester227-color
+Printer Model
+Canon iR-ADV C3826 PS
+Print Release Station
+Yes
+facstaff_printing_canon_instructions
+cecefca7-004e-492e-8dc6-741c7cbade35
+facstaff_printing_release_station_instructions
+eJyLjgUAARUAuQ==
+false

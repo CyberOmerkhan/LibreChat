@@ -1,0 +1,46 @@
+Title: Perusall
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20906431
+Version: 13
+---
+
+none
+Perusall is an online collaborative annotation tool that allows students to annotate textbooks, documents, and images. Instructors can create assignments and students can add comments and reply to each other.
+Instructions for setting up a Perusall link in Moodle
+Go to your Moodle course, turn on the Edit Mode button at the top right of the page
+Click the
+Add an activity or resource
+button
+Select the
+Perusall
+activity
+Give your new activity a descriptive name
+Scroll to the bottom and
+click the button marked Save
+and return to course
+You should now see your new activity link in your course
+Click
+on the new activity link to create your Perusall course. You will automatically be added as an instructor.
+All enrolled participants can click on this activity link to access the Perusall site
+New Perusall LTI 1.3 Integration Confirm Merge Email
+In August of 2024, we upgraded our Perusall integration from LTI 1.1 to LTI 1.3. If you originally set up your Perusall course prior to 9/24 with the LTI 1.1 integration, the first time you launch into Perusall via LTI 1.3 integration, it will prompt you with a one-time "
+confirm merge
+" email. This means that your account was originally on a different integration and it is transitioning you to the new one. You will need to confirm the merge and relaunch and will be all set.
+Click "Link to Home page" to create a single link to your Perusall course home page.  Or you can link to a specific assignment.
+Also, if you originally had a course through the LTI 1.1 integration, that content is still available in your account under "my courses". Teachers can also copy course materials from a 1.1 course to a 1.3 course.
+For instructions on copying course materials from one course to another, see
+How do I transition my Perusall course from an LTI 1.1 integration to LTI 1.3?
+Setting Up Student Cost to $0
+After going through all the settings in the Perusall course, under “Get Started”, instructors must make sure to change the “
+student cost
+” setting to the amount of
+$0
+.
+Please Note: If you do not set up the Student Cost to $0 when you first create the Perusall course, your students will not be able to access Perusall. If this happens, please reach out to
+support@swarthmore.edu
+so we can contact Perusall Support.
+More Instructions for Perusall
+For more help with Perusall, see
+Perusall Instructor Help
+or
+Perusall Student Help
+.

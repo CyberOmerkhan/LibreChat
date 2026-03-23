@@ -1,0 +1,13 @@
+Title: Auto Captioning Videos in Panopto
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775410
+Version: 6
+---
+
+Download the Captions File
+After you've applied the captions and would like to download the captions file, hover your cursor over the video session and select
+Settings.
+Choose
+Captions
+from the menu on the left and then select
+Download File.
+Open the downloaded file using Notepad, Word, or another text editor and optionally delete the text that includes timestamps.

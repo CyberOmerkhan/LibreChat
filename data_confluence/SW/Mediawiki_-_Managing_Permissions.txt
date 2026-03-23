@@ -1,0 +1,33 @@
+Title: Mediawiki - Managing Permissions
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775980
+Version: 2
+---
+
+Managing Permissions
+The default Mediawiki installed has been customized to make it a bit harder for spammers to overwhelm wikis with illegitimate content and comments. This is done by modifying the
+LocalSettings.php
+file (a file that is included in every install in which it is possible to provide configurations details).
+By default, Mediawiki allows anonymous users to create pages and edit pages in the wiki. The modifications change this in the following ways:
+Anonymous users cannot edit existing pages
+Anonymous users cannot create pages
+Registered users must click the confirmation link in the registration email in order to edit or create pages
+This approach should drastically reduce unsolicited content and comments on Mediawiki installations. One further step that the administrator might take is to turn registration off after a predetermined amount of time. Users must create accounts by this date; after that, the settings are changed so that registrations are no longer open.
+To add this setting, you must edit
+LocalSettings.php
+in your Mediawiki install:
+Login to cPanel and browse to your
+File Manager
+.
+In the File Manager, browse to the folder within
+public_html
+that contains your Mediawiki install. If you installed the wiki at the root of your domain, you won’t need to go any further than public_html. If you installed the wiki in a subdomain or subdirectory, you’ll need to find the directory that is associated with that space.
+Locate
+LocalSettings.php.
+Once selecting the file, click
+download
+in the top menu bar to download the file as a backup before proceeding. Then click
+Edit
+in the top menu bar to edit the file.
+Confirm that you want to edit the file.
+Browse to the bottom of the document, and locate the custom settings that were added during the Mediawiki install and the following line:
+$wgGroupPermissions['*']['createaccount'] = false;

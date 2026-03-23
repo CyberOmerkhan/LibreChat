@@ -1,0 +1,63 @@
+Title: Zoom Audio and Video Settings
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20910239
+Version: 9
+---
+
+2
+Join By Computer Audio
+Once you start or join a meeting in Zoom you will be asked whether you want to join using your computer audio or join by using a phone.
+If you’re using your computer microphone you
+MUST
+click the button to "
+Join Audio by Computer.
+" No one on the call will be able to hear you until you click this button.
+If for some reason you do not see this window pop up, look for the small green arrow on the bottom left in the tool bar asking you to "
+Join Audio
+."
+If your computer does not have a microphone you can join by phone using the toll-free number given to you in the invite.
+Audio and Video Mute and Unmute
+During a session you might be asked to mute your microphone until you have a question or comment.
+This helps to minimize background noise and audio feedback. Mute your audio by clicking on the microphone icon located in the lower left-hand corner of the menu bar. You can quickly unmute yourself by holding down the space bar to talk.  You can turn off your video by clicking on camera icon as well.
+Audio Settings
+By clicking on the small caret next to the microphone icon, you can choose your microphone and speaker settings. It normally defaults to your built-in microphone and speakers, but you can select any other microphone or speakers you have plugged in to your computer. Zoom has more information on Audio Settings at
+https://support.zoom.us/hc/en-us/articles/201362283-Testing-computer-or-device-audio
+.
+Video Settings
+By clicking on the small caret next to the camera icon, you can choose which video camera you want to use.
+If you click on Video Settings at the bottom it will show you what the camera image actually looks like so you can make adjustments. For a high quality image, check the box for "Enable HD". Zoom has more information on Video Settings at
+https://support.zoom.us/hc/en-us/articles/201362313-Testing-your-video
+.
+Testing Your Speakers
+By clicking on the small caret next to the microphone icon, you can select "Test Speaker & Microphone" to make sure they are working. Once you click on the “Test Speaker” button music will play through your speakers until you press stop. If you do not hear music playing please make sure you have the right audio output selected in the drop down menu to the right. You can also select your microphone from the drop down menu and see your microphone input level.
+Chat
+The chat feature provides the ability to send instant messages during the session. You can send a private chat to one person or message to everyone.
+Click on
+“Chat”
+Type a message and press
+“Enter”
+on your keyboard to send. Messages are sent to all participants by default. You can message an individual participant via private chat by selecting the individual’s name on the left column. Zoom has more information on the Chat feature at
+https://support.zoom.us/hc/en-us/articles/203650445-Using-in-meeting-chat
+.
+Switching Between Views (Share Screen and Video)
+During a Zoom meeting you may want to share your desktop with the rest of the people on the call. In Zoom you can switch back and forth between sharing your screen and sharing your video as often as needed.
+If you are in video mode, switch to screen share by:
+Clicking on the green button that says
+“Share Screen”
+A window will pop up showing all possible options for you to share displays. You can display your entire desktop or any single window you wish to show. Click on the item you want to display and then click
+“Share Screen”
+button at the bottom right corner.
+If you are displaying your screen, switch to camera video by:
+Clicking
+“Stop Share”
+from the sharing/annotation menu at the top of the screen
+The view will immediately switch back to showing the webcam videos of you and the other participants. Zoom has more information on screen sharing at
+https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen-content-or-second-camera
+.
+Leaving the Meeting
+At the end of the meeting when you are finished click the
+“Leave Meeting”
+button to sign out of the meeting.
+Zoom Hot Keys and Keyboard Shortcuts
+Zoom has a list of various hotkeys and keyboard shortcuts you can use that can help with your experience. You can check them out at
+https://support.zoom.us/hc/en-us/articles/205683899-Hot-Keys-and-Keyboard-Shortcuts-for-Zoom
+.

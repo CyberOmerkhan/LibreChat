@@ -1,0 +1,46 @@
+Title: Use Microsoft's Accessibility Checkers
+URL: https://swatkb.atlassian.net/wiki/spaces/ALLY/pages/20381930
+Version: 3
+---
+
+Microsoft has made great strides towards accessibility. They include accessibility checkers in many of their programs. The steps for most programs are included in this how-to.
+Step-by-step guide
+Artificial Intelligence (AI) is not perfect
+Please keep in mind that all in-program accessibility checkers are run by artificial intelligence. This means they are not perfect and will require human intervention, but these checkers are great tools in a journey towards greater accessibility.
+Navigate to the
+Review
+menu or tab.
+Word Review Menu
+Select
+Check Accessibility
+.
+Check Accessibility indicated on Review Menu
+Click through issues to resolve them in the
+Accessibility Pane
+which will also include
+steps to fix the issues
+and reasons to fix the issues.
+Accessibility Pane Example 1
+Accessibility Pane Example 2
+Stumped? Go to
+Microsoft's instructions
+for finer detail,
+Google your question effectively and efficiently
+, or ask
+the accessibility team
+!
+Microsoft's Accessibility Checker on all Microsoft Programs
+This will work in all updated Microsoft programs. See
+Microsoft's Accessibility Checker website
+for more information.
+Related articles
+Related articles appear here based on the labels you select. Click to edit the macro and add or change labels.
+false
+5
+ALLY
+false
+modified
+true
+page
+label in ( "accessibility" , "powerpoint" , "microsoft" ) and type = "page" and space = "ALLY"
+accessibility

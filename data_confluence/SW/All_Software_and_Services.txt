@@ -1,0 +1,15 @@
+Title: All Software and Services
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20774978
+Version: 3
+---
+
+Notice incorrect missing or incorrect information? Please let us know at
+support@swarthmore.edu
+or x4357
+Name
+sw
+Description, Access, Platform
+10000
+Title
+software
+label in ( "service" , "software" ) and space = "sw"

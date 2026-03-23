@@ -1,0 +1,20 @@
+Title: prog-trotter107 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19529884
+Version: 3
+---
+
+Department
+Programs and Studies
+Location
+Trotter 107
+Queue Name
+prog-trotter107
+Printer Model
+Canon iR-ADV C3826 PS
+Print Release
+Yes
+facstaff_printing_canon_instructions
+dc3a9044-9b9c-4e11-9970-ba1bcd98cadf
+facstaff_printing_release_station_instructions
+eJyLjgUAARUAuQ==
+false

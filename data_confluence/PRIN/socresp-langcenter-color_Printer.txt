@@ -1,0 +1,16 @@
+Title: socresp-langcenter-color Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19529806
+Version: 2
+---
+
+Department
+Lang Canter for Social Responsibility
+Location
+Lang Center For Social Responsibility Lobby
+Queue Name
+socresp-langcenter-color
+Printer Model
+Canon iR-ADV
+C5840/5870
+PS
+facstaff_printing_canon_instructions

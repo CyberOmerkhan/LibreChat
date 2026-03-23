@@ -1,0 +1,5 @@
+Title: Basic Course Administration
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20908122
+Version: 2
+---
+

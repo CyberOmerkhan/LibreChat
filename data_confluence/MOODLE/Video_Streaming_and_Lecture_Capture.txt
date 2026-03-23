@@ -1,0 +1,47 @@
+Title: Video Streaming and Lecture Capture
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20906593
+Version: 14
+---
+
+Panopto is a video streaming and lecture capture system that is integrated with Swarthmore's Moodle site.  It is possible to easily record video and/or your computer screen and publish it to your Moodle course. It is also possible to embed video from Panopto using the embed icon from within Moodle's rich-text editor.
+Setup
+To set up Panopto for a course, start by adding the Panopto block to your Moodle course.  Follow the instructions here:
+Adding the Panopto Block to a Moodle Course
+After the block has been added, your course is set up to accept Panopto recordings.
+Integrating Zoom Recordings with Panopto and Moodle
+Follow the instructions on this page:
+Integrating Moodle, Zoom, and Panopto
+Recording Panopto Videos
+You can use the Panopto Recorder software to get started.  You can download the Panopto Recorder software from the Panopto block within Moodle. Download the program and install it on your computer.  Classroom computers should already have the Panopto Recorder installed, so you can skip this step if you are using an ITS computer.
+Follow the instructions from the following page to begin recording using Panopto:
+Recording Video with the Panopto Recorder Software
+Embedding a Panopto Video on a Moodle Page
+By default, the recording appears within the Panopto block within Moodle.  You can also embed the videos within Moodle.
+To embed a Panopto video, follow the instructions from the following page:
+Embed a Panopto Video on a Moodle Page
+Captioning Panopto Videos
+Panopto has a few different options for captioning videos. Please follow instructions from the following pages to set up auto-captioning:
+You can set up auto-captioning services per video by following the instructions on this page:
+Auto Captioning Videos in Panopto
+You can set up auto-captioning for your entire course folder by following the instructions on this page:
+Enable Automatic Caption Requests Per Folder
+If you would like professional captioning services, please reach out to ITS at
+support.swarthmore.edu
+.
+Troubleshooting Panopto
+If you are having trouble viewing Panopto videos in Moodle, you may need to adjust your browser settings.
+Follow instructions from the following page to troubleshoot known issues:
+Troubleshooting Panopto Videos
+Panopto Permissions Problems
+In some cases, the Panopto Recorder tries to save the video in a place where you don't have permission to write a new file. In the Panopto Recorder program, go to Preferences (on the menu bar) and make sure the Recording Folder is set to a location that you can write to. Also, if you see an invalid login message when trying to record or upload content, be sure to contact
+ITS at
+support.swarthmore.edu
+.
+Video Quality
+In the Panopto Recorder program, go to
+Preferences
+(on the menu bar), and you can adjust the video compress and frame rate options.
+Panopto Documentation
+Panopto has a robust support page. Please be sure to search their documentation for helpful answers by going to:
+http://support.panopto.com/documentation
+Other Panopto Support Pages

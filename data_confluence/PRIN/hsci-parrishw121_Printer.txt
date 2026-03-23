@@ -1,0 +1,14 @@
+Title: hsci-parrishw121 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530264
+Version: 2
+---
+
+Department
+Health Sciences
+Location
+Parrish W121
+Queue Name
+hsci-parrishw121
+Printer Model
+Canon MF1643 II Series PS
+facstaff_printing_canon_instructions

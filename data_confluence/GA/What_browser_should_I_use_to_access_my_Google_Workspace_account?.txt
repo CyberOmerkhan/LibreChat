@@ -1,0 +1,6 @@
+Title: What browser should I use to access my Google Workspace account?
+URL: https://swatkb.atlassian.net/wiki/spaces/GA/pages/19660850
+Version: 9
+---
+
+We recommend using the Google Chrome web browser when working within Google Workspace for optimal performance and compatibility application features.

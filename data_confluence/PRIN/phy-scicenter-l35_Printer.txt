@@ -1,0 +1,14 @@
+Title: phy-scicenter-l35 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530475
+Version: 1
+---
+
+Department
+Physics
+Location
+Science Center L35
+Queue Name
+phy-scicenter-l35
+Printer Model
+HP LaserJet 3015
+facstaff_printing_hp_instructions

@@ -1,0 +1,16 @@
+Title: FileMaker
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775259
+Version: 12
+---
+
+Description
+Database software
+Access
+Faculty & Staff
+Platform
+MAC
+Yellow
+WINDOWS
+Blue
+About
+FileMaker is a cross-platform database made by Claris.  ITS provides access to FileMaker via the Claris cloud service.  To request access to FileMaker and download the installers, contact ITS.

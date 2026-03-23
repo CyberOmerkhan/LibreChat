@@ -1,0 +1,14 @@
+Title: ath-mullan110a Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530481
+Version: 1
+---
+
+Department
+Athletics
+Location
+Mullan Center Annex 110A
+Queue Name
+ath-mullan110a
+Printer Model
+Canon MF1643 II Series PS
+facstaff_printing_canon_instructions

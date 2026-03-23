@@ -1,0 +1,14 @@
+Title: bio-singer336A Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19529848
+Version: 1
+---
+
+Department
+Biology
+Location
+Singer 33A
+Queue Name
+bio-singer336A
+Printer Model
+HP LaserJet 400 M401dn
+facstaff_printing_hp_instructions

@@ -1,0 +1,14 @@
+Title: ccc-715harvard Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530235
+Version: 3
+---
+
+Department
+Chester Children's Chorus
+Location
+715 Harvard Avenue
+Queue Name
+ccc-715harvard
+Printer Model
+Canon iR-ADV C3826 PS
+facstaff_printing_canon_instructions

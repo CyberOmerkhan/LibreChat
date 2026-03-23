@@ -1,0 +1,14 @@
+Title: finaid-parrish160 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530310
+Version: 1
+---
+
+Department
+Financial Aid
+Location
+Parrish 160
+Queue Name
+finaid-parrish160
+Printer Model
+Canon iR3235/iR3245 PS
+facstaff_printing_canon_instructions

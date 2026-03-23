@@ -1,0 +1,14 @@
+Title: Palmer Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530057
+Version: 1
+---
+
+Department
+Residence Halls
+Location
+Palmer
+Queue Name
+Palmer
+Printer Model
+HP LaserJet Series PCL 4/5
+student_printing_hp_instructions

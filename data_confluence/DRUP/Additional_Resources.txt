@@ -1,0 +1,42 @@
+Title: Additional Resources
+URL: https://swatkb.atlassian.net/wiki/spaces/DRUP/pages/172916760
+Version: 17
+---
+
+10.1) Access the PhotoShelter Digital Image Library
+You do not need to source your own photos. You are welcome to use any photo in Swarthmore’s digital image library which contains thousands of photos. Below are instructions for logging into the Swarthmore’s PhotoShelter account. If you have any questions about PhotoShelter, please contact:
+web-update@swarthmore.edu
+.
+Goto:
+http://swarthmore.photoshelter.com
+Select "Login" located in the menu bar at the top right corner
+Select the "College Login" button
+Use your Swarthmore network credentials to login
+Click "Galleries" located in the menu bar at the top left corner
+Select "Invited Galleries" in the left column and then "Swarthmore College"
+You can search the directories located in the left column or use keyword search to find photos.
+10.2) Request a Photoshoot
+If you need new photos for your website, you can request a photoshoot. This service is provided by the Communications Office and is intended for faculty and staff requests only. Requests for photography must be submitted at least one week in advance. Please allow 3-5 working days for digital processing.
+Please note
+: not all requests can be granted. Student workers may be assigned to the job depending on the time of the event and availability. In order request a photoshoot, please fill out the
+Photoshoot Request Form
+.
+10.3) SiteImprove Website Monitoring
+Swarthmore College uses SiteImprove for quality assurance monitoring of the Swarthmore website. This resource helps editors identify broken links, misspellings, accessibility issues, as well as provide analytics data.
+If you are interested in participating in the SiteImprove pilot program, please contact:
+web-update@swarthmore.edu
+.
+10.4) Request a Website Redesign
+Website redesign services are provided by the Communications Office. Our team will work with your department to help redesign your website to meet your goals and to more effectively communicate your content. If you are interested in redesigning your website, please reach out to us at:
+web-update@swarthmore.edu
+.
+10.5) Swarthmore College Style Guide
+The College’s
+Editorial Style Guide
+is helpful a resource for writing website content.
+10.6) Drupal Support
+If you need assistance working with Drupal, please contact us:
+web-update@swarthmore.edu
+- content related questions / assistance making updates to the website
+support@swarthmore.edu
+- report technical / access issues

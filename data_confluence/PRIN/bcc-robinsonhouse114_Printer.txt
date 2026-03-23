@@ -1,0 +1,14 @@
+Title: bcc-robinsonhouse114 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530142
+Version: 3
+---
+
+Department
+Black Cultural Center
+Location
+Robinson House 114
+Queue Name
+bcc-robinsonhouse114
+Printer Model
+Canon iR-ADV C5840/5850 PS
+facstaff_printing_canon_instructions

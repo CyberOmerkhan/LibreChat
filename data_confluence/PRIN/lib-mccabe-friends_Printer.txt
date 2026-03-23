@@ -1,0 +1,14 @@
+Title: lib-mccabe-friends Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530420
+Version: 2
+---
+
+Department
+Friends Historical Library
+Location
+McCabe Library
+Queue Name
+lib-mccabe-friends
+Printer Model
+Canon iR-ADV C5840/5850 PS
+facstaff_printing_canon_instructions

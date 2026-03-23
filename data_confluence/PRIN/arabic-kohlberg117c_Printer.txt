@@ -1,0 +1,14 @@
+Title: arabic-kohlberg117c Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530127
+Version: 2
+---
+
+Department
+Arabic Studies
+Location
+Kohlberg 117C
+Queue Name
+arabic-kohlberg117c
+Printer Model
+Generic PCL Printer
+facstaff_printing_canon_instructions

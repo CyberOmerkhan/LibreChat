@@ -1,0 +1,53 @@
+Title: Creating Posts With WordPress Block Editor
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20774957
+Version: 5
+---
+
+Gutenberg - the New WordPress Block Editor
+WordPress has a new way of editing blog posts using its block editor
+, known as Gutenberg.
+The old classic editor was a text editor with formatting buttons very similar to Microsoft Word. The new editor uses a totally different approach, called ‘Blocks’ (hence, the name Block Editor). Blocks are content elements that you add to the edit screen to create content layouts. Each item you add to your post or page is a block. You can add blocks for each paragraph, images, videos, galleries, audio, lists, and more.
+WordPress Posts Vs. Pages?
+Posts are blog entries listed in reverse chronological order on your website. They are often articles or updates you share to offer up new content to your readers. Posts are always associated with a date, which is included in the URL. Sometimes, posts are confused with pages.
+Pages are static and are not affected by date. An About page, a Contact page, and a Home page are great examples of this.
+See WordPress' documentation
+Post vs. Page
+for an explanation of the differences.
+Creating a New Blog Post or Page Using The Block Editor
+You will start creating a new blog post or page like you normally would.
+Login to your WordPress site and click on
+Dashboard
+Click on
+Posts > Add New.
+If you are creating a page, then go to
+Pages > Add New
+menu.
+Creating a New Blog Post or Page Using The Block Editor
+Selecting
+Posts > Add New,
+will launch the new block editor. The first block of every post or page is reserved for the title. Here, is where you'd type in the title of your blog post.
+After that, you can use your mouse to move below the title or press the tab key on your keyboard to move down and start writing. By default, the next block is a paragraph block. This allows you to start writing right away.
+If you want to add a different type of block, then you can click on the
+add new block button
+on the
+top left corner
+of the editor, or on the
+left side of a block
+.
+Clicking on the button will show the add block menu with a search bar on top and commonly used blocks below.
+Working with Blocks in The New Editor
+Each block comes with its own toolbar which appears on top of the block. The buttons in the toolbar would change depending on the block you are editing.
+For example, in the screenshot below, there is a paragraph block that shows basic formatting buttons like text alignment, bold, italic, insert-link, and strikethrough buttons in the toolbar.
+In addition, each block can also have its own block settings which would appear in the right column of your edit screen.
+You can move blocks up and down by a simple drag and drop or by clicking the up and down buttons next to each block.
+Publishing and Managing Options in Gutenberg Block Editor
+Each WordPress post contains a lot of metadata such as publish date,
+categories and tags
+,
+featured images
+, and more. All these options can be found in the right-hand column on the editor screen. Be sure to have the "
+Document
+" tab selected in order to see them.
+Block Types
+WordPress has several different types of blocks you can add to the page or post to begin editing. to learn more about the different types of blocks available visit the WordPress support page using the link below.
+https://wordpress.org/support/article/blocks/

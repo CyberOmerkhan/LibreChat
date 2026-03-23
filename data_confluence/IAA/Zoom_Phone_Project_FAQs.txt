@@ -1,0 +1,63 @@
+Title: Zoom Phone Project FAQs
+URL: https://swatkb.atlassian.net/wiki/spaces/IAA/pages/19661742
+Version: 12
+---
+
+What you need to know about Zoom Phone
+Below are the most asked and most urgent questions about Zoom Phone. For more information on Zoom Phone settings and features, you can check out our
+Zoom Phone page
+. For questions regarding the project timeline, migration process, or training please visit the
+Zoom Phone Project Rollout
+page.
+What exactly is Zoom Phone?
+Zoom Phone is a unified communication solution that combines phone and video meetings. It allows you to make and receive calls, share content, and participate in video meetings from the Zoom desktop and mobile apps. With Zoom Phone, you can make calls from your computer and mobile devices; the system will transcribe voicemail messages and seamlessly transition calls into video meetings. You can also send text messages using your College phone number and access self-service features through a unified web portal.
+Zoom Phone is designed for remote, hybrid, and on-campus teams and has been successfully used by similar institutions such as Davidson, Wellesley, Middlebury, and Macalester.
+Why Zoom Phone?
+Integration
+- we can leverage our investment in Zoom Meetings and enjoy a more integrated and seamless experience. If you already have Zoom apps installed for meetings, they will automatically be upgraded with a new menu for phone use.
+Convenience and hybrid/remote work friendly
+- You will no longer be restricted to office phones. Instead, Zoom Phone offers a modern and user-friendly voice service that can be used on existing devices like computers and mobile devices. Essential functions such as call transfer, forwarding, conferencing, and voicemail will still be available, alongside additional features like call delegation, blocking, routing, business hour settings, and text messaging.
+Cost and sustainability
+- This transition will also lead to reduced costs and improved sustainability by minimizing phone hardware and maintenance.  A small number of new phones will be available for use when circumstances require a physical phone. However, we expect that Zoom Phone will be used primarily via computers and mobile devices.
+What is a softphone versus a physical phone?
+A softphone
+gives the ability to receive, make, and manage phone calls without the use of physical hardware. With Zoom, the phone function in the Zoom app is a softphone and allows you to receive, make, and manage calls and voicemail (and more) on any device you can download the Zoom app on - this includes desktops, laptops, and mobile devices such as smartphones and tablets.
+A physical phone
+is the telephone hardware used for the purpose of receiving, making, and managing phone calls - like the Cisco phones we currently use on campus.
+Does my phone number change?
+No. You will keep your current 10-digit number and 4-digit extension number. You will still be able to make calls using just a person’s 4-digit extension, and you can even make calls by typing their name into the Zoom Phone application.
+Will I still have voicemail?
+Yes! You will be able to set up a voicemail message and check your voicemail via the Zoom browser portal. By default, you will also receive emails with both audio and transcription of your voicemail messages. This feature can be turned off in the Zoom browser portal if you would like.
+Do I have to replace my desk phone?
+We are adopting a softphone-first mindset to maximize Zoom phone capability. However, physical desk phones may make sense in some situations. There will be an opt-in process for individuals that require a physical handset.
+If you do require a physical phone you will have to upgrade to a new model phone, as our current phone models are not compatible with Zoom Phone.
+Are public area phones going away?
+No. The wall phones and Code Blue emergency phones will be upgraded to new models that work with Zoom Phone.
+What if I use Jabber?
+If you had Jabber set up to be able to take calls from your campus number while working remotely, it will no longer be needed. Zoom Phone replaces the need for this service, as you can make and receive calls through the Zoom applications on all of your devices, no matter what location you are working from.
+Will my current headset work with Zoom Phone?
+If you use a headset or headphones and a microphone to participate in Zoom video meetings they will work exactly the same way with Zoom Phone, so you can keep on using the same setup.
+Headset recommendations
+If you do not currently have a headset, but feel you may need one, most USB and BlueTooth headsets will work. However,
+Zoom Phone has a list of recommended devices, including headsets
+.
+What about using personal cell phones for Zoom phone calls?
+While you are not required to use your personal cell phone for work purposes, the option to use the Zoom app on your personal device for video conferencing and Zoom phone calls is available if you choose.
+Based on the experience of our peers who have transitioned to Zoom Phone, we anticipate most people will use the Zoom app on their college-issued computer for calls if they don't want to use the app on a personal device.
+Will people see my personal number if I make a Zoom Phone call from my cell phone?
+No. If you make a call through the Zoom app on your phone, the person you are calling will only see the college phone number associated with you.
+Will I still have access to the campus directory on Zoom Phone?
+As users are migrated into Zoom Phone they will also be added to the Contacts space in Zoom. Once everyone has been migrated it will function like the current campus directory, allowing you to search for them by name, extension, or full number.
+How reliable is Zoom Phone?
+Zoom Phone runs fully redundant systems across a multitude of data centers around the world, ensuring services remain intact during maintenance, and it delivers a 99.99% service-level agreement (SLA) rating. Agreements with both Amazon AWS and Oracle OCI public cloud infrastructure provide built-in survivability in the event a data center loses internet, ensuring the highest level of uptime possible.
+How private are my calls?
+Zoom Phone provides much more protection for privacy than our current Cisco system. Calls do go through the Zoom cloud but are encrypted with Advanced Encryption Standard (AES256). Both the call meta-data used to establish a call and the actual voice content are encrypted and cannot be intercepted and heard. On-campus calls are fully encrypted end to end. Off-campus calls are encrypted from your Zoom app or physical phone to Zoom but may not be completely encrypted from Zoom to the off-campus caller depending on their carrier and their local telephone system. This is no different than with our calls using the current Cisco system as many telephone companies still use analog technology at least in part which is not encrypted. Calls are not stored at Zoom although voicemail, recordings, and transcriptions are encrypted and stored at Zoom until deleted by the user. Zoom supports Swarthmore’s compliance with the Family Educational Rights and Privacy Act (FERPA) and the Health Insurance Portability and Accountability Act (HIPAA) as well.
+Does Zoom Phone use Artificial Intelligence (AI) on our calls or other data?
+Zoom does have a feature called Zoom AI Companion that can summarize meeting transcripts and chats today. Eventually, it will become possible to get an AI-generated analysis of recorded phone calls, and summaries of your SMS messages and voicemails. These are opt-in features for which the College is not using and has never used. Zoom uses no AI processing on Swarthmore meetings, calls, or other data even for training its AI system.
+What if I have more questions or need more help?
+We understand that transitioning to Zoom Phone represents a significant change from our current telecommunications system, and we are here to provide support. If you have any questions or concerns during the transition, please don't hesitate to contact us through our
+ITS Service Portal
+.
+We have also gathered some helpful information and links on how to use Zoom Phone and its various features on
+our Zoom Phone page
+.

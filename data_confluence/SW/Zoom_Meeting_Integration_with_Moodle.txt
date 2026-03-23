@@ -1,0 +1,38 @@
+Title: Zoom Meeting Integration with Moodle
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20908899
+Version: 15
+---
+
+Zoom can be integrated into your Moodle course to make it easy to set up a one time or recurring Zoom session for your class.  By adding the "
+Zoom Meeting
+" activity to a course, students and instructors can click on a link in Moodle and enter the course Zoom session.  Follow the steps below to get started.
+Add a Zoom Meeting
+Click the
+Edit Mode
+button to turn editing on
+Choose which section you want to add Zoom to and select the "Add Activity or Resource" button.
+Select
+Zoom Meeting
+.
+Fill out the required settings including the topic, date and time of your Zoom meeting.
+When finished configuring your settings select
+Save and Return to Course
+.
+The Zoom Meeting activity will then show up in the section you selected.
+Click on the Zoom Meeting activity to see your saved settings. Click the Green
+Start Meeting
+button to begin the meeting. Your students will see a similar button that says, "Join Meeting." However, you can copy and past the
+Join Link
+URL
+to share with others outside your Moodle course.
+Additional Information
+Settings
+Join Meeting before host
+: we recommend this be turned off, especially if recording the meeting.  If turned on, students can start the meeting at any time.  If recording is enabled it will start, even if students are just testing the link.
+The Moodle Zoom settings include only a few options.  To see all available options, create the Zoom Moodle activity as specified above and then log into
+swarthmore.zoom.us
+and click on
+Meetings
+.  The Moodle course Zoom meeting will show up.  Editing this meeting will allow you to adjust all the available Zoom settings.
+Recording the Meetings and Sharing with Students
+It is possible to use Panopto, Swarthmore's lecture capture system, to save the videos and automatically publish them to Moodle.

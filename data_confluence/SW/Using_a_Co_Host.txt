@@ -1,0 +1,48 @@
+Title: Using a Co Host
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20910751
+Version: 11
+---
+
+The co-host feature allows the host to share hosting privileges with another user, allowing the co-host to manage the administrative side of the meeting, such as managing participants or starting/stopping the recording. The host must assign a co-host. There is no limitation on the number of co-hosts you can have in a meeting or webinar.
+An Alternative Host will become a Co-host when they are signed into a Zoom meeting with their Swarthmore credentials. You can add an
+Alternative Host
+ahead of time when scheduling a meeting.
+Adding a co-host during a meeting
+Once in the meeting, the Host can add anyone in the meeting as a Co-host in multiple ways.
+The Host can either right-click on the user's video or hover over the user's video and select the three dots icon, then select
+Make Co-host
+.
+The Host can also click on the
+Participants
+icon at the bottom of the window. The Host can hover their mouse over the participant, select
+More
+, then select
+Make Co-host
+.
+Co-Host capabilities:
+Mute/Unmute All: mute/unmute all participants in meeting - you will be given the option (checkbox) to allow or not allow participants to unmute
+Lock Screen sharing: by selecting lock screen sharing, other participants will not be able to share their screen
+Mute on Entry: participants will automatically mute as they enter the meeting
+Play Enter/Exit Chime: plays a sound as participants join and leave the meeting
+Lock meeting: you can lock your meeting so that no other participants may join
+Stop Video: stop participant's video stream (unable to start video)
+Remove: you can kick/boot participant(s) from the meeting
+Rename: rename the attendee name selection
+Admit or place a participant in the
+Waiting Room
+Things co-hosts can NOT do:
+Co-hosts do not have access to the following controls, as they are only available as host controls in a meeting:
+Start
+closed captioning
+and assign someone or a third-party to provide closed captioning
+Start live streaming
+End meeting for all participants
+Make another participant a co-host
+Start
+waiting room
+(co-hosts can place participants in waiting room or admit/remove participants from the waiting room)
+Co-hosts also cannot start a meeting. If a host needs someone else to be able to start the meeting, they can assign an
+alternative host
+.
+More information about zoom co-hosts can be found at
+https://support.zoom.us/hc/en-us/articles/206330935-Enabling-and-adding-a-co-host

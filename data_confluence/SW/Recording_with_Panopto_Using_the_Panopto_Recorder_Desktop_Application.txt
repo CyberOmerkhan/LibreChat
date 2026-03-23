@@ -1,0 +1,46 @@
+Title: Recording with Panopto Using the Panopto Recorder Desktop Application
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775078
+Version: 7
+---
+
+Record videos, course lectures, guest speakers, student presentations, and more with Panopto
+Important
+In order to record videos with Panopto your user account must have "Creator" role status or greater.
+In order to use Panopto with Moodle you must first
+add the Panopto Block to your Moodle course
+. After the Panopto block is added, your course is now set up for Panopto recordings.
+If you are NOT using Panopto with Moodle,
+visit our
+Service Portal
+to submit a ticket
+to request a Panopto user account.
+Recording with Panopto using the desktop application also allows users to record a video using multiple devices. Use these instructions to learn about recording video with one computer using audio and video as well as presentation content (Powerpoint, Keynote, and screen capture).
+Go to
+panopto.swarthmore.edu
+.
+Sign in using your Swarthmore ID.
+Once you’ve signed in, click on the green button at the top left of the screen that says
+Create
+> select >
+Record for Mac or PC
+(Record in application)
+If you do not yet have the Panopto Recorder application installed on your computer, you will be prompted to download and install it. Panopto is already installed on all classroom and public computer images.
+Once you download and launch the Panopto Recorder application, the top of the recorder window lists which folder the recording is being stored in. If you are using Panopto with Moodle, make sure you are recording to your course folder.
+Configure the Recorder with your desired settings
+Confirm you are recording into the correct course folder. Panopto should default to your selected Moodle course but it is always good to double-check. You can access other courses available to you through the Folder drop down menu.
+Name your recording: Panopto automatically makes the default name the date and time of the session. For searches, the default session name is best. For classes, it is helpful add a topic description to the date and time default name.
+Select your Primary Sources: Make sure you select the correct audio source; Panopto requires audio. If you want to record video, select the correct video source from the drop down menu. Different classrooms have different audio and video options. We also have web cameras available for check out. Contact
+Classroom and Conferencing Technologies
+at
+avbox@swarthmore.edu
+if you have questions about the options in your classroom.
+Select the appropriate option for slides: If you are you using either Powerpoint or Keynote make sure either the PowerPoint or Keynote box is checked.
+Select the Screen Recording Option: If you are using other software applications in addition to PowerPoint or Keynote in your presentation such as Word documents, Excel Spreadsheets, web pages, Prezi, recording your computer screen may be a good option. By default, your built-in computer screen is selected. If you do not want to include anything from your screen, beyond PowerPoint or Keynote, change the source option to None.
+Press Record: Once you have set the Panopto Recorder options as desired, click the red Record button to record.
+Options for Recording with Panopto on a Mac, Windows, or Using a Web Browser
+For more detailed instructions for recording on a Mac or a PC, please read Panopto's documentation.
+How to Record with Panopto for Mac
+How to Record with Panopto for Windows
+How to Record with Panopto Capture using a web browser
+Need more help? Below is a video showing how to record using the Panopto Recorder application at Swarthmore.
+<iframe src="https://swarthmore.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=a04385da-f2df-4afc-82aa-a96601279178&v=1" width="720" height="405" style="padding: 0px; border: 1px solid #464646;" frameborder="0" allowfullscreen allow="autoplay" title="Video showing how to use Panopoto to record a presentation"></iframe>

@@ -1,0 +1,29 @@
+Title: Kurzweil 3000
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20774995
+Version: 16
+---
+
+Description
+Text-to-speech software
+Access
+Everyone
+Platform
+WINDOWS
+Blue
+Location
+Public areas, Creative Media Commons, Education Materials Center, Singer 222
+About Kurzweil 3000
+Kurzweil 3000 is an assistive technology, text to speech, learning tool that supports the concept of
+Universal Design for Learning
+with a suite of powerful reading, writing,
+test-taking
+, and study skill tools that makes curricula accessible to all students. It is particularly appropriate for students with learning disabilities such as dyslexia, dysgraphia, those who require reading intervention, students struggling with reading comprehension and English Language Learners (ELL). Additional information on Kurzweil can be located on the
+Kurzweil website
+.
+Installation Instructions
+Contact the
+Student Disability Services Office
+(studentdisabilityservices at swarthmore.edu)  to request a license and account information.
+Download
+Kurzweil for Windows
+Kurzweil for Windows Patch 13.34

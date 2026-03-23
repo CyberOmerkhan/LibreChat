@@ -1,0 +1,26 @@
+Title: NotebookLM
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/461668451
+Version: 5
+---
+
+Description
+Google’s AI-powered research and note-taking assistant
+Access
+Everyone
+Platform
+WEB
+Red
+Description
+Google NotebookLM is a tool that aims to enhance the note-taking and research process by leveraging Artificial Intelligence (AI). It allows users to upload files, videos, webpages, and audio files and create summaries, study guides, and other methods of understanding the content.
+Getting Started
+Go to
+notebooklm.google.com
+and log in with your Swarthmore Google account
+Create a new notebook
+Add content: upload files or enter URLs for websites or YouTube videos
+NotebookLM will take a few minutes to summarize the content. Select the available options to create summaries, ask questions, or generate a podcast.
+Further Support
+See Google's
+NotebookLM support pages
+Notes
+When used with a Swarthmore Google account, NotebookLM will not train on your content

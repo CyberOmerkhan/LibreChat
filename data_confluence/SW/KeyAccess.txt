@@ -1,0 +1,34 @@
+Title: KeyAccess
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775069
+Version: 15
+---
+
+Description
+License management software client
+Access
+Everyone
+Platform
+MAC
+Yellow
+WINDOWS
+Blue
+About KeyAccess
+Some software licenses at Swarthmore stipulate that only a certain number of users can have the application open at a time.  Swarthmore uses a program called KeyServer to manage number of simultaneous users and "keys" the software to make sure we aren't exceeding the number of licenses we are allowed.  If you are using an application that is keyed, you also need to install the KeyAccess program, which communicates with the KeyServer when you open and close the program.
+Installation Instructions
+Download the appropriate installer below and follow the instructions for your type of computer.
+KeyServer Client for Windows Instructions
+To install the KeyServer client on your machine first download the file called "ksp-client-x64-80-latest.exe".
+Double click on the "ksp-client-x64-80-latest.exe" file and accept all of the defaults.
+When required to provide information about the KeyServer, choose "name" and in the bottom window type in "keyserver".
+Click on "continue" to complete the installation and reboot your computer.
+KeyServer Client for Macintosh Instructions
+Double click the ksp-client-80-latest.pkg file, accept all of the defaults and restart.   Enter ‘
+keyserver.its.swarthmore.edu
+’ as the server name if prompted.
+The KeyAccess client installer creates a preference pane in your System Preferences.
+You should make sure to click the "Logon" button to enable this service, after your reboot.
+Mac Users - Important Note
+If you have manually set up personal Firewall software on your OS X computer, then you will need to explicitly enable two incoming ports before KeyAccess can connect with the KeyServer (and therefore before your keyed software will run). You will need to enable UDP port 19283 and UDP port 19315 for incoming access (from "source" the internet to "destination" your computer).
+Download
+64-bit KeyAccess for Windows
+KeyAccess for Mac

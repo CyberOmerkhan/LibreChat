@@ -1,0 +1,67 @@
+Title: Adobe Acrobat & Creative Cloud
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20774946
+Version: 80
+---
+
+Description
+PDF editor and Suite of creative software
+Access
+Everyone
+Platform
+MAC
+Yellow
+WINDOWS
+Blue
+2
+6
+false
+list
+false
+brackets
+Licensing
+Adobe Creative Cloud is available for download and use by faculty, staff, and students.
+Installation
+For new installations, visit
+adobe.com
+. Click
+Sign In
+at the upper right corner of the page.
+Enter your Swarthmore email address
+(
+e.g.
+username@swarthmore.edu
+)
+and click
+Continue
+. You will be redirected to the Swarthmore single sign-on page.
+Once logged in, choose
+Get App
+to install the Adobe app(s) you require.
+Sign in to Adobe if it is already on your computer
+Navigate to the
+Adobe Creative Cloud app to launch Creative Cloud Desktop.
+Sign in using your Swarthmore email address.
+(
+e.g. username@swarthmore.edu)
+.
+If you are presented with an option, choose
+Company or School Account
+.
+Creative Cloud Desktop
+Creative Cloud Desktop is where users can quickly launch, install, and update Adobe apps.
+Device Activation Limit
+Our
+Creative Cloud license only allows users to activate installed apps on
+two devices
+at a time. When you sign in to a device and Adobe detects that you have exceeded your device activation limit, you will be prompted with the message below.
+To sign out of one of the other devices, click
+Sign out
+on the corresponding tile.
+When you are signed out of the other device, click
+Continue
+.
+The app will then launch on the new device.
+Accessibility Features
+Adobe Accessibility Features
+Captions workflow in Premiere Pro
+Acrobat DC Accessibility Checker

@@ -1,0 +1,29 @@
+Title: DocuSign
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20776392
+Version: 5
+---
+
+Description
+DocuSign
+Access
+Faculty & Staff
+Platform
+MAC
+Yellow
+WINDOWS
+Blue
+Background
+DocuSign is an e-signature platform used by select academic & administrative offices on campus. It gives departments the ability to make documents digitally fillable, request digital signatures, and create lightweight signature/approval workflows.
+Requesting Access
+Due to limited licensing, this service must be requested by departmental users.
+Visit our
+Service Portal
+to submit a ticket to request access.
+Training and Support
+Users can access DocuSign training through DocuSign University.  DocuSign University is a video platform with self-paced introductory to advanced training modules, plus learning plans.
+https://support.docusign.com/en/docusignuniversity
+You can also utilize the DocuSign support site:
+https://support.docusign.com/
+and DocuSign Community for questions:
+https://support.docusign.com/s/
+.

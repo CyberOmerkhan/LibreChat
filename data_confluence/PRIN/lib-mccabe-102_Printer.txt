@@ -1,0 +1,14 @@
+Title: lib-mccabe-102 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530421
+Version: 1
+---
+
+Department
+Interlibrary Loan
+Location
+McCabe Library 102
+Queue Name
+lib-mccabe-102
+Printer Model
+Canon iR-ADV C3880/C4580 PS
+facstaff_printing_canon_instructions

@@ -1,0 +1,29 @@
+Title: Legacy Wired Ethernet in Residence Halls
+URL: https://swatkb.atlassian.net/wiki/spaces/IAA/pages/19661566
+Version: 4
+---
+
+This page provides a list of what dorms do or do not provide wired ethernet for the residents.
+No wired ethernet:
+Alice Paul
+Mertz
+NPPR
+Parrish (East and West)
+Wharton
+Wired, Category 3:
+Category 3 cabling is the oldest cabling on campus and is only rated to support up to 10Mbps of ethernet traffic.
+Dana
+Hallowell
+Mary Lyon
+Willets
+Woolman
+Worth
+Wired, Category 6:
+Category 6 cabling is able to support up to 1Gbps of ethernet traffic.
+Danawell
+David Kemp
+Kyle
+Palmer
+Parrish (North)
+Pittenger
+Roberts

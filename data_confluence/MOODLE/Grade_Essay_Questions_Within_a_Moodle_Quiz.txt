@@ -1,0 +1,38 @@
+Title: Grade Essay Questions Within a Moodle Quiz
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20908307
+Version: 4
+---
+
+Click the on the name of the quiz on the main course page
+Click the
+Results
+tab at the top
+Select
+Manual grading
+(from the dropdown menu)
+On the next page, click the
+Grade all
+link in the row of the question that you would like to grade
+Under the
+Options
+section, next to
+Order attempts by
+select
+By student last name
+or
+By student first name
+Click the
+Change Options
+button
+Read responses and enter a grade (mark) for each one:
+Student responses will appear in the top area in the essay answer section
+You can leave optional feedback for your students in the comments section. You will need to have set up your
+Quiz Settings
+to allow your students to view this feedback after the Quiz is closed.
+Enter your grades in the points box. Note that Moodle will provide the total number of possible points as a reference for you.
+When you have entered all the grades and optional feedback for the selected question on the page, scroll down and click the
+Save and go to next page
+button. This will take you to the next student.
+When you are done grading this question, scroll to the top of the page and click the
+Back to the list of questions
+link.

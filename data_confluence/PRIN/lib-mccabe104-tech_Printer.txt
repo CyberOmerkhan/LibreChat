@@ -1,0 +1,14 @@
+Title: lib-mccabe104-tech Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530083
+Version: 3
+---
+
+Department
+Libraries
+Location
+McCabe Library 104
+Queue Name
+lib-mccabe104-tech
+Printer Model
+HP LaserJet 4200 Series
+facstaff_printing_hp_instructions

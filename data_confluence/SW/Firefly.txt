@@ -1,0 +1,22 @@
+Title: Firefly
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/437583880
+Version: 3
+---
+
+Description
+Adobe’s AI image generation service
+Access
+Everyone
+Platform
+WEB
+Red
+Getting Started
+Go to
+firefly.adobe.com
+(VPN not required).
+Sign in with your Swarthmore Google account.
+Enter a description of the image you would like to see.
+Firefly will provide several options. From here, click on an image to see additional refinements or use the tools to adjust the style of the image.
+Note:
+As of April 2025, Firefly has a video generation option, but Adobe is not offering it to educational accounts.
+Each user has a limited number of credits per day. Typically this can be used to generate hundreds of images, but there is a limit.

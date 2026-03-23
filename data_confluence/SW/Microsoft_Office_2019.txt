@@ -1,0 +1,23 @@
+Title: Microsoft Office 2019
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775017
+Version: 28
+---
+
+Description
+Office suite that includes Microsoft Word, Excel, and Powerpoint.
+Access
+Faculty & Staff (college-owned computers only)
+Platform
+MAC
+Yellow
+WINDOWS
+Blue
+Microsoft Office 2019 is licensed for employees to install on college-owned computers only.  All Swarthmore community members can download
+Microsoft Office 365
+for use on personal computers.
+Download Microsoft Office
+See the
+installation instructions
+Accessibility Features
+Office Accessibility Center
+Windows 10 Speech Recognition

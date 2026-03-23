@@ -1,0 +1,18 @@
+Title: Adding the Panopto Block to a Moodle Course
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20907838
+Version: 9
+---
+
+Follow these steps to activate the Panopto Block in a Moodle course:
+Go to your course and turn editing on.
+If the block drawer column isn't visible, show it using the
+Open Block Drawer
+button
+on the top right of the screen.
+Click "Add a Block"
+Select "Panopto", wait a few moments and the block will appear in the Block Drawer menu
+Click on “
+Provision Course
+” and look for a message
+“Successfully provisioned course with id: [a long string of numbers and letters - each course will have a different set of numbers and letters]”
+The addition and provisioning of the block are critical as this is what allows Panopto to automatically link to any recordings you make for your course

@@ -1,0 +1,43 @@
+Title: Unlock Your Domain
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20776413
+Version: 4
+---
+
+Info
+This article only applies to you if you own a top-level domain. If you have been using the free subdomain option with
+domains.swarthmore.edu
+through Swarthmore College, this does
+not
+apply.
+Similarly, if you’re
+migrating your content to Reclaim Hosting
+, this article does
+not
+apply to you.
+Transferring a domain you already own is not too different from registering a new domain, but the transfer process requires an
+EPP code
+, or an agreement code between your old registrar and your new registrar that allows the release of your domain. Your new registrar will have information on how to transfer a domain. When you start that process, you will be prompted to enter your EPP code.
+How to find your EPP Code
+:
+To get started, you’ll need to log in to your control panel (
+https://domains.swarthmore.edu/dashboard
+) using your Digital Swarthmore username and password.
+Once you’re logged in, you’ll see the cPanel interface.  From here, click on the
+Manage Your Account
+menu at the top of your screen and select
+Migration Information.
+Click on the
+Lock
+button to unlock your Swarthmore College account.
+Select
+Get Code
+. Once that’s done, the system will send you an email with your EPP code.
+At this stage, here are a few items to note:
+You’ll receive a series of emails from both your old and new registrars asking you to authorize the transfer. Please act on
+every
+email you receive in a timely fashion, even if the emails look like duplicates.
+If you do not authorize the transfer in a timely fashion, the domain transfer will expire, and you will need to start over.
+The domain must be older than 60 days to be transferable.
+The domain must have no other transfers in the last 60 days.
+The domain transfer process can take up to a week, depending on how fast your registrars work.
+Once the domain transfer completes, you’ll receive a notification.

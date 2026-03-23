@@ -1,0 +1,5 @@
+Title: Wordpress in Moodle
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20908405
+Version: 2
+---
+

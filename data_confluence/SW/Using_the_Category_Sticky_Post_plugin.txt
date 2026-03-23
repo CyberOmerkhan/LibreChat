@@ -1,0 +1,18 @@
+Title: Using the Category Sticky Post plugin
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775160
+Version: 8
+---
+
+Some faculty find it useful to have students categorize their assignment submissions. This allows the faculty member to easily navigate student work. By adding the Category Sticky plugin, faculty can "stick" the prompt for a particular assignment to the top of the category view.
+Activating and applying the Category Sticky Post plugin
+Log into
+your course WordPress site
+.
+Visit the
+Edit
+screen for a
+Post
+that you'd like to make sticky for a specific category.
+Look on the right hand side of the screen for a box labeled
+Category Sticky
+. Select the category that this post should be "stuck" to.

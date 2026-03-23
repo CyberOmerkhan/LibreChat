@@ -1,0 +1,17 @@
+Title: Custom Markup Component
+URL: https://swatkb.atlassian.net/wiki/spaces/DRUP/pages/20513079
+Version: 4
+---
+
+The Custom Markup component is a relatively simple component type designed to add custom HTML markup to your page. In its simplest form, this will generate a basic block with some text and a call to action link, if the field is filled in. This component might be helpful if you want to add a simple block of text between other panes on your page.
+In its most complex form, the Custom Markup component can be used to generate valid
+HTML
+elements. This is done by clicking the
+Source
+button on the
+Abstract
+field's editor panel. Since this can result in a number of unintended side effects,
+we recommend getting in touch with ITS
+(
+support@swarthmore.edu
+) if you are interested in using the Custom Markup component to create truly custom HTML markup.

@@ -1,0 +1,27 @@
+Title: H5P Student and Teacher View
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20906497
+Version: 2
+---
+
+Student view
+Students click on the H5P icon in the course to access it.
+Depending on the H5P activity and teacher's settings, the activity may be gradable. Students can see their attempts from the View my attempts link top right.
+In the attempts report, the success column reports when the student has obtained 100% in the activity. The completion column reports whether the student went through the H5P content to the end. (The attempts report only displays data from the H5P content - there is no connection with the 'Grade to pass' activity setting nor with activity completion settings.)
+Teacher view
+Teachers can see all attempts by all users from the link above the activity. Note that the figure refers to the number of attempts, not to the number of students who have attempted the activity.
+Capabilities
+There are 4 capabilities relating to the H5P activity:
+Add a new H5P
+activity to the course
+Review H5P attempts
+Submit H5P attempts
+View H5P
+More information
+Add a timer to an H5P activity
+H5P
+for more information on H5P in Moodle, including embedding H5P content.
+H5P FAQ
+H5P migration tool
+for migrating content from the mod_hvp plugin to the H5P activity
+H5P essay
+an auto-grading H5P essay question type

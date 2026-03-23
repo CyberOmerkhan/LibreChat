@@ -1,0 +1,27 @@
+Title: Creating Your Keeper Account
+URL: https://swatkb.atlassian.net/wiki/spaces/PS/pages/188350493
+Version: 2
+---
+
+If you would like to take advantage of a Keeper password manager account to keep all of your work passwords secure and help create unique, strong passwords for all of your accounts - follow the simple process below!
+On a laptop or desktop computer that is assigned to you/you own - not another person’s computer or a public computer (a computer lab or library computer):
+Open your preferred web browser and go to
+keepersecurity.com/vault
+Choose “
+Create an account
+”
+Enter your full Swarthmore email address, i.e. test1@swarthmore.edu
+Choose “
+Next
+”
+You will be redirected to the usual Swarthmore login page
+Enter your username and password and choose “
+Login
+”
+Authenticate with DUO
+You will be redirected to your new Keeper vault
+A pop-up will help walk you through setting up your account, including importing passwords. You can also check out our pages on
+exporting your passwords from LastPass
+and
+importing passwords into Keeper with a CSV file
+.

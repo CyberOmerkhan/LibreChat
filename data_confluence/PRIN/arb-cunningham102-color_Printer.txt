@@ -1,0 +1,14 @@
+Title: arb-cunningham102-color Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530300
+Version: 1
+---
+
+Department
+Scott Arboretum
+Location
+Cunningham House
+Queue Name
+arb-cunningham102-color
+Printer Model
+Canon iR-ADV C257/357 PS
+facstaff_printing_canon_instructions

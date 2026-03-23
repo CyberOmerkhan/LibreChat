@@ -1,0 +1,131 @@
+Title: Accessibility Filescan
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20906467
+Version: 51
+---
+
+The Accessibility Filescan block was developed to help determine how friendly course PDFs are to assistive technology such as Read & Write, Kurzweil, screen readers, and various other tools students might use to help them consume course readings.
+This tool is not a guarantee that a document is fully accessible; it is a useful
+indicator
+of how much of your course material may be friendly to assistive technology.
+To access the Accessibility Filescan (and all other) blocks, open the "block drawer" on the right of your Moodle course. Please see
+Moodle Blocks
+for more thorough information.
+block drawer location
+The Accessibility Filescan provides a Summary report on files in the course. Click
+Details
+to get more information.
+The Accessibility Filescan tool checks the accessibility of PDF files in a Moodle class and provides a report on the accessibility of each file. The status is either
+Satisfies all checks
+,
+Satisfies some checks
+, or
+Satisfies no checks
+. A PDF file fails if it does not pass any of the checks. A file is marked as
+check
+if the file passes at least one check but does not meet all the checks. A PDF
+passes
+if it meets all the accessibility checks.
+Please utilize the Accessibility Filescan
+Even if an instructor is not requiring students to utilize Moodle, the Accessibility Filescan can be a great tool to see where the course stands in terms of accessibility, so consider uploading files but hiding them from students in order to check their accessibility.
+What the tool checks for
+Language
+A PDF file stores information about the language of the document. This is used by screen readers and other assistive devices to ensure proper pronunciation and is particularly important for documents that are in foreign languages. See:
+Changing the global language of an Adobe PDF | Swarthmore ITS Solutions
+.
+Text
+If a PDF file does not have text, the file has been scanned as an image. This means that screen readers and other assistive devices will not be able to read the content. As of fall 2023, our current goal is to strive for green checks under both the "Text" and the "Tagged" columns on all documents (except where files are legitimate images not images of text).
+Title
+A PDF file stores metadata about the document, including the title of the document. This is different than the filename. Having a clear and accurate title helps ensure that users are reading the correct document. It also helps with findability. If the title is missing from the metadata fields, the PDF will fail this test. See:
+Changing the title of an Adobe PDF | Swarthmore ITS Solutions
+.
+Tagged
+Creating structure in a PDF file allows screen readers to easily navigate a document.
+For instance, if every section of a document is tagged, a user can quickly jump from one section to the next. Imagine someone looking at a syllabus who could visually scan the document for the section on grading; someone using a screen reader could do the same audibly if the sections are marked correctly.
+Documents created in a word processor (Word, Google Docs, Pages) create a structure using the
+built-in heading styles
+(e.g. Heading 1, Heading 2). That structure will be saved in the native document format, or by saving as a tagged PDF. PDFs created from a scanned document usually do not have outlines because the scanner cannot distinguish between chapters or sections within a document. It can be complex to tag PDF files, and we suggest contacting the
+accessibility team
+if you need help.
+As of fall 2023, our current goal is to strive for green checks under both the "Text" and the "Tagged" columns on all documents (except where files are legitimate images not images of text).
+Symbols
+The following symbols are used to display the result of the Accessibility Filescan.
+A green check means the test
+passed
+A red X means the test
+failed
+How to Fix PDF Files
+Check with the Library
+Before fixing a document, check with the Library to see if they have the document in an accessible electronic format. This can save a lot of time.
+converting_to_text
+Converting to Text
+18b7a456-909b-48f8-b6e8-1a763d4286fe
+Working with OCR
+eJyLjgUAARUAuQ==
+false
+For existing PDF documents, upload your file on the
+convert inaccessible course material
+page and choose the
+accessibility conversion
+option. It is possible to select multiple documents to be converted at one time. You will receive the converted document(s) via email within a few hours.
+For newly scanned documents, all department Canon multifunction machines have been set to automatically scan documents using OCR.
+false
+Scanning tips&colon; Make sure your scans can be seen by everyone
+false
+Scanning tips: Make sure your scans can be seen by everyone
+Not all documents can successfully be made accessible. Consult
+this guide on high-quality scans from the University of Washington
+to understand what makes a scan able to be seen and read by most people. A high-quality scan contains
+easily-readable text,
+is free of marginalia,
+and is not skewed.
+To check that your scan was OCR'd, try copying some text from the document and pasting it into Word. If you can successfully paste the text you copied, your document has been OCR'd, but you should check a few things:
+If there isn't any text in the document, please
+open a ticket with the help desk
+explaining that the Canon copier is not OCRing documents.
+How accurate is the text? If there are significant errors with the accuracy or the reading order, please
+open a ticket with the help desk
+and flag the document for the accessibility team.
+Setting PDF Title, Language, and Outline
+The title, language, and outline can often be fixed by using
+Adobe Acrobat DC
+'s "Action Wizard", which can be found in the right sidebar. Look for this icon:
+Alternatively, navigate to the
+Tools menu →
+Customize
+→ Action Wizard
+One of the first options on the Action Wizard
+Actions List
+is to
+Make Accessible
+. Follow the steps. This will work for about 70% of documents.
+Quality of the original document is very important
+Not all documents can successfully be made accessible. A great deal depends on the quality of the original document (
+consult this guide from the University of Washington
+for what makes a high-quality scan). Even if Acrobat successfully translates an image of text to text, it is very important to review the document. Original documents of poor quality, documents that have a lot of notes, marginalia or underlines, and documents with blurred text may result in inaccurate translations and gibberish. If you find this to be the case, please contact
+accessibility@swarthmore.edu
+for assistance in working with your file.
+More Information
+The Accessibility Filescan is a very useful tool to use as an
+indicator
+of how much of your course material may be friendly to assistive technology. By assistive technology we mean tools like
+Kurzweil
+,
+Beeline Reader
+, and
+Read&Write
+; screen readers such as VoiceOver,
+NVDA
+and
+JAWS
+; and various other tools people might use to help them consume course readings.
+If you'd like to learn more about accessibility, check out these
+posts on the ITS blog
+.
+Bonus Section: using screen readers
+Below are a few informative how-to videos on the major screen readers:
+VoiceOver on Desktop [video]
+- native screen reader for iOS
+NVDA on Desktop [video]
+- stands for Non-Visual Desktop Access, only works on Windows
+JAWS on Desktop [video]
+- stands for Job Access With Speech, only works on Windows, is the most robust and hardest to learn

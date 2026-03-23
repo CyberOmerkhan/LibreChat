@@ -1,0 +1,57 @@
+Title: Explain Everything Whiteboard
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775166
+Version: 13
+---
+
+Description
+Online whiteboard app
+Access
+Faculty & Staff
+Platform
+WEB
+Red
+iOS
+Purple
+ANDROID
+Description
+Explain Everything Whiteboard is
+a subscription-based digital whiteboard app
+that can be used to record a presentation or collaborate on a shared project. Explain Everything Whiteboard has collaboration features as well as a cloud storage feature called
+Explain Drive. You can access your Explain Everything Drive account via
+drive.explaineverything.com
+. L
+og in via Google using your Swarthmore email address.
+Requires OS Versions
+iOS
+,
+Android
+,
+Chromebook
+systems, and
+web browsers
+Installation Instructions
+iPad
+You can find Explain Everything Whiteboard app listed in the Jamf Self Service app on your College-owned iPad. Instructions for installing iPad apps from Jamf Self-Service can be found using the link below.
+iPad Jamf Self Service
+Once you've installed Explain Everything Whiteboard onto your iPad set up your account using your
+Swarthmore email address
+. You will be
+automatically enrolled
+under our subscription license.
+You can also access your Explain Everything Drive account via
+drive.explaineverything.com
+. L
+og in via Google using your Swarthmore email address.
+Android and Chromebook
+Instructions to
+Download Explain Everything for Android and Chromebooks from Google Play
+.
+Get Started With Explain Everything
+Be sure to check out
+Explain Everything’s Support
+page to learn more about how to get started.
+https://www.youtube.com/watch?reload=9&v=yqv16GBKY-E
+Troubleshooting
+If you experience any issues please reach out to
+support@swarthmore.edu
+.

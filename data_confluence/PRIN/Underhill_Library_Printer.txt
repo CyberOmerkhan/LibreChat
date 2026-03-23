@@ -1,0 +1,22 @@
+Title: Underhill Library Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530430
+Version: 4
+---
+
+Department
+Libraries
+Location
+Underhill Library
+Queue Name
+Underhill
+Printer Model
+Canon iR-ADV 4745/4751 PS
+Print Release Station
+Yes
+#00000000
+19529881
+student_printing_canon_instructions
+cecefca7-004e-492e-8dc6-741c7cbade35
+facstaff_printing_release_station_instructions
+eJyLjgUAARUAuQ==
+false

@@ -1,0 +1,26 @@
+Title: Moving or Archiving GitHub Enterprise Repositories
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775102
+Version: 2
+---
+
+If you leave the college, you may want to save your GitHub Enterprise repositories to your computer or move them to
+github.com
+.  Once your account expires, you won't be able to access the files.
+Considerations
+If you want to migrate your repositories to a personal account on
+github.com
+, consider whether you want them to be public or private. Many assignments from classes should be private because they are derived from textbooks or contain answers to problems that may be used in the future.  In addition, make sure you don't accidentally post password or key-pairs as part of your repository.
+GitHub Enterprise to github.com
+To migrate a repository from github.swarthmore.edu to github.com, you will clone the project locally and add a new remote to push to.
+Per Ian Reasor at StackOverflow: http://stackoverflow.com/a/34623326
+Create an empty repository at
+github.com
+Create a clone of the enterprise repository on your local.
+Add
+github.com
+as a remote reference on your local clone.
+Push all references to the
+github.com
+repository.
+GitHub Enterprise to Local Computer
+You can also download your GitHub Enterprise repositories by either cloning the repository or downloading a zip to your computer.

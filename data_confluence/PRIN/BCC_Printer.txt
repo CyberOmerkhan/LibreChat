@@ -1,0 +1,16 @@
+Title: BCC Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19529900
+Version: 12
+---
+
+Department
+Black Cultural Center
+Location
+Robinson House
+Queue Name
+BCC
+Printer Model
+Canon MF1643 II Series PS
+#00000000
+19529881
+student_printing_canon_instructions

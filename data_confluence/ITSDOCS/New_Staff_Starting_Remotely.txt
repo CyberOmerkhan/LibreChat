@@ -1,0 +1,59 @@
+Title: New Staff Starting Remotely
+URL: https://swatkb.atlassian.net/wiki/spaces/ITSDOCS/pages/20382992
+Version: 7
+---
+
+2
+Swarthmore Account
+PS
+FacStaff Accounts
+Setting Your First Password
+PS
+Set First PW
+Duo Two-Factor Authentication
+ITSHELP
+Duo Intro
+Requesting Computers, Equipment, and Services
+Discuss with your supervisor what computer, peripheral equipment, and access to services you may need. Some of these can be set up during your account creation, your supervisor may be able to grant you access to some services, and some requests may need department approval. Departments can request equipment and services for new staff through our support portal (
+support.swarthmore.edu
+). The Service Catalog requires login with a Swarthmore account.
+Some everyday things departments request for new staff on our support portal include:
+Access to department groups/listservs, Drive folders, and calendars
+Office phone and number
+Computers and peripheral equipment
+For additional resources on purchasing a computer, you can check out our guide on
+buying a computer
+.
+Once services are set up for you, such as office phones, you will receive notifications at your Swarthmore email address. Please make sure you check there for updates and further instructions. If you requested physical equipment, we would coordinate how to get that equipment to you through the request process.
+If you need assistive technology or equipment, please review the Human Resources page for
+Faculty and Staff Disability Resources
+.
+Swarthmore Virtual Private Network (VPN)
+PS
+ExplainVPN
+How to Install the Swarthmore VPN
+PS
+VPN Install
+Connecting to the Swarthmore VPN
+#00000000
+20382587
+VPN Desktop Login
+Information Security
+Keeping your account and data secure is very important. Using Duo, the Swarthmore VPN, and having up-to-date anti-virus protection are only a few things you can do to keep your data safe. Please check our page on
+how to work and learn safely while remote
+. Please also check out our
+tips for better Wi-Fi
+.
+Zoom
+Zoom video conferencing is available for all staff. You will use this service to provide virtual class access and attend meetings. You can access Zoom via the web at
+swarthmore.zoom.us
+or download the desktop or mobile applications. For more information on Zoom, please visit our
+Zoom Video Conferencing page
+.
+Software
+The most commonly used software should already be loaded onto any college-issued computer you receive. Still, if you need additional software, you can see what is available to download from our
+software installation page
+.
+Contact the Help Desk
+ITSHELP
+Help Desk Contact Block

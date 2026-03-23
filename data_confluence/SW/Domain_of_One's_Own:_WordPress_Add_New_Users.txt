@@ -1,0 +1,28 @@
+Title: Domain of One's Own: WordPress Add New Users
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20776348
+Version: 2
+---
+
+Login to your WordPress admin page on your website. You can do this by adding /wp-admin/ to the end of your website's URL address. For example, yourdomainname.swarthmore.edu/wp-admin.
+This will bring you to the WordPress login screen. If you forgot your password, you can click
+Lost Password
+to reset it.
+Now that you’re in the WordPress dashboard, click on
+Users
+in the left sidebar.
+Click
+Add New
+towards the top left-hand side
+This will take you to the
+Add New User
+screen. Enter a username and email address for your new user.
+WordPress will randomly generate a password for new users or you can create your own to be sent to them. However, please do not share your personal password.
+Keep the
+Send User Notification
+checked if you would like the new user to receive an email with their login information.
+Choose the desired
+user role
+for your new user.
+Click the
+Add New User
+button.

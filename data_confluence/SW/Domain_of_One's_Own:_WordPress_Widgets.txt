@@ -1,0 +1,33 @@
+Title: Domain of One's Own: WordPress Widgets
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775081
+Version: 4
+---
+
+WordPress Widgets
+Widgets are an advanced feature of WordPress that allows you even more control over the content on your site. In essence, widgets are small containers of content that can be placed in various areas of your site. Where you can place widgets depends entirely on the theme you are using. Most themes include at least one “sidebar” into which you can place widgets. Some themes include additional “widgetized” areas. The best way to find out what areas are available to you is to go to
+Appearance > Widgets
+and look at the areas listed on the right. Each widgetized area will appear as a box on the right. In the example shown below, the theme contains three widgetized areas: Blog Sidebar, Footer 1, and Footer 2.
+To the left of this area, you will see several widgets available to you. WordPress comes with default widgets installed. Other widgets may become available when you have a particular theme activated. Additionally, some plugins (see section on plugins below) may expand the number of widgets you have access to.
+Widgets can present various kinds of information. The simplest widgets allow you to add text to your site. But you’ll also find widgets with many options that you can set to display dynamic content or to interact with other services. Below is a list of the default widgets available in WordPress.
+When you’re ready to start using widgets, all you need to do is drag them from the left-hand side of the Widgets interface into the boxes on the right. WordPress will immediately save them, but you may need to set some options.
+Default Widgets
+Archives: This shows a monthly listing of your posts.
+Audio: Displays an audio player.
+Calendar: This shows a calendar view of your posts.
+Categories: This shows a list of all of the categories on your site.
+Custom HTML: Arbitrary HTML code.
+Gallery: Displays an image gallery.
+Image: Displays an image.
+Meta: Shows links to your RSS feed and your login.
+Navigation Menu: Add a navigation menu to your sidebar.
+Pages: Shows a menu of all of your pages.
+Recent Comments: Shows the most recent comments on your posts.
+Recent Posts: Shows your most recent posts.
+RSS: Allows you to show content from an RSS feed.
+Search: Provides your users with a search box.
+Tag Cloud: Shows a “cloud” of the tags/categories on your site.
+Text: Shows whatever text you enter.
+Video: Displays a video from the media library or an external host.
+Learn More About Widgets
+Find more information about WordPress widgets on the official WordPress help documentation site:
+https://wordpress.org/documentation/article/manage-wordpress-widgets/

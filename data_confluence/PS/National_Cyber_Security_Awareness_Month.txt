@@ -1,0 +1,59 @@
+Title: National Cyber Security Awareness Month
+URL: https://swatkb.atlassian.net/wiki/spaces/PS/pages/272072707
+Version: 11
+---
+
+2
+6
+false
+none
+list
+true
+…And that’s a wrap! Thank you for a successful National Cyber Security Awareness Month.
+Scavenger hunt winners have been chosen and contacted via email. We’ll see you next October!
+Welcome to NCSAM 2024!
+October is the official month for National Cyber Security Awareness Month (NCSAM)! While staying vigilant with your digital information is important all the time, NCSAM allows us to remind folks about various services the college offers and plenty of tips to help keep your information secure. We have plenty of information sessions, learning videos, mini-games, and resources planned for the month of October. This year we will also be debuting our digital scavenger hunt!
+Digital scavenger hunt
+Each week we will be sharing tips, tricks, and resources about cyber security through email and social media. We will be adding icons as clues to information that will be included on a short quiz. Check out our resources, find those clues, and correctly answer all the quiz questions at the end of the month to be entered to win money on your OneCard!
+How it works
+There will be two icons to look out for - one for students and one for employees:
+- A garnet circle with a white outlined 'S' inside for items pertaining to students
+- A garnet circle with a white outlined 'E' inside for items pertaining to employees (both faculty and staff)
+These symbols will be noted next to links or tips in our emails and social media AND also next to the specific information needed to correctly answer the associated quiz question. Some information will have both symbols.
+The quiz itself will be sent out on the last week of October with our final set of clues. If you get all of the answers correct your name will be added to a drawing group depending on your role (faculty, staff, or student) and THREE winners will be chosen from each group! Each winner will be notified and will receive $10 Garnet Cash!
+Ask Us Anything (AUA) sessions
+Our Ask Us Anything sessions are themed, open forum sessions that allow the attendees to ask whatever questions they have about that session’s theme. Each of our sessions this year will be one hour long, so come when you can and leave when you must. We will be keeping track of all the questions and answers to share with folks - regardless of whether you were able to attend the whole thing, or at all. We will also be providing an additional training session for employees who would like to use
+Keeper
+, our password management system.
+Below is the list of our sessions for NCSAM 2024:
+Ask Us Anything: Phishing
+Thursday, October 10th at 2 PM EDT
+Q&A summary [GDoc] - Login required
+Ask Us Anything: Current Scams
+Tuesday, October 15th at 11 AM EDT
+Q&A summary [GDoc] - Login required
+Ask Us Anything: Password Management & Keeper
+Monday, October 28th at 10 AM EDT
+Q&A summary [GDoc] - Login required
+Keeper Password Management Training
+Wednesday, December 4 at 11 AM EST -
+Register at this link
+!
+Session recording - Login required
+Cyber security resources and tips
+Multi-Factor Authentication:
+Getting Started With DUO
+Devices and How They Authenticate
+National Cybersecurity Alliance: Multi-Factor Authentication
+Phishing & Job Scams
+Phishing at Swarthmore
+Computer Security & Student Job Scams
+National Cybersecurity Alliance: Phishing
+Training
+KnowBe4 (Employees Only)
+Password Security & Management
+National Cybersecurity Alliance: Passwords
+Password Tips
+National Cybersecurity Alliance: Password Managers
+Keeper Password Manager (Employees Only)
+Keeper Free Family Account (Employees Only)

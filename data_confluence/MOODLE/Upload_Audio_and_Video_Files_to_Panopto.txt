@@ -1,0 +1,33 @@
+Title: Upload Audio and Video Files to Panopto
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20907948
+Version: 5
+---
+
+Important
+Prior to creating this folder, you must
+set up the Panopto Block
+in your Moodle course page so that you can have "Creator" role access.
+Log in to Panopto by going to
+panopto.swarthmore.edu
+Click the green “Create” button at the top left of the screen
+From the drop down menu select "
+Upload media
+"
+Choose the folder assigned to your Moodle course page. It should be the same name of your course
+Upload files from your computer by dragging them into the "
+Choose video or audio files
+" area or by clicking and selecting file(s) from your computer
+The audio or video will begin uploading
+While the video is uploading you can edit the video title
+Once the video is uploaded it will begin processing. Once it has reached this stage you can exit the upload screen
+Once you return to the course folder in Panopto, the new audio or video file will show the processing status and will become available for all students to view once complete. At this time, if desired, you can edit the video description under the video "
+Settings"
+tab
+Important
+After uploading any video files, it is important that you add closed captions. Please refer to our
+Auto Captioning Videos in Panopto
+page to learn more on how to add auto-captions.
+Allow Students to Upload Audio and Video Files Using Panopto
+In order to allow students to upload audio or video files to Panopto please follow the instructions for setting up a
+Panopto Assignment Folder
+.

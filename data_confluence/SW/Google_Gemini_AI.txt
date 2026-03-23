@@ -1,0 +1,31 @@
+Title: Google Gemini AI
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/525795364
+Version: 1
+---
+
+Description
+Artificial intelligence tool
+Access
+Everyone
+Platform
+WEB
+Red
+IOS
+Purple
+ANDROID
+Description
+Gemini is Google’s Artificial Intelligence (AI) tool. The service is available as a web chatbot or mobile app.
+When logged in with your Swarthmore Google account, Google will not use your information to train their models. If you use Gemini with a personal account, Google may use your data for training purposes.
+Access
+The service is available as a chatbot at
+gemini.google.com
+.
+There are Gemini apps for
+iOS
+and
+Android
+.
+AI Information and Guidance
+See our
+Artificial Intelligence Resources
+page for more information on AI tools and guidelines.

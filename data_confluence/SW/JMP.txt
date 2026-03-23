@@ -1,0 +1,32 @@
+Title: JMP
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20774959
+Version: 31
+---
+
+Description
+Statistical analysis software
+Access
+Everyone
+Platform
+MAC
+Yellow
+WINDOWS
+Blue
+Quick Links
+What is JMP Student Edition?
+How to download the JMP Student Edition installer?
+JS1
+What is JMP Student Edition?
+JMP Student Edition is no-cost FREE statistical analysis software for class use.
+For additional information please see
+http://jmp.com/student
+JS2
+How to download the JMP Student Edition installer?
+To download the JMP Student Edition installer,
+Verify via SSO with your Swarthmore email address
+to access the installer.
+After completing the steps proceed with downloading the JMP Student Edition installer.
+Sign in to My JMP
+.
+Click the download icon for the software to download
+Below the installation instructions, click the download icon for the desired operating system.

@@ -1,0 +1,14 @@
+Title: bio-singer342 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530580
+Version: 1
+---
+
+Department
+Biology
+Location
+Singer 342
+Queue Name
+bio-singer342
+Printer Model
+HP LaserJet 400 M401dne
+facstaff_printing_hp_instructions

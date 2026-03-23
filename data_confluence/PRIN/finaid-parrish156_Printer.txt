@@ -1,0 +1,14 @@
+Title: finaid-parrish156 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530461
+Version: 2
+---
+
+Department
+Financial Aid
+Location
+Parrish 156
+Queue Name
+finaid-parrish156
+Printer Model
+Canon iR-ADV C3826 PS
+facstaff_printing_canon_instructions

@@ -1,0 +1,14 @@
+Title: lib-mccabe-ill Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530181
+Version: 1
+---
+
+Department
+Inter Library Loan
+Location
+McCabe Library
+Queue Name
+lib-mccabe-ill
+Printer Model
+HP LaserJet 600 M601 M602 M603
+facstaff_printing_hp_instructions

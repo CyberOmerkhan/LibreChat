@@ -1,0 +1,14 @@
+Title: Kemp Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19529978
+Version: 1
+---
+
+Department
+Residence Halls
+Location
+David Kemp
+Queue Name
+Kemp
+Printer Model
+HP LaserJet Series PCL 4/5
+student_printing_hp_instructions

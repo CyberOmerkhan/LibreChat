@@ -1,0 +1,23 @@
+Title: Domain of One's Own: WordPress General Settings
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775087
+Version: 4
+---
+
+General Settings: Title and Tagline
+Now that you have your WordPress installed and running, it’s time to look at some basic settings for your site. The place that you will access the settings for your site is called the
+Dashboard
+, and it provides the starting point for accessing all of WordPress’s settings and options. You can access your Dashboard by adding “/wp-admin” to your WordPress site’s URL, or through the link available in your main Installatron dashboard.
+To change your blog “title” and “tagline,” go to
+Settings > General
+. Once you’re on the General Settings page, you can give your blog any
+title
+you want. You can also give your blog a
+tagline
+, which can be a short description of the blog.
+Depending on what theme you use, the title and tagline will show up in various places. In the case of some themes, they might not show up at all depending on whether they allow custom configurations.
+There are more settings on the
+General Settings
+page, such as setting the administrative email account, time zone, date format, etc. Change those to whatever is appropriate for your site and geographical location.
+Learn More About WordPress General Settings
+Find more information about WordPress General Settings on the official WordPress help documentation site:
+https://wordpress.org/documentation/article/settings-general-screen/

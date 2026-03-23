@@ -1,0 +1,48 @@
+Title: Domain of One's Own: WordPress Publishing Posts and Pages
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775223
+Version: 4
+---
+
+Publishing Content
+The primary activity that you’re likely to be doing on your WordPress site is publishing content. The content could be text you write, pictures you take, video or audio files (which may be hosted on another site), or other media that you’ve found elsewhere on the web. WordPress makes it very easy to publish media content of all types, whether hosted on your actual web server or elsewhere.
+Posts vs Pages
+Out of the box, WordPress provides two primary content types for you two work with: posts and pages. If you read blogs or have ever written for a blog before, the concept of a post is probably a bit familiar.
+Posts
+often are content that appear on your blog in some kind of scheduled way. They usually are presented on your site in reverse-chronological order. To add a new post, visit your site’s dashboard, hover over “Posts” in the left sidebar, and select
+Add New
+.
+Pages
+usually correspond to our more traditional concept of what makes up a website. Pages might be content that is less frequently updated or changed, and they are usually organized by menus rather than by dates. To add a new page, visit your site’s dashboard, hover over “Pages” in the left sidebar, and select
+Add New
+.
+If you were using WordPress to build a business website with a lot of information content, you would probably use Pages. If you added a feature to that site where you started to advertise special events or news, you would probably use Posts.
+A few other things to know about Pages vs Posts:
+If you want your content to be accessible to your users via a feed (RSS/syndication), you’ll need to use Posts. By default, Pages do not appear in a site’s RSS feed.
+Categories and Tags (which are used in WordPress to help you organize your content) are ONLY available on Posts by default. Page organization is done through customizing your site’s menus.
+WordPress, by default, also creates “Category Pages” and “Tag Pages” that display all the Posts in a category or tag. These are NOT related to the regular Page type.
+Creating Posts With the Block Editor
+Recent versions of WordPress have a new “
+blocks
+” feature that will
+style
+the appearance of your posts according to the block you select. Basically, if you plan to post an image, you will probably prefer a layout that best accommodates your image. The same goes for videos, quotes, links, etc. Specific format options are optimized for displaying different types of content. Changing the block will not change the content of a post; it will only affect how users see it. You must be using a theme that has this feature enabled to use “block.” If you have a relevant theme activated, some of the blocks you may see on the right sidebar when editing a post include:
+cover:  A cover image for your post, over which you can write text.
+gallery:  A gallery of images.
+list:  A bulleted list of items.
+image:  A single image.
+quote:  A quotation.
+paragraph:  A block of text.
+video:   A single video.
+audio:  An audio file.
+file:   A file you can upload from your computer.
+A full list of the different types of blocks that can be used is listed on
+WordPress' documentation page
+.
+Blocks now include options to add more sophisticated content, such as calendar and RSS widgets, and embedding Twitter posts, TED Talks, Hulu videos, Slideshare presentations, and much more. You can rearrange blocks on your post by simply hovering over the left-hand side, clicking the dots, and dragging around the block.
+Many older themes do not recognize blocks. You can view the details of your activated theme in the
+Appearance
+>
+Themes
+menu to determine whether or not your current theme has this functionality.
+You can read a step-by-step guide of posting with blocks from our documentation
+.

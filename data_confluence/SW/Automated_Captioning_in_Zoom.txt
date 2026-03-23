@@ -1,0 +1,19 @@
+Title: Automated Captioning in Zoom
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20910585
+Version: 4
+---
+
+Zoom's automatic captioning is an AI-powered live transcription that is enabled by default. Any participants can view the captioning as needed. It is recommended that you speak clearly for best results.
+Important note:
+Zoom does not offer this feature when in a Breakout Room.
+The accuracy of Zoom’s automated captioning feature depends on many variables, such as but not limited to:
+Background noise
+Volume and clarity of the speaker’s voice
+Speaker's proficiency with the English language
+Lexicons and dialects specific to a geographic area or community
+Because of these limitations, if you are required to use speech-to-text support for any compliance needs in your meetings and webinars, we recommend using a human captioner who may be able to guarantee specific accuracy. There is no harm in offering automated captioning even if there is no compliance need as many may find it helpful (e.g. working in a noisy area, needing to turn sound off).
+Participant options
+Unless the Host has disabled captioning, the participant will see an option to Show Captions.
+External Zoom Support Pages
+Enabling Automated Captioning
+Viewing Captions in a Meeting or Webinar

@@ -1,0 +1,120 @@
+Title: Google Docs: Changing The Look of Headings and Paragraphs
+URL: https://swatkb.atlassian.net/wiki/spaces/ALLY/pages/20382059
+Version: 13
+---
+
+41d6a15c-1544-4102-8de4-aeb0779f1db7
+Title or subtitle
+eJyLjgUAARUAuQ==
+false
+6
+1
+false
+default
+list
+true
+Change the text to or from a heading or normal text using the Format menu
+On your computer, open a document in
+Google Docs
+.
+Select the text you want to change.
+Click
+Format
+.
+Select
+Paragraph styles
+.
+Click a text style:
+Normal text,
+An important note about paragraph styles:  Font-size should be between 12 and 14, line-height (the space between lines of text) should be 1.5.  Do not go less than 1.35.
+Heading 1-6.
+Click
+Apply ‘text style
+.'
+99bf8b8d-0f22-4855-b256-f295424eeedb
+Heading 1
+eJyLjgUAARUAuQ==
+false
+Change the text style using Format pulldowns
+Type the text
+you want into a Google Doc.
+Select
+a sentence/phrase that you want to become a heading.
+Select
+Styles
+from the editing menu (usually appears just before the font style and size and just after the zoom option),
+and then
+select the heading
+you want, such as the Heading 1 button.
+Use a custom text style
+On your computer, open a document in
+Google Docs
+.
+Add some text and style it the way you want using the options found in the top toolbar.
+Select that text.
+Click
+Format
+.
+Select
+Paragraph styles
+.
+Choose the style you want to update e.g.
+Normal text
+or
+Heading 1-6
+.
+Select
+Update to match
+.
+All of the text in your document of that text type, such as "Heading 4" or "Normal text," will be updated to match your new style.
+Set and change a default style
+Set a default style
+On your computer, open a document in
+Google Docs
+.
+Set a default style: Click
+Format
+.
+Select
+Paragraph styles,
+then select
+Options
+.
+Finally, choose
+Save as my default styles.
+Apply a default style
+On your computer, open a document in
+Google Docs
+.
+Apply a default style: Click
+Format
+.
+Select
+Paragraph styles,
+then select
+Options
+.
+Finally, choose
+Use my default styles
+.
+Restore a default style
+On your computer, open a document in
+Google Docs
+.
+Restore original to the Google style: Click
+Format
+.
+Select
+Paragraph styles,
+then select
+Options
+.
+Finally, choose
+Reset styles
+.
+Additional resources
+Add a title, heading, or table of contents in a document | Google Docs Help
+How to: Create a Heading in Google Docs | Google Workspace How-To Videos
+Identify headings, lists, and tables | Harvard's Digital Accessibility Services
+Screen Reader Demo With Headings [YouTube]
+Uncovering the Accessibility of Tabs in Google Docs | James Scholes

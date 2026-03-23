@@ -1,0 +1,38 @@
+Title: Components
+URL: https://swatkb.atlassian.net/wiki/spaces/DRUP/pages/181862405
+Version: 6
+---
+
+A component is specialized module that can be added to one of three specialized webpage content zones . There are a variety of component types. Each behaves differently, wants different information from the editor, and displays differently depending on the  type.
+4.1 4.Understanding Content Zones
+The Drupal page templates are several zones for different types of content. Adding a component to a page is done in three specific content zones:
+3/4 Width Page Content
+- is specifically for components. Any component added to this zone will appear below the body copy block and always to the right of the navigation column. The maximum width is same dimension as the body content zone above it.
+Full Width Page Content
+- is specifically for components. Any component added to this zone will appear below the body copy, navigation, and 3/4 with page content. It will utilize the full width of the browser window (if available) to fill 100% of the width.
+Shared Site Content
+- is specifically for components. It is a special zone that is managed through Site Settings. Any component added to this zone will appear on all teh pages of the your website below all the other zones.
+4.2 Adding Components
+To add a new component to a page, first goto the page and click
+Edit Page
+. In the editor, scroll below the body content and you will see the
+3/4 width page content
+and
+full width page
+content zones.
+If a component already exists in one of the zones, it will appear here. In the example above, there are no components present in the 3/4 width content zone, and there is one feature link list component (Watch Bio Majors Abroad)  in the full width content zone.
+4.2.1 Adding a New Component
+To add a new component to a particular zone, click the drop down menu. A list of the available components will appear. You can then select the component you wish to add.
+Note: Certain components only work in the full width page content zone so they only appear in that drop down.
+4.2.2 Create the Component
+For example, after selecting “Add Feature” to the Full Width Page Content Zone, the editor will add a new blank component. Simply enter in the required information into the component and click Save.
+Every component wants different information. You can learn more about the different component types by clicking on any of them in the left menu.
+4.3 Arranging Components
+You change the sort order of the components by clicking the the six dots and dragging and dropping it to the correct vertical position.
+Note: You can only drag and drop components within their zone. You cannot drag and drop them to a different zone.
+4.4 Editing an Existing Component
+Once a component is on a webpage, you can edit it in one of two ways.
+You can click the Edit button
+You can use the in-context editor icons that appear in the upper right corner of every component
+4.5 Removing Components
+To remove a component from a page, click the trash icon.

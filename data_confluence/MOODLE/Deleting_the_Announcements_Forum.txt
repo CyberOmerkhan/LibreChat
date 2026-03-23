@@ -1,0 +1,42 @@
+Title: Deleting the Announcements Forum
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20906786
+Version: 7
+---
+
+The Announcements Forum in Moodle is used to post class news and announcements and is added to all new courses automatically. If you prefer not use the Announcements Forum and want to get rid of it, you'll find that deleting from the front page appears to work, but the Forum will reappear when you refresh the page.
+In previous versions of Moodle the Announcements forum was named "News Forum." The function is the same but the name was updated to provide a clearer indication of its purpose.
+Instructions
+To get rid of the Announcements Forum:
+Turn on Edit Mode
+Click the
+three dots
+button to the right of the
+Announcements Forum
+and choose
+Delete
+.
+Click on the course
+Settings
+link below the course title
+Find the
+Appearance
+section. Expand the Appearance menu items.
+Set
+Number of announcements
+to 0.
+Scroll to the bottom and click the blue
+Save Changes
+button.
+If you have a
+Latest news
+block on the right hand side of the page, you should remove it since there will be no news to display.  See the
+Moodle
+help page
+for instructions.
+Multiple Copies of the Announcement or News Forums
+If you import material from a previous semester's course, you may end up with multiple copies of Announcement and/or News forums.  Follow Step 1 and 2 above to remove all but one of the Announcement/News forum activities.
+Getting the Announcements Forum Back
+If you have Announcement-Forum-removers remorse, you can get the forum back by setting the
+Number of announcements
+in the course settings
+to a non-zero value.

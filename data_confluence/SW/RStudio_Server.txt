@@ -1,0 +1,50 @@
+Title: RStudio Server
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775009
+Version: 10
+---
+
+Description
+Visual interface for the R statistics program
+Access
+Everyone
+Platform
+WEB
+Red
+RStudio is a visual interface for the R statistics program.  Swarthmore runs an RStudio Server instance at
+rstudio.swarthmore.edu
+(requires VPN from off-campus).
+To obtain an RStudio Server account, email
+support@swarthmore.edu
+or visit
+support.swarthmore.edu
+and request an RStudio Server account.  Professors can specify an entire class roster to add to the server.
+RStudio Server requires
+VPN
+when accessing the site from off-campus.
+Class Folders
+ITS can create shared folders for class use, which can be useful to distribute data files.  Email
+support@swarthmore.edu
+or visit
+support.swarthmore.edu
+to request an RStudio Server class folder, specifying the name of the course.
+Additional Resources
+Need more power?
+If the RStudio Server does not have enough computing resources for your needs, RStudio Desktop is installed on Swarthmore’s high performance computing cluster:
+Running RStudio on Firebird
+Troubleshooting
+Terminal or shell not working
+If there are problems with opening up a new Terminal or Shell, try going to
+Tools
+→
+Global Options
+→
+Terminal
+.  Then uncheck "Connect with Websockets".
+Cannot access from off campus
+RStudio Server requires
+VPN
+when using the site from off-campus.
+Cannot log in
+The two most common causes for logging-in problems:
+Make sure an account has been created for you
+Use all lowercase when entering your username on the login screen

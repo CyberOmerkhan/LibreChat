@@ -1,0 +1,34 @@
+Title: How to Activate a Plugin in WordPress
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775721
+Version: 4
+---
+
+WordPress Plugins extend the default functionality of WordPress. ITS has a set of approved plugins that have been tested and are secure. These plugins are available for use with WordPress blogs by request. Please note that ITS reserves the right to decline the use of certain plugins for maintainability, accessibility, and security reasons. If you require plugins other than the ones listed below, please provide the plugin name and email
+acadtech@swarthmore.edu
+. ITS will review the plugin and respond promptly. Please note all requested plugins must meet our accessibility requirements.
+To Activate WordPress Plugins
+Some WordPress Plugins come pre-installed on some of the Moodle course WordPress blogs but they need to be activated in order to use. In order to activate pre-installed plugins follow the steps below.
+Log in to WordPress and go to your Dashboard
+Click Plugins on the lefthand menu
+Under the plugin you want to activate, select Activate.
+If you do not see the plugin you want pre-installed on the plugin page be sure to email
+acadtech@email.com
+so we can install if for you.
+To Deactivate WordPress Plugins
+If for some reason you no longer want to use the plugin, you can always deactivate it. To deactivate a plugin follow the steps below.
+Log in to WordPress.
+Click Plugins.
+Under the plugin you want to deactivate, select Deactivate.
+ITS approved WordPress plugins
+Co-Authors Plus
+- Allows multiple authors to be assigned to a post. This plugin is an extended version of the Co-Authors plugin developed by Weston Ruter.
+Custom CSS and JavaScript
+- Easily add custom CSS and Javascript code to your WordPress site.
+Geo Mashup
+- Save location for posts and pages, or even users and comments. Display these locations on Google, Leaflet, and OSM maps. Make WordPress into your GeoCMS.
+WordPress Importer
+- Import posts, pages, comments, custom fields, categories, tags and more from a WordPress export file.
+PDF Embedder
+- Embed PDFs straight into your posts and pages, with flexible width and height. No third-party services required.
+WordPress Classic Editor
+- Classic Editor restores the previous (“classic”) WordPress editor and the “Edit Post” screen.

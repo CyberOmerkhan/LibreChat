@@ -1,0 +1,43 @@
+Title: Stata BE
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20774943
+Version: 34
+---
+
+Description
+Statistics software
+Access
+Everyone
+Platform
+MAC
+Yellow
+WINDOWS
+Blue
+Location
+Public Area Macs,
+Creative Media Commons
+, McCabe 306, Firebird cluster
+Use
+Swarthmore’s license for Stata BE is purchased primarily for teaching and student use. If faculty need Stata for research purposes (other than just trying something out), we strongly recommend that they purchase their own license for the version of Stata most appropriate for that use. This is also the basic level of Stata, there are much more powerful, large data set and multi-processor versions of the software that can take advantage more RAM and multiple processors for research purposes.
+Swarthmore also has a multiprocessing Stata license running on our computing cluster.  Contact ITS for more information about how to run large Stata jobs or see our help page for more information:
+Running Stata/MP on Firebird
+Installation Instructions
+If you already have a version of Stata 18 or lower you can update your program with only the license file.
+To install Stata 19, double click the Stata installer file and follow the on-screen instructions. At the "Select Executables" screen
+select Stata/BE
+.
+Once the installation is complete, before launching Stata, download and copy the Stata.LIC License File to
+C:\Program Files\Stata19
+on Windows (
+Stata18
+if you are using the previous version) or /
+Applications/Stata
+on macOS. If prompted, replace the existing file.
+Download
+Windows
+Stata 18 for Windows
+Stata 19 For Windows
+Stata License File for Windows
+macOS
+Stata 18 for Mac
+Stata 19 for Mac
+Stata License File for Mac

@@ -1,0 +1,58 @@
+Title: Incoming Students Starting On-Campus
+URL: https://swatkb.atlassian.net/wiki/spaces/ITSDOCS/pages/20382955
+Version: 3
+---
+
+Please make sure you are familiar with the college’s current
+plans for the upcoming academic year
+. Please also check out
+Frequently Asked Questions for Students, Parents, and Families
+.
+2
+Swarthmore Account
+Student Accounts
+Setting Your First Password
+Set First PW
+For instructions on how to reset your password in the future, please visit our
+Password Reset instructions page
+.
+Duo Two-Factor Authentication
+Duo Intro
+Connecting to Campus Wi-Fi (eduroam)
+Connecting to eduroam
+eduroam connect
+After connecting to the eduroam wifi network for the first time on a computer, you will need to install the Swarthmore Policy Key. To do so, please follow the Register Your Computer directions below.
+Register Your Computer
+Register SafeConnect
+Register Gaming or Other Devices
+SwatDevice Registration
+For more information, tips on how to find your device’s MAC address, and examples of the kind of devices that require this type of registration, please visit our
+Gaming and Device Registration page
+.
+Anti-Virus Protection
+Antivirus
+Zoom
+Zoom video conferencing with a pro license is available for all Swarthmore students. You can use this service to attend remote classes, meet with study groups, or virtually attend various campus events. You can access Zoom via the web at
+swarthmore.zoom.us
+or download the desktop or mobile applications. For more information on Zoom please visit our
+Zoom Video Conferencing page
+.
+Software
+Swarthmore provides software for download to assist our students in their learning. You can browse and install available software from our
+Software Installation page
+.
+Please note that not all software listed on our installation page is available for students to download. Check the
+Access
+column - if it lists
+Students
+or
+Everyone
+it is available for student download. Make sure to also check the
+Platform
+column to ensure the software is compatible with your computer's operating system. All of our software is available for use in our public computing spaces on campus.
+Printing
+Students have printers available to them in each dorm, as well as in areas such as the libraries and some public computing spaces. For more information on printer locations and how to print on-campus please visit our
+student printing page
+.
+Contact the Help Desk
+Help Desk Contact Block

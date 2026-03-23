@@ -1,0 +1,42 @@
+Title: Zoom Phone Project Rollout
+URL: https://swatkb.atlassian.net/wiki/spaces/IAA/pages/19661561
+Version: 8
+---
+
+Zoom Phone project information and timeline
+Here is everything you need to know about the Zoom Phone project; including the timeline, available training, and migration process. For more information about Zoom Phone and its features, you can check out our
+Zoom Phone
+and
+Zoom Phone Project FAQs
+pages.
+General project timeline
+ITS has finished the early adopters phase and is currently migrating users from Cisco to Zoom Phone with our first major group already prepared to migrate at the beginning of November 2023. The project is set to be complete, with all users moved into Zoom Phone, by the end of March 2024. Below is a list of the migrations currently being planned.
+Beginning of December 2023
+Mid-January 2024
+End of February 2024
+Mid-March 2024 (Spring Break)
+Migration process
+This is the process departments can expect as we move forward with the migrations, which Zoom refers to as porting
+Users will be contacted
+6-7 weeks
+before the date they have been scheduled to migrate
+The project team will meet with department representatives to gather phone configuration information for the department
+Group/public training dates will be provided for users to attend
+Will be recorded and shared below
+Numbers will be sent to Zoom in preparation for porting (30 days prior to the port date)
+Users will see the Phone option appear in their settings on the Zoom browser interface - can set up office hours, voicemail, call handling, etc ahead of the port date
+Day of migration the numbers will be ported over and all calls will go through the Zoom application
+The current Cisco desk phone may say “Registering”, indicating it is no longer functioning for calls
+Departments collect Cisco phones for return to ITS
+Training sessions and recordings
+Upcoming training sessions
+No upcoming sessions are scheduled at this time
+Past training recordings
+Past training recordings are being provided to Swarthmore employees whether they were able to attend the sessions or not. The link below will take you to a document that requires being logged in with your Swarthmore credentials.
+Past Zoom Phone training recordings (GDoc)
+For additional assistance
+If you have questions not answered here or on our
+Zoom Phone FAQs
+page or need additional assistance with Zoom Phone you can submit a ticket on the
+ITS Support Portal
+.

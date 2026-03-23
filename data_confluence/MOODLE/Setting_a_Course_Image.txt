@@ -1,0 +1,26 @@
+Title: Setting a Course Image
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20907172
+Version: 5
+---
+
+To make a course stand out on the Moodle home page, it is possible to upload an image for the course thumbnail.  When viewing the Moodle Dashboard in the card or summary view, the image will be shown.  If you don't set an image, Moodle picks a default abstract image.  Learn more about the course overview listing on our
+Moodle Dashboard help page
+.
+Examples
+The first course has a custom course image.  The other courses have a default Moodle image.
+"Liminal Thinking" image from Dave Grey,
+The roots of Liminal Thinking
+Card View
+Summary View
+Instructions
+Go to your course and click the
+Settings
+link below the course title.
+Go to the
+Description
+section and upload your image to the
+Course image
+section.
+Save the updated setting and go to your
+course listing
+to see the results

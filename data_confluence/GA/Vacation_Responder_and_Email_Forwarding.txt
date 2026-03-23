@@ -1,0 +1,41 @@
+Title: Vacation Responder and Email Forwarding
+URL: https://swatkb.atlassian.net/wiki/spaces/GA/pages/19661451
+Version: 1
+---
+
+Setting up a Vacation Responder
+Click on the gear icon in the top-right.
+Choose "
+See all settings
+".
+Scroll to the bottom of the General settings page.
+Choose "
+Vacation responder on
+".
+Now you can set start and end dates, as well as choose a subject and type out your vacation message.
+Click "
+Save Changes
+" at the bottom of the page.
+You will have two additional options under the message field to choose from: "Only send a response to people in my Contacts" and "Only send a response to people in Swarthmore.edu". You can check either or both of these as needed. To ensure everyone receives your vacation responder, leave both of these options unchecked.
+Setting up Email Forwarding
+Click on the gear icon in the top-right.
+Choose "
+See all settings
+".
+Along the top of the Settings window, choose "
+Forwarding and POP/IMAP
+".
+In the top Forwarding section choose "
+Forward a copy of incoming mail to
+".
+Enter the email address you wish to forward mail to.
+Recommended:
+Keep the default setting of "
+keep Swarthmore.edu Mail's copy in the Inbox
+".
+A confirmation email will be sent to the email you wish to forward to. You must accept this confirmation before message forwarding will begin.
+You can turn forwarding off by choosing "
+Disable forwarding
+" in the "
+Forwarding and POP/IMAP
+" settings at any time.

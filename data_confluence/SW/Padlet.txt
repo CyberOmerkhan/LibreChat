@@ -1,0 +1,24 @@
+Title: Padlet
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20776327
+Version: 5
+---
+
+Description
+Virtual bulletin boards
+Access
+Everyone
+Platform
+WEB
+Red
+Description
+Padlet is a easy-to-use service to create bulletin boards to collect, organize, and present information.  Often used in student projects to share
+images, maps, audio, and video.  Faculty can create a shared board for students to post information.  Its strength is simplicity.
+Example Padlet board
+The Padlet Sandbox feature is a “collaborative digital canvas with tools for drawing, writing, and adding media.”
+Login
+Anyone with a Swarthmore account can log into the paid version of Padlet at
+swarthmorecollege.padlet.org/auth/login
+.  Use Google to complete the login process.
+Faculty can set up
+a link from Moodle to automatically enroll students in a Padlet
+.

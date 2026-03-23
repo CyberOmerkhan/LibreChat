@@ -1,0 +1,16 @@
+Title: Changing a Moodle profile picture
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20906758
+Version: 7
+---
+
+To change your picture, log into Moodle then click your name in the top right of the screen
+→
+Profile → Edit Profile
+(in the
+User Details
+section) and scroll down to the
+User Picture
+area.  Drag your desired image file into the
+New Picture
+box.  The file should be a .jpg or .png file format and will be cropped and resized to a 100x100 pixel square automatically.
+Pictures are automatically loaded from college records each Fall. If you have loaded a different picture into Moodle it won't be overwritten, but if you have deleted your picture from Moodle, your ID picture will be reloaded into your profile.

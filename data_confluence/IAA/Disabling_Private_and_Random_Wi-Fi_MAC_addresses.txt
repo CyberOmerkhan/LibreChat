@@ -1,0 +1,46 @@
+Title: Disabling Private and Random Wi-Fi MAC addresses
+URL: https://swatkb.atlassian.net/wiki/spaces/IAA/pages/19661579
+Version: 10
+---
+
+Starting with iOS 14, Apple introduced the private Wi-Fi address feature.  This feature creates a new private MAC address for each wireless network the device joins and is enabled by default.
+Android 10 and higher has a similar feature called “MAC address randomization”.
+These features are in conflict with the MAC address registration used for the "SwatDevice" wireless network SSID. Since the MAC address is "new", the device is no longer recognized by the network and will be prompted to re-register. Once the private address function is disabled, the registered device will connect again. Since the private address function can be disabled on an individual Wi-Fi network, this only needs to be done for "SwatDevice" at this time.
+iPhone, iPad, or iPod touch
+Open the
+Settings
+app, then tap Wi-Fi.
+Tap the
+Information
+button
+next to a network.
+Tap on
+Private Wi-Fi Address
+and select
+Off.
+These instructions are adapted from the following page
+https://support.apple.com/en-us/HT211227
+.
+Android 10 or higher
+Open the
+Settings
+app.
+Select
+Network and Internet
+.
+Select
+WiFi
+.
+Connect to the SwatDevice wireless network.
+Tap the
+gear icon
+next to the current Wi-Fi connection.
+Select
+Advanced
+.
+Select
+Privacy
+.
+Select
+Use device MAC
+.

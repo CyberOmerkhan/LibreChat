@@ -1,0 +1,18 @@
+Title: Domain of One's Own: WordPress User Roles
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20776384
+Version: 1
+---
+
+What Are User Roles?
+User roles allow you to assign different levels of permissions to users on your website. If you don’t want a user to have all the permissions of the administrator role, you can choose from Editor, Author, Contributor, or Subscriber. User roles are defined as the following:
+Administrator:
+has access to all the administration features within your website.
+Editor:
+can publish and manage posts including the posts of other users.
+Author:
+can publish and manage only their own posts.
+Contributor:
+can write and manage their own posts but cannot publish them.
+Subscriber:
+somebody who can only manage their profile.
+Choose the desired user role from the drop-down menu when adding new users.

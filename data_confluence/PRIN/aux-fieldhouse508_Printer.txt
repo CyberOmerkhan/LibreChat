@@ -1,0 +1,14 @@
+Title: aux-fieldhouse508 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530006
+Version: 3
+---
+
+Department
+Auxiliary Services
+Location
+Fieldhouse Lane 508
+Queue Name
+aux-fieldhouse508
+Printer Model
+Canon iR-ADV C5840/5850 PS
+facstaff_printing_canon_instructions

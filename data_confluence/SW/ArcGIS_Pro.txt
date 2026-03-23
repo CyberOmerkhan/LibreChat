@@ -1,0 +1,57 @@
+Title: ArcGIS Pro
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775024
+Version: 34
+---
+
+Description
+Geographic Information Systems
+Platform
+WINDOWS
+Blue
+Access
+Faculty & Staff
+Description
+ArcGIS Pro is the industry standard Geographic Information System (GIS) software. It can be installed on computers owned and used by Swarthmore students, faculty and staff, while they are affiliated with the College. Swarthmore also shares its site license with Bryn Mawr and Haverford Colleges, so folks from those institutions have access to the same resources in GIS as people at Swarthmore.
+Student access
+ArcGIS (Arc Map, Arc Catalog, etc.) is installed on all public Windows machines to be available for student use. We recommend using the Windows computer classroom (Singer 222), which is open for general use when there is not a class in session.
+Students with their own Windows computers can download and install ArcGIS Pro on those computers for use while enrolled at Swarthmore. See below for details of how to get the installer.
+Training
+Many online training courses from ESRI are available for free through our site license. Access to these training resources is through our ArcGIS Online instance. Log into
+https://swarthmore.maps.arcgis.com,
+click the blue Swarthmore College button to sign-in with your campus network credentials, then select your username in the upper right corner of the screen, and select Training on the pull-down menu. Any course that is listed as "free" or "Requires Maintenance" should be available to you.
+Windows Installation Instructions
+To install ArcGIS Pro or other ESRI Tools,
+you must have administrative privileges.
+After you download the installer (link below), don't just click it. Make sure you right-click and
+Run as Administrator
+.
+Installation Process
+Go to the Swarthmore College ArcGIS Online instance at
+https://swarthmore.maps.arcgis.com
+Click the blue Swarthmore College button to sign-in with your campus network credentials
+Click on your
+username
+in the upper right corner of the screen.
+Choose
+My settings
+Click on
+Licenses
+in the left side panel
+You should see a link to
+Download
+to the right of the line for ArcGIS Pro, click that link to download the installer
+Follow these instructions to install ArcGIS Pro:
+https://pro.arcgis.com/en/pro-app/latest/get-started/install-and-sign-in-to-arcgis-pro.htm
+ArcGIS Online Sign-In Required
+You must sign in to the Swarthmore College ArcGIS Online site to get authenticate and authorize your use of ArcGIS Pro.
+If you do not own a Windows computer:
+ArcGIS Online runs in a web browser, allowing you to view, create, and share maps without needing to install additional software.
+ArcGIS is installed and available for use on all public Windows computers on campus, including the Singer 222 classroom, and the Dells in McCabe, Cornell, and Underhill libraries.
+On special arrangement, ITS can also provide Remote Desktop Protocol (RDP) access to the Dell computers in the Singer 222 classroom.    Students need to be specially added to an access group to gain RDP access – faculty can send a list of usernames to
+support@swarthmore.edu
+to request semester access.    Since the software is openly available for Windows, it would be best to limit RDP access to students who do not have their own Windows computer.
+Other Versions
+For ArcGIS Desktop (ArcMap, Arc Catalog, etc.) or any prior version, please contact
+support@swarthmore.edu
+.
+You have access to many tools, including data analysis through ArcGIS Online. You may be able to accomplish your mapping goals without a local installation of ArcGIS Pro. We encourage you to explore the online system!

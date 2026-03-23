@@ -1,0 +1,65 @@
+Title: bio-singer334-poster Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530345
+Version: 3
+---
+
+Department
+Biology
+Location
+Singer Hall 334
+Queue Name
+bio-singer334-poster
+Printer Model
+Epson Stylus Pro 9900
+Connecting from Windows
+Click your
+Start
+button.
+In the
+Search
+box Type
+\\swat-print
+in the search box and press Enter. If prompted for credentials, enter GARNET\username in the username field, and your password.
+Find the
+printer queue name from the table above.
+Double-click on the printer (it will install automatically)
+Connecting from macOS
+Download and install the Mac Printer Drivers first.
+Download Mac Printer Driver
+Unzip and run the
+SP9900_7900_9890_7890_1090_AM.dmg
+installer. This installer may warn that it cannot open because it is from an unidentified publisher.  You can launch the installer by control-clicking on the file and choosing "open".
+Open
+System Preferences
+, select
+Printing & Scanning
+, and click the lock in the lower left corner to make changes.
+Select the
++ (plus sign)
+to add a printer
+Click the
+IP
+tab, represented as
+on newer versions of macOS.
+In the Address field, type
+swat-print
+For Protocol, choose
+Line Printer Daemon - LPD
+In the
+Queue
+field, enter the
+printer queue name from the table above.
+Under
+Name
+, copy and paste name from
+Queue
+field.
+Under
+Use
+, select the option for
+Select Printer Software...,
+and search for
+the printer model from the table above.
+Click
+Add
+. After you click Add, the Printer list window will reappear with the selected printer added to the list of printers.

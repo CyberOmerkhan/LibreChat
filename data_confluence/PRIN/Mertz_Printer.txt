@@ -1,0 +1,14 @@
+Title: Mertz Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530578
+Version: 1
+---
+
+Department
+Residence Halls
+Location
+Mertz
+Queue Name
+Mertz
+Printer Model
+HP LaserJet Series PCL 4/5
+student_printing_hp_instructions

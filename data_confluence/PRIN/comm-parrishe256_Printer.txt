@@ -1,0 +1,14 @@
+Title: comm-parrishe256 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19529992
+Version: 6
+---
+
+Department
+Communications
+Location
+Parrish 256
+Queue Name
+comm-parrishe256
+Printer Model
+Canon iR-ADV C3826 PS
+facstaff_printing_canon_instructions

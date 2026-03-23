@@ -1,0 +1,5 @@
+Title: Panopto and Moodle
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20906377
+Version: 3
+---
+

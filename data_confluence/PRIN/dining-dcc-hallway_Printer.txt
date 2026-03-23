@@ -1,0 +1,14 @@
+Title: dining-dcc-hallway Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19529798
+Version: 4
+---
+
+Department
+Dining Services
+Location
+Dining and Community Commons 1st Floor Hallway
+Queue Name
+dining-dcc-hallway
+Printer Model
+Canon MF1643 II Series PS
+facstaff_printing_canon_instructions

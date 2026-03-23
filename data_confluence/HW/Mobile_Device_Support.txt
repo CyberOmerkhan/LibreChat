@@ -1,0 +1,11 @@
+Title: Mobile Device Support
+URL: https://swatkb.atlassian.net/wiki/spaces/HW/pages/20217978
+Version: 3
+---
+
+Apple iOS Devices (iPhone, iPad, and iPod Touch)
+Instructions for configuring Swarthmore Gmail or Calendar on your iOS device.
+Setting up iOS for Swarthmore Gmail
+Android
+Instructions for configuring Swarthmore Gmail or Calendar on your Android device.
+Setting up Android OS for Swarthmore Gmail

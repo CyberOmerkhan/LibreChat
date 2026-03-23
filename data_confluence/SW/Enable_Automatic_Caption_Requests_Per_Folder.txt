@@ -1,0 +1,5 @@
+Title: Enable Automatic Caption Requests Per Folder
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775268
+Version: 2
+---
+

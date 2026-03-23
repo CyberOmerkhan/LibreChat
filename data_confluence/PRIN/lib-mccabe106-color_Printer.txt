@@ -1,0 +1,14 @@
+Title: lib-mccabe106-color Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19529813
+Version: 5
+---
+
+Department
+Libraries
+Location
+McCabe Library 106
+Queue Name
+lib-mccabe106-color
+Printer Model
+Canon iR-ADV C5840/5850 PS
+facstaff_printing_canon_instructions

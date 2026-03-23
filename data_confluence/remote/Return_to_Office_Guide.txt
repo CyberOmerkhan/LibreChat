@@ -1,0 +1,77 @@
+Title: Return to Office Guide
+URL: https://swatkb.atlassian.net/wiki/spaces/remote/pages/20218158
+Version: 4
+---
+
+Come to campus before your scheduled return
+The best way to ensure you are ready to work when you return is to come early and check all of your devices and connections. This is especially important if your office changed locations during the time you were working remotely. Make sure your office is still set up the way you prefer and that you have everything you need. Check all of the cords and physical connections for your devices. Make sure everything is securely plugged in - and remember to check your power strips as well!
+Doing this will ensure that if you need anything adjusted or fixed, there will be time to do so before you need to start working out of your office.
+Turn on or restart your computer
+If your computer has been off, or has been on and needs a restart, go ahead and do that first thing. Be patient! It may take some extra time for your computer to restart or turn on. You can grab a cup of coffee while you wait for your computer to get going.
+Run updates
+Once your computer is on, make sure you perform all available system updates. These are important to keep your computer running smoothly and securely. Mac and Windows will generally apply updates automatically as needed. You may also be prompted when updates are available.  To manually apply updates, follow the instructions below.
+Windows:
+Click on "
+Start
+"
+Click "
+Settings
+"
+Choose "
+Update & Security
+"
+Click "
+Check for Updates
+"
+Mac:
+ITS currently supports macOS Catalina and macOS Big.
+Click on the
+"Apple Menu"
+Select
+"System Preferences"
+Click
+"Software Update"
+This will list all of the available updates, and give you the option to start the updating process. This may take a while and may require multiple restarts, so you can enjoy your coffee while you wait.
+Reconnecting to eduroam
+If you're having trouble connecting to eduroam, you may need to remove the eduroam profile from your devices and reconnect anew. Below are the directions on how to remove eduroam from your various devices, as well as how to reconnect again.
+Note:
+Before returning, we recommend removing older eduroam profiles. This will ensure easier reconnection and prevent any "
+Account Locking
+" issues.
+Remove eduroam
+Windows
+Remove eduroam - Windows
+Mac
+Remove eduroam - Mac
+iOS
+Remove eduroam - iOS
+Android
+Remove eduroam - Android
+Connect to eduroam
+Windows, Mac, and iOS devices
+eduroam connect
+Additional devices
+Check out our wireless connection page for instructions on
+how to connect your various mobile devices to eduroam
+.
+Refresh your browsers
+If your browsers are behind in their updates you may see slow loading times and have plugins and extensions that don't work properly. The directions below will help you check for updates on the most commonly used browsers.
+Click on the menu (3 vertical dots or 3 horizontal bars) in the upper right corner
+Go to "
+Help
+"
+Click on "
+About
+"
+The About page for your browser will tell you what version you currently have, among other things. If there is an updated version of your browser available, this page will have an update button you can click to start the process. This process will restart your browser.
+Reset your Cisco phone
+Phone Reset
+If you need to make additional changes to your phone or need help accessing other options, you can check out our
+campus phone and voicemail page
+.
+Connecting to printers
+You may need to reconnect your devices to the department printers. See our
+printing instructions for Faculty and Staff
+to find your printer and view the specific instructions on how to connect to it.
+How to power cycle a printer
+Power Cycle Printer

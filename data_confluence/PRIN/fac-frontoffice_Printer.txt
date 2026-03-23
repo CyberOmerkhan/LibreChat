@@ -1,0 +1,14 @@
+Title: fac-frontoffice Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19529763
+Version: 2
+---
+
+Department
+Facilities Management
+Location
+Services Building
+Queue Name
+fac-frontoffice
+Printer Model
+Canon iR-ADV C5840/5850 PS
+facstaff_printing_canon_instructions

@@ -1,0 +1,17 @@
+Title: Moodle Mobile App
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20908559
+Version: 4
+---
+
+It is possible to use the Moodle App from your mobile device to access your course content.
+For an overview of the features of the app, see the
+Moodle Mobile documentation
+.
+Setting up the app
+Visit the Apple App store (iOS) or Google Play store (Android) to install the official Moodle app.  Search for "moodle" and select the app authored by "Moodle Pty Ltd."
+Install the app and open it
+Select "I'm a learner" or "I'm an educator" -> or "Skip" to continue
+Enter "moodle.swarthmore.edu" as the site
+A browser window will open for you to authenticate with your Swarthmore username and password
+You will be brought back to the Moodle app with a list of your courses.
+You will be prompted to log in via the browser window each time you access the application.

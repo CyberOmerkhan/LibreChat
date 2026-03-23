@@ -1,0 +1,16 @@
+Title: Services
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775147
+Version: 4
+---
+
+Notice incorrect missing or incorrect information? Please let us know at
+support@swarthmore.edu
+or x4357
+Swarthmore supports the following online services.
+Program
+sw
+Description, Access, Platform
+10000
+Title
+software
+label = "service" and space = "sw"

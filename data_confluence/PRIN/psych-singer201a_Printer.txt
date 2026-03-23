@@ -1,0 +1,20 @@
+Title: psych-singer201a Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19529804
+Version: 4
+---
+
+Department
+Psychology
+Location
+Singer 201A
+Queue Name
+psych-singer201a
+Printer Model
+Canon iR-ADV C5840/5850 PS
+Print Release Station
+Yes
+facstaff_printing_canon_instructions
+cecefca7-004e-492e-8dc6-741c7cbade35
+facstaff_printing_release_station_instructions
+eJyLjgUAARUAuQ==
+false

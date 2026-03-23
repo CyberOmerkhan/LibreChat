@@ -1,0 +1,27 @@
+Title: Self-Service Guest Wireless
+URL: https://swatkb.atlassian.net/wiki/spaces/IAA/pages/19661602
+Version: 6
+---
+
+All visitors to the Swarthmore College campus have access to the wireless network through the SSID SwatGuest. Registration for an account is required. Self-service guest accounts are good for 4 days. For longer stays, a new account can be created after the initial one expires.
+Please note:
+A single account can be used on all of your wireless devices.
+Internet bandwidth is limited to 500 Kbps per device.
+Open access is provided to the Internet and to public accessible servers at Swarthmore. No access is permitted to SwatVPN, printers or internal Swarthmore servers including email servers.
+As most other public Wi-Fi services,
+SwatGuest is not an encrypted network
+. Use https or other secure applications if you need to send personal or confidential data.
+SwatGuest registration has been verified to work with all major web browsers including Firefox and Chrome. If you have a problem registering, please try a different browser, such as Microsoft Edge on Windows or Safari on Macs.
+On mobile devices, you may not have to use a browser to register or login. For example, on iPhones and iPads, simply selecting the SwatGuest network will cause the initial login screen to appear. The rest of the process is the same as that described below for Mac and Windows computers or
+download the SwatGuest Instructions [PDF]
+.
+Creating a Swat Guest Account
+Activate your wireless network adaptor and look at the list of available networks.
+Choose "SwatGuest"
+You will be redirected to the SwatGuest login area. (If this does not happen automatically, open a browser and go to any web page.)
+At the bottom of the dialog box, click on the link "Need an Account? Click Here"
+Enter your name, a cell phone number with no special characters or spaces, and an email address and click the check box next to "I accept the terms of use".
+Click the "Register" button when done.  Your guest account information will be sent as a text message to your cell phone and sent to your e-mail address.
+You will receive a confirmation page in your browser like the one below.
+Once you have retrieved your SwatGuest password, click on the "Login Here link."  Enter your Username (email address used to register) and your newly retrieved Password. Click Log In.
+Your initial login page will look like the one below.  Click the "Continue Browsing the Web" link or open any other application on your device.

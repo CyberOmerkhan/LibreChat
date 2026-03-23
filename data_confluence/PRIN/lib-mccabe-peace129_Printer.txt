@@ -1,0 +1,14 @@
+Title: lib-mccabe-peace129 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530308
+Version: 2
+---
+
+Department
+Peace Collection
+Location
+McCabe Library 129
+Queue Name
+lib-mccabe-peace129
+Printer Model
+Canon iR-ADV C5840/5850 PS
+facstaff_printing_canon_instructions

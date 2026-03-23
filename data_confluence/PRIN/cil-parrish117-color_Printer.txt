@@ -1,0 +1,14 @@
+Title: cil-parrish117-color Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530206
+Version: 4
+---
+
+Department
+Center for Innovation and Leadership
+Location
+Parrish 117
+Queue Name
+cil-parrish117-color
+Printer Model
+Canon iR-ADV C257/357 PS
+facstaff_printing_canon_instructions

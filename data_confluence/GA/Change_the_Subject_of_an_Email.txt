@@ -1,0 +1,14 @@
+Title: Change the Subject of an Email
+URL: https://swatkb.atlassian.net/wiki/spaces/GA/pages/19661488
+Version: 1
+---
+
+It is not possible to change the subject of an email after you send it out. The only time you can change the subject of an email is while replying or forwarding the message.
+Choose whether to reply or forward the message.
+When the compose message window appears, you will see an arrow button to the left of the recipients field.
+Click on that arrow to open the menu.
+Choose "
+Edit subject
+".
+Make your changes to the subject, compose the rest of your message, and send.
+Reply options menu image:

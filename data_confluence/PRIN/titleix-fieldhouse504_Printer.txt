@@ -1,0 +1,14 @@
+Title: titleix-fieldhouse504 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530013
+Version: 2
+---
+
+Department
+Title IX
+Location
+Fieldhouse 504
+Queue Name
+titleix-fieldhouse504
+Printer Model
+Canon iR-ADV C5840/5850 PS
+facstaff_printing_canon_instructions

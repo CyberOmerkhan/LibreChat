@@ -1,0 +1,27 @@
+Title: BioRender
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20776022
+Version: 8
+---
+
+Description
+Online tool to create and share scientific drawings
+Access
+Faculty & Students
+Platform
+WEB
+Red
+Description
+BioRender is an online tool used to create and share scientific figures for journal articles, scientific posters, presentations, class slides, grant applications, and brainstorming.
+Example figure generated with BioRender
+Example figure generated with BioRender
+Access
+Any Swarthmore faculty member or student can request access by submitting a help ticket at
+https://support.swarthmore.edu
+or
+support@swathmore.edu
+.
+The number of faculty and student licenses is limited to a set amount per year.
+Features and Usage
+Faculty have access to the Premium account features, including the rights to publish to a journal.  Student accounts have all the features except the rights to publish to a journal.  In most cases, it is best for a professor to create an account that owns the figures and collaborate with student researchers.
+Support
+BioRender tutorials

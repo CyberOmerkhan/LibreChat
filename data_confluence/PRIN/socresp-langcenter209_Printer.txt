@@ -1,0 +1,14 @@
+Title: socresp-langcenter209 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530332
+Version: 1
+---
+
+Department
+Lang Canter for Social Responsibility
+Location
+Lang Center For Social Responsibility 209
+Queue Name
+socresp-langcenter209
+Printer Model
+HP OfficeJet Pro 8600
+facstaff_printing_hp_instructions

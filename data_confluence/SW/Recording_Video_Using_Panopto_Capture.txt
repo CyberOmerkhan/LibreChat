@@ -1,0 +1,115 @@
+Title: Recording Video Using Panopto Capture
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20776399
+Version: 2
+---
+
+Panopto Capture allows you to easily record audio, video, and screens or applications within your web browser. A user can access Panopto Capture directly within their browser instead of downloading the desktop application.
+Note
+You must have "Creator" role access or greater to use this feature. If you do not, please reach out to
+support@swarthmore.edu
+to make a request.
+You must have the latest version of Chrome, Firefox, and Edge to access this feature.
+Please note: Safari 15.0+ users, please refer to
+How to Create a Video Using Panopto Capture with Safari
+, as options are different for Safari users.
+Please make sure anti-virus exceptions are made for audio (microphone), video (web camera), and screen in your preferred browser.
+1. Launch Panopto Capture
+Select the folder you want your video to record to, then click on the
+Create
+button, located in the upper left corner of your Panopto site, and then select
+Panopto Capture.
+Panopto Capture launches in a new browser tab.
+2. Select a Microphone
+Note: You may be prompted by your browser to give Panopto access to your microphone(s). If you accidentally block a device, please refer to the document
+How to Unblock a Device on a Browser
+for assistance.
+If you want to use a different microphone from the one automatically chosen, select the microphone icon from the top toolbar.
+3. Select Camera Sources
+Note: You may be prompted by your browser to give Panopto access to your camera(s). If you accidentally block a device, please refer to the document
+How to Unblock a Device on a Browser
+for assistance.
+If you want to use a different camera from the one automatically chosen, select the camera icon from the top toolbar
+Your connected cameras will appear and show a preview. Select the desired camera(s) and a checkmark will appear over the preview
+. Note: The first camera selected, automatically or manually, will be used as the primary video source. Secondary cameras will appear with the option to either switch to them for the recording or to add them as a secondary video source. To learn where these sources will appear in the viewer, please see
+Learn About the Features of the Video Viewer
+.
+4. Select Screen and Application Sources
+Mac users, please note
+: Depending on the browser you are using, you may need to give additional permission for Chrome or Firefox to access your screen before recording a PowerPoint presentation. To learn more about this, please visit
+Why isn’t my screen being recorded on Mac when using Capture?
+Please note: When recording more than one secondary source, the source selected last will be displayed to viewers as a default.
+To record a screen, application window, or individual browser tab, select the monitor icon.
+Chrome or Edge (Chromium-based) users:
+a pop-up window will appear that allows you to select between a screen, application, or browser tab:
+To record everything that happens on a screen, choose
+Your Entire Screen
+. Then, select the screen to record and click
+Share
+.
+Optionally, select
+Share Audio
+to add the audio from your computer to the recording. This is ideal for when you are recording a video call or any application that has sound. The
+Share Audio
+option is not available to macOS users on the
+Your Entire Screen
+tab.
+Select the
+Application Window
+tab to record everything that happens in one application window only.  Select the application and then click
+Share
+Please note: For Windows users, after starting the recording, Panopto will record PowerPoint slides as a video stream when a presentation is put into slideshow mode. For Mac users, you will need to make sure the slideshow is started in the option under the screen in Capture. If you are a Firefox user, please see
+How to Record PowerPoint with Firefox and Capture
+. The
+Share Audio
+option is not available on the
+Application Window
+tab.
+Select the
+Tab
+option, shown here in Chrome, to record everything that happens in one browser tab. Select the tab you want to record and click
+Share
+.
+Optionally, select
+Share audio
+to add the audio from the tab to the recording
+Firefox users
+: a permissions pop-up window will appear (Fig. 18).
+To learn how to capture PowerPoint using Firefox, please visit
+How to Record PowerPoint with Firefox and Capture
+.
+Select the drop-down menu
+Select Window or Screen
+to pick the window, application, or screen you want to share.
+Note: To display a specific browser tab, you will need to make sure that the tab is open in a separate browser window for it to appear as an option. To update the list of windows or screens that appear, refresh Firefox. Firefox does not allow for audio capture from windows or screens.
+After choosing one screen or application source, you may add additional sources by selecting the monitor icon again.
+5. Recording the Video
+Please note: The length of the recording is only constrained by the memory available to the browser as well as your network speed, as it uploads the video in parts as you record. A slower network speed means that the browser has to hold more information for individual pieces of video that have not yet been uploaded.
+To begin recording your video, click the red circle button at the bottom center of Panopto Capture.
+If enabled, you will see a 5-second countdown on the screen, and then the recording will begin. During the countdown, you will also see the option to start recording immediately by pressing
+Enter
+or to cancel by pressing
+Escape
+(Esc).
+To learn about enabling a five-second countdown, please visit
+Learn About Capture Settings
+.
+To stop recording,  select the red square button at the bottom center of Panopto Capture. The video will immediately begin to upload. Do not close the Panopto Capture browser tab until the upload is complete.
+6. Video Upload and Sharing
+Once you stop the recording, a new page will load that shows the video’s progress. Do not close this page until you see the message
+Getting your video ready for editing: It's safe to close your browser window
+in the top left corner (Fig. 22a) Once the video has been processed completely, it will state
+Your video is ready
+.
+Note: this video will upload to the folder that you were in when you opened Capture. If you do not have Creator access to that folder, it will upload to your My Folder. If you do not have a My Folder set up, it will upload to your most recently used folder.
+You can share your video if you select
+Manage Access
+. Once selected, your Panopto site will open to the video's settings
+Share
+tab.
+To learn more about how to share a video from this window, visit
+How to Share a Video
+.
+More Detailed Instructions
+For more detailed instructions please read Panopto's documentation on
+How to Create a Video Using Panopto Capture
+.

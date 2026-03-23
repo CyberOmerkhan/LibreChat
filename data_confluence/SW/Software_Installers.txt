@@ -1,0 +1,19 @@
+Title: Software Installers
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20774921
+Version: 22
+---
+
+Notice missing or out of date software? Incorrect installation information? Please let us know at
+support@swarthmore.edu
+or x4357
+ASSISTIVE TECHNOLOGY
+Looking for Assistive Technology software listings?
+Software Listing
+Program
+sw
+Description, Access, Platform
+10000
+Title
+software
+label = "software" and space = "sw"
+Software Categories

@@ -1,0 +1,32 @@
+Title: Uploading multiple files or folders to my course
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20907478
+Version: 22
+---
+
+To upload multiple files to a Moodle course, either create a folder in Moodle and drag files from your computer to the folder or drag a zip file from your computer to the main course page and unzip the files.
+Create a folder
+If you want to upload multiple files and put them in a Moodle folder, follow the process below:
+On the Moodle course page, click the
+Edit Mode
+button to turn editing on
+From the bottom of a section, click
+Add an activity or resource → Folder
+.
+Provide a title and then drag and drop individual files from your computer into the
+Content
+area.  It is possible to drag multiple files at once.
+Click save at the bottom of the page.
+Upload a zip file
+To mass upload a set of files with sub-folders, create a zip file with the desired content on your computer.
+To create a zip file:
+macOS:
+select the folder or set of files to upload, then go to the File menu and select "Compress Items".  Macs may include a set of extra files titled .DS_Store and __MACOSX inside the zip file. These files don't contain any needed information and may safely be deleted if they appear in Moodle.
+Windows:
+select the folder or set of files to upload, right click, and select "Send to Compressed (zipped) folder"
+To upload the zip file and have Moodle convert it to a folder:
+On the Moodle course page, click the
+Edit Mode
+button to turn editing on
+Drag the zip file from your computer to the desired topic or week in Moodle
+Moodle will ask if you want to extract the zip file into a folder.  Confirm this choice.
+A new folder with your files will appear in the topic.

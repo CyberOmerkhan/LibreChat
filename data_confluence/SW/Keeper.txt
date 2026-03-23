@@ -1,0 +1,32 @@
+Title: Keeper
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775158
+Version: 2
+---
+
+Description
+Keeper is a password management system that helps store and generate passwords
+Access
+Faculty & Staff
+Platform
+MAC
+Yellow
+WINDOWS
+Blue
+WEB
+Red
+Notes
+Keeper is a password management system that helps store and generate passwords. You can set up the Keeper browser extension and desktop applications to help you store and use your passwords. Make all your passwords unique and strong and store them safely with Keeper.
+Installation Instructions
+You can easily create a Keeper account! See the links below for more detailed instructions.
+Creating your Keeper account
+- Create a Swarthmore Keeper account for work passwords
+Create your free Keeper Family account
+- Create a free personal account (you must create a Swarthmore account first)
+Download
+Download the browser extensions and desktop applications:
+Download the Keeper browser extension
+Download Keeper for your desktop
+More Information
+For a visual overview of Keeper & its features, check out
+this recording of a training session hosted by one of our Keeper representatives
+!

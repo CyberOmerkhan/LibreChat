@@ -1,0 +1,48 @@
+Title: Notability
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775622
+Version: 8
+---
+
+Description
+Powerful PDF annotator and note-taking app. Also serves well as a digital whiteboard.
+Access
+Faculty & Staff
+Platform
+MAC
+Yellow
+ios
+Purple
+Description
+Notability
+is a powerful app for annotating PDFs or note-taking with an Apple Pencil or stylus. This app works great for annotating annotating over assignments or grading. It also serves well as a digital whiteboard as it lets you combine handwriting, photos, typing, and or audio into a document or project. You can integrate it with Google Drive to switch back and forth between your iOS and macOS devices. Notability can back up your notes to Google Drive as well by
+turning on Auto-Backup
+in settings.
+Downloading Notability
+If you have a College-owned iPad, you can install Notability on your iPad by going to the
+Jamf Self Service app
+and clicking
+Install
+next to the Notability app.
+Sample Grading Workflow With Notability
+Notability is widely used among faculty for grading and annotating Moodle assignments. Below is sample workflow for grading with Notability and Moodle.
+Collect student work through a Moodle assignment
+On a computer, download all student files from Moodle in a zip file, unzip the file, and copy the files to Google Drive or Dropbox.
+On the iPad Pro, open the files from Google Drive or Dropbox, and mark up as needed.
+Save the modified file back to Google Drive or Dropbox.
+On a computer, zip all the marked-up files and upload them back to Moodle
+Physics and Astronomy Professor Eric Jensen made a
+video walkthrough of this method
+and generously shared it with us.
+Support Documentation
+Notability has a robust support page with
+step-by-step guides
+to get you started. Below are a few links from their support page to help you get set up. For further help, visit their
+support page
+.
+Notability Dashboard Library
+Notability Settings
+Create and Edit Notes
+Subjects and Dividers
+Handwriting, Sketching, and Math Conversion
+Media, Images, and Web Clips
+Moving Notes to a New Device or a New Apple ID

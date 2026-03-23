@@ -1,0 +1,77 @@
+Title: Add H5P to Moodle
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20906491
+Version: 7
+---
+
+About H5P
+H5P is an abbreviation for HTML5 Package. It enables educators to create content such as interactive videos, quizzes and presentations. H5P content can be created in the
+Content bank
+or on the
+h5p.com site
+and added to your course as an
+H5P activity
+or embedded into any other activity or resource.
+For summative assessment, such as exams, it is recommended for security reasons to use the
+Quiz activity
+rather than H5P.
+Creating and editing H5P content in the Content bank
+To create and edit H5P content,
+Go to the
+Content bank
+, accessible when in a course from the
+Navigation drawer
+(Boost theme).
+Click the
+Add
+button and select a content type.
+For more information, see
+Content bank
+.
+H5P Documentation for Different Content Types
+Please find tutorials for the different H5p content types by following the link below.
+h5p.org/documentation/for-authors/tutorials
+Adding an H5P activity to a course
+Ensure that you first have an existing H5P activity to upload, or that you have created one in the
+Content bank
+.
+In a course, with the editing turned on, choose
+H5P
+from the activity chooser.
+Give it a name and, if needed, a description.
+From
+Package file → File picker
+, add your H5P file from the
+Upload a file
+link or from the
+Content bank
+. Note: If you add the content as an alias, any modifications will be displayed here but if you add it as a copy, the modified version will not display. For more information see
+Working with files
+Expand the other sections to select the settings you want, and then click
+Save
+and return to course.
+Embedding H5P into other activities
+You can embed H5P content into sections, as well as activities, and resources such as a
+Lesson
+or a
+Book
+, by clicking the H5P button in the text editor.
+To embed H5P from the Content bank:
+Click the
+H5P
+button in the text editor then click
+Browse repositories
+.
+Browse the Content bank repository and select an H5P file.
+Choose to either make a copy of the file or create a shortcut.
+Click the
+Select this file
+button.
+Click
+Insert H5P
+.
+Note
+If you create a shortcut to the file, you can edit it in the Content bank and any activities with a link to the file will be updated.
+Official Moodle Documentation
+You can read more about H5P on
+Moodle's official documentation page
+.

@@ -1,0 +1,100 @@
+Title: General WordPress Troubleshooting
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20776225
+Version: 3
+---
+
+If you can't find what you're looking for, feel free to contact
+support@swarthmore.edu
+, or try the following resources:
+Official WordPress Documentation
+WordPress Essential Training at linkedin.swarthmore.edu
+Logging In
+Student is having difficulty logging in
+The first thing to check if a student is having trouble logging in, is whether or not they have been registered for the site. To verify whether the student is registered, do the following:
+Log into your WordPress site and navigate to the
+Dashboard
+.
+From the Dashboard, click on
+Users
+from the menu on the left side of the screen.
+This will take you to a complete list of users registered to your site.
+Search through this list for the student who is having difficulty.
+If the student does not appear in this list, then they have not yet been properly registered. To continue troubleshooting, follow the instructions below which best apply to your site.
+My site uses the Moodle/WordPress connector
+It's likely that your student has not yet activated their account via the special Moodle/WordPress Connector link. Advise the student to navigate to the Moodle course associated with your WordPress site and click the link. If this does not solve the issue, have the student contact
+support@swarthmore.edu
+.
+My site does not use the Moodle/WordPress connector
+In this case you'll need to manually add your user to the WordPress site. The following instructions will guide you through the process:
+Log into your WordPress site and navigate to the
+Dashboard
+.
+From the Dashboard, click on
+Users
+from the menu on the left side of the screen.
+At the top of this screen there is a button marked
+Add New
+. Click this button to begin the process.
+From this page, scroll to the area labeled
+Add New User.
+Use the first portion of the student's email address as their username.
+Example: a student with the email address
+guest01@swarthmore.edu
+should have the username guest01.
+Add the student's email address.
+Set the student's role to
+Author
+.
+Check the box marked
+Skip Confirmation Email
+.
+Click the blue
+Add New User
+button
+.
+Note
+Your students have to use their Swarthmore username and login information in order to be added as a new user
+If your student continues having issues accessing the site, please contact
+support@swarthmore.edu
+. Be sure to include the student's name and email address in the message.
+Uploading Files
+There are a few issues that can arise while attempting to upload files to your WordPress site, including:
+File size is too large (default is 1500kb max)
+If you cannot compress the file to meet the max. upload size, you may want to consider hosting the file in your
+Swarthmore Google Drive
+account.
+File type is not currently expected/supported
+Although WordPress is capable of handling most common file types (doc, docx, ppt, pptx, pdf, key, as well as common multimedia files), it's possible that you'll want to upload a file that is not currently expected. If this is the case please contact
+support@swarthmore.edu
+. Be sure to include the following details in your message:
+location of your site
+list of file types you wish to use on your site.
+Adding Page/Category/Links to Menu
+If a page is not appearing in your primary navigation automatically, then you are likely using a
+custom menu
+. To add the new page to your custom menu, do the following:
+Log into your WordPress site and navigate to the
+Dashboard
+.
+From the Dashboard, click on
+Appearance
+from the menu on the left side of the screen. This will reveal a sub-menu.
+From the sub-menu, click on the
+Menu
+item.
+From the
+Edit Menus
+page, your current custom menu should be visible.
+Locate the box labeled
+Pages
+and expand it.
+Check the box next to the page you wish to add to the menu.
+Click the
+Add to Menu
+button.
+You should now see your page appearing in the menu editor to the right. Drag and drop it so that it's in the order that you prefer.
+Click the
+Save Menu
+button.
+Categories of posts can be added to the menu in the same way as outlined above, swapping out references to "pages" with "categories".
+Official WordPress Menu Documentation

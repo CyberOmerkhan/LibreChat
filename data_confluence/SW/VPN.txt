@@ -1,0 +1,22 @@
+Title: VPN
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20774933
+Version: 12
+---
+
+Description
+Off campus access to Swarthmore's network
+Access
+Everyone
+Platform
+MAC
+Yellow
+WINDOWS
+Blue
+LINUX
+Green
+About VPN
+For security and privacy reasons, some computing resources are only available when on Swarthmore's campus network and not from any computer on the Internet.  Running Virtual Private Network (VPN) software allows users to access these resources when off-campus.
+Installation Instructions
+For more information about VPN and detailed instructions, visit
+Swarthmore's VPN and Off-Campus Access page
+.

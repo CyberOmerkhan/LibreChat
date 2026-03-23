@@ -1,0 +1,19 @@
+Title: Updating the assignment due dates for a new semester
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20907120
+Version: 6
+---
+
+After importing a course from a previous semester, all the due dates for assignments and other activities will be incorrect. It is possible to update all the dates for the class from the
+Dates Report
+.
+To access this report:
+Go to the course main page and click
+Reports
+(under course title)
+→ Dates
+.
+Adjust the dates for each activity as needed.
+Click
+Save changes
+when finished.
+This report runs very slowly for large courses and may time out if there are many activities.

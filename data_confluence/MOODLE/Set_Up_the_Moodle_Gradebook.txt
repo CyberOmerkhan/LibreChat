@@ -1,0 +1,62 @@
+Title: Set Up the Moodle Gradebook
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20907498
+Version: 13
+---
+
+Moodle gives you a lot of flexibility when it comes to grading. However, the number of options can be a bit overwhelming. Below is one example of many ways faculty can set up their gradebook. If your syllabus looks similar to the list below with weighted grade items, you can set up weighted categories in Moodle.
+Papers 25%
+Homework 20%
+Quizzes 15%
+Exams 40%
+Setting Up Weighted Grading
+First, you must set up your entire course folder for weighted grading. Afterwhich, graded assignments and activities can be added to grade categories and assigned weights. To set up your gradebook for weighted grading follow the steps below.
+On your Moodle course page, click
+Grades
+(under the course title)
+Drop the dropdown menu. select
+Gradebook setup
+At the top of the table (the row containing the name of the course), click the
+...
+button on the right-hand side and select
+Edit Category
+Under the
+Grade Category
+section, next to
+Aggregation
+select
+Weighted mean of grades
+from the drop-down menu
+Scroll down to the bottom of the page and select
+Save Changes
+Now you should see a "Weights" column show up on the page.
+Creating Grade Categories
+Now that you've set up your course for weighted grading, you can create "Grade Categories" and assign them the correct percentage according to your syllabus.
+On the gradebook setup page, click on the
+Add category
+button (above the table)
+Type in a category name such as "Homework"
+Click
+Show More
+to change settings for excluding empty grades or dropping the lowest grades.
+Scroll to the bottom of the page and select
+Save Changes
+You will now see the category folder listed on the gradebook setup page. Fill in the percentage this category should have and click
+Save changes
+.
+Repeat these steps for setting up the rest of your categories.
+Remember to scroll to the bottom of the page and click on
+Save changes
+or your updates won't be saved.
+Assign Categories to Graded Assignments
+After you create all your grade categories, you can go back to your course page and create your graded assignments. When setting up each assignment or activity, be sure to select the appropriate category under the
+Grade → Grade category
+section
+.
+Read more information on how to set up a
+Moodle assignment
+.
+Note
+If you created the assignments before you added the categories, simply go back to each assignment and select the appropriate category under the
+Grade
+section.
+After you've created the assignment, it will now appear under the selected category on the Gradebook setup page. Repeat these steps for the rest of your graded assignments.

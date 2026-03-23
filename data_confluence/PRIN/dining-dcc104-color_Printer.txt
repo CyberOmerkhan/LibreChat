@@ -1,0 +1,14 @@
+Title: dining-dcc104-color Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19529820
+Version: 4
+---
+
+Department
+Dining Services
+Location
+Dining and Community Commons 104
+Queue Name
+dining-dcc104-color
+Printer Model
+Canon iR-ADV C5840/5850 PS
+facstaff_printing_canon_instructions

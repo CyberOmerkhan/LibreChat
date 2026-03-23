@@ -1,0 +1,59 @@
+Title: Course Settings
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20907802
+Version: 22
+---
+
+Course settings allow you to set general preferences for your Moodle course.  The default settings are fine for most courses.  You'll use this primarily to select the course format and to
+make the course visible to participants
+.  Every Moodle course is organized into sections of information in the center of the page.  The left area is for a course index and the right is for blocks that add features to the class.  The top section is a header area.
+Section Topics and Titles
+By default, there are sections labeled “New Section.”  You can change the name of the section and add a description by following the instructions below.
+Go to your course and turn editing on
+Click on the edit button (three dots) to the right of the section title
+Click
+Edit Settings
+Edit the
+Section name
+Optionally enter descriptive text and images in the Summary box below
+Click the
+Save Changes
+at the bottom of the page when finished
+Sections by the Week
+If your course is organized by weeks, it is possible to automatically label each section with a date. Follow the instructions below to have each of your sections automatically display the corresponding weeks.
+Go to your course page
+Click the
+Settings
+link under the course title
+Scroll down and click on the
+Course format
+section
+Next to
+Format
+select
+Weekly sections
+from the drop-down menu.
+Scroll down to the bottom of the page and click the
+Save and display
+button to save your changes.
+To add more sections (whether topics or weeks) in the course, turn editing on, scroll down to the last section, and
+click
+Add
+Section
+(or
+Add Week)
+. To see step-by-step instructions go to
+Adding More Section Topics or Weeks in Moodle.
+For Fall 2024, some courses may not display the weekly format properly. If you have turned on “Weekly Sections” per the instructions above and your sections are still labeled as “Topic 1”, “Topic 2,” etc. or with dates from a previous semester, follow the procedure below to get the correct dates to show up.
+Turn editing on
+Click on the
+pencil icon
+to the right of the section name
+Type the
+Backspace
+or
+Delete
+key
+Type the
+Enter
+key
+Repeat for each affected section

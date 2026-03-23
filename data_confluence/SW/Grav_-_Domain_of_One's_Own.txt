@@ -1,0 +1,51 @@
+Title: Grav - Domain of One's Own
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775551
+Version: 5
+---
+
+Grav
+is a content management system (CMS) or, said another way, it’s an application to make websites. But differs from other CMSs like Drupal or WordPress in its underlying technology. While it’s a PHP app like those two, unlike them it does not have a database. All data is written directly to files rather than stored and retrieved from a database. This is known as a flat-file system and it can help with performance given numerous database calls can slow down sites.
+Why and when would you use Grav?
+Grav should maybe be reserved for the technically-savvy user. It’s not that Grav is particularly difficult (every CMS has a learning curve) but rather it gets really interesting when you can integrate it into Github using the
+Github Sync
+plugin, which syncs everything on your Grav site to a Github repository for others to contribute to, clone, or fork. Grav also requires a familiarity with
+Markdown
+, a lightweight Markup language, so that’s something to be aware of as well.
+You can learn more about Grav at
+getgrav.org
+.
+Installing Grav
+To get started you’ll need to login to your control panel (
+https://domains.swarthmore.edu/dashboard/
+) using your Swarthmore username and password.
+Once logged in you’ll be at the homepage of your control panel. Navigate to the
+Applications
+section of the cPanel, and select All Applications.
+Type
+Grav
+in the top right search bar and press
+Enter
+. Click
+Install this Application
+.
+Choose where you would like the domain to live. If you need further assistance on this section, read through our guide on
+Subdomains Vs. Subdirectories
+. You’ll also want to choose the latest software version, accept the license agreement, and choose your update preferences.
+Scroll down. Choose your Backup preferences. In the
+Settings
+section, name your Grav install, type in your contact details and create a username & password. Make sure that you’ve copied and pasted these credentials elsewhere, as you’ll need them later.
+Scroll down. Here you’ll have the option to install an empty version of the tool (i.e. a blank slate) or you can install a predefined package with themes/settings already customized for you. You’ll still be able to change settings in a predefined package, but it at least gives you a starting point. When you’re ready, click
+Install
+.
+You’ll now be redirected to a window where Grav will install.
+Once the install has been completed, click on the middle admin link to log into your new Grav instance:
+Type the credentials that you set during the install process, and click
+Login
+.
+Grav Tutorials
+You can find tutorials for working with Grav on the
+Grav Help Documentation
+page.
+More Markdown information
+Improving the Accessibility of your Markdown | Smashing Magazine
+https://bookdown.org/yihui/rmarkdown-cookbook/html-accessibility.html

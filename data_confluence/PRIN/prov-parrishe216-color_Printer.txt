@@ -1,0 +1,14 @@
+Title: prov-parrishe216-color Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530492
+Version: 1
+---
+
+Department
+Provost's Office
+Location
+Parrish E216
+Queue Name
+prov-parrishe216-color
+Printer Model
+HP LJ 300-400 color M351-M451
+facstaff_printing_hp_instructions

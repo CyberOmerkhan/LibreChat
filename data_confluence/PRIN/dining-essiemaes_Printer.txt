@@ -1,0 +1,14 @@
+Title: dining-essiemaes Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530305
+Version: 1
+---
+
+Department
+Dining Services
+Location
+Essie Maes Office
+Queue Name
+dining-essiemaes
+Printer Model
+HP Officejet Pro 8000 Enterprise A811a
+facstaff_printing_hp_instructions

@@ -1,0 +1,25 @@
+Title: Artificial Intelligence Resources
+URL: https://swatkb.atlassian.net/wiki/spaces/ACADTECH/pages/461864962
+Version: 10
+---
+
+Swarthmore provides Artificial intelligence (AI) tools to support teaching, learning, and research.
+Tools
+All listed tools are private and do not train on user data.
+Text-Based
+LibreChat
+multi-model AI chatbot including access to ChatGPT and Claude.
+Google Gemini AI
+Google’s AI chatbot and mobile app
+NotebookLM
+Google’s service that uses your specific documents as a knowledge base to answer questions, summarize content, and generate ideas.
+Image and Video
+Firefly
+generate images from a text description
+Other
+Zoom AI Companion
+automatically generate meeting summaries and allow participants to questions about the meeting.
+Information and Resoures
+ITS Guidelines on the Use of Artificial Intelligence
+Library and ITS Guidance on Artificial Intelligence for Faculty
+Library and ITS Guidance on Artificial Intelligence for Students

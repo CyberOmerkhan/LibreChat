@@ -1,0 +1,20 @@
+Title: peac-parrishw237-color Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530512
+Version: 2
+---
+
+Department
+Peace & Conflict Studies
+Location
+Parrish W237
+Queue Name
+peac-parrishw237-color
+Printer Model
+Canon iR-ADV C5840/5850 PS
+Print Release Station
+Yes
+facstaff_printing_canon_instructions
+cecefca7-004e-492e-8dc6-741c7cbade35
+facstaff_printing_release_station_instructions
+eJyLjgUAARUAuQ==
+false

@@ -1,0 +1,14 @@
+Title: phil-beardsley208a Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530456
+Version: 2
+---
+
+Department
+Philosophy
+Location
+Beardsley 208A
+Queue Name
+phil-beardsley208a
+Printer Model
+Canon iR-ADV C3826 PS
+facstaff_printing_canon_instructions

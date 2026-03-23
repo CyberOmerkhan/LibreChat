@@ -1,0 +1,35 @@
+Title: Domain Of One's Own
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775744
+Version: 7
+---
+
+Description
+Website creation service
+Access
+Everyone
+Platform
+WEB
+Red
+Description
+Domain of One’s Own
+(DoOO) is a service allows faculty and students working on academic projects for class, research, or e-portfolios to claim a free domain name (web address) and start building their own unique website. You can use such apps as
+WordPress
+, Omeka, and Scalar to create your own website. There are 3 areas our Domain of one’s Own initiative will focus on:
+WEB LITERACY
+:
+Master the tools and technology that make up the web to build your own space online.
+DIGITAL IDENTITY
+:
+Explore the notion of digital identity and how publishing on the web can frame an identity.
+RECLAIM
+:
+Learn to take ownership and control over the content you put on the web instead of handing it to third-party publishers.
+Faculty are encouraged to create a domain both for their own professional use and for the use of public course projects. Domains are not a replacement for Moodle but are rather intended to create space for faculty to:
+Collaborate with students on a digital course and/or research projects
+Develop data visualization projects or blogs
+Showcase your own research and teaching activities
+Curate your professional online presence
+Have your students develop e-portfolios
+Design a landing page for your academic conference or event
+Getting Started
+Use the navigation links below to get set up with your own domain.

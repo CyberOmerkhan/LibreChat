@@ -1,0 +1,14 @@
+Title: evs-fieldhouse505 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530273
+Version: 1
+---
+
+Department
+Environmental Services
+Location
+Fieldhouse 505
+Queue Name
+evs-fieldhouse505
+Printer Model
+HP LaserJet 4240
+facstaff_printing_hp_instructions

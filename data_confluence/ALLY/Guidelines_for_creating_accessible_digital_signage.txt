@@ -1,0 +1,112 @@
+Title: Guidelines for creating accessible digital signage
+URL: https://swatkb.atlassian.net/wiki/spaces/ALLY/pages/90275853
+Version: 2
+---
+
+none
+What is the critical message?
+Real estate on a digital sign is limited, people viewing it may be distracted, and viewing time will be short (anywhere from 5 to 12 seconds). Keep your message succinct.
+As you are thinking about the content of your sign, decide what information is most important and then ask, “How can I communicate this in 140-200 or fewer characters?”
+Use the “Squint Test”
+When evaluating your sign, take advantage of a very
+simple high level technique to help identify the readability of your sign
+.
+Use simple language
+Clear and straightforward language design is crucial for making digital signage accessible to people with cognitive disabilities or those who are not fluent in the language used.
+Avoiding technical jargon, complex sentences, and idiomatic expressions can help ensure your message is
+easily understood
+.
+Use meaningful symbology
+Symbols should also be straightforward. For example, let’s say a storefront accepts credit cards. You could use the following symbol:
+Icon indicating credit cards accepted
+That symbol is ok, but it doesn’t specify what type of credit card payments are accepted. You can enhance by using specific symbols:
+To enhance the sign even further, you can add some color to better convey the message. When adding color pay attention to
+color contrast
+and challenges for those with
+color blindness
+.
+Important:
+Keep in mind that any information conveyed by symbols should have the textual information alongside it as shown below:
+or
+Also, keep in mind that one symbol’s meaning to you may be different to others. Because of this, it’s best practice to use well-known symbols for common actions.
+Font Awesome
+and  the
+wikipedia page on International Organization for Standardization (ISO) symbols
+can help one find common symbols. You may also find
+The Noun Project
+useful - just choose icons that are easy to interpret.
+Audio and video
+Audio captions are beneficial for people with hearing disabilities and essential in noisy and quiet environments.
+Orientation and size
+The vast majority of digital signage screens on campus are 4K and will have a horizontal, or landscape, orientation. Check with the owners of the screens where you will be displaying your message to be sure you are designing for the best display. Below is information on resolution and size:
+Landscape (horizontal):
+16:9 HD signs: 1920 x 1080 px,
+4K signs: 3840 x 2160 px
+Older SD displays: 4:3, 1440x1080 px
+Portrait (vertical):
+9:16 HD signs: 1080 x 1920 px,
+4K signs: 2160 x 3840 px
+Older SD displays: 3:4, 1080x1440 px
+A note about video:
+HD signs use "widescreen" specifications (1080i or 1080p),
+SD signs use “fullscreen" (720p)
+Fonts
+Ideally, font size is not less than 36pt
+Use Sans-serif font families like Arial, Calibri, Century Gothic, Helvetica, Lucida Sans, Tahoma and Verdana
+High Contrast
+Contrast between foreground and background should be at least 7:1. This is also WCAG’s AAA requirement. Below are a few tools that can help you meet this requirement:
+WebAim Contrast Checker
+- Choose colors that pass WCAG AAA
+Venngage Accessible Color Palette Generator
+- choose color combinations that are at least 7:1 or greater
+Coolors
+- Another contrast checker that can suggest new colors to improve contrast and readability. As a plus, users can generate and explore color palettes. Double check your contrast ratio and ensure it is 7:1 or greater.
+Color Blindness
+Keep color blindness in mind
+. A very easy way to check this is to view your proposed sign in greyscale. Avoid red/green on black or dark background, avoid black on red/green backgrounds. The image below, from WebAim, is a good example of using grayscale.
+A subway map with routes shown with red and green colors next to each other.  The same image in grayscale demonstrating how hard it is to distinguish between red and green.
+Credit:
+WebAim
+Images with text overlays
+Avoid overlaying images with text, but if you must ensure that the text is readable. The first image below is an example of what not to do, the second image is the same image that has been faded so the text stands out:
+The image on the left has text that is difficult to read. The image on the right has a fade applied to the image so that the text is much easier to read Credit: CSchoeb
+If you don’t want to dim out the entire image, adding a background to the text will make it even easier to read.
+Image with where a background is applied only to the text, rather than the entire image. Credit: TWeed
+QR Codes
+QR codes are a great way to lead viewers to a place where they can learn more. They can be included in your signage. They provide a quick and easy replacement for web addresses, which can be hard to remember.
+Keep in mind that using QR codes assumes that users have a mobile device. In addition,
+some members of the community may not benefit from QR codes
+.
+We recommend including all critical information on the screen itself, and using QR codes to provide supplemental information.
+Below is a table with recommended sizes based on distance.  For most digital signage, we advise using the middle size, scannable from 4-12 feet.
+Scanning Distance
+QR Code Size Range
+1.5-2.5 feet (45-75 cm)
+2.4-6.3 in (6-15.8 cm) – magazines, catalogs
+4-12 feet (1.2-3.6 meters)
+6.3 – 30 in (16-75 cm) – posters, windows
+12-25 feet (3.6-7.6 meters)
+19-61.3 in (48-157 cm) – billboards
+A Note About Community Members with Low or No Vision
+Important note:
+Only meal and campus event information is available in an alternative accessible format on either
+The Dash
+or
+our campus events page
+.
+Sources & References
+Digital signage accessibility: Top requirements & real-life case studies
+Best Practices for Creating Content for Your Digital Sign
+The Squint Test
+WebAim Contrast Checker
+Venngage Accessible Color Palette Generator
+Coolors
+Font Awesome
+Wikipedia page on International Organization for Standardization (ISO) symbols
+Accessibility and QR codes
+US Access Board, Chapter 7: Signs
+Accessibility and QR codes
+WebAIM
+Enhancing accessibility: How digital signage helps the blind and visually impaired
+Adobe Community Forum on title-safe areas
+Overscan on TVs and projectors from Apple

@@ -1,0 +1,14 @@
+Title: prtsrv-506fieldhouse-canon Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19529876
+Version: 3
+---
+
+Department
+Print Services
+Location
+506 Fieldhouse Lane
+Queue Name
+prtsrv-506fieldhouse-canon
+Printer Model
+Canon iR-ADV 8585/8595 PS
+facstaff_printing_canon_instructions

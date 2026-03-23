@@ -1,0 +1,23 @@
+Title: Hide a Moodle Course from Student View
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20907452
+Version: 8
+---
+
+There may be cases where you'd like to hide your Moodle course from student view. For example, if you have combined multiple sections of a course, you may want to hide the sections you are not using so students won’t get confused. There are also times at the end of the semester where you’d want to hide the course in order to protect any copyrighted material.
+Hide a Moodle course from student view
+Go to your course in Moodle
+Click the
+Settings
+link under the course title
+Under the
+General
+heading, locate the dropdown menu to the right of
+Course visibility
+Choose
+Hide
+Scroll to the bottom of the page and choose
+Save and display
+You may be interested in other Moodle permissions or restrictions
+Making a course available to students or guests
+Hiding selected Moodle items from guests
+Restricting access to items to certain members of the course

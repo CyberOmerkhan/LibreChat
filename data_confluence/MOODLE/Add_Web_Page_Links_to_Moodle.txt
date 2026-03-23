@@ -1,0 +1,23 @@
+Title: Add Web Page Links to Moodle
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20908455
+Version: 4
+---
+
+Add URL links from web pages to Moodle using the URL Resource.
+Turn editing on.
+Locate the section or topic where you will add the link.
+Click
++ Add an activity or resource
+.
+Select URL from the
+Resources
+section.
+In the Adding a new URL page, fill in the required fields.
+Entering meaningful link text in the Name field. The Name field controls how the text of the link will appear on your course page.
+Enter the URL of the web page you wish to link to.
+When you have finished choosing settings, scroll to the bottom of the page and click
+Save and return to course
+.
+Resources
+Meaningful Links | Digital Accessibility
+How to stop links opening new windows with no warning | Knowbility

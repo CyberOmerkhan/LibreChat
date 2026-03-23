@@ -1,0 +1,29 @@
+Title: Sibelius
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775057
+Version: 14
+---
+
+Description
+Musical score writing program
+Access
+Everyone
+Platform
+MAC
+Yellow
+WINDOWS
+Blue
+Installation
+Download the appropriate installer below and double click to start the installation process.
+To complete the installation, e
+nter the following license manager information when prompted to
+Specify License Server
+:
+ash.swarthmore.edu:7312
+Users must be on-campus or connected to
+VPN
+when off campus.
+Download
+Sibelius 2024.6 for macOS
+Sibelius 2024.6 for Windows
+Uninstall
+Instructions for uninstalling Sibelius

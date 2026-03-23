@@ -1,0 +1,14 @@
+Title: prov-parrishe204-color Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19529747
+Version: 4
+---
+
+Department
+Provost's Office
+Location
+Parrish E204
+Queue Name
+prov-parrishe204-color
+Printer Model
+HP Color LaserJet Pro M252
+facstaff_printing_hp_instructions

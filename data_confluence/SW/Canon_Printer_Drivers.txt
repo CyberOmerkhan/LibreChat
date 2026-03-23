@@ -1,0 +1,26 @@
+Title: Canon Printer Drivers
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20774976
+Version: 24
+---
+
+Description
+Canon Printer Drivers
+Access
+Everyone
+Platform
+MAC
+Yellow
+WINDOWS
+Blue
+Windows Installation Instructions
+Click on the Windows menu.  Type
+\\swat-print
+in the search box
+and press Enter. If prompted for credentials, enter GARNET\username in the username field, and your password.
+Find the printer you're looking for.
+For ease of use, the printer naming convention is "department-building and room number", example "its-beardsley110"
+If you do not know, or cannot determine, the name of the printer, please contact the Help Desk for assistance.
+Double-click on the printer (it will install automatically)
+Mac Installation Instructions
+PRIN
+CanonDrivers

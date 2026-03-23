@@ -1,0 +1,43 @@
+Title: AppStream
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20774927
+Version: 32
+---
+
+Description
+Online access to software
+Access
+Everyone
+Platform
+WEB
+Red
+AppStream is a service that makes software available through a web browser.  It can be used to provide software to students that can only be installed on college owned computers or allow Mac users to run Windows software.   You can connect to Google Drive to load and save your working files like you would on a public lab computer.
+Usage
+Select the appropriate link below based on the software you'd like to use.  Log in with your Swarthmore credentials.  If prompted for a role, select the role with the name corresponding to the link below.
+Link
+Software
+AppStream-Public_Stack_v1_20200908
+Logisim, Multisim, Origin Pro
+It will take about 2 minutes to start a new AppStream session.  If all the current sessions are taken, it may take 10-20 minutes to launch additional sessions.
+AppStream deletes all content when you log out.  Save all your files to Google Drive to avoid losing data.
+Connecting to Google Drive
+After you log in for the first time, set up a connection to Google Drive to manage all your working files.  Make sure to save all files to Google Drive because AppStream deletes content when you log out.
+Click the
+My Files
+icon on the top menu bar in your browser window
+In the window that opens up, click the "Add Storage" link and select
+Google Drive
+Log in with your Swarthmore credentials.
+It may take several minutes to establish the Google Drive connection.  Once set up, you will be able to open and save files to Google Drive like a regular folder.  When opening or saving files, look under
+This PC
+to find your Google Drive folder:
+If you have more than a few hundred files in a Google Drive folder, it may take a while to show them all.  If possible, organize your files into subfolders to increase performance of the folder listing.
+Switching Between Programs
+You can open multiple programs simultaneously on AppStream using the
+Catalog
+icon on the top menu.
+When you have multiple programs open in AppStream, switch between them with the
+Windows
+button.
+Troubleshooting
+After logging out, it takes about 5 minutes to shut down an old session and start a new session.  You may need to wait a while before being able to log back in.
+In some rare cases, all the licenses on the system may be busy and it can take up to 20 minutes for a new license to be generated.  If this happens repeatedly, please contact ITS to let us know.

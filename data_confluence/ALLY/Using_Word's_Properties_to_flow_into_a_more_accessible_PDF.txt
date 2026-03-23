@@ -1,0 +1,146 @@
+Title: Using Word's Properties to flow into a more accessible PDF
+URL: https://swatkb.atlassian.net/wiki/spaces/ALLY/pages/148144129
+Version: 8
+---
+
+Creating accessible PDFs can be difficult and tedious. We strongly suggest making your source document as accessible as it can be if you're going to convert to a PDF.
+1
+6
+true
+none
+list
+true
+Identify the Title in Properties
+If you've authored your material in Word, you can use any save function to move a .doc(x) to a PDF and carry over many accessible properties of that file. Before you do this, make sure you've identified the Title in Properties. We use the Office 2019 Suite and Microsoft Office 365 here at Swarthmore, and you can:
+Mac
+select
+File
+,
+Scroll down and select
+Properties
+,
+Choose the
+Summary
+tab,
+Title your file using the
+Title
+field,
+Click
+OK
+.
+Windows
+select
+File
+,
+an
+Info
+screen will open.
+Find the
+Properties
+section.
+Title your file using the
+Title
+field,
+Hit
+return
+or
+enter
+,
+then
+Save
+the document.
+See also:
+View or change the properties for an Office file | Microsoft Support
+Identify the Language
+If you've authored your material in Word, you can use any save function to move a .doc(x) to a PDF and carry over many accessible properties of that file. Before you do this, make sure you've identified the Language the file is in. We use the Office 2019 Suite and Microsoft Office 365 here at Swarthmore, and you can:
+Overall
+If you’d like to identify a particular language you most often write and edit in, follow these steps:
+Open a Microsoft Office program.
+Select
+File
+,
+then scroll down to select
+Options
+.
+In Word Options, choose
+Language
+.
+In the
+Choose your
+Editing Language
+section,
+Choose
+or
+Add
+your editing language.
+In the
+Choose your Display Language
+section,
+select the option to
+Match
+your operating system
+OR choose another language to
+set as default
+.
+Click
+OK
+.
+Now the program will default to the language you selected.
+Mac or Windows
+select
+Review
+,
+Scroll down and select
+Language
+.
+Choose the
+Set proofing language
+and make your appropriate selection.
+Click
+OK
+.
+See also:
+Add an editing or authoring language or set language preferences in Office | Microsoft Support
+If you have specific sections of text in different languages, select that text and indicate the language using the steps above for just that selection.
+Convert the more accessible file to PDF (if you must)
+And then, you can save the Word document as a PDF in multiple ways and the Title will carry over.
+Use Adobe’s Word plugin to produce the PDF.
+Choose
+save as PDF
+from the
+File
+menu.
+Select
+Export
+and
+Create Adobe PDF
+from the
+File
+menu.
+Choose
+Save As
+from the
+File
+menu; select
+PDF
+from the drop down; and save.
+It will not be the most accessible to move .doc(x) files to PDF. There are a number of steps even still that require going into the PDF to edit metadata and tags, for instance.
+See also:
+Creating accessible pdfs [LinkedIn Learning Video]
+Changing the title of an Adobe PDF | Swarthmore ITS Solutions
+Changing the global language of an Adobe PDF | Swarthmore ITS Solutions
+Creating PDFs
+Common Pitfalls
+Thinking that the filename is the title.
+Printing to PDF instead of saving as a PDF.
+Related articles
+Related articles appear here based on the labels you select. Click to edit the macro and add or change labels.
+false
+5
+ALLY
+false
+modified
+true
+page
+label in ( "accessibility" , "microsoft" ) and type = "page" and space = "ALLY"
+accessibility

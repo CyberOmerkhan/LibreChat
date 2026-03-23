@@ -1,0 +1,26 @@
+Title: Camtasia
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775446
+Version: 15
+---
+
+Description
+Computer screen video capture software
+Access
+Faculty & Staff
+Platform
+MAC
+Yellow
+WINDOWS
+Blue
+About
+Camtasia is a screen-recording and video editing software program.  It is useful for recording and editing screencasts.
+Swarthmore has a limited number of licenses for Camtasia available upon request.
+Download
+Download and install a
+free trial of Camtasia from the TechSmith website
+.
+To obtain a permanent license, email
+support@swarthmore.edu
+to request a license code then follow the instructions from the TechSmith website –
+Camtasia: Entering Your Software Key
+.

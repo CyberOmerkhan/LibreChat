@@ -1,0 +1,14 @@
+Title: Trotter 201 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530168
+Version: 4
+---
+
+Department
+Classrooms
+Location
+Trotter 201
+Queue Name
+Trotter_201
+Printer Model
+Dell 5330DN
+student_printing_hp_instructions

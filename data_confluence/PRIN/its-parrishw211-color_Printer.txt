@@ -1,0 +1,20 @@
+Title: its-parrishw211-color Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19529995
+Version: 6
+---
+
+Department
+Information Technology Services
+Location
+Parrish W211
+Queue Name
+its-parrishw211-color
+Printer Model
+Canon iR-ADV C257/357 PS
+Print Release Station
+Yes
+facstaff_printing_canon_instructions
+cecefca7-004e-492e-8dc6-741c7cbade35
+facstaff_printing_release_station_instructions
+eJyLjgUAARUAuQ==
+false

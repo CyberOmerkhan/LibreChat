@@ -1,0 +1,14 @@
+Title: seo-parrishll28 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530296
+Version: 1
+---
+
+Department
+Student Employment Office
+Location
+Parrish LL28
+Queue Name
+seo-parrishll28
+Printer Model
+Generic PCL Printer
+facstaff_printing_hp_instructions

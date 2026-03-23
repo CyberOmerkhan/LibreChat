@@ -1,0 +1,20 @@
+Title: lmc-kohlberg326 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19529986
+Version: 4
+---
+
+Department
+Modern Languages
+Location
+Kohlberg 326 Language Center
+Queue Name
+lmc-kohlberg326
+Printer Model
+Canon MF1643 II Series PS
+Print Release Station
+Yes
+facstaff_printing_canon_instructions
+cecefca7-004e-492e-8dc6-741c7cbade35
+facstaff_printing_release_station_instructions
+eJyLjgUAARUAuQ==
+false

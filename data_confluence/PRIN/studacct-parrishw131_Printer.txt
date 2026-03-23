@@ -1,0 +1,14 @@
+Title: studacct-parrishw131 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19529732
+Version: 3
+---
+
+Department
+Student Accounts
+Location
+Parrish W131
+Queue Name
+studacct-parrishw131
+Printer Model
+Canon iR-ADV 4745/4751 PS
+facstaff_printing_canon_instructions

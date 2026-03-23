@@ -1,0 +1,40 @@
+Title: BeeLine Reader and PDF Viewer
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20776217
+Version: 8
+---
+
+Description
+BeeLine Reader browser extension
+Access
+Everyone
+Platform
+WEB
+Red
+About
+BeeLine Reader’s is a browser-based software suite that helps you read more quickly and easily by applying a line-wrapping color gradient to text. This technique improves visual tracking and focus to enable faster and easier reading. To learn more about BeeLine Reader, visit their
+BeeLine Reader website
+or see features
+in The Atlantic
+and
+on NPR
+.
+BeeLine will work with macOS, Windows, and Linux web browsers.
+Swarthmore has a license agreement that gives all students, faculty, and staff access.
+Installation Instructions
+Important Note
+You
+must
+install the plugins for your browser before registering.
+BeeLine Reader Extension
+Install the extension/plugin for your browser. Supported browsers are:
+Chrome
+Edge
+Note: You may need to allow extensions from other stores.
+Firefox
+Go to the Swarthmore BeeLine Google Doc
+to get the registration link.
+Install the PDF viewer if desired
+Troubleshooting
+If you experience issues, please enter a ticket via our support portal at
+support.swarthmore.edu
+.

@@ -1,0 +1,21 @@
+Title: ABBYY FineReader
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20774938
+Version: 37
+---
+
+Description
+ABBYY FineReader is an all-in-one OCR and PDF software application
+Access
+Everyone
+Platform
+WINDOWS
+Blue
+Location
+Public Areas, Education Materials Center, Libraries
+Download
+Click on the links below to download the installer.
+ABBYY FineReader for Windows
+(License is only available when on the campus network.  Not supported over VPN
+)
+Usage Instructions
+Windows Users

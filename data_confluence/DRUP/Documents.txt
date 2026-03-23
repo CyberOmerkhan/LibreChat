@@ -1,0 +1,90 @@
+Title: Documents
+URL: https://swatkb.atlassian.net/wiki/spaces/DRUP/pages/172818448
+Version: 19
+---
+
+The following section is about including documents on your website.
+NOTE:
+It is recommended that you use the PDF format when including documents to the website. Other document types such as .docs, .ppt, .xls can be added. Whatever document types you choose to add, they must be accessible. Please consult
+Creating Accessible Documents
+to learn more about how.
+7.1) PDFs vs Web Pages
+NOTE:
+Before adding PDFs to your website, you first need to determine if content would be better served as an actual webpage rather than as a PDF.
+While simply converting your source files (Google docs or Word docs) to PDFS can be a convenient way to share information online, it is not always the best option for several reasons:
+PDFs often present major accessibility issues.
+Microsoft has a built-in tool
+for all their products. For the Google suite, everyone on campus has access to
+Grackl
+e.
+Very Important note:
+Departments that share PDFs online are responsible for ensuring the file meets all of Swarthmore’s accessibility standards. Inaccessible PDFs are subject to removal.
+PDFs are harder to update than an HTML page. Updating a PDF involves multiple steps including fixing the original issue in the source file; re-running an accessibility check; re-uploading the PDF; and then updating the link(s) that point to the new file. Updating a webpage has none of these issues.
+Old PDFs will often appear in search results even they may no appear on the website. This can become problematic when out-dated versions of a document appear in a user’s search results. A published webpage has ONLY have the current version.
+To learn more about using the Google and Microsoft Suites to create accessible PDFs, please visit
+Creating PDFs
+.
+When should your content be a PDF?
+Rarely is the simple answer.  There is one circumstance where having a PDF may be the right thing to do:
+Does the document have highly precise formatting that needs to be maintained? If yes, then a PDF.  I
+MPORTANT Caveat:
+Although the intention is to allow users to print a PDF, they still must be fully accessible.
+Otherwise, a webpage might make more sense for your new content.
+7.2) Accessibility Requirements
+All documents hosted on
+Swarthmore.edu
+must meet
+the College’s
+accessibility policy requirements
+. Departments are responsible for ensuring that ALL documents shared online are accessible. Our
+Creating PDFs
+page provides specific how-to’s.  If you still need help or get stuck, please
+submit a ticket
+and request an accessibility consultation.
+NOTE:
+Correcting accessibility issues is the responsibility of the department that shared the document. Inaccessible documents are subject to removal.
+7.3) Hosting Options
+When it comes to hosting your PDFs online, you have two options:
+Drupal
+or
+Google Drive
+. Each offers its own pros and cons. Which option you choose depends on the specific needs of your department:
+Drupal  -
+PDFs can be uploaded directly into the Drupal.
+PROS:
+Quick and easy to use. Will appear in Google search results.
+CONS:
+Drupal provides only with a single folder for hosting documents. Creating sub-folders is not possible. Drupal does not offer any access/permissions settings.
+NOTE:
+Because all Drupal documents are located in a single folder, it is important that you pay close attention to how you name your files as file management ‘best practices’ will be essential in helping keep yourself organized.
+Google Drive -
+Documents can also be uploaded in your department’s Google Drive Folder. Every department has a Google Drive folder (setup by ITS) that you can also use to share documents on your website.
+PROS:
+Google Drive allows you create as many sub-folders as you wish to help you organize your content. You can also use Google Drive’s built-in permissions settings to control access to files or folders such as making the PDF on your website only accessible to “Swarthmore-only” users.
+CONS:
+Requires that you login to Google Drive, upload the PDF to the folder and create a Share link.
+7.4) Uploading a Document to Drupal
+Highlight the text that you wish to be a link to the document. Be sure to include the file type by appending [pdf] to the end of the link. This lets users know they are linking to a document and not to another webpage.
+Click the LINK icon in the upper right corner or use the keyboard shortcut Command K (on a mac)
+A new window will appear next to the text that you originally highlighted. Click the
+“Link to a Document”
+button.
+A new window will appear called “Link to a document”. At the top you choose to upload a new document or choose a document that has been previously uploaded into the website’s documents folder.
+Select the appropriate document from the list using the radio button to the left.
+Then click the
+Select Document
+button located in the lower left corner.
+You will be returned to previous window. Click the Advanced arrow to expand the advanced options.
+Toggle the the “Open in new window” so that it is active/green.
+Click the green check mark to save your changes.
+The text that you originally highlighted will now appear as red and underlined (indicating that it is a link).
+Save the page in DRAFT mode and then check your work.
+NOTE:
+You cannot actually test the link from the editor console. You must first save the page (in Draft mode) or (in Published mode) and test from there. Clicking on the link from within the editor is only open an editing window to allow you to change or remove the link.
+7.5) Uploading a Document to Google Drive
+Learn more about Google Drive by visiting:
+Sharing a File from Google Drive
+Once you’ve followed the steps to upload your document to Google dive, then highlight the text that you wish to be a link to the document. Be sure to include the file type by appending [pdf] to the end of the link. This lets users know they are linking to a document and not to another webpage.
+Click the LINK icon in the upper right corner.
+A new window will appear next to the text that you originally highlighted. Add the Google share link generated by Google Drive to the Link URL field.
+Click the Advanced tab and  Toggle the the “Open in new window” selector so that it is active/green. This will make the link open in a new browser tab.

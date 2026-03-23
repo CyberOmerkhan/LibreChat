@@ -1,0 +1,7 @@
+Title: Make items in a folder open in the same window instead of downloading
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20908439
+Version: 5
+---
+
+Moodle forces all items in a folder to be downloaded.  It is not possible to have the files open in the same window or in a new tab.  This is a security policy.
+If you add the files as individual file resources to the course, rather than adding them to a folder resource, you can control whether the files opens in the browser (if possible) or is downloaded.

@@ -1,0 +1,14 @@
+Title: careers-parrishw157 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19529795
+Version: 2
+---
+
+Department
+Career Services
+Location
+Parrish W157
+Queue Name
+careers-parrishw157
+Printer Model
+HP LaserJet P4010 Series
+facstaff_printing_hp_instructions

@@ -1,0 +1,119 @@
+Title: How to setup a FTP client for use with domains.swarthmore.edu
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775239
+Version: 8
+---
+
+General FTP Settings Quick Reference
+Protocol
+(connection method): FTP-SSL, also known as FTPS*
+Server
+: domains.swarthmore.edu
+Port
+: 21
+Username
+: see step 1 below for how to retrieve
+Password
+: see step 1 below for how to set
+* domains.swarthmore.edu is configured to only accept encrypted FTPS connections. If standard, non-encrypted, FTP is chosen as the connection method your FTP client will not be able to connect.
+FTP (File Transfer Protocol) is the preferred way to manage website content on domains.swarthmore.edu (also known as Domain of One’s Own.) There are many different FTP clients available, for these instructions we will be using
+Cyberduck
+, a free, full featured, Windows and MacOS compatible FTP client. Other popular FTP clients are:
+FileZilla
+(Windows, Mac, and Linux)
+WinSCP
+(Windows)
+Additionally, many website and text editors have FTP clients built in such as Adobe Dreamweaver, BBEdit, and Notepad++.
+Step 1. Setting your domains.swarthmore.edu FTP login credentials
+Every
+domains.swarthmore.edu
+site has an FTP account created by default. To retrieve the FTP username and set the FTP account’s password you will need to
+login to your domains.swarthmore.edu dashboard
+.
+After you have logged in using your Swarthmore username and password, select
+Manage Your Account -> User Information
+from the top menu bar.
+On the
+User Information
+page you will find your site’s FTP account information. In the
+change your FTP password
+prompt, set an FTP password for the account. DO NOT use the same password as your Swarthmore user account,
+see this ITS KnowlegeBase page for password tips
+. Take note of the FTP
+username
+and the newly set
+password
+, you will need this information to configure your FTP client.
+Step 2. Installing the FTP client
+Cyberduck is available for free download here:
+https://cyberduck.io/download/
+Select the correct version for your operating system, MacOS or Windows.
+Once the installer is downloaded, double-click the file to open the .zip archive on MacOS or start the .exe installer on Windows.
+Step 3. Configuring the FTP client to connect your site
+Start the Cyberduck software on your computer and select
+Open Connection
+from the top of the main application window.
+In the connection prompt, enter the following:
+Select
+FTP-SSL (Explicit AUTH TLS)
+as the connection method.
+Enter
+domains.swarthmore.edu
+as the
+Server.
+Provide the
+Username
+that was provided in the previous step.
+Use the
+Password
+that was set in the previous step.
+Once everything is filled out, click Connect.
+General FTP Settings
+Protocol
+(connection method): FTP-SSL, also known as FTPS*
+Server
+: domains.swarthmore.edu
+Port
+: 21
+Username
+: see step 1 above for how to retrieve
+Password
+: see step 1 above for how to set
+* domains.swarthmore.edu is configured to only accept encrypted FTPS connections. If standard, non-encrypted, FTP is chosen as the connection method your FTP client will not be able to connect.
+Step 4. Working with your web files
+When initially connecting to the server you will see the contents of your home directory. This directory is not where your website’s files are located. You will find your website files in the
+public_html
+folder (
+www
+is an alias for public_html.) Double click any of the folders to view its contents just as you would in Windows or MacOS.
+Transferring and moving files in Cyberduck
+The folders and files that you see in the Cyberduck window act like the File Explorer (Windows) or Finder (Mac). Transferring files with Cyberduck simply involves dragging files from one window to another.
+Managing and editing files in Cyberduck
+Right-clicking any of the files in the Cyberduck window, you’ll be given access to Cyberduck’s file management commands.
+The
+Edit With
+command allows you to edit the selected file with a compatible editor installed locally on your computer.  This allows you to update the file’s content with your preferred editor and save the changes directly to the server.
+Advanced method: connect using SFTP
+domains.swarthmore.edu also supports SFTP.  SFTP, SSH file transfer protocol, connects using SSH (secure shell) and is only available for use when connected to Swarthmore’s network or connected to VPN. SFTP uses the same username and password as FTP, but connects over the standard SSH port 22.
+General SFTP Settings
+Protocol
+(connection method): SFTP, also known as SSH file transfer protocol*
+Server
+:
+domains.swarthmore.edu
+Port
+: 22
+Username
+: see step 1 above for how to retrieve
+Password
+: see step 1 above for how to set
+*When working off-campus you will need to connect to VPN to use SFTP.
+When working off-campus you will need to connect to VPN to use SFTP.
+ITS KnowledgeBase instructions on how to use VPN
+.
+Additional resources
+Domain of One’s Own information in the ITS KnowledgeBase wiki
+.
+Instructions on how to use Domain of One's Own file manager, an alternative to using FTP.
+Introduction to FTP from LinkedIn Learning (login required.)
+FileZilla FTP client setup tutorial.
+Setting up Adobe Dreamweaver to connect to remote servers.

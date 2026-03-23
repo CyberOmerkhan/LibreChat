@@ -1,0 +1,25 @@
+Title: ChemDraw Prime
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775015
+Version: 13
+---
+
+Description
+Draw chemical structure and reactions
+Access
+Everyone
+Platform
+MAC
+Yellow
+WINDOWS
+Blue
+Installation Instructions
+Swarthmore College has a site license for ChemDraw Prime. Anyone with a Swarthmore email address is covered by the site license and is able to install ChemDraw Prime on any school or personally-owned computer. To download the latest version follow the instructions below:
+Go to the
+ChemDraw subscription site
+Search for Swarthmore College
+Create an account using your Swarthmore email (or log in if you have an existing account)
+Select your preferred software - there are downloadable and online versions
+Follow the instructions to register and create an account.  Use your Swarthmore email.
+Validate your account after you receive an account setup email.
+Select the products you wish to download or access.
+Swarthmore has a site license for ChemDraw Prime.  You may see other products listed (e.g. ChemDraw Professional), but they are available only to users that paid extra for access.

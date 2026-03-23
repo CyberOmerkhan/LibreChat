@@ -1,0 +1,23 @@
+Title: Google Forms
+URL: https://swatkb.atlassian.net/wiki/spaces/GA/pages/19660848
+Version: 8
+---
+
+You can use Google Forms to create online surveys and quizzes, which can be sent to other people. Check
+Google Support
+often for updates.
+Step 1: Set up a new form or quiz
+Go to
+forms.google.com
+.
+Select “Blank form”.
+A new form will open.
+Step 2: Edit and format your form
+You can add, edit, or format text, images, or videos in a form. Click the links below to see how to perform each task.
+Edit your form
+Create a quiz with Google Forms
+Choose where to save form responses
+Step 3: Share your form with others
+When you are ready, you can
+send your form to others
+and collect their responses.

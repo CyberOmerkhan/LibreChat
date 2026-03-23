@@ -1,0 +1,14 @@
+Title: post-parrishc173 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530029
+Version: 2
+---
+
+Department
+Post Office
+Location
+Parrish C173
+Queue Name
+post-parrishc173
+Printer Model
+Canon MF1643 II Series PS
+facstaff_printing_canon_instructions

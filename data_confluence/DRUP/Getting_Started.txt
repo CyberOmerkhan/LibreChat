@@ -1,0 +1,110 @@
+Title: Getting Started
+URL: https://swatkb.atlassian.net/wiki/spaces/DRUP/pages/182255624
+Version: 36
+---
+
+Lets begin by learning how to login to Drupal, then move onto the learning about how of the Drupal console works, and finally end with how publishing works.
+1.1 Logging Into Drupal
+You only need a web browser to use Drupal. You do not need to download or install any special software. Access to specific websites and profiles on the Swarthmore College website are dependent on your individual user permissions.
+To login to Drupal, type
+swarthmore.edu/user
+into the web browser of your choice.
+Login using your network username and password credentials.
+After logging in, you will be redirected to your Drupal Account Information page.
+Note: You’ll know that you’ve successfully logged into Drupal when you see My Sites and your Name appear in a black menu bar at the top of the browser window.
+1.2 How the Drupal Console Works
+Clicking on your name will open a submenu below the black menu bar with a
+Log Out
+option. You can use this to logout of Drupal when you are done editing content in the system.
+1.2.1 My Sites
+Clicking
+My Sites
+will open a submenu below the black menu bar that has two options:
+View My Sites
+- lists all the websites that you currently have permission to edit.
+View My Profiles
+- lists all the profiles that you currently have permission to edit.
+1.2.2 View My Sites
+Clicking the
+View My Sites
+link will display a list all the websites that you currently have permission to edit. It will also indicate if the website is currently published.
+Websites | Profiles
+- lets you toggle between websites or profiles.
+Search
+- allows you to search the list of websites. This tool helpful if you have access to multiple websites.
+Title | Website Published
+- Displays the site(s) that you have have access to edit. Clicking the site name will take you directly to the website so that you can begin editing it.
+Website Published
+displays if the website is currently published or not.
+Note: You must complete Drupal training before being given editing access to any website. All questions about user permissions should sent to: web-update@swarthmore.edu
+1.2.3 View My Profiles
+View My Profiles
+will list all the Drupal profiles that you have permission to edit. It will also indicate if the profile is currently published. By clicking on one of the names listed, you will be taken directly there and can begin editing the profile information.
+Most Drupal users will normally only have access to their own profile. However, some departments are setup to allow certain members of their department to be able to access other people’s  profiles. This is most commonly used by administrative assistants of academic departments who support faculty with maintaining their online information (such as changing office hours in their directory/profile).
+Websites | Profiles
+- lets you toggle between websites or profiles.
+Search
+- allows you to search the list of profiles. This tool helpful if you have access to multiple profiles.
+Name | Profile Page Published
+- Displays the profile(s) that you have access to edit. This includes your own profile. Clicking the name will take you directly to the profile. The list will also indicate if the profile page is published or not.
+Note: Most Drupal editors will typically have access to only their own profile unless shared access has been setup within your department.
+1.2.4 Toggle Contextual Links & Toggle Menu Bar Orientation
+1.2.5 Toggle Contextual Links
+Located in the upper right corner of the Drupal menu bar is blue button labelled
+Toggle Contextual Links
+. When enabled, the Drupal editor will display a series of pencil icons next to every section or component that can be edited. This allows editors to conveniently edit content anywhere on the page without having to use the menu bar.
+1.2.6 Toggle Menu Bar Orientation
+Located in the upper right corner of the Drupal menu bar is an arrow icon. This will switch the Drupal menu functions from appearing as horizontal bar across the top of the browser to a vertical left column. Switching the arrow in the vertical layout will change the view back to the horizontal layout.
+Menu Bar - Horizontal Orientation
+Menu Bar - Vertical Orientation
+1.3 How Publishing Works
+Every webpage in the Drupal CMS can have a
+Published
+version and a
+Draft
+version, OR be set as
+Unpublished
+.
+Published
+- The published version of the page is what the public sees when they visit the page’s URL. Published indicates that the webpage is live to the world.
+Draft
+- This is working copy (or DRAFT) of a webpage that can only be viewed and accessed by Drupal editors. This is the version that you and your team would work on when making changes to a page. Once the page is ready (and/or has been approved for publication), you would change the state from Draft to Publish to make it become the published live version.
+Unpublished
+-  If you no longer wish a page to be available to the public, then you can change the state to unpublished. Unpublished does not mean delete. The page still exists in the Drupal system and can be restored again. You can think of like your own computer’s recycle bin or trash bin. If anyone from the public goes to an unpublished page, they will get a “Access Forbidden” error message.
+:note:
+atlassian-note
+#E3FCEF
+Unpublish does not mean Delete. If you want a particular webpage to be permanently DELETED, then you must contact the web team.
+Never unpublish your homepage.
+Avoid unpublishing pages that have subpages or dependencies.
+1.3.1 The Publishing Console
+All Drupal publishing is managed in the editor’s right column. Going from top to bottom in the right column:
+Last Saved  / Author
+- This section will tell you when the last time this page was updated and who the original creator of the page was.
+Revision Log Message
+- This section allows you to add notes or comments (to each saved version) that only you and other Drupal editors can see. This can be helpful when there are multiple editors making changes to same page as it lets you and your team keep track of changes.
+Change To
+- This drop down lets you manage the page state/publishing (published, draft, unpublish)
+Menu Settings -
+This advanced feature lets you add a page directly to your navigation.
+Save or Cancel is located outside the right column and to the right of the page title.
+Save / Cancel
+- You can click
+SAVE
+to commit your changes to the system or
+CANCEL
+if you do not wish to save your changes.
+There are two option after you’ve made changes. You can save as a draft or you can publish the page.
+You can also unpublish a page.  Unpublishing a page does not remove it from Drupal, but it does remove it from public view.  If you unpublish a page please contact
+web-update@swarthmore.edu
+, or submit a ticket so we can adjust search engine results.
+Draft
+- To create a draft (or update an existing draft), simply select
+Draft
+in the drop down, and then click
+Save.
+Published
+- To make your webpage (or current draft) the new live version, select
+Published
+in the drop down, and then click
+Save.

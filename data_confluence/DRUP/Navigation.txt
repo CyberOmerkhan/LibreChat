@@ -1,0 +1,95 @@
+Title: Navigation
+URL: https://swatkb.atlassian.net/wiki/spaces/DRUP/pages/173178936
+Version: 4
+---
+
+This section covers how to manage your site’s navigation, including: adding, removing, and changing the sort order of navigational links items.
+5.1) Accessing a Site’s Navigation
+To access a site’s navigation, goto
+1) Site Settings
+. Then click
+2) Manage Navigation
+in the sub-menu bar. This will open the Navigation editor (see 5.2).
+5.2) How the Navigation Editor Works
+Title
+- Is the name that appears at the top of the navigation component. This is always set as the name that appears on your homepage and should not be changed.
+Menu Link
+- This displays all the webpages that appear in your site navigation. It allows you to arrange the sort order of navigational. Hover your mouse pointer over the
++
+icon located to the left of the page name. When the pointer changes to
++
+symbol, then you can click and drag-n-drop the page link to another location in the navigation.
+Enabled/Disabled
+-
+By checking or unchecking this box, you can temporarily hide a navigation item from appearing in the navigation.
+Operations
+- This drop down menu lets you
+Edit
+and existing link name or
+Delete/Remove
+it from the navigation.
+Add Link
+- Allows you to add a new link. See 5.4 (below) for more information about adding links.
+Save
+- You must
+click Save in order for your changes to appear on the website.
+Note:
+All changes made to a site’s navigation are live the moment you click
+Save
+. There is no DRAFT view of navigational changes.
+5.3) Arranging the Sort Order of Navigation
+Moving your mouse  over the
++
+icon will change mouse pointer to a
++
+symbol. You can click and drag-n-drop the list item to another position. List items indented under another list item are subpages (or child pages) to the parent list item above. Drupal can support up to four levels of sub-navigation.
+It is recommended that you keep your navigation to three levels whenever possible. While the fourth level of navigation is available  if needed, keeping the website at three levels is generally preferable.
+For example Biology is using three levels for its navigation:
+1st Level - Biology Homepage
+2nd Level - Academic Program
+3rd Level - Course Majors & Minors
+4th level - (Optional Fourth Level Page Available, If Needed)
+5.4) Adding a Page to Navigation
+Add Link -
+To add a new page/link to the navigation, click the
+Add Link
+button under
+Manage Navigation
+5.4.1
+Link -
+Place your cursor in the
+Link
+field and start typing the title of the page you wish to add (such as "Admissions"). You can also enter an internal path such as /admissions-aid or an external URL such as
+https://swarthmoreathletics.com/.
+5.4.2
+Menu Link Title
+- The menu link title is the link name what displays on the webpage. If you select another page in Drupal in 5.4.1, the menu link title will automatically autofill with the page title. It is generally recommended that you let the link name will match the page that it is linked to if referencing another Drupal page. If you link to an external page (ie a webpage not in Drupal) or to document (pdf), you will need to manually add your own Menu Link Title.
+5.4.3
+Link to a Document
+- To link to a document, click "Link to Document" below to select or upload a document.
+5.4.4
+Enabled/Disabled -
+You set the link as being enabled (live) or disabled (hidden) when added to the navigation.
+5.4.5
+Parent Link -
+Lets you add the link to a specific submenu item when saved. This can be helpful for navigations with lots of items as it minimizes the amount of drag-n-drop required to position a link to the correct position.
+5.4.6
+Save
+- Save your changes
+5.5) Editing/Removing the Navigation Link Name
+You can edit the properties of an existing Link reference by clicking EDIT in the submenu.
+1. Click
+EDIT
+in the drop down menu to edit an existing link
+2. Switch the drop down menu to
+DELETE
+if you wish to remove the link from the navigation
+If you select EDIT, Drupal will open the
+Edit Menu Link
+window (see below)
+5.5.1 Displays the current webpage, external link, or document that this link currently references.
+5.5.2 Displays the current
+Menu Link Title
+5.5.3 Lets change the document link
+5.5.4 Lets you disable/hide or enable/expose the link
+5.5.5 Click SAVE to commit your changes.

@@ -1,0 +1,41 @@
+Title: Leaving Swarthmore: Saving your Files, Calendar, and Email
+URL: https://swatkb.atlassian.net/wiki/spaces/ITSDOCS/pages/20382986
+Version: 22
+---
+
+Instructions for saving your Swarthmore Google Workspace data when leaving the college.
+Note:
+The methods described below are best completed using a laptop or desktop. They can be completed on a mobile device but the process is more cumbersome.
+Make sure your department has access to your Google Drive files
+If you have documents that need to be shared with your department after your leave, copy or move them to your
+departmental folder
+in Google Drive. These files will be available to your colleagues even after your Swarthmore account is deleted. See
+Google Shared Drives
+for more information.
+Save your Gmail and Google Drive files
+Google Data Move Intro
+Google Takeout
+Save Contacts
+Saving a Google Calendar
+To migrate your main calendar, follow these simple steps:
+go into your
+Google Calendar settings
+Find the
+Calendars
+tab.
+Within the Calendars area is an option to
+Export Calendars
+to your hard drive in iCal format.
+Export them to your drive and unzip them if necessary.
+Importing to your personal account
+Go to your external Google account
+it's easiest to have each account logged into Google in a separate browser
+go to
+Settings > Calendar Settings > Calendars
+and create a new one.
+Name it whatever you like, click
+Create Calendar
+,
+Use the import button at the bottom of the page.
+Choose the .ical file corresponding to your main calendar and upload it,
+choosing the empty Google Calendar you just created as its destination. You'll see that it shows up in calendar view.

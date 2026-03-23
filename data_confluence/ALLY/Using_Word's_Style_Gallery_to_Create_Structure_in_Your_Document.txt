@@ -1,0 +1,126 @@
+Title: Using Word's Style Gallery to Create Structure in Your Document
+URL: https://swatkb.atlassian.net/wiki/spaces/ALLY/pages/20382069
+Version: 12
+---
+
+Add both structure and consistency using appropriate headings in the appropriate order in Word. Utilizing the in-program styles, screen readers can easily scan the information, and it provides a visual style to the document. Additionally, authors can easily create such things as a
+Table of Contents
+or
+view an Outline
+.
+Changing text formatting is not the same as changing Style
+Applying font changes to the text does not provide document structure—or information—for screen readers.
+Screen Reader Demo With Headings [YouTube]
+Step-by-step guide to Headings in Word using the File menu
+Navigate to the
+Home
+menu...
+...to find the
+Styles Gallery.
+Selecting and formatting text in the body of the document
+There are a few ways to proceed from here. Selecting and formatting the text in the body of the document is demonstrated below. To request or suggest other demos, please contact
+accessibility@swarthmore.edu
+.
+Select the text to format.
+2787c26b-2968-43fd-912d-948656c4efae
+Title or subtitle
+eJyLjgUAARUAuQ==
+false
+Because this is the "Title," select
+Heading 1
+.
+256b1d93-a46f-40a3-8b06-3a08b8f6b1d6
+Heading 1
+eJyLjgUAARUAuQ==
+false
+Continue through the document using subsequent headings in order, i.e.
+Heading 2
+,
+Heading 3
+,
+Heading 4
+.
+Utilize any of the familiar formatting options, such as the
+Font
+menu
+and the
+Paragraph
+menu
+, to build the desired formatting into these headings, including line and paragraph spacing or first-line indents. Only select one version of each heading to format it; that is, don't bother formatting multiple places in the document to the desired look for Heading 2 or Heading 3.
+Underlines are for links
+Remember, only use underlines for hyperlinks. When people encounter underlines in nearly any electronic format, they are expecting to encounter a hyperlink or link. The only exceptions are where required by academic citations such as
+APA
+,
+Chicago
+,
+MLA
+, etc, though these are becoming rarer.
+Select the
+Heading 2
+text that has been formatted in step 6.
+Click on
+Home
+and navigate to the
+Styles Gallery.
+Right-click
+or
+control-click
+on
+Heading 2.
+Select
+Update Heading 2 to Match Selection
+and be amazed.
+Do this for all subsequent
+headings.
+Here's a snapshot of the document, with indicators for each section and subsection.
+Headings v. Normal text
+Of course, any document will also have normal text. In fact, the majority of most documents will be marked as
+Normal
+text.
+Step-by-step guide to Headings in Word using keyboard shortcuts
+Type the text you want into a Word document.
+Select a sentence/phrase that you want to become a heading.
+Press
+Alt+H
+, then
+L
+,
+and then select the heading you want, such as the Heading 1 button.
+See also:
+Improve accessibility with headings [video]
+Common Pitfalls
+Manually entering space between paragraphs. Build these spaces into each style.
+Indented lines for visual appeal. Making a document look a certain way does not have to come at the price of making it inaccessible. Ask questions such as why the indent is needed? To make a list stand out? If so, use the
+Style Gallery
+to choose a bulleted or numbered list if it is a list of some kind.
+Utilizing
+bold
+or
+italicized
+text to create meaning or make something stand out. Use your words to make something stand out. Ask questions such as why the bolded or italicized text is needed? What is being conveyed? Can it also be conveyed with words? If what one is trying to accomplish with bolded text is to grab attention, it is also useful to put words like "Important:" or "Note:" or "Attention:" in front so that someone who is using a screen reader does have the same audible cue as a reader with sight would.
+Related articles
+Related articles appear here based on the labels you select. Click to edit the macro and add or change labels.
+false
+5
+ALLY
+false
+modified
+true
+page
+label in ( "accessibility" , "accomodation" , "kb-how-to-article" ) and type = "page" and space = "ALLY"
+accessibility
+Contributors
+Many thanks to those of you who have helped define and refine this page over time:
+Tarsia Duff
+Nicté Fuller Medina
+Alexandra Gueydan-Turek
+Michael Jones
+Ruthanne Krauss
+Maddie LeSage
+Joel Frederic Wei-ming Price
+Ellen Ross
+Andrew Ruether
+Lisa Smulyan
+Tracey Stewart
+Jess Stocket
+Corrine Schoeb

@@ -1,0 +1,63 @@
+Title: Schedule a Zoom Meeting
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20910237
+Version: 22
+---
+
+What is Zoom?
+Zoom is a web-conferencing solution that provides both video conferencing and screen-sharing capabilities. Its high-quality and easy-to-use format has made it a great solution for Swarthmore College's web-based video and audio conferencing services.
+All Swarthmore faculty, staff, and students have a Zoom account for video web-conferencing— go to
+https://swarthmore.zoom.us
+and sign in with your Swarthmore College username and password. You can use Zoom to have an audio or video chat with anybody else and you can have up to 300 people in a meeting simultaneously.
+What You Need To Get Started
+An internet-connected computer, laptop, or mobile device
+A webcam, USB computer microphone, headset or earphones (if you’re participating with a laptop)
+A phone (if you’re unable to receive audio via your computer, laptop, or device)
+*If you do not have any of the above-listed equipment Classroom and Conferencing Technologies can provide them for you.
+Schedule a Zoom Meeting:
+Go to
+https://swarthmore.zoom.us
+from your computer or mobile device.
+Click “
+Sign In
+”
+You will be prompted to type in your Swarthmore username and ID.
+After logging in, you will see your “
+My Meetings
+” page where you can schedule and start meetings/ video web- conference calls.
+On the “
+My Meetings
+” page you can create scheduled meetings by clicking “
+Schedule a Meeting
+” at the top right.
+After clicking “
+Schedule a Meeting
+”, you will be prompted to fill out information regarding the details of your meeting including topic, date, and time. For most calls, you want to leave Host and Participants video “
+On
+” and select “
+Both
+” Telephone and Computer Audio for Audio Options.
+Under security, make sure the "
+waiting room"
+or
+"passcode"
+checkbox is selected. The waiting room will require that you actively admit participants to each Zoom meeting, and it will mitigate the risk of being 'Zoom-bombed.'
+Once you’ve filled out all the information, click the “
+Save
+” button at the bottom of the page.
+Once you click “
+Save
+” all your information will be saved. You will now see a link called "
+Invite Link
+". That is the link you will give your participants in order for them to join your meeting.
+You can copy and paste the given link into an email or you can click “
+Copy Invitation
+” next to the link and get a prompt created by Zoom with a pre-made script to email out to your participants. It includes both the URL web link for them to join the meeting and a Toll phone number for them to use if they are unable or choose not to use a computer.
+When you are ready to start your web conference meeting, log back in and click “
+Start
+” on the designated meeting you created. Make sure the Meeting ID matches the URL link for the meeting information you sent out to your participants.  It is also possible to start the media from a link in a calendar event.
+If you haven't already previously downloaded the Zoom app it will automatically download once you start or join a meeting. You can also download it manually. At the bottom of the page and click on
+Download Zoom Client
+Follow the instructions to download and install. For more details, visit Zoom's support page on
+scheduling meetings
+.
+*Remember that anyone you invite into a Zoom meeting does not need to have a Zoom account, they can just attend the meeting with the link you have given them.

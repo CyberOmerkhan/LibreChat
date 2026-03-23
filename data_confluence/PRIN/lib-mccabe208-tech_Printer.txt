@@ -1,0 +1,14 @@
+Title: lib-mccabe208-tech Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530182
+Version: 1
+---
+
+Department
+Libraries
+Location
+McCabe Library 208
+Queue Name
+lib-mccabe208-tech
+Printer Model
+HP LaserJet M227fdw
+facstaff_printing_hp_instructions

@@ -1,0 +1,14 @@
+Title: csps-trotter103-color Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530438
+Version: 1
+---
+
+Department
+Center for Social and Policy Studies
+Location
+Trotter 103
+Queue Name
+csps-trotter103-color
+Printer Model
+HP Color LaserJet CP3525
+facstaff_printing_hp_instructions

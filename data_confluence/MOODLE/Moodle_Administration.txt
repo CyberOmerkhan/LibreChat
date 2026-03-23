@@ -1,0 +1,12 @@
+Title: Moodle Administration
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20906355
+Version: 13
+---
+
+Basic course administration
+Access and restrictions
+More Moodle administration
+Moodle Help Categories
+1
+true
+0

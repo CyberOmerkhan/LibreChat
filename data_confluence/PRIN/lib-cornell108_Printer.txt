@@ -1,0 +1,15 @@
+Title: lib-cornell108 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19529808
+Version: 3
+---
+
+Department
+Libraries
+Location
+Cornell Library 108
+Queue Name
+lib-cornell108
+Printer Model
+HP LaserJet P2055
+facstaff_printing_hp_instructions
+*This printer is restricted to faculty and staff print jobs only.

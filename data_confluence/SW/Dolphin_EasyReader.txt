@@ -1,0 +1,37 @@
+Title: Dolphin EasyReader
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/121831433
+Version: 5
+---
+
+Description
+Free ePub reader
+Access
+Everyone
+Platform
+amazon
+Green
+android
+MAC
+Yellow
+WINDOWS
+Blue
+IOS
+Purple
+About
+Dolphin’s EasyReader reading app connects you to libraries and makes books accessible for readers who are blind, dyslexic, have low vision, or are otherwise print impaired.
+Download
+Download EasyReader for Amazon
+.
+Download EasyReader for Android and Google
+.
+Download EasyReader for MacOS and iOS
+.
+Download EasyReader for Windows
+.
+Installation Instructions
+Open the installer you downloaded from the Dolphin site or Microsoft Apps Store.
+Once the download is complete, click on the installation file.
+Follow installation instructions if necessary.
+Training Materials
+https://yourdolphin.com/EasyReader-Training
+https://yourdolphin.com/support/videos/all?id=23

@@ -1,0 +1,31 @@
+Title: Duo Two-Factor Authentication
+URL: https://swatkb.atlassian.net/wiki/spaces/PS/pages/20382596
+Version: 35
+---
+
+Getting Started with Duo
+Registering for Duo
+Available Devices and How They Authenticate
+Duo for International Travel
+Search for Duo Authentication Help
+Search within Duo Authentication
+DuoPrompt
+INLINE
+Introduction to Duo
+Swarthmore College has partnered with Duo to provide added security to our community’s user accounts. By utilizing this additional security measure when logging into your Swarthmore resources, you and the rest of our community will be better protected against having data accessed by unauthorized sources.
+What is Two-Factor Authentication?
+Using your Swarthmore username and password is currently a way to authenticate your identity and gain access to many services on Campus. Having a Two-Factor Authentication (also known as 2FA or MFA) system adds additional identity verification by requesting
+something you know
+(your username and password) along with
+something you have
+(a mobile phone, tablet, landline, U2F hardware key or passcode). This system allows you to have secure access to your account while providing the most effective method for ensuring your account does not become compromised.
+How do I login with Duo?
+To login after enrolling in the new system, you will enter your Swarthmore username and password as usual when prompted. You will then be redirected to the Duo Authentication prompt. Duo will automatically ask you for the most recent authentication method you have used, but you will also be able to choose a different one by clicking the “
+Other options
+” link.
+How do I add a device or change my settings?
+We strongly recommend you set up at least two devices or "factors"
+(i.e., things you "have"). More is better and provides the greatest flexibility!
+You can add more devices from the Duo Authentication prompt during login. You will also be able to rename and remove devices as needed. For more detailed information, check out our page on
+getting started with Duo
+.

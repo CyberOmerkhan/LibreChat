@@ -1,0 +1,65 @@
+Title: Troubleshooting Your Internet Connections
+URL: https://swatkb.atlassian.net/wiki/spaces/IAA/pages/19661592
+Version: 2
+---
+
+Choose eduroam or ethernet
+Do you have an ethernet cable plugged in for a wired connection, but also have eduroam wireless connected to your device? This can cause some issues with your connection, so if you wish to use a wired connection, turn off wireless on your device. If you want to use a wireless connection, make sure the ethernet cable is not plugged into your device.
+Remove and reconnect to eduroam
+If eduroam isn't working properly you can try removing the eduroam profile from your device and then reconnect. Below are the directions for how to both remove the eduroam profile, and how to connect.
+Remove the eduroam profile
+Windows
+Remove eduroam - Windows
+INLINE
+Click the Wi-Fi button from the bottom-right corner of the taskbar. This opens the list of networks available in your area.
+Right-click on the name of the network that you want to remove.
+Choose the "
+Forget
+" option.
+Mac
+Remove eduroam - Mac
+INLINE
+It is often necessary to remove the eduroam wireless network profile in order to reconfigure it with a new password.
+Select Apple Menu, then choose "
+System Preferences…
+"
+Select "
+Profiles
+"
+Click the eduroam Wireless Network to select, then click the minus ( - ) sign near the bottom right to remove.
+You can now reconnect and reconfigure your machine to the eduroam wireless network.
+iOS
+Remove eduroam - iOS
+INLINE
+Open "
+Settings
+"
+Tap "
+Wi-Fi
+"
+Tap on Eduroam to select it, and tap "
+Forget The Network
+”
+Android
+Remove eduroam - Android
+INLINE
+Open "
+Settings
+"
+Tap "
+Connections
+"
+Tap "
+Wi-Fi
+"
+Find Edurom and tap to select, then tap the gear icon to the right.
+Scroll to the bottom and tap “
+Forget
+”
+Connect to eduroam
+Windows, Mac, and iOS Devices
+eduroam connect
+Additional Devices
+Check out our wireless connection page for instructions on
+how to connect your various mobile devices to eduroam
+.

@@ -1,0 +1,23 @@
+Title: Update Google Chrome
+URL: https://swatkb.atlassian.net/wiki/spaces/GA/pages/19661473
+Version: 3
+---
+
+Update the Google Chrome Browser
+Open Google Chrome on your Windows or Mac computer.
+In the upper right corner, click on the three vertical dots icon.
+In the resulting drop-down menu, select the
+Help
+>
+About Google Chrome
+menu options. Simply opening this page will initiate the update process.
+Once the browser updates, you might need to click on the
+Relaunch
+button to reopen Chrome.
+If the Update Fails
+If the update fails, it is recommended that you download and install the latest version of Chrome. Start by opening this site
+https://www.google.com/chrome/browser
+Click on the
+DOWNLOAD CHROME
+button.
+Open the installer and follow the instructions to complete the installation of Chrome.

@@ -1,0 +1,30 @@
+Title: Manually Adding Zoom Videos to Panopto
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775726
+Version: 2
+---
+
+All Zoom recordings are sent to Panopto automatically.  In some cases, you may want to manually upload Zoom videos to Panopto if you need to customize the video or there is a problem transferring files automatically.
+To automatically share Zoom videos with your students through Moodle, first add the
+Panopto Block
+. This block will create a course folder in Panopto that automatically gives all your students permission to access.
+Instructions
+Log into Panopto (
+panopto.swarthmore.edu
+)
+Go to the folder where you want to create the video.  This could be "My Folder" or, if you have integrated Moodle with Panopto using the
+Panopto Block
+, it would be a class folder.
+At the top of the page, click on Create → Build a Session
+Give the session a name and continue
+In a separate browser window, open the Zoom website (
+swarthmore.zoom.us
+) and go to the "Recordings" tab.  Click on the name of your meeting.  There will be several files available for download.
+Hover over the "Speaker view" file and click the download link
+.  The "Speaker View" video shows the participant who is talking.
+Upload the Speaker video to Panopto as the Primary stream.  Click next.
+To include a gallery view of participants or screen sharing videos, download the "Gallery View" and "Shared Screen" videos from Zoom and upload them as secondary videos.  If you did not use screen sharing or did not have any other participants in the meeting, you may not have the option to download those files.
+If you have an audio transcription file from Zoom, download it and upload it to Panopto under the "Captions" tab.
+It will take some time to process the videos.  It is fine to exit the screen while you are waiting for the video to finish processing
+When done, you can share with your students.  If you have saved the session in your Panopto class folder, it will be shared with Moodle automatically.
+If there are multiple secondary videos, students can switch between them using the video controls:
+For instance, students can select whether to watch a screen share or participant gallery video.

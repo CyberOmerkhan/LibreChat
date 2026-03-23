@@ -1,0 +1,73 @@
+Title: Profiles
+URL: https://swatkb.atlassian.net/wiki/spaces/DRUP/pages/173473815
+Version: 11
+---
+
+All faculty and staff employed at Swarthmore College have a user profile created in the Drupal CMS. The Drupal system uses data from the Banner/ MySwarthmore system to create all faculty/staff profiles. This data includes name, title, department, email, phone, and office location. Faculty and staff have the ability to adjust their MySwarthmore data at
+MySwarthmore
+→ Main Menu → Directory Information
+.
+Drupal also adds some additional fields (office hours, links, interests, and  photo) to everyone’s profiles which are managed through Drupal. Drupal profiles are a combination of both data sets.
+The user data that comes from Banner/MySwarthmore including (name, title, department, email, phone, and office location)
+CANNOT
+be changed in Drupal. In order to update this information, you must login to
+MySwarthmore
+or contact the Provost’s Office (for faculty) or HR (for staff).
+Managing the contact information of others
+Some staff members have been granted access to manage the contact information of others:
+Documentation on managing the primary contact information of others in MySwarthmore
+(requires authentication)
+To request access to manage the primary contact information of others in MySwarthmore, please submit a support ticket at
+https://support.swarthmore.edu
+:student:
+1f9d1-200d-1f393
+🧑‍🎓
+#FFFAE6
+Note:
+Students do not have Drupal profiles.
+8.1 Distinguishing between Drupal data and MySwarthmore data
+1) All the profile/directory  data that appears in Section 1 is managed through MySwarthmore and cannot be edited in Drupal. You must login to MySwarthmore or contact the Provost’s Office (for faculty) or HR (for staff) in order to update this section.
+Name
+Title
+Department(s)
+Email
+Phone
+Office Location
+2) and 3) All the profile/directory data that appears in Section 2 and 3 is managed in Drupal and can be edited in Drupal using the instructions below.
+Photo
+Office Hours
+Links
+Interests
+8.2 View My Profiles
+Clicking
+My Sites
+will open a submenu below the black menu bar that has two options:
+View My Sites
+and
+View My Profiles.
+View My Profiles
+will list all the Drupal profiles that you have permission to edit. It will also indicate if the profile is currently published. By clicking on one of the names listed, you will be taken directly there and can begin editing the Drupal profile information.
+Editing the Profiles of Others
+Most Drupal users will only have access to their own profile. However, some departments are setup to allow certain members of their group to be able to access other people’s profiles. This is most common for administrative assistants of academic departments who often times support faculty with maintaining their online information (such as office hours).
+Learn more about editing profiles.
+View My Profiles is currently selected.
+Allows you to search the list of profiles.
+Displays the profile(s) that you have access to edit. Clicking the name will take you directly to the profile. The list will also indicate if the profile is published or not.
+8.4 Editing Profiles
+Every faculty and staff person has a profile in Drupal. You can choose to make your profile page public or not. Profile pages are more commonly used by faculty to highlight their research. Most staff typically don’t have their profile pages published.
+NOTE: By default all profile pages are UNPUBLISHED unless you
+View Draft / View Published
+- Profiles now have published versions and drafts versions.
+Edit Page
+- Lets you add and edit the content found on the profile page itself as well as control whether you wish to make your profile public (published)  or private (unpublished)
+Profile Settings
+-  lets you add and edit the content that appears in the directory listing (see 8.5 below)
+Page Revisions
+- allows you view and revert to past revisions of a profile.
+8.5 Editing Profile Settings
+Profile Settings
+allows users to manage the information that appears in the staff directory listings. This includes:
+Photo
+Office Hours
+Links
+Interests

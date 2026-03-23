@@ -1,0 +1,40 @@
+Title: Auto Captioning Videos in Panopto
+URL: https://swatkb.atlassian.net/wiki/spaces/ALLY/pages/20381919
+Version: 8
+---
+
+Panopto is our video streaming and lecture capture software that allows you to record audio, video, and your computer screen to create educational videos. It also has an auto-caption feature that may help with creating captions for videos. It may not be the perfect tool for every captioning job, but this feature allows many users to caption their videos with ease.
+Panopto’s first pass at auto-captioning is still less than ideal, so you should proofread the captions and edit them as needed. If the editing job is very large (because the video is extremely long, and/or the automatically-produced captions are extremely inaccurate), Panopto might not be the right tool for the job. If that’s the case, be sure to contact
+Academic Technology
+so we can discuss different options for you.
+This speech-to-text feature will listen to the audio track and automatically produce captions that are synced to the correct time points in your video. You can view these captions and edit them as necessary. For step-by-step instructions on auto-captioning in Panopto, follow the steps below.
+Create or upload your video into Panopto as you normally would. The captioning process occurs
+after
+the video is uploaded and processed.
+In your assigned Panopto folder, hover over the video you want to caption. Click on the
+Edit
+button (notepad & pencil symbol).
+On the left-hand side, select the
+Captions tab
+, and pull down the
+Import Captions menu
+. Select
+Import automatic captions
+.
+You will now see the automatically-generated captions appear along the lefthand side of the screen.
+You can edit each caption by clicking inside the text box. These automatically-generated captions will be around 80% accurate, but all users will need to review these captions and edit where necessary. The captions will also lack punctuation and capitalization.
+If you need to edit the time that a caption appears, click on the
+pencil icon
+for that particular caption. A pop-up window will appear where you can alter the timecode.
+You may listen and watch your video as you edit the captions, clicking the
+pause
+and
+play
+buttons as necessary.
+When you are finished editing your captions, click the
+Apply
+button at the top right-hand corner.
+Panopto uses Artificial Intelligence (AI) to automatically generate captions. Sometimes the AI engine does not have the necessary vocabulary to accurately convert the spoken words into text. We find this issue most often in courses with specialized jargon (e.g. STEM courses).
+If you find this to be the case with your video, please reach out to
+accessibility@swarthmore.edu
+. We will set you up with an alternate captioner to improve accuracy.

@@ -1,0 +1,14 @@
+Title: phy-scicenter187 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530370
+Version: 2
+---
+
+Department
+Physics
+Location
+Science Center 187
+Queue Name
+phy-scicenter187
+Printer Model
+HP LaserJet P3005
+facstaff_printing_hp_instructions

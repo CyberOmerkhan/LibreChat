@@ -1,0 +1,5 @@
+Title: More Moodle administration
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20908126
+Version: 3
+---
+

@@ -1,0 +1,14 @@
+Title: edu-pearson220 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530319
+Version: 1
+---
+
+Department
+Education
+Location
+Pearson 220
+Queue Name
+edu-pearson220
+Printer Model
+HP LaserJet M506
+facstaff_printing_hp_instructions

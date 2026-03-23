@@ -1,0 +1,22 @@
+Title: The Dash
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20774923
+Version: 9
+---
+
+Description
+News and information about campus life at Swarthmore College
+Access
+Everyone
+Platform
+WEB
+Red
+Description
+The Dash
+is produced by the Swarthmore College Communications Office and Information Technology Services (ITS). It is a central location for students and
+employees
+to gain access to a broad range of information and services.
+1
+Feedback
+If you have a comment, a request, or a suggestion for improving the Dash, please send your request to
+dash@swarthmore.edu
+.

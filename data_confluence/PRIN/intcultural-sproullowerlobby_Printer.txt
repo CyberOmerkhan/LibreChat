@@ -1,0 +1,14 @@
+Title: intcultural-sproullowerlobby Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19529896
+Version: 3
+---
+
+Department
+Intercultural Center
+Location
+Sproul
+Queue Name
+intcultural-sproullowerlobby
+Printer Model
+Canon MF1643 II Series PS
+facstaff_printing_canon_instructions

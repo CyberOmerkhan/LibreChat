@@ -1,0 +1,36 @@
+Title: Hiding things in Moodle
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20907432
+Version: 7
+---
+
+It is possible to hide items from students in your Moodle course.
+Hiding a resource or activity
+To hide an item, turn editing on, click on the
+Edit
+link for the item, and then click
+Hide
+to hide the item.
+The title will appear in grey to indicate the item is hidden.
+Revealing a resource or activity
+To make the item visible to students, click on the
+Edit
+link for the item and select
+Show
+.
+Hiding a section (topic or week)
+If you want to hide an entire section (topic or week) you can click on the eye icon on the right hand side of the section box and the entire week will be hidden.  In the course settings you can control if the title of the section is still shown, but the content is unavailable or if the entire section should be completely hidden.
+You can hide a section but make items within the section accessible.  An advanced Moodle technique is to put visible items in a hidden section and link to them from elsewhere in the course.  In this way you can have links to files that aren't shown anywhere else on the Moodle page.
+Conditional Visibility
+You can control the visibility of items or topics by time, grade, and other variables by editing (updating) a resource, activity or section and using the "Restrict Access" settings (usually at the very bottom of the settings page).  The most common use is to make something visible after a certain date.  This can be done by clicking
+Add Restriction ...
+→
+Date
+.  Then set a date.  After this time and date, the material will be visible.  If you want the item to be completely hidden from students, click on the eyeball to the left of date.  If you want the item to show in the Moodle listing, but be greyed out leave the eyeball icon open.
+Verifying the hidden items
+To make sure students can't see the items, you can switch your role to student by clicking on your name in the top right  →
+Switch role to . . .
+→
+Student
+.  The hidden items should not be visible.  Switch back, by clicking on "Return to my normal role" under the
+Switch role to
+area.

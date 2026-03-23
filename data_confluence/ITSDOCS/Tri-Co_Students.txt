@@ -1,0 +1,24 @@
+Title: Tri-Co Students
+URL: https://swatkb.atlassian.net/wiki/spaces/ITSDOCS/pages/20382869
+Version: 9
+---
+
+Setting Up Your Swarthmore Account
+NOTE:
+Swarthmore accounts are only active for the semester in which a Tri-Co student is enrolled in a class. At the end of the semester (when the Registrar rolls the term), the Swarthmore account is deactivated. Tri-Co students will need to go through the Claim Your Identity process each semester that they take classes at Swarthmore.
+Tri-Co students taking classes at Swarthmore will be provided with a Swarthmore account which can be used to log into Moodle, Google Workspace, SwatVPN, campus computers, and any other academic services. Some resources (like Moodle) will not be available right away. After activating your Swarthmore account by claiming your identity, wait 12-24 hours before logging into Swarthmore Moodle.
+After registering for a course, Tri-Co students will receive an email containing their Swarthmore username. Use the student ID number from your home institution to set up your Swarthmore account.
+ID numbers beginning with zeros
+When following the account setup directions below, please remove any leading zeros, if applicable, from your student ID.
+PS
+Set First PW
+Once you have set up your account - if you need help with resetting your password, or if you have forgotten your password, visit our page on
+resetting email and network passwords
+.
+Duo at Swarthmore
+Tri-Co students are automatically enrolled in Duo at Swarthmore. Duo device registration is part of the
+Claim Your Account
+process. You will be prompted to enroll your device before you set up your Swarthmore password. If you need to make changes to your Duo account see our page on
+Duo Two Factor authentication
+.
+Please note that hardware tokens that produce single-use numerical codes for authentication are institution-specific, so you cannot use the hardware token from your home institution here at Swarthmore. If you need to use a hardware token, you would need to acquire one from the Help Desk. You will always be able to add your Swarthmore account to the Duo mobile app, which can also produce single-use numerical codes - with or without Wi-Fi or cell service.

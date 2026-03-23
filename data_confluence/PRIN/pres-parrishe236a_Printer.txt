@@ -1,0 +1,14 @@
+Title: pres-parrishe236a Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530050
+Version: 2
+---
+
+Department
+President's Office
+Location
+Parrish E236A
+Queue Name
+pres-parrishe236a
+Printer Model
+Canon iR-ADV C257/357 PS
+facstaff_printing_canon_instructions

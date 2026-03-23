@@ -1,0 +1,33 @@
+Title: IT Project Requests
+URL: https://swatkb.atlassian.net/wiki/spaces/ITSHELP/pages/59834429
+Version: 5
+---
+
+ITS has an intake process to review IT requests and develop proposals for approved projects.
+Process
+Initial request
+Complete a brief
+ITS Project Intake form
+(requires login to ITS Service Portal)
+Initial ITS Management Review
+ITS management will review the request and assign a liaison.  If the project receives initial approval, the liaison will work with the requestor to develop a project proposal document.
+If the project does not receive initial approval, the ITS liaison will discuss the reasons with the requestor.
+Project Proposal
+The ITS liaison and requestor will work collaboratively to develop a project proposal that will include items such as:
+Project scope
+Security and accessibility reviews.  In many cases this will involve requesting
+Higher Education Community Vendor Assessment
+(HECVAT) and
+Voluntary Product Accessibility Template
+(VPAT) documents from vendors.  These are standard documents that aid in assessing vendor compliance with security and accessibility best practices.
+Data management
+plan
+Integration requirements
+Timeline
+Budget requirements and ongoing costs
+Staffing requirements
+Final Approval
+When complete, the ITS liaison will submit the project proposal to ITS management for review.  The outcome of the review can be:
+Accept the project, set prioritization, and assign resources.
+Reject the project.  The ITS liaison will communicate the decision to the requestor and discuss why the project was not approved.
+Defer project to a later time or ask for more research or information.

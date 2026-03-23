@@ -1,0 +1,14 @@
+Title: dean-parrishe140 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530115
+Version: 5
+---
+
+Department
+Dean's Office
+Location
+Parrish 140
+Queue Name
+dean-parrishe140
+Printer Model
+Canon iR-ADV C5840/5850 PS
+facstaff_printing_canon_instructions

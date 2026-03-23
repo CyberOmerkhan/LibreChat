@@ -1,0 +1,14 @@
+Title: NPPR_Lobby Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19529936
+Version: 1
+---
+
+Department
+Residence Halls
+Location
+New PPR
+Queue Name
+NPPR_Lobby
+Printer Model
+HP LaserJet Series PCL 4/5
+student_printing_hp_instructions

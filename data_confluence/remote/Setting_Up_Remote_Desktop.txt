@@ -1,0 +1,104 @@
+Title: Setting Up Remote Desktop
+URL: https://swatkb.atlassian.net/wiki/spaces/remote/pages/20218089
+Version: 4
+---
+
+Use Remote Desktop to connect to a computer on campus remotely.
+Configuring the Host Computer
+Windows Host
+Follow the instructions on Microsoft's
+Remote Desktop - Allow access to your PC
+page.
+Settings:
+Enable
+Network Level Authentication
+Select the users you wish to grant access to the system.  Only add people that you know and trust.  Do not add all users or large groups of users.  For security, do not allow remote users to be administrators on the computer.
+Note the IP address and name of your computer
+Mac Host
+Follow the instructions on Apple's
+Turn Mac screen sharing on or off
+page.
+Settings:
+Specify
+Only these users
+and select individual users to share the screen.  For security reasons, only add people that you know and trust.  Do not add all users or large groups of users.
+If sharing with a non macOS user, select Computer Settings and check
+VNC viewers may control screen with password
+and enter a secure password.  This password is separate from your regular Swarthmore password.
+Note the IP address and name of your computer.  The IP address is available from
+System Preferences
+→
+Network
+screen.  The IP address consists of 4 numbers separated by periods
+Connecting to a Windows Computer
+Connect to a Windows computer from a Mac
+Download
+Microsoft Remote Desktop
+from the App Store and install
+Connect to the
+Swarthmore VPN
+Open Microsoft Remote Desktop - Click the
+plus (+)
+sign and select
+Desktop
+Type the name or IP address of the computer that you want to connect to and click
+Save
+Log in to the desired computer using
+garnet\username
+and your password - replacing "username" with your Swarthmore username
+Perform DUO authentication (if necessary)
+Connect to a Windows computer from a Windows computer
+Connect to the
+Swarthmore VPN
+Open Remote Desktop Connection
+Click the
+Start
+button
+In the search box, type
+Remote Desktop Connection.
+In the list of results, click
+Remote Desktop Connection
+.
+In the Computer box, type the name or IP address of the computer that you want to connect and then click
+Connect
+Connect to the desired computer using
+garnet\username
+and your password - replacing "username" with your Swarthmore username
+Perform DUO authentication (if necessary)
+Connecting to a Mac Computer
+Connect to a Mac computer from a Mac Computer
+Connect to the
+Swarthmore VPN
+Finder → Go menu → Connect to Server
+Enter
+vnc://<ip address of remote computer>
+(replace <ip address of remote computer> with the actual IP address which consists of 4 numbers separated by periods)
+If prompted, enter your Swarthmore username and password
+Additional documentation from Apple:
+Share the screen of another Mac
+Connect to a Mac computer from a Windows Computer
+Install a "VNC viewer" application such as
+Tight VNC
+or
+RealVNC Viewer
+.  You will only need to install a viewer application, not a server application.
+Connect to the
+Swarthmore VPN
+Start the VNC viewer program of your choice
+Configure the connection (this may only need to be done once)
+Create a new connection for the remote Mac computer
+Use the IP address of the Mac computer as the address.  The IP address consists of 4 numbers separated by periods.
+Use the password specified in the
+System Preferences
+→
+Sharing
+→
+Screen Sharing
+→
+Computer settings screen for the remote Mac
+.  This is not your Swarthmore password.
+Start the VNC connection
+Once connected, you may also need to log into the remote computer with your Swarthmore username and password (or the username and password you normally use to log into the Mac).
+Additional Considerations
+If your computer shuts down due to a power outage or operating system update, you will have to physically turn it on before accessing it remotely again.  You may want to look into seeing if the system can be configured to start up automatically or purchase a battery backup (UPS).
+In most cases, a campus desktop computer will retain the same IP address.  If the system is moved or powered down for more than a day, the IP address may change.  Wired connections retain their IP addresses for longer than wireless connections, so we suggest that any machine regularly used for remote desktop use should be connected to a wired network.

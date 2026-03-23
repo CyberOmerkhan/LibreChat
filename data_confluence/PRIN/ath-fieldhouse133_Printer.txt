@@ -1,0 +1,14 @@
+Title: ath-fieldhouse133 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19529768
+Version: 4
+---
+
+Department
+Athletics
+Location
+Fieldhouse 133
+Queue Name
+ath-fieldhouse133
+Printer Model
+Canon iR-ADV 4745/4751 PS
+facstaff_printing_canon_instructions

@@ -1,0 +1,14 @@
+Title: csps-trotter105 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530572
+Version: 1
+---
+
+Department
+Center for Social and Policy Studies
+Location
+Trotter 105
+Queue Name
+csps-trotter105
+Printer Model
+Generic PCL Printer
+facstaff_printing_canon_instructions

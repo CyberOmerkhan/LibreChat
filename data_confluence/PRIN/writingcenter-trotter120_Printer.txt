@@ -1,0 +1,20 @@
+Title: writingcenter-trotter120 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530232
+Version: 4
+---
+
+Department
+Writing Center
+Location
+Trotter 120
+Queue Name
+writingcenter-trotter120
+Printer Model
+Canon iR-ADV C3826 PS
+Print Release Station
+Yes
+facstaff_printing_canon_instructions
+cecefca7-004e-492e-8dc6-741c7cbade35
+facstaff_printing_release_station_instructions
+eJyLjgUAARUAuQ==
+false

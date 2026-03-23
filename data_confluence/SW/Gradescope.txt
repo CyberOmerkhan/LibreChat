@@ -1,0 +1,25 @@
+Title: Gradescope
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775838
+Version: 5
+---
+
+Description
+Online service for grading paper-based homework and exams
+Access
+Everyone
+Platform
+WEB
+Red
+iOS
+Purple
+ANdroid
+Description
+Gradescope is an online service for grading paper-based homework and exams.  Students scan in their homework or instructors scan student exams and then upload the scanned files to the Gradescope site.  The service provides tools intended to make it easier and faster to grade student work.
+More information is available at
+www.gradescope.com
+.
+Setup
+Instructors can add a Gradescope activity to their Moodle course:
+Connecting Gradescope to Moodle
+Help Documentation
+Gradescope Help Center

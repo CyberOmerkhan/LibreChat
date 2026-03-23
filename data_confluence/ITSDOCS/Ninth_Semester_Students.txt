@@ -1,0 +1,40 @@
+Title: Ninth Semester Students
+URL: https://swatkb.atlassian.net/wiki/spaces/ITSDOCS/pages/20382941
+Version: 7
+---
+
+Ninth-semester students are students who are returning to campus for the Fall semester following their graduation year to complete additional classes or certifications approved by the college.
+2
+Swarthmore Account
+If you are enrolled for a ninth semester at Swarthmore, your account will automatically extend. This means you will continue to have access to your Swarthmore email and all Google Workspace resources related to that as well as all other account resources - such as access to mySwarthmore.
+Once you complete your ninth semester, your student role will be removed when the system is reset for the Spring semester. This typically happens at the beginning of January, but the dates vary. You should prepare to save and export your data as needed
+ahead of time
+. For some tips on how to save your data, you can visit our
+Preparing for Graduation page
+.
+Software
+With the automatic extension of your account, you will also keep access to all software that is made available to students by the college. For a list of the software available for download, please visit our
+Software installation page
+.
+Please note that not all software listed on our installation page is available for students to download. Check the
+Access
+column - if it lists
+Students
+or
+Everyone
+it is available for student download. Make sure to also check the
+Platform
+column to ensure the software is compatible with your computer's operating system.
+Resetting Your Password
+As long as you are enrolled as a student you may be required to change your password periodically, depending on length and complexity. This reset period may fall during your ninth semester. Below are the instructions for resetting your password.
+PS
+Reset PW
+For additional information on resetting your password, please visit our
+Resetting Email and Network Passwords page
+.
+Duo Two-Factor Authentication
+With a current student account, you will still be required to use Duo two-factor authentication when logging in to Swarthmore services. In order to ensure you maintain safe access to your account, please make sure the devices registered with Duo are up-to-date. If you receive a new phone and keep your original number you can easily
+reactivate the Duo app on your new phone
+. For more information about your authentication options, please visit our
+Duo two-factor authentication page
+.

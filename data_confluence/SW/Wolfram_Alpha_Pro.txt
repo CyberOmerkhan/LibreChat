@@ -1,0 +1,32 @@
+Title: Wolfram Alpha Pro
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775339
+Version: 5
+---
+
+Description
+Computational search engine
+Access
+Everyone
+Platform
+WEB
+Red
+Wolfram Alpha
+"is an engine for computing answers and providing knowledge. It works by using its vast store of expert-level knowledge and algorithms to automatically answer questions, do analysis, and generate reports."  Wolfram Alpha was developed by Wolfram Research, the makers of Mathematica.
+Wolfram Alpha is free to use.
+Swarthmore College users have free access to Wolfram Alpha
+Pro
+.
+Pro features
+File uploads – can process your own data
+Interactive output using Computable Document Format (CDF)
+Ability to download output or save as a PDF
+Accessing Wolfram Alpha Pro
+If you haven't already set up a Wolfram ID at the
+Wolfram User Portal
+, do that first.  Use your swarthmore.edu email address as the WolframID.  You will then receive an confirmation email from Wolfram.  Follow instructions in the email to verify your account.
+Visit this link to request your WolframAlpha Pro access:
+https://user.wolfram.com/portal/requestAK/438761e7f2e6c71b96b81dd0e2dea910b58a5f85
+You'll have to check email again for validation.
+Finally, go to
+http://www.wolframalpha.com
+and log-in using your WolframID in the upper right-hand corner.

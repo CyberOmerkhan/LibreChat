@@ -1,0 +1,274 @@
+Title: "Fast Five" Essentials to Preparing Materials
+URL: https://swatkb.atlassian.net/wiki/spaces/ALLY/pages/20382112
+Version: 37
+---
+
+Most employees and students can take advantage of these tools in order to create materials for all constituents—employees, alumni, and students—to work and learn with confidence.
+Table of Contents
+Select the link to be taken directly to that section of the article.
+2
+numbered
+In-program Styles
+Using appropriate headings in the appropriate order in your current program is necessary. They add structure and create consistency in documents and allow screen readers to easily—audibly—scan the information. Additionally, authors can easily create such things as a
+Table of Contents
+or
+view an Outline
+.
+false
+Title or subtitle
+false
+Title or Subtitle
+It is an
+extremely
+rare instance that you will use the style "Title" or "Subtitle" found in the Styles Gallery, Pane, or Pulldown. If you have questions, please reach out to
+accessibility@swarthmore.edu
+.
+Use in-program styles to create structure
+Apple
+Apple's article:
+Create accessible documents, spreadsheets, or presentations with Pages, Numbers, or Keynote
+.
+Toronto Metropolitan University Pressbooks:
+Technique 5: Use Headings
+.
+London College of Communication Teaching Hub:
+Create accessible documents using Apple Pages and Keynote
+.
+Intro to paragraph styles in Pages | Mac help
+.
+Google
+Docs
+Our KB article:
+Google Docs: Changing The Look of Headings and Paragraphs
+Google's Support page:
+Add a title, heading, or table of contents to a document
+b4fbab0d-ed77-403a-ad6f-8d02a9122251
+Exporting Google to PDF is not accessible
+eJyLjgUAARUAuQ==
+false
+Sheets
+Sites
+Slides
+HTML
+In
+HTML
+, titles should exist within the
+<title>
+tag. There should only be one, and it should also be somehow related—and maybe even exactly the same—as the
+<h1>
+. Use headings to establish structure.
+https://swatkb.atlassian.net/wiki/spaces/SW/pages/edit-v2/20775084
+LaTeX
+In LaTeX, title is again metadata. Insert the title in the preamble metadata:
+\title{_}
+.
+Styles that are important to structure in a LaTeX file are:
+Insert sections in document body:
+\section{_}
+,
+\subsection{_}
+, etc.
+Numbered lists in use:
+\enumerate{_} \item \item ... \end{enumerate}
+Bulleted list use:
+\itemize{_} \item \item ... \end{itemize}
+See also:
+Lewis Forbes – LaTeX and Accessibility | University of Edinburgh student intern blog
+LaTeX to HTML via PANDOC | Dan W. Joyce
+Markdown
+In
+Markdown
+, your title exists after a singular hashtag,
+# Title
+. Hashtags give markdown structure. The relationship between Markdown and HTML shows us that
+<h1>
+and
+<title>
+are often the similar or the same.
+Improving the accessibility of your markdown | Smashing Magazine
+7.14 Improve accessibility of HTML pages | R Markdown Cookbook
+HTML, LaTeX, and Markdown to PDF
+It is not accessible to move .tex, .mdz, and .html files to PDF. If you give folks the source document, they can render or convert it to whatever preferred file extension they'd like to read from.
+Microsoft
+Excel
+PowerPoint
+Word
+Our KB article:
+Using Word's Style Gallery to Create Structure in Your Document
+.
+Microsoft's Support page:
+Make your Word documents accessible to people with disabilities
+.
+Our KB article:
+Using Word's Properties to flow into a more accessible PDF
+.
+Moodle
+Atto Editor
+Swarthmore ITS Blog post about using Atto for accessibility features:
+Reach all users with Atto text editor in Moodle [Moodle accessibility, part 2]
+.
+Moodle's
+Atto Editor documentation
+.
+TinyMCE Editor
+false
+Heading 1
+false
+Heading 1
+You will only ever use Heading 1 or
+<h1>
+once in your materials.
+In Microsoft Office, Heading 1 will usually coincide with "Title" in the document’s metadata.
+In HTML,
+<h1>
+and
+<title>
+often have some kind of relationship.
+If you have questions, please reach out to
+accessibility@swarthmore.edu
+.
+Screen Reader Demo With Headings [YouTube]
+Convey Meaning with Words
+How to use words to convey meaning...
+Links
+When providing a link somewhere within your text, be sure to provide context. Screen readers provide users the opportunity to scroll through links, so links such as "click here" and "more" do not make sense to screen readers. You can see examples below:
+Deque University accessibility tips article:
+Use link text that makes sense when read out of context
+WebAIM's article:
+Links and Hypertext: Link Text and Appearance
+Color
+Sometimes the text needs to stand out. Ask a question as to how one might do that. Color is not read aloud, so consider also calling attention to important text with words. For instance:
+Important
+:
+Paper due on April 15th. All late papers will be deducted one grade per day late.
+Note
+: All applicants must sign on line 11 and line 15 in order to have their pay direct deposited.
+Urgent: Pay attention to all directions before handing in this form.
+When using color, always consider the contrast between the background and the text. Use
+WebAIM's Contrast Checker
+or
+Lea Verou's Contrast Ratio Checker
+to ensure all users who have sight can see the information.
+Alt-Text, Captions, Image Descriptions, etc.
+When someone is accessing material with a screen reader, they may not see an image. They will not know the content of an image unless there is some sort of descriptive text in the form of alternative text (commonly referred to as "alt-text"), a caption, an image description, or other form of text that their screen reader has access to. Providing this is necessary for all users to understand the meaning of the material and why an image is being included.
+A best practice is to include a description somewhere in the text so that everyone can see it. This can be very difficult to do. Below are a few resources we have found to be useful:
+The World Wide Web Consortium (W3C)
+Web Accessibility Initiative's (WAI) Images Tutorial
+singles out informative images, decorative images, functional images, images of text, complex images like graphs and diagrams, groups of images, and image maps.
+WebAIM goes more in-depth about images in its
+Accessible Images article
+but covers alt-text quite well in its
+Alternative Text article
+.
+Bojana Coklyat and Shannon Finnegan developed
+Alt Text as Poetry
+, a website and workshop dedicated to helping everyone understand how important alt-text is and also how to develop it.
+From Shannon's website:
+"This project reframes alt text as a type of poetry and creates opportunities to practice writing it."
+Benetech's
+Diagram Center Poet Training Tool
+teaches you when and how to describe images, and lets you practice.
+In-program Accessibility Checkers
+Use in-program accessibility checkers to find and fix
+Adobe Accessibility Checker
+See also:
+Changing the title of an Adobe PDF | Swarthmore ITS Solutions
+Changing the global language of an Adobe PDF | Swarthmore ITS Solutions
+Google
+Install and run Grackle
+for each program (Docs, Sheets, Slides, etc)
+LibreOffice
+Tools
+→ Accessibility Check
+Microsoft Office: How to use Accessibility Review KB article
+Review
+→ Check Accessibility
+Moodle
+Atto Editor
+Expand
+the editor's menu by clicking the down arrow, which is the first button on the left-hand side and top row of the editor. A screen tip will indicate "Show/hide advanced buttons."
+Click on
+the first item in the sixth section, which looks like a stick figure of a person in a circle.
+TinyMCE Editor
+Go to
+Tools → Accessibility Checker
+in the editor.
+Captioning
+Ensure all video has captions and transcripts; ensure all audio has transcripts
+Google Slides
+Microsoft Office 365 PowerPoint
+Please see our article on
+installing and accessing Microsoft Office 365
+if you have questions about the program itself.
+Panopto
+YouTube
+Zoom
+Setting a Language
+Many programs in most operating systems (OS) follow the overall system settings for language. To view your system's settings:
+MacOS:
+Change the language your Mac uses
+Windows:
+Manage the input and display language settings in Windows
+Setting your document or content language is an important indicator to all users
+Apple Pages
+Choose
+File
+from the menu at the top of your screen.
+Select
+Advanced
+.
+Choose the
+Language & Region
+.
+In the dialog box that appears, first choose
+Language
+Important Note:
+According to Apple support page on
+Change a document’s language and formatting
+, changing the language of a document may reset the language and region of your computer. However, we have not experienced this. If you do discover this has happened, go to:
+System Settings,
+Search for Language & Region,
+Change to your preferred language,
+and ensure it is set as the Primary.
+Next, choose
+Region
+.
+Choose
+Okay
+.
+Adobe Acrobat
+Navigate to
+Fix accessibility issues (Acrobat Pro)
+Scroll down to
+Document Language
+or use
+Ctrl+f
+to find "Document Language."
+Follow the instructions to set document-wide language or the language of a part of a document, if it's different from the overall language of the document.
+See also:
+Changing the global language of an Adobe PDF | Swarthmore ITS Solutions
+Microsoft Office | Add an editing or authoring language or set language preferences in Office
+Google Docs | Translate documents or write in a different language
+HTML
+The World Wide Web Consortium's (W3C)
+Declaring language in HTML article
+.
+W3Schools' Language Code Reference
+.
+Additional Resources
+General Course Material Guidelines for Faculty
+from
+Accessibility@Swarthmore
+.
+Google's
+Make your document or presentation more accessible
+.
+Our
+Accessibility File Scan
+is a tool faculty, teaching and instructional staff, and anyone assisting in the preparation of course materials can utilize. These results are not currently viewable by students. This modal usually appears at the top right of every course page.
+Creating Accessible Course Content
+from our partner,
+TeachAccess
+.
+WebAIM Million Report
+documents the accessibility of websites over time.

@@ -1,0 +1,33 @@
+Title: Turnitin Outside of Moodle
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20907150
+Version: 5
+---
+
+Swarthmore faculty can now activate their
+access to the
+Turnitin
+tools outside of
+our
+Moodle
+system
+. Faculty need to
+request accounts
+to Turnitin’s
+Feedback Studio
+by emailing ITS to update their account
+to allow them to submit student work for originality checks outside of the Moodle system. This adds significantly more flexibility for faculty who want to use these tools to help in the evaluation of student produced academic content outside of an assignment within Moodle.
+General Instructions for using
+Turnitin Feedback Studio
+can be found in Turnitin's Help System:
+https://help.turnitin.com/feedback-studio/turnitin-website/instructor/instructor-category.htm
+.
+For faculty who need to check student work outside the context of an assignment in Moodle, the specific tool to use is
+Quick Submit
+.  Instructions for activating this tool are detailed here
+:
+https://help.turnitin.com/feedback-studio/turnitin-website/instructor/making-a-submission/activating-quick-submit.htm
+. And how to
+submit student work with Quick Submit
+is detailed in this separate page:
+https://help.turnitin.com/feedback-studio/turnitin-website/instructor/making-a-submission/submitting-via-quick-submit.htm
+.

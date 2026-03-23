@@ -1,0 +1,22 @@
+Title: Using GitHub Enterprise Gist
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20776410
+Version: 2
+---
+
+GitHub Enterprise has a feature called Gist, which can be used for sharing snippets of code with Swarthmore community members. Using Gist to share a code snippet is superior to sharing by other methods because the code is automatically version controlled and able to be forked by collaborators.
+Getting Started
+Visit
+https://github.swarthmore.edu/gist/
+Log in with your Swarthmore network credentials
+You will be taken to a page for creating new Gist
+Give your Gist a
+description
+Give your Gist a
+filename
+(and file extension if you'd like to have proper syntax highlighting)
+Add your code snippet to the large copy area
+Choose whether to make your Gist
+secret
+(hidden but available to any logged in Swarthmore community members who have the share URL), or
+public
+(visible to any logged in Swarthmore community member).

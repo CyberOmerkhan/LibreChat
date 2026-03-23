@@ -1,0 +1,14 @@
+Title: MaryLyons Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530059
+Version: 1
+---
+
+Department
+Residence Halls
+Location
+MaryLyons
+Queue Name
+MaryLyons
+Printer Model
+HP LaserJet Series PCL 4/5
+student_printing_hp_instructions

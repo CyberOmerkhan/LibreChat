@@ -1,0 +1,10 @@
+Title: Moodle Assignments
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20908145
+Version: 5
+---
+
+Moodle assignments are a good way to collect files from students or conduct a take-home exam.
+Swarthmore’s Moodle Assignment Help Documentation
+true
+Moodle’s Assignment Help Documentation
+https://docs.moodle.org/en/Assignment_activity

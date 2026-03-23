@@ -1,0 +1,31 @@
+Title: NVDA
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775012
+Version: 9
+---
+
+Description
+Screen Reader
+Access
+Everyone
+Platform
+WINDOWS
+Blue
+Location
+McCabe Library (007), Cornell Library  (Room L18), Underhill Library (Room 105)
+About
+NVDA (
+N
+on
+V
+isual
+D
+esktop
+A
+ccess) is a free and open source screen reader for computers running Windows. "NVDA allows blind and vision impaired people to access and interact with the Windows operating system and many third party applications."  For more information visit the
+NV Access website
+.
+Download
+NVDA for Windows
+Getting Started
+Start NVDA by pressing control+alt+n, or choosing NVDA from the NVDA menu under Programs on the Start Menu.
+NVDA User Guide

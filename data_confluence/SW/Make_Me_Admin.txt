@@ -1,0 +1,42 @@
+Title: Make Me Admin
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775826
+Version: 5
+---
+
+Description
+Temporary admin access software
+Access
+Faculty & Staff
+Platform
+WINDOWS
+Blue
+About Make Me Admin
+This tool gives non-admin users the ability to install software in Admin mode temporarily, while letting you run as a ‘normal’ user the rest of the time.
+Requires OS Versions
+Windows 10 or 11
+How to use Make Me Admin on Campus Windows computers
+Launch
+Make Me Admin
+from the Start menu. Select the
+Start
+menu, scroll down and click
+Make Me Admin
+from the list of Apps.
+When the application launches, it will determine whether you already have administrator rights.
+If you do NOT already have administrator rights, the
+Grant Me Administrator Rights
+button will be enabled.
+If you DO already have administrator rights, that button will be disabled, and the
+Remove my Admin Rights
+button will be enabled.
+Click the
+Grant Me Administrator Rights
+button. The application will attempt to add you to the Administrators group on your computer. If this process is successful, the application window will disappear, and a new icon will be added to the notification area on the taskbar, near the date and time. A popup message will appear for a few seconds, indicating that you have been added as a Member to the Administrators group.
+Note:
+This icon will remain in the notification area as long as your administrator rights are active.
+You should now be able to perform administrator task(s): changing computer settings, installing or updating software, etc.
+If you receive a prompt from User Account Control to log in,  enter your user name and password. (garnet\username)
+You have 15 minutes as an Administrator to change your device settings, install or update a program, etc. After the 15 minutes, Make Me Admin will display one final popup message stating you are no longer a member of the Administrators group, and then close completely.
+Note:
+You only need Administrator rights to start an install or update a program. Your install or update will continue to run even after you have been removed from the Administrator group.
+Repeat Steps 1-5 as needed to change computer settings or install or update software.

@@ -1,0 +1,18 @@
+Title: Overleaf
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/471236694
+Version: 1
+---
+
+Description
+Online LaTeX editor
+Access
+Faculty & Staff
+Platform
+WEB
+Red
+Description
+Overleaf is an online, collaborative LaTeX editor. In many cases, the free version is sufficient, but the paid license includes the ability to add more collaborators and integrate with other services such as GitHub, Dropbox, and Zotero.
+Website:
+www.overleaf.com
+Licensing
+ITS maintains a limited number of Overleaf licenses. Submit a help ticket to request a license.

@@ -1,0 +1,34 @@
+Title: Ed Discussion
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775794
+Version: 9
+---
+
+Description
+Online question and answer forum
+Access
+Everyone
+Platform
+web
+Red
+Description
+Ed Discussion is an online discussion site that is often used as a class question and answer forum.  Instructors can post class announcements and students can post questions for other members of the class to answer.
+Ed Discussion posts support video, images, LaTeX, live runnable software code, and image annotations.
+Setup and Use
+Set Up Through Moodle
+Ed Discussion can be added as a Moodle activity. To set up through Moodle, follow the steps below.
+Go to your Moodle course and turn editing on
+Click
+Add Activity or Resource
+in the Moodle section you'd like to add the activity to
+Select
+Ed Discussions
+from the list of activities
+A new Ed Discussion course will be created.  Instructors can sync the Ed Discussion roster to the Moodle participants listing.
+Set Up Through Ed Stem
+To set up an Ed Discussion course separate from Moodle, log in to Ed Discussions at
+edstem.org
+.  Use your Swarthmore email to log in.  Create a new course.  Add users manually or copy and paste student information from a csv or spreadsheet file.
+Help Documentation
+See the
+Ed Help website
+for Instructor and student help (enter your Swarthmore email to authenticate).  Swarthmore licenses the "Ed Discussion" product.  There are other services that we do not license.

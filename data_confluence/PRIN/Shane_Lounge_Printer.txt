@@ -1,0 +1,20 @@
+Title: Shane Lounge Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19529950
+Version: 5
+---
+
+Department
+Residence Halls
+Location
+Parrish 1st
+Queue Name
+Shane
+Printer Model
+Canon iR-ADV 4745/4751 PS
+Print Release Station
+Yes
+student_printing_hp_instructions
+cecefca7-004e-492e-8dc6-741c7cbade35
+facstaff_printing_release_station_instructions
+eJyLjgUAARUAuQ==
+false

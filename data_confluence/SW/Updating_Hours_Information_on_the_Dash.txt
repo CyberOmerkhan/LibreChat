@@ -1,0 +1,104 @@
+Title: Updating Hours Information on the Dash
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20774949
+Version: 24
+---
+
+Getting Started
+Prior to updating hours information, editors will need to perform the one-time task of subscribing to the individual Google Calendars associated with the hours they intend to manage. If an editor is responsible for managing the hours for multiple departments, offices, locations, or services, they’ll need to ensure that they’ve subscribed to each individual calendar.
+Gettings Started Managing Calendars on the Dash
+INLINE
+Subscribing to Calendars (One-time Prerequisite for Editors)
+First, ensure that you are not logged into any Google Accounts aside from your Swarthmore College account.
+Scroll to the bottom of the navigation sidebar and click the
+Login
+button.
+Note: Mobile users will need to first tap the “hamburger” icon, the three horizontal lines stacked on top of one another that are found in the top-left corner, to reveal the navigation.
+After successfully authenticating, the
+Login
+button will be replaced with your initials. Click your initials and then
+Edit Calendars
+to reveal all of the calendars for which you have edit access.
+The
+Calendars
+tab will list each of the Google Calendars you’ve been authorized to edit. Click the
+View Calendar
+button for the calendar to which you are subscribing.
+Note: If you expect to have editing access to a calendar, but you don’t see one listed, please request access by
+submitting a support ticket
+or sending an email to
+support@swarthmore.edu
+.
+A new modal window will open, which displays that calendar’s upcoming events. Click the
+Subscribe to [NAME OF CALENDAR]
+button.
+A new tab will open and take you to Google Calendar. You will be asked to confirm that you’d like to subscribe to the calendar. Once you’ve confirmed your calendar subscription, return to The Dash and follow the next section of documentation.
+Managing Hours Through The Dash
+There are several methods available for managing hours information through The Dash. Each of the options outlined below will require that you first log in:
+Logging in to the Dash
+INLINE
+Scroll to the bottom of the navigation sidebar and click the
+Login
+button.
+Note: Mobile users will need to first tap the “hamburger” icon, the three horizontal lines stacked on top of one another that are found in the top-left corner, to reveal the navigation.
+After successfully authenticating, the
+Login
+button will be replaced with your initials.
+Additionally, you’ll need to be logged into your Swarthmore Google Workspace account. The easiest way to ensure that you're logged in is to authenticate to your
+Swarthmore Gmail
+account.
+Opening the Calendar View Modal Window
+Option 1: Using the Settings Modal
+Using the Settings Modal to Manage Calendars
+INLINE
+Click your initials and then
+Edit Calendars
+to reveal a pop-up modal listing all of the calendars for which you have edit access.
+Find the calendar that you’d like to edit and click the
+View Calendar
+button. This will open a new modal window, which displays that calendar’s upcoming events.
+Option 2: Using the Hours Section
+Note: If your location, department, office, location, or service does not have a calendar entry for the next 7 days, it will not be displayed in the hours section and this method will be unavailable.
+Scroll to the
+Hours
+section of The Dash.
+Find the hours information associated with the department, office, location, or service that you’ll be managing.
+Click the title of the hours information to reveal additional options.
+Select the
+Edit
+Calendar
+button.
+This will open a modal window, which displays that calendar’s upcoming events.
+Editing and Creating Hours Events
+With the calendar view modal window open, you can now begin to manage your events.
+Editing an Existing Event or Event Series
+Navigate to the specific event you’d like to edit.
+Click on the event to display its details. Then click the
+Edit [NAME OF EVENT]
+button.
+This will take you to the Google Calendar event, where you can begin to modify the event.
+Set the event’s start and end times so that they reflect the department, office, location, or service’s hours of operation.
+Save the event by clicking the blue
+Save
+button.
+This event
+This and following events
+All events
+If the event is part of a series it will ask you if you wish to edit:
+Make the appropriate choice for your edit.
+The updated information should display on The Dash shortly after saving.
+Creating a New Event or Event Series
+Click on the blue
+Create New Event
+button. This will initiate the process of creating a new Google Calendar event in whichever calendar you are currently viewing.
+Set the event’s start and end times so that they reflect the department, office, location, or service’s hours of operation.
+Optionally, create a recurring event series by clicking the dropdown that reads “Does not repeat” and setting a recurring schedule for the event. This will be useful for quickly setting up standard hours of operation.
+The updated information should display on The Dash shortly after saving.
+Directly Managing Dash Information through Google Calendar
+INLINE
+Directly Managing events through Google Calendars
+Anything accidentally added to these calendars
+WILL
+display on The Dash. For this reason we recommend sticking to The Dash interface for all but those who consider themselves extremely familiar with Google Calendar. Additionally, we’d like to remind folks that it’s a best practice to log out prior to leaving your computer unattended.
+Because the Dash makes use of Swarthmore College’s Google Workspace, the calendars that you have edit access to will appear in your Google Calendar’s
+My Calendars
+section. This means that you can manage upcoming events directly through Google Calendar on any device that has access to the application.

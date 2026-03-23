@@ -1,0 +1,27 @@
+Title: Drupal
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775573
+Version: 6
+---
+
+Description
+Open-source content management system (CMS), to build and update websites hosted at
+www.swarthmore.edu
+.
+Access
+Faculty & Staff
+Platform
+WEB
+Red
+Description
+Drupal is an
+open-source content management system (CMS), to build and update websites hosted at
+www.swarthmore.edu
+.
+Authentication is required in order to edit Drupal pages.
+Find out more about Drupal in our
+Drupal KB Pages
+.
+Troubleshooting
+Please contact our web team through
+support@swarthmore.edu
+for help with Drupal questions.

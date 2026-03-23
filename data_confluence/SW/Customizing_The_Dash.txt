@@ -1,0 +1,131 @@
+Title: Customizing The Dash
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20776260
+Version: 12
+---
+
+The Dash (
+dash.swarthmore.edu
+) has a number of options which allow you to customize the appearance and display of information.
+Accessing Customization Options
+You can personalize your Dash experience using the Settings panel, which you can open by clicking the gear icon at the bottom-left corner on desktop or in the main menu on mobile.
+Settings are organized into four tabs:
+Sections
+,
+Services
+,
+Theme
+, and
+More
+(for logged in editors,
+Calendars
+will also appear).
+On desktop, click the gear icon in the lower left-hand portion of the page to access customization options.
+On mobile, click the main menu in the upper left-hand of the screen and then the gear icon in the lower right-hand portion of the menu when it opens up.
+Customizing Sections
+Rearrange Sections
+From the Sections tab, click the up or down arrow next to a section name to change its display order on the page. Clicking the
+Reset Sections
+button at the bottom of the tab will reset all of your changes to the default order.
+Click up/down arrows for any section on the
+Sections
+tab to change its order in the Dash.
+Hide or Show Sections
+Click the eye icon next to a section name to hide or show it. To restore a hidden section, open Sections in Settings and click the eye icon again. Clicking the
+Reset Sections
+button at the bottom of the tab will reset all of your changes to the default order.
+Click the hide/show button for any section on the
+Sections
+tab to remove or return it to the Dash.
+Customizing Services
+Reorder Services
+From the Services tab, use the up or down arrow to change the order of items in your Dash menu. Clicking the
+Reset Services
+button at the bottom of the tab will reset all of your changes to the default order.
+Click up/down arrows for any service on the
+Services
+tab to change its order in the Dash.
+Hide or Show Services
+Click the eye icon next to a service name to hide or show it. Hidden services will appear under Hidden Services at the bottom of the tab, where you can restore them. Clicking the
+Reset Services
+button at the bottom of the tab will reset all of your changes to the default order.
+Click the hide/show button for any section on the
+Services
+tab to remove or return it to the Dash menu.
+Customizing the Theme
+Dark/Light Mode
+Switch between light and dark themes from the
+Theme
+tab. If your device’s operating system is set to dark mode, Dash will match it automatically.
+Toggle between light and dark mode on the Theme tab.
+“More” Tab
+From the
+More
+tab in the
+Settings
+modal, you can make changes to the weather widget, the display of filters in various sections, and access the latest updates about the Dash.
+Weather Settings
+Toggle between Fahrenheit and Celsius in the weather widget located in the left-hand navigation.
+Around Campus Settings
+Enable or disable one-sentence descriptions for Around Campus stories.
+Section Filters
+Choose whether to show filtering options for specific sections, including:
+Around Campus
+Hours
+Events
+Scores
+Making any changes to the section settings will cause a red dot to appear at the top of the section settings button. This indicates a custom setting has been enabled.
+Other Customization Options
+Dining Labels
+On the Menus section, click a label in the legend to hide or show it, or click the Hide All Labels button to hide all of the labels in one click. Use the Reset Labels button to restore defaults.
+Dining labels can be toggled from the label key to the right of the menu listings.
+Reset All Customizations
+Click the Reset Settings button at the bottom of the Settings panel to restore default layout, visibility, and theme preferences. Your settings are stored locally per browser/device, so changes on one device won’t affect another.
+Saving the Dash to Your Desktop
+You can install the Dash as a desktop app for quick, app-like access:
+In Chrome or Edge:
+Open the Dash in your browser.
+Click the Install icon (a computer screen with a down arrow) in the right side of the address bar.
+Click Install.
+The Dash will open in its own window and can be launched from your desktop, Start Menu (Windows), or Applications folder (Mac).
+In Safari (Mac):
+Open the Dash in Safari.
+Go to File > Add to Dock.
+Launch it from your Dock any time.
+Once installed, the Dash runs in a standalone window without browser tabs or controls, and it will remember your customizations just like in the browser.
+Saving the Dash to Your Phone (iOS & Android)
+You can add the Dash to your home screen for quick, app-like access on your phone or tablet:
+On iPhone or iPad (Safari):
+Open the Dash in Safari.
+Tap the Share
+button (square with an up arrow).
+Scroll down and tap Add to Home Screen.
+Optionally rename it, then tap Add.
+The Dash will appear on your Home Screen and open in its own, standalone window.
+On iPhone or iPad (Chrome):
+Open the Dash in Chrome.
+Tap the Share icon (… in a box) in the address bar.
+Choose Add to Home Screen → Add.
+(Chrome on iOS uses the same system feature as Safari.)
+On Android (Chrome):
+Open the Dash in Chrome.
+Tap
+⋮
+(menu) in the top-right.
+Tap Install app (or Add to Home screen).
+Confirm Install (or Add).
+You’ll find it on your Home Screen and in the app drawer. It opens without browser UI.
+On Android (Edge or Firefox):
+Edge
+: Open the Dash → ⋮ → Add to phone (or Install app) → Add.
+Firefox
+: Open the Dash → ⋮ → Add to Home screen → Add.
+After adding, the Dash behaves like an app: it remembers your customizations and runs in a standalone window without browser tabs or controls. To remove it later, delete it like any other app/icon on your device.
+Logging in for Editors
+Regular users of the Dash do not need to login in order to use or customize the Dash.
+The login button at the bottom of the left-hand navigation is for editors who have administrative access to edit/add hours information and other content to the Dash.
+For more information about editing parts of the Dash, visit the
+editing hours
+and
+editing menus
+sections.
+Editors can login to the Dash via the Login button in the bottom left-hand of the screen.

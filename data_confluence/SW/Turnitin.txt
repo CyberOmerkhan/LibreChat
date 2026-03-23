@@ -1,0 +1,42 @@
+Title: Turnitin
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775371
+Version: 5
+---
+
+Description
+Online tool for checking for possible plagiarism
+Access
+Faculty & Staff
+Platform
+WEB
+Red
+Description
+Turnitin is an online service for checking whether submitted written work is similar to work seen elsewhere online, or submitted previously to Turnitin as part of other college assignments at Swarthmore or elsewhere.
+Access
+Most faculty access Turnitin checking of their students work through a Moodle
+assignment
+or a Moodle
+Turnitin assignment
+. Faculty who need it can also access Turnitin Quick Submit tools outside of Moodle, for one-off paper checking.
+Using Turnitin outside of Moodle
+To use Turnitin Quick Submit tools, Swarthmore faculty need to activate their
+access to the
+Turnitin
+tools outside of
+our Moodle system by
+sending a request for ITS to activate their account by
+emailing
+support@swarthmore.edu
+or entering a request through the ITS
+ITS Support Portal
+to update their account for such access.
+General Instructions for using
+Turnitin Feedback Studio
+can be found in Turnitin's Help System:
+https://help.turnitin.com/feedback-studio/turnitin-website/instructor/instructor-category.htm
+.
+When faculty need to check student work outside the context of an assignment in Moodle, the specific tool to use is
+Quick Submit
+. Instructions:
+Activating quick submit
+Submit student work with Quick Submit

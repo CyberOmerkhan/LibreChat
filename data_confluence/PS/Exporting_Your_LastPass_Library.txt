@@ -1,0 +1,56 @@
+Title: Exporting Your LastPass Library
+URL: https://swatkb.atlassian.net/wiki/spaces/PS/pages/187072585
+Version: 2
+---
+
+If you have used the Family account benefit and linked your accounts, unlink your personal account
+BEFORE
+exporting passwords from your Swarthmore LastPass account.
+Unlink your personal Family account
+Login to your
+Swarthmore
+LastPass account on a browser (not the browser extension) -
+lastpass.com/vault/
+From the list on the left-hand side, choose “
+Account Benefits
+”
+Under the account linking section, click “
+Unlink account
+”
+You will be prompted for your master password - enter your
+Swarthmore
+account master password
+You will be asked if you want to unlink your account - click “
+Yes
+”
+Your account should now be successfully unlinked and the folder with your personal passwords will be removed from your vault - this may take a moment or require a refresh.
+Note that if you don’t unlink your personal Family account, those passwords will also be migrated into your new Keeper “work” account.
+Export your passwords from LastPass as a CSV
+These instructions will work for both Swarthmore LastPass accounts and the personal family accounts.
+Login to your LastPass on a web browser (not the browser extension) -
+lastpass.com/vault/
+From the link list on the left-hand side of the page, choose “
+Advanced Options
+”
+Choose “
+Export
+” - you will get a brief pop-up across the top of the page that will tell you to check your email to finish the export process
+You should have an email from LastPass (support@lastpass.com) with the subject “
+LastPass Security Notification: Verify export
+”
+Open the email and click the “
+Continue export
+” button. A new tab will appear to let you know it has been successfully verified and you can return to LastPass
+Go back to your LastPass account page (LastPass Vault)
+Choose “
+Advanced Options
+” and “
+Export
+” again
+A new tab will open and you will be asked to enter your master password - enter it and click “
+Submit
+”
+A new tab will open with a pop-up to allow you to choose the location you want to save your file to. Once you have chosen your location, click “
+Save
+”
+You can now close the tab

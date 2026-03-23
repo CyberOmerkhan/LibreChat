@@ -1,0 +1,11 @@
+Title: Setting up Email Clients and Mobile Devices for Google Apps
+URL: https://swatkb.atlassian.net/wiki/spaces/GA/pages/19660824
+Version: 3
+---
+
+true
+BLOCK
+Connecting with Thunderbird, Apple Mail, Outlook, and your mobile device.
+If you will be using a mobile device with Google Workspace please make sure your operating system is up to date and that you are connected to eduroam Wi-Fi.
+true
+simple

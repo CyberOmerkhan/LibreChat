@@ -1,0 +1,97 @@
+Title: How to "Send mail as" your Swarthmore account from a personal Gmail account
+URL: https://swatkb.atlassian.net/wiki/spaces/GA/pages/19660917
+Version: 4
+---
+
+If you have set your Swarthmore email to forward to your personal Gmail account and wish to also send mail as your Swarthmore address from your personal Gmail, here is how you set up the “Send mail as” feature.
+Please Note
+These sections should be completed in the order they appear on this page in order to ensure you successfully set up Send Mail As.
+From Your Swarthmore Account
+Access the Relevant Settings
+Browse to
+https://myaccount.google.com/
+Click
+Security
+on the left
+Enable Less Secure Apps
+Under the
+Less secure app access
+section, click
+Turn on access (not recommended)
+Make sure
+Allow less secure apps
+is set to
+ON
+May be sent to the Swarthmore login page, in order to continue
+Click the left arrow at the top of the window to return to the security settings
+Turn On 2-Step Verification
+Under the
+Signing in to Google
+section, click
+2-Step Verification
+In the new window, click the
+Get Started
+button
+Enter your phone number and click
+Next
+If your phone is already listed there, click
+Continue
+Google will send a message asking you to verify that you signed in from that device
+Next, you will be prompted to add a backup device
+You will get a text message on your phone with a verification code; enter this code (omit the
+G-
+part and just enter the six digits) and click
+Next
+Click
+Turn On
+Click the left arrow at the top of the window to return to the security settings
+Set up an App Password
+Under the
+Signing in to Google
+section, click
+App Passwords
+From the
+Select app
+drop-down, choose
+Mail
+From the Select device drop-down, choose
+Other
+(Custom name)
+Provide a name of your choosing (for example:
+Gmail
+), and click
+Generate
+A 16 character password will appear: This is the password you will need to use (without the spaces) to set up 'Send mail as' (note that if you copy it with CTRL-C, it will not include the spaces).
+Click
+Done
+From Your Personal Gmail Account
+Enable IMAP
+From your inbox, go to your settings by clicking the gear icon in the upper right of the window and then click
+See all settings
+Go to the
+Forwarding and POP/IMAP
+tab
+Under the
+IMAP access
+section, make sure
+Enable IMAP
+is selected and click
+Save Changes
+Setup Send Mail As
+Go to the
+Accounts and Import
+tab
+Under the
+Send mail as
+setting, click
+Add another email address
+Enter your name and Swarthmore email address, and click
+Next Step
+Enter the 16 character password that was generated when you set up an app password
+Click
+Add Account
+, and in the next window click
+Close window
+A confirmation email will be sent to your Swarthmore account; click the link that's in it, then click the
+Confirm
+button in the page it opens

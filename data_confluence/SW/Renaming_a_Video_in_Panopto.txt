@@ -1,0 +1,24 @@
+Title: Renaming a Video in Panopto
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775728
+Version: 1
+---
+
+Frequently, faculty set up recurring meetings in Zoom for their classes that will be saved into Panopto automatically. Unfortunately, by default these recordings will all have the same name. It's fairly easy, however, to change the name of recordings in Panopto, to make clearer which recording goes with which class meeting.
+This is useful no matter the source of your video in Panopto, if it is not named the way you'd like it to appear to your viewers.
+First, log into Panopto (
+https://panopto.swarthmore.edu
+),
+Then, in the left column, click on the
+Browse
+icon (folder) and go the folder that holds the video(s) in question (often your course video folder).
+In that folder you'll see some words pop up (Settings, Share, Edit, Stats and Delete) when you move your mouse over the recording in question.
+You then want to select the "
+Settings
+" button, which will open up a new box in which you can change the video name.
+Click on the Edit button to the right of the name, change it to what you want, then click
+Save
+right below the new name.
+Then you're done, and you can exit that window, by clicking the
+X
+in the upper right corner, as well as Panopto.
+You should then see the new name of the video reflected in what appears in the Moodle Panopto block, or wherever you are linking into that video stream from.

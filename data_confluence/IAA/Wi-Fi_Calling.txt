@@ -1,0 +1,62 @@
+Title: Wi-Fi Calling
+URL: https://swatkb.atlassian.net/wiki/spaces/IAA/pages/19661728
+Version: 4
+---
+
+Summary
+These steps will demonstrate how to enable and use Wi-Fi Calling on a smartphone to make a voice call.  With Wi-Fi Calling, you can make or receive a phone call if you have a Wi-Fi connection in an area with little or no cellular coverage.
+Requirements
+Wi-Fi is turned On
+An
+active wireless Internet connection
+-
+Wi-Fi calling works best when connected to
+eduroam
+A
+Wi-Fi-Calling compatible device with appropriate settings enabled
+- depends on the device manufacturer, OS, and cellular service carrier
+See suggested troubleshooting steps for guidance below
+You might need to enter or confirm your address for emergency services.
+Some devices or cellular carriers may not support Wi-Fi Calling
+In some cases an
+active cellular network signal
+is required to turn on the Wi-Fi Calling, (only afterward it is not needed), and you may need to move to a different physical location to complete this process
+Procedure
+iPhone (iOS)
+Make a call with Wi-Fi Calling
+Turn on Wi-Fi calling in
+Settings > Phone (or Cellular) > Wi-Fi Calling
+. You might need to enter or confirm your address for emergency services.
+If Wi-Fi Calling is available, you’ll see Wi-Fi after your carrier name in the status bar. Then your calls will use Wi-Fi Calling.
+Android
+If in the Settings app -
+Pull down the notification shade and long-press the Wi-Fi icon to enter Wi-Fi settings.
+Scroll to the bottom and select
+Wi-Fi Preferences
+.
+Tap
+Advanced
+.
+Select
+Wi-Fi Calling
+and flip the switch to
+On
+.
+If in the Phone app -
+Enter the Phone app
+Click the “3 vertical dots” menu in the top right corner and then tap Settings
+Toggle the Wi-Fi Calling setting to On.
+Verizon Troubleshooting:
+How to Make Wi-Fi Calls on Android™ Smartphones
+HD Voice FAQs - Enable HD Voice
+Hands-On Interactive Simulator
+- step-by-step tutorial by phone model
+AT&T Troubleshooting:
+Stay Connected with Wi-Fi Calling
+Device Selector Tool
+- step-by-step tutorial by phone model
+Wi-Fi Calling Setup FAQ
+T-Mobile Troubleshooting:
+T-Mobile Wi-Fi Calling FAQs
+Android Troubleshooting:
+How to Enable Wi-Fi Calling on an Android Phone

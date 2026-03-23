@@ -1,0 +1,9 @@
+Title: Assistive Technology Software
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775128
+Version: 9
+---
+
+Click on the link to each software title to find out more information.
+100
+Title
+label = "software" and label = "assistive_tech" and space = currentSpace ( )

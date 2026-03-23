@@ -1,0 +1,51 @@
+Title: MATLAB
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20774999
+Version: 21
+---
+
+Description
+Technical computing software for engineers and scientists.
+Access
+Everyone
+Platform
+MAC
+Yellow
+WINDOWS
+Blue
+LINUX
+Green
+WEB
+Red
+About MATLAB
+MATLAB is a programming language designed for analyzing data, developing algorithms, and creating models and applications.  Swarthmore licenses the
+Full Suite
+which includes all available toolboxes and Simulink.
+MATLAB Online
+In addition to the desktop version of the software, all Swarthmore employees and students have single sign-on access to an online version of MATLAB at:
+matlab.mathworks.com
+.  This can be used from any web browser.  You will log in with your Swarthmore email address and be prompted to set up a MathWorks account profile on first login.
+Installation Instructions
+Swarthmore community members can install MATLAB on any college or personally-owned computer by first creating a MathWorks account and then downloading the appropriate MATLAB installer.
+Downloading MATLAB
+Go to
+mathworks.com/downloads
+.  You will log in with your Swarthmore email address and be redirected to Swarthmore’s SSO.  Select the version of MATLAB that you would like to use.  ITS recommends using the latest version unless you have a reason to use an earlier release.
+Installing MATLAB
+Open the installer you downloaded from the MathWorks web site
+Under the dialog title "Install MathWorks Software", select
+Log in with a MathWorks Account
+When requested, enter your MathWorks account information.
+Continue through the installation wizard
+When prompted to do so, select the
+Academic – Total Headcount
+license type
+Single users or Research Lab Computers: Select the
+Individual
+license
+Departmental or ITS Lab Computers: select the
+Concurrent
+license (see below for more installation instructions)
+You will be prompted which products you would like to install. Most people install MATLAB and all the toolboxes, but you can remove some items to reduce the disk space needed.
+Make sure "License Manager" is unchecked since this is just for server installations.
+Lab Computers
+Since our Matlab license is now SSO-supported, the individual license of Matlab can be installed and used within lab environments. Lab users will log in with their Swarthmore email address and be prompted to set up a MathWorks account profile on first login.

@@ -1,0 +1,14 @@
+Title: ath-matchbox Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19529969
+Version: 3
+---
+
+Department
+Athletics
+Location
+Matchbox
+Queue Name
+ath-matchbox
+Printer Model
+Canon MF1643 II Series PS
+facstaff_printing_canon_instructions

@@ -1,0 +1,38 @@
+Title: Wordpress - Domain of One's Own
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775123
+Version: 17
+---
+
+Domain of One's Own offers a few different frameworks that allow you to create a website.  This page focuses on Wordpress.
+Description
+WordPress is an open-source publishing platform that can be used for setting up a blog or website. It is one of the most popular publishing platforms on the web. After you've installed the WordPress application by following the instructions below, use the following links to help navigate how to further set up your WordPress website.
+Installing WordPress
+Installing WordPress on your own domain can be done by following these simple steps:
+Once logged at
+https://domains.swarthmore.edu/
+you’ll be at the homepage of your cPanel (control panel). Look in the first section,
+Applications
+, then click the
+WordPress
+button.
+This page gives you more information about WordPress software. To begin the install click
+Install this Application
+in the upper right-hand corner.
+On the next page, the installer will ask for some information about this install. The first thing you’ll want to decide is where to install it. For example, you could install it in a subdomain you have created by selecting it from the dropdown menu. You also have the option of installing WordPress in a subfolder by typing in the folder name in the
+Directory
+field. Click here for
+more information about subdomains and subdirectories
+.
+By default the installer will automatically backup your website and update it anytime a new version comes out. While we recommend you keep this option, it is possible to complete only minor updates or turn them off completely. The installer will also create a database for you automatically, but if you’ve already created one for this website you can choose
+Let me manage the database settings
+and enter the details. Finally, you’ll need to
+create an initial username and password
+for the WordPress install. Enter that information in the final section and click
+Install.
+The installer will take just a few moments to install WordPress and a progress bar will keep you updated. When it is complete you will see a link to your new WordPress site (the first one without the /wp-admin end) as well as a link to the backend administrative section for your WordPress site (the one ending with
+/wp-admin
+) leads you to the admin login page. This is where you login in to edit your website.
+The last link (
+wordpress.org/support
+) takes you to WordPress support page for additional help.
+Congratulations, you’ve now installed WordPress! Now you can start customizing it with themes, plugins, and more.

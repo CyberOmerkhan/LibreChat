@@ -1,0 +1,28 @@
+Title: Mathematica
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775436
+Version: 10
+---
+
+Description
+For technical and scientific calculations
+Access
+Everyone
+Platform
+MAC
+Yellow
+WINDOWS
+Blue
+LINUX
+Green
+WEB
+Red
+Installation Instructions
+To install Mathematica, log into the
+Wolfram Products Page
+with your Swarthmore email address. You will be prompted to log in with your Swarthmore credentials. From there you can download the installer package.
+You will also use your Swarthmore email address to log into Mathematica once it is installed.
+Mathematica Online
+To access Mathematica online using a browser:
+Go to
+http://mathematica.wolframcloud.com
+to start using Mathematica online.   Log in with your Swarthmore credentials.

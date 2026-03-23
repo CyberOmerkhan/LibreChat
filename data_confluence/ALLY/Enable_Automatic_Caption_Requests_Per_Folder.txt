@@ -1,0 +1,29 @@
+Title: Enable Automatic Caption Requests Per Folder
+URL: https://swatkb.atlassian.net/wiki/spaces/ALLY/pages/20381925
+Version: 4
+---
+
+Panopto is our video streaming and lecture capture software that allows you to record audio, video, and your computer screen to create educational videos. It also has an auto-caption feature that may help with creating captions for videos.
+You can now set up your entire Panopto course folder to create auto-captions by default. If enabled, this will automatically caption any new recordings that are added to the folder. It will not go back and request captions for sessions already in that folder.
+For step-by-step instructions on enabling automatic caption requests per folder follow the steps below.
+Browse to the folder you wish to set up automatic captions for and click on
+“Menu”
+(3 vertical dots) >  "
+Settings
+" (gear icon) in the top right-hand corner. Sessions that are automatically captioned due to this setting will always send full raw streams, rather than edited sessions.
+Please note: you will need to repeat this process to enable automatic captions for each subfolder.
+Click the "
+Settings"
+tab and choose the  "
+Automatic Machine Captions"
+in the drop-down under
+“Captions”
+.
+Note
+Panopto’s first pass at auto transcribing is
+not
+100% accurate so you should proofread the auto-captions and
+edit
+them when needed. If the editing job is very large (because the video is extremely long, and/or the automatically-produced captions are extremely inaccurate), auto-captions might not be the right choice. If that’s the case, be sure to contact
+support@swarthmore.edu
+so we can discuss different options for you.

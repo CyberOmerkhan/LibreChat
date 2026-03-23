@@ -1,0 +1,6 @@
+Title: WeBWork in Moodle
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20908331
+Version: 3
+---
+
+WeBWorK is an online math homework system.  It can be integrated with Moodle to make it easier to manage enrollments.

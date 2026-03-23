@@ -1,0 +1,72 @@
+Title: Gmail Categories and Inbox Tabs
+URL: https://swatkb.atlassian.net/wiki/spaces/GA/pages/19661188
+Version: 3
+---
+
+Gmail allows you to separate your Inbox into several categories that appear as tabs. These categories are Primary, Social, Updates, Forums, and Promotions. These allow Gmail to filter different emails into different tabs, which then allows you to focus your attention on each tab as needed. Gmail automatically sorts emails into categories for you, whether you choose to use the tabbed view or not.
+How to Turn on the Category Inbox Tabs
+Click on settings and then
+See all settings
+.
+Click the
+Inbox
+tab
+.
+Make sure
+Inbox type
+is set to
+Default
+.
+Check the box next to the category or categories you wish to have an inbox tab for.
+Click
+Save changes
+at the bottom of the page.
+Available Categories
+Primary
+- Person-to-person conversations and messages that don’t appear in other tabs.
+Social
+- Messages from social networks, media-sharing sites, online dating services, and other social websites.
+Promotions
+- Marketing, interests, social and political causes, and other promotional emails.
+Updates
+- Personal, auto-generated updates including confirmations, receipts, bills, and statements.
+Forums
+- Messages from online groups, discussion boards, and mailing lists.
+Sometimes emails you expect to see in one tab appear in another. Below are some ways that you can update your settings to make sure emails are filtered into the correct categories.
+Teach Gmail to Move Emails to a Different Tab
+Right-click on the message and select
+Move to tab
+, then choose the category you want to move it to.
+A message will appear in the bottom left-hand corner of the window asking if this should be done for all email from that address -- click
+Yes
+.
+Create a Filter That Moves Emails to a Different Tab
+From within the email, click the icon with three vertical dots and select
+Filter messages like these
+.
+Make sure the
+From
+field has the correct address and click
+Create filter
+.
+Check the
+Categorize as
+box and select the category you want to move it to.
+You can also check
+Apply filter to [#] matching conversations
+box to have existing emails re-categorized.
+Click
+Create filter
+.
+Turn Off Unwanted Tabs
+You can turn off one or all tabs. The content that was included in each tab you turn off gets put into your Primary tab. If you turn off all tabs, all emails will go into your Primary tab and be available when you view your Inbox.
+Click on settings and then
+See all settings
+.
+Click the
+Inbox
+tab.
+Uncheck the category or categories you would like disabled.
+Click
+Save changes
+at the bottom of the page.

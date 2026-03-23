@@ -1,0 +1,14 @@
+Title: mus2-langmusic401 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530287
+Version: 1
+---
+
+Department
+Music
+Location
+Lang Music 401
+Queue Name
+mus2-langmusic401
+Printer Model
+HP LaserJet 4050 Series
+facstaff_printing_hp_instructions

@@ -1,0 +1,14 @@
+Title: fac-services-workbox Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19529998
+Version: 1
+---
+
+Department
+Facilities Management
+Location
+Services Building
+Queue Name
+fac-services-workbox
+Printer Model
+HP LaserJet 400 M401dne
+facstaff_printing_hp_instructions

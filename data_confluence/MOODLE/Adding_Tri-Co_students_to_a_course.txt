@@ -1,0 +1,9 @@
+Title: Adding Tri-Co students to a course
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20908255
+Version: 5
+---
+
+All Tri-College (Bryn Mawr and Haverford) students enrolled in a Swarthmore course receive Swarthmore usernames and passwords that they use to log into Swarthmore's Moodle site.  If a Tri-Co student is officially enrolled in your course, they will automatically be added to your Moodle course roster.  To access your course, the Tri-Co student should log into Swarthmore's Moodle site (
+https://moodle.swarthmore.edu
+) with their Swarthmore username and password.
+To add a Haverford or Bryn Mawr student who is not enrolled in a Swarthmore class, you can turn on guest access to your course.  Most faculty set up a guest password to protect the contents of their Moodle course.  For more information, see

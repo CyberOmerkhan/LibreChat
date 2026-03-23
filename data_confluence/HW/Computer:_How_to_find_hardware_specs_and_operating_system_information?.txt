@@ -1,0 +1,63 @@
+Title: Computer: How to find hardware specs and operating system information?
+URL: https://swatkb.atlassian.net/wiki/spaces/HW/pages/20217891
+Version: 9
+---
+
+2
+Windows Computer System Information
+RAM, processor, hard drive storage, and operating system information in Windows 10
+Select the
+Start
+button (bottom-left corner)
+Go to
+Settings
+(gear icon)
+Go to
+System
+Go to
+About
+(bottom of left-side navigation) for processor, RAM, and operating system information
+About section of Windows system settings lists computer name, version of Windows 10, processor, and installed RAM.
+Hard drive storage information in Windows 10
+Select the
+Start
+button (bottom-left corner)
+Go to
+Settings
+(gear icon)
+Go to
+System
+Go to
+Storage
+in left-side navigation for hard drive information
+Storage section of Windows system settings displays hard drive information including amount used and how much remains free.
+Apple Computer System Information
+RAM, processor, and operating system information in macOS
+Click on the Apple icon  in the top-left corner of your screen,
+Choose
+About This Mac
+.
+You should see the macOS name, such as macOS Big Sur, followed by its version number. The
+Overview
+tab includes
+Memory
+(RAM) and
+Processor
+information.
+Overview tab of About This Mac lists Mac version, processor, memory (RAM), graphics card, and serial number.
+Hard drive storage information in macOS
+Click on the Apple icon  in the top-left corner of your screen,
+Choose
+About This Mac
+.
+You should see the macOS name, such as macOS Big Sur, followed by its version number. The
+Overview
+tab includes
+Memory
+(RAM) and
+Processor
+information.
+Go to the
+Storage
+tab for hard drive information
+Storage tab displays hard drive size and available space. Manage button allows you to free up space.

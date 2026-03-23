@@ -1,0 +1,14 @@
+Title: eng2-lpa202 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530544
+Version: 1
+---
+
+Department
+English
+Location
+Lang Performing Arts Center 202
+Queue Name
+eng2-lpa202
+Printer Model
+HP LaserJet 400 M401
+facstaff_printing_hp_instructions

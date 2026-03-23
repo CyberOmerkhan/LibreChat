@@ -1,0 +1,30 @@
+Title: Snagit
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775282
+Version: 5
+---
+
+Description
+Quick Computer screen video capture software
+Access
+Faculty & Staff
+Platform
+MAC
+Yellow
+WINDOWS
+Blue
+When you need to quickly capture your screen, including capturing all of a long or wide web page, or create a short video, or even convert a short video into an animated GIF without a lot of fuss, then
+Snagit
+is the tool for you.
+Installation Instructions
+Windows:
+Download the package to your desktop and double click to install.
+Mac:
+Download the appropriate package to your desktop and unzip.
+After either installation, you will need to provide a license code and follow the following instructions:
+How to enter your Snagit License Key:
+https://support.techsmith.com/hc/en-us/articles/360021040791-Snagit-Entering-Your-Software-Key
+Download
+Contact
+support@swarthmore.edu
+for a link to the software download and a license code.
+ITS tracks installations of this software due to licensing restrictions.

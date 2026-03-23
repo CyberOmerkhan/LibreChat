@@ -1,0 +1,14 @@
+Title: store-inn-color Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19529836
+Version: 1
+---
+
+Department
+Swarthmore Campus and Community Store
+Location
+The Inn at Swarthmore
+Queue Name
+store-inn-color
+Printer Model
+HP Color LaserJet CP3525
+facstaff_printing_hp_instructions

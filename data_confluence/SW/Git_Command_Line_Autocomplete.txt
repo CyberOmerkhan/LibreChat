@@ -1,0 +1,7 @@
+Title: Git Command Line Autocomplete
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775970
+Version: 3
+---
+
+By default, Git does not autocomplete commands and branch names.  If you have installed Git on Windows, autocomplete is available if you run the "Git Bash" program.  For OS X and Linux, you can install the auto-complete tools and set up your environment to load them automatically.  See this page for instructions:
+https://git-scm.com/book/en/v2/Appendix-A:-Git-in-Other-Environments-Git-in-Bash

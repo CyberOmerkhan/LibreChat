@@ -1,0 +1,44 @@
+Title: LibreChat
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/437682218
+Version: 4
+---
+
+Description
+Artificial intelligence chatbot service
+Access
+Everyone
+Platform
+WEB
+Red
+LibreChat is currently in beta testing, meaning there may still be bugs that need to be resolved. If you encounter any issues, report them at
+support.swarthmore.edu
+.
+Description
+LibreChat
+is an online service that provides a secure interface to a variety of Artificial Intelligence (AI) language models, including ChatGPT and Claude.
+All the models used are private and none of them train on data entered to the site.
+This service requires
+VPN when off campus
+.
+Getting Started
+Must be on campus or using SwatVPN
+Go to
+librechat.ai.swarthmore.edu
+Log in with your Swarthmore Google account
+Orienting to the screen (see the graphic below for a visual representation):
+On the upper left you will find a dropdown of the different AI companies
+To the right of that, another dropdown allows you to select the specific AI model you’d like to experiment with.
+At the bottom of the page is where you enter your prompt.  A prompt can be entered as text or you can speak your prompt using the microphone at the far right of the prompt field.
+Start experimenting by entering text in the chat box
+Models
+LibreChat provides several different AI models from big companies. This list changes frequently. Some good starting options as of April 2025:
+For ChatGPT: use OpenAI → select model
+For Claude: use AWS Bedrock → us.anthropic.claude (select specific Claude version)
+For DeepSeek: use AWS Bedrock → us.deepseek  (select specific DeepSeek version)
+Use Cases and Ideas
+Ask the AI tool to generate ideas for a title of a blog post or project
+Copy and paste some text and ask to refine or simplify
+Upload a file and ask to generate a summary.
+Other Notes
+There are additional features such as Agents, Assistants, and Plugins that aren't fully configured by ITS yet and may not work.
+LibreChat tools can create diagrams and provide code but cannot generate files such as image files or PDFs. You can upload files and the AI can interpret them, but it cannot generate new files.

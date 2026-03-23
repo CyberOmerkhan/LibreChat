@@ -1,0 +1,29 @@
+Title: Installing Omeka Plugins
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20776450
+Version: 1
+---
+
+There are a variety of plugins that enable additional functionality in Omeka. All the plugins available for Omeka and their descriptions can be found
+on this page
+.
+To install an Omeka plugin you have downloaded as a zip file, open up your
+cPanel Dashboard
+and click on the
+File Manager
+. You can find the File Manager under ‘Files’ or by typing “File Manager” in the upper-right search bar.
+Go to the
+public_html > omeka > plugins
+folder by clicking on the folder icons in the file menu, or by typing “public_html/omeka/plugins” into the navigation bar at the top and clicking ‘Go’.
+Next, you will need to upload the plugin zip file into the plugins folder. Select the
+Upload
+option in the top menu to open up a new tab where you can upload the file. When the upload is complete, click the ‘Go back to home/yourdomain/public_html/omeka/plugins’ link at the bottom of the page to return to the File Manager. You will see that the zip file has appeared in the plugins folder.
+Make sure the zip file is selected (it should be highlighted in blue), then click
+Extract
+from the menu at the top of the page. A small window will open up to confirm where the file will be extracted to. If you were in the plugins folder, it should say public_html/omeka/plugins, if not, type that into the box before you hit
+Extract File(s)
+.
+Another window will open that outlines the contents of the file. Just hit the
+Close
+button and the installation will be complete.
+The plugin should now be available in the plugins tab in your Omeka.
+To install the plugin on your Omeka site, select “Plugins” then the green “Install” button. You may be asked to configure additional settings for the plugin

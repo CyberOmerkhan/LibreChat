@@ -1,0 +1,14 @@
+Title: prov-parrishe214 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19529839
+Version: 3
+---
+
+Department
+Provost's Office
+Location
+Parrish E214
+Queue Name
+prov-parrishe214
+Printer Model
+Canon iR-ADV C257/357 PS
+facstaff_printing_canon_instructions

@@ -1,0 +1,56 @@
+Title: GitHub Enterprise
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775022
+Version: 6
+---
+
+Description
+Software version control system
+Access
+Everyone
+Platform
+MAC
+Yellow
+WINDOWS
+Blue
+LINUX
+Green
+WEB
+Red
+Swarthmore\s
+General GitHub Enterprise Information
+GitHub Enterprise
+is a collaborative tool for managing, reviewing, and sharing code. At its core, GitHub is a repository for files and projects that are being managed with
+Git
+, a command-line version control system.
+In addition to managing code, GitHub Enterprise is capable of tracking changes made to many different filetypes including Word documents, SVG files, and more.
+GitHub Enterprise Features:
+Track and manage changes to code and other files
+Track issues and bugs
+Unlimited private repositories
+Manage multiple projects, organizations, & teams
+Who has access to GitHub Enterprise?
+Faculty and students
+Log in using your Swarthmore username and password at
+github.swarthmore.edu
+.
+Tri-Co Students, Strath Haven Students, and other students enrolled in courses at Swarthmore
+All students taking classes at Swarthmore receive a Swarthmore username and password that can be used to log into Swarthmore's GitHub Enterprise.  After registering for a course, non-Swarthmore students receive an email with their username and instructions on how to set up their password.
+Outside Collaborators
+Only users with Swarthmore network accounts may access GitHub Enterprise. If you're working on a project with collaborators who are outside of the College, consider creating an account at the public
+GitHub.com
+, or contact a member of
+Academic Technologies
+to discuss additional options.
+GitHub Desktop Client
+Although GitHub Enterprise is accessible via the web at
+github.swarthmore.edu
+, you may wish to use the Desktop application for
+Windows
+or
+Mac
+.  Installation and configuration instructions are available at Github's
+Installing and configuring GitHub Desktop
+page.
+GitHub from the Command Line / Terminal
+In order to push commits to your GitHub repositories from the command line or terminal, you'll need to first set up an SSH key. Please follow the instructions linked below.
+Generating SSH Keys for GitHub Enterprise

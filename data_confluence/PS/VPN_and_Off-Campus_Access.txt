@@ -1,0 +1,151 @@
+Title: VPN and Off-Campus Access
+URL: https://swatkb.atlassian.net/wiki/spaces/PS/pages/20382587
+Version: 37
+---
+
+The Cisco Virtual Private Network (VPN) client is the supported way to connect to Swarthmore network resources such as shared network drives, software using
+KeyAccess
+, and Banner from off-campus. When the VPN is connected,
+all
+Internet traffic from that device will be sent through the campus network to reach the Internet.
+You can stay actively connected to the Swarthmore VPN for a maximum of 10 hours, at which point you will be prompted to log back into the client. If the device you are using VPN on is inactive for 4 hours or more, your session will end and you will be prompted to log back into the client.
+Note that Swarthmore VPN is not accessible from the Guest wireless network.
+Use EZproxy (
+http://proxy.swarthmore.edu
+) to utilize Swarthmore library bibliographic databases. VPN is not required to access EZproxy.
+How to install Swarthmore's VPN system
+VPN Install
+INLINE
+On a computer:
+Open a web browser
+Go to
+https://swatvpn2.swarthmore.edu/ShibSSO
+Log in using your Swarthmore user name and password
+Wait while it checks for Java (may take a minute or so)
+If Java detection fails, you will be directed to download and install VPN
+Click the AnyConnect VPN link to download and save the file to your computer
+Go to the installer that downloaded to your computer, and double-click on it to install
+On a mobile device:
+Download and connect to the Cisco AnyConnect Client for iOS
+Download and connect to the Cisco AnyConnect Client for Android
+How to connect to VPN
+A new VPN option has been added to Cisco AnyConnect that makes connecting to VPN much easier. If you have logged into
+swatvpn.swarthmore.edu
+or
+swatvpn2.swarthmore.edu
+connections recently it would have added the new connection:
+SwatVPN Login
+. On desktop you will find the new connection in the dropdown menu and on mobile you will find it by selecting Connections from the app home screen. This allows users to log in to VPN using the normal Swarthmore login screen and DUO prompt. All VPN connections provide the same security and access experience, but we encourage you to use the new connection to simplify your login process.
+macOS or Windows Computer
+VPN Connect
+INLINE
+Search for and launch the Cisco AnyConnect Secure Mobility Client.
+In the blank text field enter the server name “
+swatvpn2.swarthmore.edu/ShibSSO
+” then click
+Connect
+.
+This connection may already be listed as
+SwatVPN Login
+in the connection dropdown. Access the dropdown by clicking the arrow on the right-hand side of the text field.
+A new window will open with the Swarthmore login page. Enter your Swarthmore credentials and click
+Login
+.
+The DUO prompt will then appear in the window. If you have logged in and verified with DUO recently, this page may skip past the prompt. If not, verify with your DUO method to continue.
+You are now connected to VPN! The next time you open Cisco AnyConnect this connection should already be listed in the text field for you.
+VPN Desktop Login
+true
+1712695344305
+Search for and launch the Cisco AnyConnect Secure Mobility Client.
+In the blank text field enter the server name “
+swatvpn2.swarthmore.edu/ShibSSO
+” then click
+Connect
+.
+This connection may already be listed as
+SwatVPN Login
+in the connection dropdown. Access the dropdown by clicking the arrow on the right-hand side of the text field.
+A new window will open with the Swarthmore login page. Enter your Swarthmore credentials and click
+Login
+.
+The DUO prompt will then appear in the window. If you have logged in and verified with DUO recently, this page may skip past the prompt. If not, verify with your DUO method to continue.
+You are now connected to VPN! The next time you open Cisco AnyConnect this connection should already be listed in the text field for you.
+iOS Device (iPad/iPhone)
+VPN iOS Login
+false
+1712695344305
+Go to the App Store and
+install Cisco AnyConnect by New Cisco AnyConnect
+.
+After install, tap the AnyConnect icon on the iPad/iPhone home screen.
+Choose OK to enable AnyConnect.
+Select
+Connections
+from the AnyConnect home screen.
+Select
+Add VPN Connection
+.
+Tap Description, and enter “
+SwatVPN Login
+”.
+Tap Server Address, and enter “
+swatvpn2.swarthmore.edu/ShibSSO
+”.
+Tap
+Save
+.
+To connect via VPN make sure you are connected to Wi-Fi, then go to the AnyConnect home screen.
+Select
+SwatVPN Login
+and tap
+ON
+next to AnyConnect VPN.
+A new window will open with the Swarthmore login page. Enter your Swarthmore credentials and click Login.
+The DUO prompt will then appear in the window. If you have logged in and verified with DUO recently, this page may skip past the prompt. If not, verify with your DUO method to continue.
+You are now connected to VPN! The next time you open Cisco AnyConnect this connection should already be listed for you.
+Android
+VPN Android Login
+false
+1712695344305
+Go to the Google Play store and
+install AnyConnect by Cisco Systems, Inc
+.
+For Kindle devices, install from the Amazon Kindle app store.
+After install, tap the AnyConnect Icon to start the AnyConnect app.
+Accept the End User License Agreement (EULA).
+Click
+OK
+to continue.
+Select
+Connections
+from the AnyConnect home screen.
+Select the
+plus “+”
+button at the bottom-right corner of the screen.
+Choose Description, and enter “
+SwatVPN Login
+”.
+Choose Server Address, and enter “
+swatvpn2.swarthmore.edu/ShibSSO
+”.
+Select
+Done
+.
+To connect via VPN make sure you are connected to Wi-Fi, then go to the AnyConnect home screen.
+Select
+SwatVPN Login
+, then tap the slider next to AnyConnect VPN to turn VPN on.
+A new window will open with the Swarthmore login page. Enter your Swarthmore credentials and click
+Login
+.
+The DUO prompt will then appear in the window. If you have logged in and verified with DUO recently, this page may skip past the prompt. If not, verify with your DUO method to continue.
+If prompted, allow Cisco access to finish establishing a connection by tapping OK.
+You are now connected to VPN! The next time you open Cisco AnyConnect this connection should already be listed for you.
+Troubleshooting
+Can't print while connected to VPN
+When connected to VPN while off-campus, access to local devices such as printers may not work.  If you experience problems, try disconnecting from VPN to print.
+Can't connect to SwatVPN while on the Guest wireless network (SwatGuest)
+When connected to the Guest wireless network (SwatGuest), access to SwatVPN is not possible.  If you have a Swarthmore account and wish to use WiFi, please connect via eduroam in order to use SwatVPN.
+Authentication failed due to problem retrieving the single sign-on cookie
+If you get this error, also pictured below, try reconnecting with your credentials a few more times.    This situation seems to resolve itself on most computers.
+Screenshot of the VPN error window

@@ -1,0 +1,26 @@
+Title: Setting up iOS for Swarthmore Gmail (Apple iPhone, iPad)
+URL: https://swatkb.atlassian.net/wiki/spaces/GA/pages/19660864
+Version: 11
+---
+
+true
+BLOCK
+Configuring mail and calendar with Apple iOS.
+Gmail and Google Calendar apps for iOS
+We recommend downloading and using the Gmail and Google Calendar apps from the Apple AppStore. These apps are free and offer more integration with Gmail than the built-in apps. Using the built-in apps may also cause compatibility issues with
+Duo
+, our Two-Factor Authentication system, when updates are pushed out to your device.
+Gmail app:
+https://apps.apple.com/app/gmail/id422689480
+Google Calendar app:
+https://apps.apple.com/us/app/google-calendar/id909319292
+Step By Step Instructions (Gmail and Google Calendar apps)
+Launch one of your Google apps.   Setup is the same for both of them.
+At the sign-in page, Choose "Google", and enter your email address at swarthmore.edu.
+On the next page, enter your Swarthmore username and password.
+Choose your method for Duo authentication.
+That's it!   You are done.  Your email and/or calendar will start syncing to your iOS apps.
+Please note:
+If you are authenticating with DUO from the same device that you’re using to access email, you may need to turn on DUO notifications in your phone’s settings.
+Apple instructions
+Android instructions

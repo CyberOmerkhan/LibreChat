@@ -1,0 +1,14 @@
+Title: mus-langmusic401-color Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530294
+Version: 1
+---
+
+Department
+Music
+Location
+Lang Music 401
+Queue Name
+mus-langmusic401-color
+Printer Model
+HP Color LaserJet 4650
+facstaff_printing_hp_instructions

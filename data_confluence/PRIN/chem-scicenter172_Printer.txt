@@ -1,0 +1,14 @@
+Title: chem-scicenter172 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530262
+Version: 2
+---
+
+Department
+Chemistry
+Location
+Science Center 172
+Queue Name
+chem-scicenter172
+Printer Model
+Canon MF1643 II Series PS
+facstaff_printing_canon_instructions

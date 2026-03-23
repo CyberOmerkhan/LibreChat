@@ -1,0 +1,40 @@
+Title: Zoom Participants Guide
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20910233
+Version: 10
+---
+
+This is a short list of simple instructions to pass along to the people you invite to your Zoom meeting.
+What Participants Need To Get Started
+· An internet connected computer, laptop, or mobile device
+· Your meeting ID # or link
+· A webcam, computer microphone, optional headphones or earbuds (to help cut down on background noise and avoid any feedback or echo noises)
+· A phone (if you’re unable to receive audio via your computer, laptop, or device)
+How to Launch Zoom and Participate in a Meeting
+When you’re invited to participate in a Zoom meeting, you’ll receive instructions similar to what you see below. You can either click on the link provided or go to the Zoom website at
+http://swarthmore.zoom.us/
+and click on
+“Join a Meeting”
+where you can enter the 9 or 10-digit Meeting ID number. Audio is integrated into the meeting. However, you have the option to participate via audio-only if a web-connected device is not available.
+While You’re Waiting for the Meeting to Begin
+You’ll be presented with a screen that says,
+"Waiting for the host to start this meeting,"
+if the host hasn’t started the meeting at the time you join. We recommend that you check your audio settings while waiting for the meeting to start.
+Furthermore, if you are in a noisy environment or in a room with more than one person, it may be best to use headphones or earbuds to avoid any audio feedback.
+Join By Computer Audio
+Once you join the meeting you will be asked whether you want to join using your computer audio or join by using your phone.
+If you’re using your computer microphone you
+MUST
+click the button to join audio by computer. No one on the call will be able to hear you until you click this button.
+If for some reason you do not see this window pop up, look for the small arrow on the bottom left in the toolbar asking you to
+"Join Audio"
+.
+If your computer does not have a microphone you can join by phone using one of the toll numbers given to you in the invite.
+Audio Settings
+By clicking on the small caret next to the microphone icon, you can choose your microphone and speaker settings. It normally defaults to your built-in microphone and speakers but you can select any other microphone or speakers you have plugged into your computer.
+Video Settings
+By clicking on the small caret next to the camera icon, you can choose which video camera you want to use.
+Audio and Video Mute and Unmute
+During a session, you might be asked to mute your microphone until you have a question or comment.
+This helps to minimize background noise and audio feedback. Mute your audio by clicking on the microphone icon located in the lower left-hand corner of the menu bar. You can mute your video by clicking on the camera icon as well.
+For more instructions to give to your participants click the link below:
+https://support.zoom.us/hc/en-us

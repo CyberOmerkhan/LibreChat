@@ -1,0 +1,60 @@
+Title: Transfer Your Website When You Leave the College - Domain of One's Own
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775388
+Version: 11
+---
+
+There are a few reasons that could lead you to consider exporting your website content from Swarthmore College. Perhaps you’re leaving the College, graduating, or maybe you’re just wanting to use your data on another hosting environment. Whatever the case, you have a couple of options for how you want to handle this:
+If you are leaving the College, you can migrate your webspace from Swarthmore College to our hosting provider,
+Reclaim Hosting
+, by completing the following steps.
+Migrate to Reclaim Hosting
+Sign up for an account at Reclaim Hosting. You can navigate directly to the
+Student/Personal Hosting
+plan option.
+If you already have a top-level domain (i.e.
+yourdomain.com
+) choose the
+I will use my existing domain and update my nameservers
+option.
+If your current website content exists on a subdomain (i.e.
+yourwebsite.domains.swarthmore.edu
+), select the
+Register a New Domain
+or the
+Use a subdomain from Reclaim Hosting
+option.
+Enter a new top-level domain name if applicable.
+Complete the sign-up process/pay invoice. If you choose the Student/Individual Plan, your invoice total should be $30.00
+without
+a domain registration, or $45.00
+with
+a domain registration.
+Send a support request to
+support@reclaimhosting.com
+with the following message:
+Hello Reclaim Hosting Support,
+I am graduating from (your school) and I would like to migrate my account, (your domain), to Reclaim Hosting. Please let me know if you need anything else from me.
+Best,
+(Your Name)
+A member of Reclaim Hosting support will respond & help you get your account migrated as soon as possible.
+Migrating Your Domain Elsewhere
+If you would like to move your website to a third-party service, you’ll want to capture a backup of your site. From there you’ll be able to import the backup into a handful of other web hosting services. In order to migrate your site elsewhere, complete the following steps:
+Generate a full backup of your account
+.
+If you have a top-level domain (i.e.
+yourdomain.com
+), send a request to the Domain of One’s Own support team at your school asking them to unlock your domain, turn privacy protect off, and send you the transfer EPP code. These three items are required in order to initiate a successful domain transfer.
+Next, follow the instructions provided by your new hosting platform on transferring domains/migrating websites. You can find instructions for common hosting platforms below:
+GoDaddy Transfers
+Wix Transfers
+WordPress Domain Mapping
+Squarespace Domain Transfer
+Export from WordPress
+Request to Delete Your Domain of One's Own Website
+If you would like to delete your Domain of One's Own website account and all of its data and content, please submit a request to ITS by go to
+support.swarthmore.edu
+.
+Reclaim Hosting Documentation
+For more detailed instructions, please read
+Reclaim Hosting's help documentation
+.

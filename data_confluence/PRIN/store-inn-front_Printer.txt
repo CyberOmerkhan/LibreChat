@@ -1,0 +1,14 @@
+Title: store-inn-front Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19529887
+Version: 2
+---
+
+Department
+Swarthmore Campus and Community Store
+Location
+The Inn at Swarthmore
+Queue Name
+store-inn-front
+Printer Model
+Canon iR-ADV C257/357 PS
+facstaff_printing_canon_instructions

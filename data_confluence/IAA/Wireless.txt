@@ -1,0 +1,176 @@
+Title: Wireless
+URL: https://swatkb.atlassian.net/wiki/spaces/IAA/pages/19661556
+Version: 50
+---
+
+Swarthmore has three Wi-Fi networks.  Follow the links below for instructions to connect to the appropriate network.
+Wireless#eduroam
+for users from Swarthmore, Haverford, Bryn Mawr, and
+other eduroam institutions
+SwatGuest
+for campus guests
+SwatDevice
+for devices such as gaming systems and e-readers.
+eduroam
+eduroam for Swarthmore, Haverford, Bryn Mawr, and other eduroam institutions
+Eduroam should be used by current members of Swarthmore, Haverford, and Bryn Mawr Colleges, as well as other eduroam-enabled institutions. The College's
+authenticated
+wireless network provides a high level of security using WPA2 authentication and AES encryption. Please follow the instructions below to get started.
+List of eduroam enabled institutions
+Follow these steps for macOS, Windows, Ubuntu computers, and iOS-based phones and tablets.
+Android-based
+phones and tablets, and
+Chromebooks
+need additional configuration steps. Other versions of Linux are not supported on our wireless network.
+If you have previously connected to eduroam with credentials from another institution and are having trouble connecting to eduroam at Swarthmore - try removing your old eduroam profile (or choose to "forget" eduroam) and log back in using your Swarthmore credentials.
+eduroam
+eduroam Connection Instructions
+eduroam connect
+INLINE
+Connect to the eduroam Wi-Fi network
+For
+username,
+enter your full email address (e.g. jdoe1@yourinstitution.edu)
+Enter your home institution password
+For Android devices and Chromebooks:
+follow these configuration instructions
+Accept/trust the security certificate if prompted, and follow any instructions to launch the registration webpage (see Register your Computer below)
+You can review the certificate and verify that it is the correct one by comparing with the following fingerprints (
+not
+case sensitive), as of December 2024:
+SHA1 fingerprint:  d6:4b:c6:e3:93:26:9b:4c:63:26:5f:4a:15:e8:29:e4:42:1b:d1:f5 or
+SHA256 fingerprint: 30:8D:C8:71:77:4B:6A:E1:76:4A:C4:F4:09:C3:71:3D:BE:76:92:F6:08:BA:92:88:5B:F4:01:4C:50:69:B3:C2
+Register your Computer
+Register SafeConnect
+INLINE
+Computers running Windows and macOS operating systems will have to install software at this stage. The software is an agent from SafeConnect that runs in the background called Policy Key. (The Policy Key software is not required for Android, IOS, and Linux computers.) A few moments after you first connect to eduroam, a web page should open with the Swarthmore network registration process - if not, open up a web browser and go to any off-campus webpage (e.g.
+cnn.com
+), which will redirect you to the registration page. Enter your Swarthmore username (leave off @swarthmore.edu) and password, then download and install SafeConnect to install the Policy Key. If prompted, install anti-virus - an up-to-date and fully functional anti-virus is required to obtain access to the network.
+After installing the required software, it may take up to three minutes for your network connection to reconfigure. When it does, you should be online! If it does not automatically redirect you to the Swarthmore home page, open up a new tab or window, and try to go to your off-campus webpage again (e.g.
+cnn.com
+or
+facebook.com
+, etc.).
+AndroidDevice
+Android Device Configuration
+Android and ChromeOS devices need to be manually configured, and require an extra step (Phase 2 Authentication). Follow the instructions below, and only fill in the following fields - leave everything else set to the defaults (no need to change them):
+Android: Most Common Instructions
+NOTE:
+If Phase 2 Authentication is not one of the visible fields, skip down to the Android: Alternate Instructions listed below.
+When you attempt to connect to eduroam for the first time, ensure that the below options are configured. Leave all other options blank or with their default choices
+For
+EAP
+(before Phase 2 Authentication), choose
+PEAP
+Phase 2 Authentication
+- choose
+MSCHAPV2
+CA Certificate
+- choose
+Do Not validate
+Online Certificate Status
+- choose
+Do not verify
+(or system certificates or Unspecified
+Domain
+- enter
+swarthmore.edu
+(if domain is requested)
+Identity
+- enter your
+Swarthmore email address
+Password
+- enter your
+Swarthmore password
+Click
+Connect
+. If prompted to install a certificate, allow installation.
+Android: Alternate Instructions (includes some Samsung Galaxy devices)
+Under
+Advanced
+at the bottom of the eduroam wireless configuration options, configure:
+Make sure EAP is set to
+PEAP
+Phase 2 Authentication
+- choose
+MSCHAPV2
+Click
+Save
+On the main configuration screen, configure:
+Certificates
+- confirm
+Do not validate
+is checked
+Identity
+- enter your FULL Swarthmore email address
+Password
+- enter your Swarthmore password
+Android: Google Pixel 6 and 7 with Android 13
+On your Android device, swipe down twice to find the settings option.
+Tap
+Settings
+, then
+Network & internet
+, then
+Internet
+.
+Tap
+eduroam
+.
+Tap
+EAP method
+, then select
+PEAP
+.
+Tap
+Phase 2 authentication
+, then select
+MSCHAPV2
+.
+Tap
+CA certificate
+, then select
+Use system certificates
+.
+Tap
+Online Certificate Status
+, then select
+Do not verify
+.
+Tap the line under
+Domain
+and enter swarthmore.edu.
+Tap the line under
+Identity
+and enter your username@swarthmore.edu email address.
+Tap the line under
+Password
+and enter your Swarthmore password.
+Tap
+Connect
+at the bottom of the screen
+ChromeOS
+ChromeOS Device Configuration
+Chromebooks and other devices using the ChromeOS require additional configuration, similar to Android devices.
+When you attempt to connect to eduroam for the first time, ensure that the below options are configured. Leave all other options blank or with their default choices.
+EAP
+- Choose
+PEAP
+Phase 2 Authentication
+- Choose
+MSCHAPV2
+CA Certificates
+- Confirm
+Unspecified
+is chosen
+Identity
+- enter your FULL Swarthmore email address
+Password
+- enter your Swarthmore email password
+Click
+Connect
+. You should be fully configured for eduroam on ChromeOS.
+Troubleshooting
+For connection problems, it may be helpful to delete the eduroam connection configuration on your device and re-add it.
+More troubleshooting information:
+Troubleshooting Your Internet Connections

@@ -1,0 +1,16 @@
+Title: Software and Services for Students
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775185
+Version: 5
+---
+
+The following software and services are available to students.
+Notice incorrect missing or incorrect information? Please let us know at
+support@swarthmore.edu
+or x4357
+Program
+sw
+Description, Platform
+10000
+Title
+software
+label in ( "service" , "software" ) and space = "sw" and text ~ "\"|Access|Everyone|\" OR \"|Access|Students|\""

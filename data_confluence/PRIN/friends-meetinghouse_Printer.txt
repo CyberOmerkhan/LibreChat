@@ -1,0 +1,14 @@
+Title: friends-meetinghouse Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530409
+Version: 2
+---
+
+Department
+Friends Meetinghouse
+Location
+Friends Meetinghouse
+Queue Name
+friends-meetinghouse
+Printer Model
+Canon iR-ADV 4745/4751 PS
+facstaff_printing_canon_instructions

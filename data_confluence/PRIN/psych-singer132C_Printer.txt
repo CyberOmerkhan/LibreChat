@@ -1,0 +1,14 @@
+Title: psych-singer132C Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/111050753
+Version: 1
+---
+
+Department
+Psychology
+Location
+Singer Hall 132C
+Queue Name
+psych-singer132C
+Printer Model
+HP Color LaserJet CP5225
+facstaff_printing_hp_instructions

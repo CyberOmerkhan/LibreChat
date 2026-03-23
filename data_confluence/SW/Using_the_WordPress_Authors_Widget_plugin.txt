@@ -1,0 +1,40 @@
+Title: Using the WordPress Authors Widget plugin
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775567
+Version: 1
+---
+
+The Authors Widget plugin is an excellent way to quickly access all of a given student's posts in WordPress.
+Activating and applying the Authors Widget plugin
+Log into the WordPress
+Dashboard
+Navigate to the
+Widgets
+page. To find the
+Widgets
+area, hover or click on the
+Appearance
+link to reveal a sub menu which includes
+Widgets
+.
+Find and drag the
+Authors Widget
+into the
+Sidebar
+area of your choice.
+Expand the
+Authors Widget
+to edit the settings.
+Some recommended settings
+Give the
+Authors Widget
+a title.
+Set the
+Format
+to list.
+Set to
+Order by
+display name
+Check the box next to
+Show post counts.
+This is helpful in quickly taking count of how many posts students have made.
+Note: At first you will only see names of users who have already created posts. Once a student creates their first post they will be added to the list.

@@ -1,0 +1,26 @@
+Title: Recording a Zoom Meeting
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20910057
+Version: 10
+---
+
+Zoom offers two recording options, cloud recording and local recording. When you record a meeting and choose
+Record to the Cloud
+, the video, audio, and chat text are recorded in the Zoom Cloud. The recordings are also automatically uploaded and stored in Panopto for viewing as well. To manage your recorded meetings or share a recording with others, log into your Zoom account and navigate to the "
+My Recordings
+" page. Zoom recordings will automatically delete after 14 days.
+Local recordings are available too.  Local recordings allow you to record video and audio from a Zoom meeting locally onto your computer. The recorded video file can then be uploaded to our video management system (
+Panopto
+), Moodle, Google Drive, or public streaming servers such as Vimeo or YouTube. Follow the steps below to record to the cloud.
+Recording a Zoom Meeting to the Cloud
+Start a meeting
+Select the Record button in the Zoom toolbar
+Select "Record to the Cloud"
+To stop the recording press Stop Recording or end the meeting
+Once the recording has been stopped, the recording must be processed before viewing it. Zoom will send an email to the host email address when the process is completed.
+Zoom Recording Integration with Panopto
+The
+Panopto
+integration allows for automatic upload of your Zoom cloud recordings to Panopto after your meeting ends. This way your Zoom recordings can easily be uploaded to the Panopto Block in Moodle for your students to reference afterward.
+Instructions for adding Panopto into your Moodle course can be found in our
+Moodle documentation
+.

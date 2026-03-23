@@ -1,0 +1,20 @@
+Title: its-trainstation2 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530282
+Version: 4
+---
+
+Department
+Information Technology Services
+Location
+Train Station
+Queue Name
+its-trainstation2
+Printer Model
+Canon iR-ADV C250/350 PS
+Print Release Station
+Yes
+facstaff_printing_canon_instructions
+cecefca7-004e-492e-8dc6-741c7cbade35
+facstaff_printing_release_station_instructions
+eJyLjgUAARUAuQ==
+false

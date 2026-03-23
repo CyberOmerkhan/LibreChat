@@ -1,0 +1,14 @@
+Title: bio-singer101 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530561
+Version: 1
+---
+
+Department
+Biology
+Location
+Singer 101D
+Queue Name
+bio-singer101
+Printer Model
+HP LaserJet 600 M601 M602 M603
+facstaff_printing_hp_instructions

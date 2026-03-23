@@ -1,0 +1,19 @@
+Title: I have a Mac, do I have the right version of Office to use the Accessibility Checker?
+URL: https://swatkb.atlassian.net/wiki/spaces/ALLY/pages/20382027
+Version: 5
+---
+
+How to determine what version you have
+If you are using a Mac you will need to have a recent version of Microsoft Word for Mac (2016 or higher). The previous versions for Mac do not have the Accessibility Checker. To find out what version you have, go to the top menu, look for
+Word
+, then
+About
+, then within that modal look for
+Version
+—you want it to start with 16 e.g. 16.4.3 or "License," which should have the year 2016 or later.
+Looks like I don't have the right version. How do I upgrade?
+Visit the
+Microsoft Office 2019 download page
+. Follow the directions there, and if you run into any issues with the installation,
+contact the ITS Help Desk
+.

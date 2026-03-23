@@ -1,0 +1,5 @@
+Title: Basic Blogs, Forums and Wikis
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20907630
+Version: 2
+---
+

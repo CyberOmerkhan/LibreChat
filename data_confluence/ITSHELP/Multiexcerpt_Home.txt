@@ -1,0 +1,38 @@
+Title: Multiexcerpt Home
+URL: https://swatkb.atlassian.net/wiki/spaces/ITSHELP/pages/20086948
+Version: 24
+---
+
+This page is used by ITS staff to update documentation.
+true
+Help Desk Contact Block
+BLOCK
+Below is a list of all of the ways you can contact ITS or find information:
+ITS Service Portal:
+support.swarthmore.edu
+Phone: x4357 (HELP) or 610-328-8513
+Email:
+support@swarthmore.edu
+Check out our remote resources at
+https://swatkb.atlassian.net/wiki/spaces/remote/overview
+Check our homepage at
+swarthmore.edu/its
+true
+Note Test
+INLINE
+On-Campus Access
+Important: Due to the current safety measures in place because of Covid-19, some on-campus resources will be unavailable until further notice. This includes all public computing labs. For more information on what resources are available, please visit this information page. – Just a test to see if we can use ME to distribute notifications like this across KB.
+true
+Duo Intro
+INLINE
+Swarthmore uses Duo two-factor authentication to help you keep your Swarthmore account secure. This kind of authentication requires something you know (like your account username and password) coupled with something you have (a device registered with the service such as your cell phone). Requiring interaction with a device you have with you ensures that only you are able to access your account, even if your password were to be compromised. For more information about Duo please visit our
+Getting Started with Duo page
+. You will be prompt to register your duo device during Swarthmore account setup, when you
+Claim Your Identity
+.
+It is
+highly recommended
+that you register more than one device with Duo to make sure you never have an issue logging into your account.
+true
+Testing Excerpt
+I am testing this excerpt option. Is it built in or another app?

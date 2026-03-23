@@ -1,0 +1,42 @@
+Title: Guide to Teaching with Zoom
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20910503
+Version: 7
+---
+
+Zoom Documentation
+Zoom Documentation
+Zoom Tips and Tricks for Teachers
+Swarthmore Zoom Resources
+Scheduling a Zoom Meeting
+Zoom Participants Guide
+General Zoom Advice
+Encourage everyone to find a quiet space in which to participate where they won’t be interrupted and where background noise won’t distract other people if they are asked to contribute.
+Be careful how you use the chat window. It can be used for comments/questions as class goes along, but understand that you won’t be able to see this window if you’re in a PowerPoint presentation.  Users that come in late to the meeting won't see any messages that came in before their arrival.
+Connecting to your session
+Connect to the fastest internet connection available.
+Connect via ethernet cable instead of Wi-Fi if possible.
+Screen sharing tips
+Remove any photo backgrounds on your computer desktop.
+Close email and chat programs not being used for the presentation to avoid distracting pop-up messages.
+Don't crowd the view. Make sure to have one application visible at a time.
+If you need to switch between other applications, have them open and ready to demonstrate.
+Turn off your computer's "sleep" function--especially if a re-login is required.
+Remember to maximize your screen (click Full Screen) in Web demos.
+Audio
+Use a quality headset, or microphone.
+Avoid speaker phones, which can cause voice fluctuation and background noise.
+Engaging your audience
+Do a "dry run"
+with the same computer/audio equipment and internet connection you will use on the day of your class.
+Ensure adequate time to troubleshoot equipment. For instance: Make sure your audio and video settings are correct for your camera and microphone.
+Keep a timer and put time markers in your lesson plan to keep you on track.
+Activities may take more (or less) time than they would in a face-to-face class.  Perhaps have materials, or discussions you can include or drop depending on how the class is going.
+Do a dry run at least 48 hours before the live event.
+Open your meeting room 10-15 minutes before start time. Participants like to know if they have accessed the Zoom session correctly.
+Record your session
+in case anyone has technical problems, or for later review.  You can choose later whether or not to post or share the session.
+Click record … recordings are saved when you leave or end the meeting.
+Acknowledgments
+Some of this material was adapted from:
+https://helpx.adobe.com/adobe-connect/kb/best-practices-hosts-presenters-using.html
+http://www.facultyfocus.com/articles/online-education/six-tips-preparing-online-course/

@@ -1,0 +1,14 @@
+Title: Accessibility Home
+URL: https://swatkb.atlassian.net/wiki/spaces/ALLY/pages/20381698
+Version: 17
+---
+
+At our
+institutional core per our Mission Statement
+is the desire to contribute to the creation of a world that is just, humane, and sustainable.
+Incorporating accessibility considerations in all aspects of what we do at Swarthmore is part of how we make our aspirations a reality.
+We incorporate thinking about accessibility throughout our work and in the documentation of tools available to the Swarthmore College community. This section of our KnowledgeBase (KB) focuses on some of the fundamental principles and how-to's. You will find other accessibility tips and information in most of our other documentation as well.
+Some examples include:
+Links to other resources
+Accessibility Filescan
+Accessibility at Swarthmore

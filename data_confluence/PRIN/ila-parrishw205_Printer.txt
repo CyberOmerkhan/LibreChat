@@ -1,0 +1,14 @@
+Title: ila-parrishw205 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530497
+Version: 1
+---
+
+Department
+Institute for the Liberal Arts
+Location
+Parrish W205
+Queue Name
+ila-parrishw205
+Printer Model
+HP LaserJet Professional P1600dn
+facstaff_printing_hp_instructions

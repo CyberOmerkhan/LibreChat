@@ -1,0 +1,20 @@
+Title: Drupal 10 Training
+URL: https://swatkb.atlassian.net/wiki/spaces/DRUP/pages/230064150
+Version: 30
+---
+
+Drupal Training is now available.
+To register for Drupal training, please complete this
+registration form
+. You must complete the standard training before attending the advanced training. Most Drupal editors only need the standard Drupal training to get started with editing websites, but you are more than welcome to register and attend both the standard and advanced training if you would like to learn the full toolkit.
+Standard Drupal Training - Friday, September 19, 10:00-12:00 AM (2 hours)
+Standard Drupal Training - Thursday, September 25, 1:00-3:00 PM (2 hours)
+Advanced Drupal Training - Friday, September 26, 10:00-12:00 AM (2 hours)
+To register for any of these classes, please complete this
+registration form
+.
+Drupal - Standard Training
+This class is the introductory course for all new Drupal editors. It covers all the basics including: logging in, publishing, creating new pages, managing navigation, working with the editor/page content (headings, links, adding images and documents, etc). The class is two hours long and is conducted over Zoom
+Drupal - Advanced Training
+This class is for Drupal editors who have already completed the standard Drupal training
+and wish to learn the full Drupal toolkit which includes managing components and profiles. The class is two hours long and is conducted over Zoom.

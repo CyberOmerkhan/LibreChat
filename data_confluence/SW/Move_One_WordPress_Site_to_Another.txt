@@ -1,0 +1,20 @@
+Title: Move One WordPress Site to Another
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775716
+Version: 3
+---
+
+com.atlassian.ecosystem
+508fc997-b9e5-4cff-a7b0-92cecde27d7f/0701025f-8cc5-45af-9ba8-51dcdcf20177/static/redirection-by-easy-apps-macro
+default
+ari:cloud:ecosystem::extension/508fc997-b9e5-4cff-a7b0-92cecde27d7f/0701025f-8cc5-45af-9ba8-51dcdcf20177/static/redirection-by-easy-apps-macro
+Redirection
+true
+Redirection
+com.atlassian.ecosystem
+508fc997-b9e5-4cff-a7b0-92cecde27d7f/0701025f-8cc5-45af-9ba8-51dcdcf20177/static/redirection-by-easy-apps-macro
+default
+ari:cloud:ecosystem::extension/508fc997-b9e5-4cff-a7b0-92cecde27d7f/0701025f-8cc5-45af-9ba8-51dcdcf20177/static/redirection-by-easy-apps-macro
+Redirection
+true
+Redirection
+This content has been moved to the Moodle space.

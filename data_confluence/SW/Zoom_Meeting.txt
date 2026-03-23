@@ -1,0 +1,56 @@
+Title: Zoom Meeting
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20909929
+Version: 35
+---
+
+Description
+Video web conferencing
+Access
+Everyone
+Platform
+MAC
+Yellow
+WINDOWS
+Blue
+WEB
+Red
+IOS
+Purple
+Android
+Description
+A Zoom meeting is a virtual gathering where participants can communicate and collaborate in real-time using video, audio, and chat through Zoom's online platform. It's commonly used for remote work, education, and social gatherings, allowing users to join from any device with an internet connection. Zoom offers features like screen sharing, breakout rooms, and recording, making it a versatile tool for various types of online interactions.
+Accounts
+All Swarthmore faculty, staff, and students have a Zoom account and can go to
+swarthmore.zoom.us
+and sign in with a Swarthmore  username and password.
+Licensed Accounts
+All Swarthmore users (faculty, staff, and students) are eligible for a
+Licensed
+account with no meeting time limits and the ability to host up to 300 participants.
+By default, Faculty all have Licensed accounts. Students and Staff may request Licensed accounts
+If your account is listed as Basic and you need to host a longer or larger meeting, request a
+Zoom Meeting Host License
+.
+App
+Windows, macOS, and Linux
+In a browser, log in into your Zoom account
+swarthmore.zoom.us
+with your Swarthmore username and password. Once you log in, click on
+Host a Meeting
+and the desktop app will auto-download.
+Mobile Apps
+For iOS, visit the Apple
+App Store
+and search "zoom"
+For Android, visit
+Google Play
+and search "zoom"
+Hardware
+Classroom and Conferencing Technologies (
+avbox@swarthmore.edu
+) has supplemental web cameras, headphones, and microphones for loan.
+Support
+For further documentation, see the appropriate support pages in the
+Zoom knowledge base
+.
+Swarthmore-specific Zoom Help

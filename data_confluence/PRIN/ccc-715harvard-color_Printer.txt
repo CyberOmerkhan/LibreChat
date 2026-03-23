@@ -1,0 +1,14 @@
+Title: ccc-715harvard-color Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530327
+Version: 2
+---
+
+Department
+Chester Children's Chorus
+Location
+715 Harvard Ave
+Queue Name
+ccc-715harvard-color
+Printer Model
+HP Officejet Pro 8000 Enterprise A811a
+facstaff_printing_hp_instructions

@@ -1,0 +1,20 @@
+Title: edu-pearson222-color Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530260
+Version: 3
+---
+
+Department
+Education
+Location
+Pearson 222
+Queue Name
+edu-pearson222-color
+Printer Model
+Canon iR-ADV C257/357 PS
+Print Release Station
+Yes
+facstaff_printing_canon_instructions
+cecefca7-004e-492e-8dc6-741c7cbade35
+facstaff_printing_release_station_instructions
+eJyLjgUAARUAuQ==
+false

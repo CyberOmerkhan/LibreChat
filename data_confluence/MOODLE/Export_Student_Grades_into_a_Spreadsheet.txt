@@ -1,0 +1,19 @@
+Title: Export Student Grades into a Spreadsheet
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20907396
+Version: 3
+---
+
+In order to export all of the student grades from the grade book into an excel spreadsheet follow the steps below:
+Click on
+Grades
+from the top of the page to go to the
+Grader Report
+Click on
+Export
+from the pulldown menu
+Then select
+Excel Spreadsheet
+from the pulldown
+Select Grade Items to be included
+Click
+Download

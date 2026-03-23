@@ -1,0 +1,19 @@
+Title: Troubleshooting Printer Issues
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530185
+Version: 3
+---
+
+Power Cycling A Printer
+Power Cycle Printer
+INLINE
+If your networked printer has stopped working or has an error, try power cycling it to clear the residual memory.
+First, check if the printer's ethernet cable is plugged into the wall jack, and securely plugged in at both ends. After that, power cycle the printer by following the directions below:
+Delete all jobs stuck in the print queue (the queue should be empty)
+Turn printer off
+Unplug the power cord from the electrical outlet
+Wait 30-45 seconds
+Plug the power cord back into the electrical outlet
+Turn printer on
+Wait while it finishes booting up
+Try printing again
+If that doesn't fix the issue, or you're not able to clear the print queue, contact the Help Desk.

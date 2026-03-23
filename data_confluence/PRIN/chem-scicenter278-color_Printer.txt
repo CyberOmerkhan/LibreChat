@@ -1,0 +1,14 @@
+Title: chem-scicenter278-color Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19529893
+Version: 1
+---
+
+Department
+Chemistry
+Location
+Science Center 278
+Queue Name
+chem-scicenter278-color
+Printer Model
+HP Color LaserJet Pro M252
+facstaff_printing_hp_instructions

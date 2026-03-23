@@ -1,0 +1,19 @@
+Title: Making the gradebook visible to students
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20906760
+Version: 12
+---
+
+By default, students cannot see the gradebook.  To let students see their own grades follow the steps below. Students cannot see grades for other students.
+Go to your course
+Click
+Settings
+(under course title)
+In the
+Appearance
+section, change
+Show gradebook to students
+to "
+Yes
+."
+Scroll down and click
+Save and display

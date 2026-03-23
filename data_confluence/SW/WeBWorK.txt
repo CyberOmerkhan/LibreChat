@@ -1,0 +1,26 @@
+Title: WeBWorK
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/251068418
+Version: 1
+---
+
+Description
+Online math homework system
+Access
+Everyone
+Platform
+WEB
+Red
+Description
+WeBWorK is an online math homework system used by many courses at Swarthmore.
+Access
+WeBWorK is available at
+webwork.swarthmore.edu
+. You must be enrolled in a course to be able to access any content.
+Log into WeBWorK courses directly using your Swarthmore username and password or via your Moodle course.
+Student Access
+If your professor is using Moodle, you must click on the WeBWorK link in Moodle at least once to create your WeBWork course account. Once the account is created, you can log into your WeBWorK course directly or via Moodle.
+Setup Information
+Most faculty connect their WeBWorK course to Moodle for enrollment and grade syncing.  For more information see
+WeBWork in Moodle
+.
+To create a WeBWorK course, contact the Math/Stat department WeBWorK support or submit a help ticket through ITS.

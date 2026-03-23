@@ -1,0 +1,100 @@
+Title: Activating Sticky keys
+URL: https://swatkb.atlassian.net/wiki/spaces/ALLY/pages/150863874
+Version: 2
+---
+
+Sticky keys allow you to press keys in sequential order instead of all together to activate commands.
+Table of Contents:
+Select the link to be taken directly to that section of the article.
+1
+6
+true
+none
+list
+true
+Chromebook
+Open
+ChromeOS Settings
+,
+Scroll to
+Accessibility
+.
+Select
+Enable sticky keys (to perform keyboard shortcuts by typing them sequentially)
+.
+OR
+Press
+Alt+Shift+S
+,
+Scroll to
+Accessibility
+.
+Select
+Enable sticky keys (to perform keyboard shortcuts by typing them sequentially)
+.
+See:
+Sticky keys | Chromebook Mobility-Assistive Features and Functionality [YouTube]
+Mac
+Option + Command + F5
+,
+OR
+Triple-click on the
+Touch ID
+button
+,
+Then:
+Scroll down to
+Motor
+section,
+And toggle the radio button next to
+Sticky Keys
+.
+You can control more settings in Sticky keys on Macs by
+selecting
+Settings
+at the bottom of the dialog box.
+Then, scroll to
+Keyboard
+,
+Find and select
+Sticky keys
+,
+Click the
+info button
+to the right of the toggle.
+Useful settings may be:
+Press the Shift key five times to toggle Sticky keys;
+Beep when a modifier key is set;
+Display pressed keys on screen;
+and setting the Screen area for display.
+See:
+Change Keyboard settings for accessibility on Mac | Apple Support
+Linux
+Open the
+Activities
+overview
+and start typing
+Accessibility
+.
+Click
+Accessibility
+to open the panel.
+Select the
+Typing
+section to open it.
+Find the
+Typing Assist
+section,
+switch the
+Sticky Keys
+switch to
+on
+.
+See:
+Turn on sticky keys | Ubuntu documentation
+Windows
+Press
+Shift
+5 times.
+See:
+What is the Sticky Keys feature? | Microsoft Support

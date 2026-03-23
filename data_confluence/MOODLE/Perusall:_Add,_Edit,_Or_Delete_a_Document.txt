@@ -1,0 +1,33 @@
+Title: Perusall: Add, Edit, Or Delete a Document
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20906922
+Version: 2
+---
+
+To
+add
+an assignment:
+Navigate to the
+Library
+tab on the course home page
+Select
+Add content
+You can then select a textbook from our catalog, upload your own materials from Google Drive, your computer, or take a snapshot of a web page
+To
+edit
+the name of a document:
+Click to highlight the document in the
+Library
+tab on the course home page,
+Click the
+Edit
+button
+Perusall does not have PDF editing tools built-in, so if you determine that the underlying document itself needs to be edited (e.g., some pages need to be rotated), then the document should be deleted and a new version uploaded.
+To
+delete
+a document:
+Click to highlight the document in the
+Library
+tab on the course home page
+Click the
+Delete
+button

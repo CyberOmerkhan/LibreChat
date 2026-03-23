@@ -1,0 +1,12 @@
+Title: Printing for Faculty and Staff
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19529759
+Version: 16
+---
+
+For instructions on how to add a specific departmental printer, select the printer from the list below.
+Most departmental printers are supplied as part of a campus-wide printing contract with Canon. Please use the phone number on the printer to order toner cartridges and repair services from Canon.
+facstaff_printer
+Select a printer or search by department or building.
+300
+Department
+label = "facstaff_printer" and space = currentSpace ( )

@@ -1,0 +1,41 @@
+Title: MediaWiki - Domain of One's Own
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775948
+Version: 5
+---
+
+MediaWiki is an open-source publishing platform that can be used for creating a collaborative document repository. It’s the software that drives the
+Wikipedia
+website.
+You can learn how to use this application at the official
+MediaWiki Help Pages
+. This support documentation wiki will show you how to manage all aspects of your wiki, including customizing its appearance, editing content, and changing user settings.
+Installing Mediawiki
+To get started, you’ll need to log in to your control panel (
+https://domains.swarthmore.edu/dashboard
+) using your Swarthmore College username and password.
+Once logged in, you’ll arrive at the homepage of your control panel. Navigate to the
+Applications
+section of the cPanel and click
+All Applications
+.
+Find and select
+MediaWiki
+.
+The next page gives you more information about the MediaWiki software. To begin the install, select
+install this application
+in the upper-right-hand corner.
+On the next page, the installer will ask for some information about this installation. The first thing you’ll want to do is decide where to install it. If you want to install MediaWiki on your main (the root) domain, you can leave the directory area empty. If you have created a subdomain, you can select it from the drop-down menu. You can also install MediaWiki in a subfolder by typing in the folder name in the
+Directory
+field. Go to our
+subdomains help page
+for more information about subdomains and subfolders.
+(By default, the installer will automatically backup your MediaWiki website and update it whenever a new version comes out. While we recommend you keep this option, it is possible to only perform minor updates or turn them off completely. The installer will also create a database for you automatically, but if you’ve already created one for this website, you can choose
+Let me manage the database settings
+and enter the details.)
+Finally, you’ll need to create an initial username and password for the MediaWiki install. Enter those credentials in the
+Settings
+section and click
+Install
+.
+The installer will take just a few moments to install MediaWiki, and a progress bar will keep you updated. When it is complete, you will see a link to your new MediaWiki site and a link to the back-end administrative section for your MediaWiki site.
+Congratulations! You have now completed the installation of MediaWiki. You can now start to create collaborative documents on your own domain.

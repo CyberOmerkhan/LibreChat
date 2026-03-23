@@ -1,0 +1,21 @@
+Title: Sign Into Zoom for Swarthmore Users
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20910625
+Version: 4
+---
+
+Sign In With the Zoom Application
+1)  Open your Zoom application.
+(If you need to download and install the application, go to
+https://swarthmore.zoom.us
+. Scroll to the bottom of the page and click "
+Download Zoom Client
+".)
+2)  Select "
+Sign In with SSO
+".
+3)  Enter "
+Swarthmore
+" as the company domain. This will take you to the Swarthmore login page. Enter your Swarthmore username and password > then  go through the Duo process.
+4)  You can also sign in via a web browser to schedule or start a meeting. Go to
+https://swarthmore.zoom.us
+and sign in with Swarthmore College username and password and go through the Duo process.

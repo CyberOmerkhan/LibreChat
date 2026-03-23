@@ -1,0 +1,14 @@
+Title: lib-mccabe-peace2 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530225
+Version: 1
+---
+
+Department
+Peace Collection
+Location
+McCabe Library
+Queue Name
+lib-mccabe-peace2
+Printer Model
+HP LaserJet Series PCL 4/5
+facstaff_printing_hp_instructions

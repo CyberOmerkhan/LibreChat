@@ -1,0 +1,41 @@
+Title: CrashPlan Web Restore
+URL: https://swatkb.atlassian.net/wiki/spaces/PS/pages/20382266
+Version: 16
+---
+
+To restore backed-up files, you can restore them from the web using the administration console.
+Note:
+Web restore is optimized for single files or small folders only.  The web restore will not work well for files over 1GB.
+In a web browser, go to
+console.us2.crashplan.com
+Enter your email address click
+Sign In,
+and then log in
+Authenticate with your credentials after being redirected to the Swarthmore login page
+Go to
+Devices
+and select
+Active
+to list your active devices
+Click the relevant device, which will display it:
+Click the restore icon.
+Select the files or folders to restore by checking the boxes next to the relevant items.
+For Windows, your files will be under "C:\ → Users → <your username>".
+For macOS, your files will be under "Users → <your username>".
+After selecting the needed files, click
+Restore
+.
+(Optional) Select a calendar date to restore a previous version of files (if the file has previous versions, it will have a small arrow to the left of the file).  Refer to the image below:
+(Optional) Select
+Display deleted files
+to show files that have been deleted from this computer,
+Display hidden files
+to show files that are normally not visible, and/or
+Full Paths
+to specify the exact location of the file(s):
+In the lower-left, click the
+Click here to download
+link to download the zip file containing your selected files
+Most computers will unzip by double-clicking the downloaded file.
+Please contact the Help Desk or put in a ticket at support.swarthmore.edu if you need assistance with the process.
+Help Desk Contact Block

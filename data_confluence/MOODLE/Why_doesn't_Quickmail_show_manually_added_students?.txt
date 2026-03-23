@@ -1,0 +1,10 @@
+Title: Why doesn't Quickmail show manually added students?
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20906391
+Version: 6
+---
+
+If you have manually added students to your course but they don't show up in the Quickmail list of potential recipients, the students have probably been added to the course without a role.  To fix the problem, go to the
+Participants
+page.  Find the user that is not showing up and verify that the
+Roles
+column is empty for that student.  Click on the Pencil icon in the Roles column and add the appropriate role.  You should now be able to email the user using Quickmail.

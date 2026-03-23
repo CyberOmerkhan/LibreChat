@@ -1,0 +1,69 @@
+Title: Microsoft Office 365
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20774931
+Version: 27
+---
+
+Description
+Microsoft Office 365 for Education
+Access
+Everyone
+Platform
+MAC
+Yellow
+WINDOWS
+Blue
+WEB
+Red
+About
+Office 365 is free to Swarthmore employees and students that have a Microsoft account using their Swarthmore email address. The service includes both downloadable and online versions of applications including Microsoft Word, PowerPoint, Excel, and OneNote. You can install Office on up to 5 PCs or Macs, 5 tablets, and 5 smartphones.
+Please note:
+The
+office.com
+website will advertise some pieces of software like Project and Loop, which are not included in our subscription. We recommend following the instructions below to bulk install all available software.
+Sign in with your Swarthmore email address at
+https://office.com
+Most college owned computers already have Microsoft Office installed. Installing multiple version of Microsoft Office can cause problems. Remove any old versions before installing Office 365.
+Downloading 365 Desktop Apps
+Once logged into
+https://office.com
+:
+Select the
+Install Office
+drop down menu
+and select
+Office 365 app
+.
+Find
+Office apps & devices
+.
+Select
+Install Office
+. This will begin the download process.
+Troubleshooting
+View Only: Your Account Doesn't Allow Editing on a Mac - Office 365 Error
+After installing Office 365 apps on a personally owned Mac some users get an error that says:
+View Only. Your account doesn't allow editing on a Mac. To learn more, contact your admin about your Office plan
+First, verify that you are using the proper account:
+Click
+Use Another Account
+and sign in with your email address and Microsoft password.
+Alternately,
+click the
+Activate
+button
+and sign in with credentials.
+If that does not work, you can attempt to clear credential caches and reactivate Office 365 for the Mac:
+Open
+Finder
+→  click go on the top menu bar →  go to folder →  input the following path: ~/library/Group Containers/
+Right-click each of the folders below if present, and then click move to trash.
+ubf8t346g9.ms
+ubf8t346g9.office
+ubf8t346g9.officeosfwebhost
+If that doesn’t work the last option is to
+try uninstalling office
+for Mac completely then re-install and re-activating office.
+Office Accessibility
+Office Accessibility Center
+Office 365 Accessibility Features
+365 Speech Recognition

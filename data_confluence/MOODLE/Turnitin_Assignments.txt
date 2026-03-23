@@ -1,0 +1,37 @@
+Title: Turnitin Assignments
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20906405
+Version: 15
+---
+
+Creating a Turnitin Assignment
+Turnitin assignments are added from the Activities list when you add an activity or resource. From the course home page, start by turning editing on
+.
+To add a Turnitin assignment follow these steps:
+Click "
+Add activity or resource"
+in the section you choose. Then select
+Turnitin Assignment
+from the Activities pop up menu
+On the New External Tool creation page, enter the Activity name and description (Optional).
+Make any Grade and assignment category settings before moving on to the next step.
+Click on Select Content at the top, or on the gear icon (later, after clicking Save) to set up the Turnitin Submission and Similarity Report settings:
+OR
+NOTE: Turnitin EULA
+You may be asked to agree to Turnitin's End User License Agreement in the pop-up window after either of these two steps. To proceed, please select agree, in order to use Turnitin's service. Also note that your students may need to agree to the same thing the first time they attempt to submit an assignment. Without that agreement, Turnitin will not process their work, nor generate a similarity score.
+Set the Assignment Title, enter instructions, and set the
+start and due dates for the assignment. Specific times are also selected. Students are only able to submit once the start date and time has passed. After the due date and time, students will be blocked unless late submissions are enabled. You must select a post date for the assignment. The post date comes after the due date and determines when marked papers or grades will be available for student view.  To allow late submissions, see the next step.
+Click on Optional Settings to configure the similarity report access, paper storage and other details of the Turnitin system:
+Choose whether student papers will be stored on Turnitin's repository or not.
+Caution
+If you do
+not
+wish to have Turnitin store your students' work be sure to select "
+Do not store the submitted papers"
+when asked to store Student Papers.
+Click the the appropriate checkbox to allow late submissions (after the due date)
+Choose when similarity reports are generated:
+Choose whether or not students are allowed to view Similarity Reports for their submissions by selecting yes or no from the Display Similarity Reports to Students option.
+If you wish to add a rubric use the Rubric Manager under the GradeMark Options.
+Once finished modifying other assignment options, click Submit to add the Turnitin assignment to the course.
+(Note: it is possible to submit individual papers for assessment by Turnitin outside of Moodle. See our KB page on
+for more information)

@@ -1,0 +1,29 @@
+Title: Domain of One's Own: WordPress Uploading Media
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775228
+Version: 5
+---
+
+Adding Media Content
+Upon occasion, you may want to include media (images, audio, video) in your site’s posts and pages. How your users will access your files is something to keep in mind when adding media to your site. There are generally two approaches to handling media in WordPress, each with different advantages:
+Uploading
+: You can upload the files into your site’s
+Media Gallery
+and then link to them in your posts/pages. This works very well for images, and when you take this approach for images, you have the added benefit of being able to make use of WordPress’s built-in (albeit rudimentary) editing tools. Also, when you upload images to WordPress, it automatically creates different sizes that you can use, as needed.
+To
+upload an image
+to your WordPress site, visit your site’s dashboard, hover over “Media” in the left sidebar, and select
+Add New
+.
+Adding Alternative Text To Images
+Always make sure to add alternative text when uploading any media. The alternative text makes your site accessible to people with visual impairments and anyone accessing the content through a reader rather than visually. Alternative text is usually just a short explanation of what’s happening in an image.
+Embedding Media
+You can
+embed video
+and audio from many external services (YouTube, Vimeo, SoundCloud, etc.) by simply
+placing the full URL of the audio/video location on its own line in your post or page
+. Embedding an image just means providing a URL to its location elsewhere on the web. Instead of uploading it to the server, WordPress grabs that image from the external source and displays it on your post or page.
+There is
+a complete list of supported external services
+, and you can learn
+more about embedding at the WordPress site
+. Our general advice is to use externally hosted media whenever it makes sense and works. For example, you may want to use externally hosted media for audio or video because, without installing plugins, well-presented audio and video in WordPress is tricky to manage. For images, if you need to do basic editing and/or require different sizes of images, upload them to your site. Otherwise, consider referencing them from another location (your Flickr account, for example).

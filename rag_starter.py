@@ -1,10 +1,13 @@
 from llama_index.core import VectorStoreIndex, SimpleDirectoryReader
 from llama_index.core.agent.workflow import FunctionAgent
 from llama_index.llms.openai import OpenAI
+from dotenv import load_dotenv
 import asyncio
 import os
 
-documents = SimpleDirectoryReader("data").load_data()
+load_dotenv() 
+OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
+documents = SimpleDirectoryReader("data_confluence").load_data()
 index = VectorStoreIndex.from_documents(documents)
 query_engine = index.as_query_engine()
 
@@ -23,9 +26,9 @@ agent = FunctionAgent(
 
 async def main():
     response = await agent.run(
-        "What are the top 3 greatest advices a user can take from the author? Also, what is 7*8?"
+        "How do I use a printer in Cornell?"
     )
-    return response
+    print(response)
 
 if __name__ == '__main__':
     asyncio.run(main())

@@ -1,0 +1,14 @@
+Title: adv-chester400-6-color Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530063
+Version: 3
+---
+
+Department
+Advancement Operations
+Location
+Chester 101 Room 400-6
+Queue Name
+adv-chester400-6-color
+Printer Model
+HP LJ 300-400 color M351-M451
+facstaff_printing_hp_instructions

@@ -1,0 +1,57 @@
+Title: Linux Networking
+URL: https://swatkb.atlassian.net/wiki/spaces/IAA/pages/19661601
+Version: 11
+---
+
+ITS doesn't support network access for Linux systems, but it is possible to connect Linux to the campus network.  This page contains some tips we have collected.
+Installing Linux on an former macOS or Windows computer
+If the device was previously on the network as a macOS or Windows system and is being reimaged as Linux,
+Submit a help request
+to remove the previous identification record so the Linux machine can be identified correctly.
+Dual Boot Systems
+When using a dual boot system you will need to randomize the MAC addresses on one of the operating systems, as both systems cannot use the same MAC Address.
+SwatVPN
+Option 1
+Install the Cisco Secure Client for Linux 64. Confirmed working on Ubuntu 24.04.
+Download the Cisco Secure Client by visiting
+https://swatvpn2.swarthmore.edu/ShibSSO
+Log in to the SSO page.
+Download Linux client.
+Follow instructions
+step 1
+step 2
+step 3
+step 4
+Option 2
+Install openconnect, a SSL VPN client that works with the Cisco Anyconnect VPN servers used by Swarthmore. The example below was done using Ubuntu 18.04 and 24.04. Other versions of Linux might require different commands.
+To install:
+Open a terminal window
+$ sudo apt-get update
+$ sudo apt install network-manager-openconnect-gnome
+To run from the command line (cli), it must run as root, so use the sudo option:
+Open a terminal window.
+$ sudo openconnect swatvpn2.swarthmore.edu/ShibSSO
+Accept the certificate, even with the error "signer not found".
+Enter your username, password (first PASSCODE prompt), and "push" without the quotes (at the second PASSCODE prompt, used for DUO 2FA prompt).
+Once DUO has successfully completed, it will finish connecting and show
+Connected as 130.58.#.#, using SSL
+Leave terminal open to maintain the VPN connection. Use web browser or another terminal window to access the network via the VPN tunnel.
+CTRL-C to end the VPN session.
+Option 3 (deprecated)
+To use Swarthmore's VPN system from Linux install the Cisco AnyConnect client for Linux.
+Submit a help request
+to ask for the AnyConnect Linux installer then enter the following in a terminal window.
+tar -zxvf anyconnect-linux64-<version number>-predeploy-k9.tar.gz
+cd anyconnect-linux64-<version number>
+cd vpn
+sudo ./vpn_install.sh
+Ubuntu apt-get errors
+Swarthmore's network can cause problems for some Ubuntu systems when installing software via apt-get.  To avoid the problem, use the following instructions.
+Create a file on the system called
+/etc/apt/apt.conf.d/99ignoreproxy
+(or
+99something
+) and add the following lines:
+Acquire::http::Pipeline-Depth 0;
+Acquire::http::No-Cache true;
+Acquire::BrokenProxy true;

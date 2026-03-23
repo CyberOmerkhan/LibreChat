@@ -1,0 +1,14 @@
+Title: bus-chester120 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530469
+Version: 1
+---
+
+Department
+Business Office
+Location
+Chester 101 Room 120
+Queue Name
+bus-chester120
+Printer Model
+HP LaserJet 8100
+facstaff_printing_hp_instructions

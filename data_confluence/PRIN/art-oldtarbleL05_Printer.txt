@@ -1,0 +1,14 @@
+Title: art-oldtarbleL05 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530033
+Version: 2
+---
+
+Department
+Art
+Location
+Old Tarble L05
+Queue Name
+art-oldtarbleL05
+Printer Model
+HP LaserJet 4050 Series
+facstaff_printing_hp_instructions

@@ -1,0 +1,14 @@
+Title: adm-parrish2nd Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19529800
+Version: 3
+---
+
+Department
+Admissions
+Location
+Parrish 2nd floor Commons
+Queue Name
+adm-parrish2nd
+Printer Model
+Canon iR-ADV 4745/4751 PS
+facstaff_printing_canon_instructions

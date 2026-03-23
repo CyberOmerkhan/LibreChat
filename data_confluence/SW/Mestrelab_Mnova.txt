@@ -1,0 +1,31 @@
+Title: Mestrelab Mnova
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20776049
+Version: 8
+---
+
+Description
+Software suite to process analytical chemistry data
+Access
+Everyone
+Platform
+MAC
+Yellow
+WINDOWS
+Blue
+Location
+Science Center 279
+Installation Instructions
+To install, download the appropriate file below, unzip, and run the installer.
+Tip:    If macOS tells you you cannot run the installer because it is from an "Unidentified Developer", right-click or control-click on the installer and choose
+Open
+from the pull down menu.
+Download
+Click on the links below to download the installer.
+Mestrelab Mnova for Windows
+Mestrelab Mnova for macOS
+License File
+After installation, apply the license files below on the first launch.   Computers must be connected to the campus network to use the software.
+License Files
+To apply new license files on an existing install, download the license files and place them in the following directory:
+Win:  C:\Program Files\MestReNova\Mestrelab Research S.L.\licenses OR C:\Program Files (x86)\MestReNova\Mestrelab Research S.L.\licenses
+Mac: \Library\Application Support\Mestrelab Research S.L.\Mestrenova\licenses

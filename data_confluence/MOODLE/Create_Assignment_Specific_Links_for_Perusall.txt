@@ -1,0 +1,35 @@
+Title: Create Assignment Specific Links for Perusall
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/247169031
+Version: 1
+---
+
+Assignment-Specific (Deep links) Creation
+Perusall LTI 1.3 allows you to create individual links to each Perusall assignment as an option. Eventhough, there is no need to create individual links to each Perusall assignment; however, if you would like to do so, you can create "deep links" into the corresponding Perusall assignment.
+To do this:
+Create your assignments in Perusall first.
+Navigate to
+Settings > Scoring > Grade Sync to LMS >
+LMS gradebook column management
+, set to
+Instructor creates deep links in LMS; no Perusall gradebook columns will appear in LMS until deep links have been created
+> Click
+Save Changes.
+In your Moodle course, enter
+edit mode
+, and add
+an activity or resource
+.
+Select
+External tool
+in the resulting dialog box.
+On the configuration page that results, skip the assignment name, and select Perusall from the
+Preconfigured tool
+dropdown.
+Click the
+Select content
+button. A window will pop up that will allow you to select a Perusall assignment to link.
+Under
+Grade,
+ensure that the Maximum point is = your assignment score range.
+Click
+Save and display.

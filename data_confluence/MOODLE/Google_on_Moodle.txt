@@ -1,0 +1,11 @@
+Title: Google on Moodle
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20908159
+Version: 5
+---
+
+Using Google tools with Moodle
+true
+Moodle Help Categories
+1
+true
+0

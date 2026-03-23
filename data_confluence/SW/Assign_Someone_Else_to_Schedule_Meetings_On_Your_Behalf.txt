@@ -1,0 +1,28 @@
+Title: Assign Someone Else to Schedule Meetings On Your Behalf
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20908929
+Version: 11
+---
+
+Zoom allows you to grant scheduling privileges to other users so they can schedule meetings for you.
+Scheduling privilege is designed so:
+You can assign a user or multiple users with a Swarthmore ID to schedule meetings on your behalf.
+You can also schedule meetings on behalf of a user (or multiple users) that has assigned you scheduling privilege.
+Users with scheduling privilege on your account will be able to manage and act as an Alternative Host for all meetings.
+Note: Both y
+ou and the assigned scheduler must have a
+Licensed
+user account. If you need a
+Licensed
+account setup please contact Classroom and Conferencing Technologies at
+support@swarthmore.edu
+To set scheduling privilege:
+Log in to Zoom at
+https://swarthmore.zoom.us
+. Go to your Settings tab. Under Meeting, scroll down to Other at the bottom of the page and find “Schedule Privilege”. Select “Add” next to "Assign Scheduling Privilege to"
+Next you’ll be asked to type in the email address of the assigned scheduler(s)
+The person who can schedule for you would do the following:
+Go to the Zoom client (desktop application)
+Logout and re-login again (one time only)
+Click on schedule and select who to schedule for
+If you need more help setting up scheduling privileges please contact Classroom and Conferencing Technologies at
+support@swarthmore.edu

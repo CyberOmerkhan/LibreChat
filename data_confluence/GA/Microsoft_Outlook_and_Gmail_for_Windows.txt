@@ -1,0 +1,41 @@
+Title: Microsoft Outlook and Gmail for Windows
+URL: https://swatkb.atlassian.net/wiki/spaces/GA/pages/19660866
+Version: 9
+---
+
+true
+BLOCK
+Configuring email and calendar with Outlook in Windows using Google Apps Sync.
+Ensure you are using the most recent version of Outlook and your operating system is up to date.
+Add a Gmail Account to Outlook
+On Windows
+Download the
+Recommended for users
+EXE file from the
+Google Workspace Sync for Outlook download page
+.
+On the computer where you use Outlook, open the installer and follow the instructions.
+Move to
+Sign in to your Google Account
+.
+For best results, set the mailbox size to unlimited.    Find the Google Workspace Sync tool in your task bar and right click it.   Choose “Set Mailbox Size”, and set it to “Unlimited”.
+On MacOS
+Select
+Outlook > Preferences > Accounts
+Click the plus (+) sign >
+New Account
+Type your email address >
+Continue
+Type your password >
+Continue
+Click
+Continue
+Select an account to sign in.
+Allow permissions from Microsoft apps & services
+Click
+Open Microsoft Outlook
+Select
+Done
+For more information, check out the
+official Microsoft documentation
+.

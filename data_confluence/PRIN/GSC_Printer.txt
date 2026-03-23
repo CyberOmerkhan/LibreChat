@@ -1,0 +1,16 @@
+Title: GSC Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19529892
+Version: 8
+---
+
+Department
+Resource Centers
+Location
+Gender and Sexuality Center
+Queue Name
+GSC
+Printer Model
+Canon iR-ADV C3826 PS
+#00000000
+19529881
+student_printing_canon_instructions

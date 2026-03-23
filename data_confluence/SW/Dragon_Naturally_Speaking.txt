@@ -1,0 +1,20 @@
+Title: Dragon Naturally Speaking
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775204
+Version: 16
+---
+
+Description
+Speech Recognition Software
+Access
+Everyone
+Platform
+WINDOWS
+Blue
+Location
+McCabe Library (007), Cornell Library (Room L18), Underhill Library (Room 105)
+Availability
+Due to limited licensing, Dragon for Windows is only available on designated computers throughout campus (listed above). Contact the ITS Help Desk (
+support.swarthmore.edu
+) to purchase a copy.
+Training
+Get Trained | Dragon Naturally Speaking

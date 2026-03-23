@@ -1,0 +1,70 @@
+Title: Swarthmore Summer Scholars Program
+URL: https://swatkb.atlassian.net/wiki/spaces/ITSDOCS/pages/20382877
+Version: 13
+---
+
+This page includes technology resources for individuals participating in the Swarthmore Summer Scholars Program. For more detailed information about the program, please visit the
+Summer Scholars Program page
+. For general information geared towards all new and incoming students please visit our
+New Students page
+.
+Setting up Your Swarthmore Account
+Getting an Account
+PS
+Student Accounts
+Setting Your First Password
+PS
+Set First PW
+For more information, visit our
+Resetting Passwords page
+.
+Setting Up Duo Two-Factor Authentication
+ITSHELP
+Duo Intro
+Accessing Resources from Off-Campus - VPN
+Some resources available to students may require Swarthmore VPN to access - especially if you are trying to access them from an off-campus location. Swarthmore provides the Cisco AnyConnect VPN client for all students so these resources can be accessed as needed from anywhere.
+VPN, or Virtual Private Network, also adds a layer of protection to your online activity. If you are going to be learning remotely or need to access sensitive information while using a public WiFi network you can use the Swarthmore VPN to add some extra security. If you would like to learn more about our VPN you can visit the
+VPN and Off-Campus Access page
+.
+How to Install the Swarthmore VPN
+PS
+VPN Install
+Software
+Swarthmore provides software for download to assist our students in their learning. You can browse and install available software from our
+Software Installation page
+.
+Please note that not all software listed on our installation page is available for students to download. Check the
+Access
+column - if it lists
+Students
+or
+Everyone
+it is available for student download. Make sure to also check the
+Platform
+column to make sure the software is compatible with your computer's operating system. All of our software is available for use in our public computing spaces on campus.
+Microsoft Office
+As part of the Summer Scholars Program, you will be given access to the Microsoft Office 365 suite.  For more information on how to access the suite and get it set up properly, please refer to this website (you will need to create your own Microsoft account with your @swarthmore.edu email) Microsoft Office 365 --contact the Service Desk if you need assistance
+support.swarthmore.edu
+.
+Learning Remotely
+For those participating in remote classes, you can find more information on available resources by visiting our
+Learning Remotely resource page
+, as well as our
+general remote resources page
+.
+Zoom Video Conferencing
+Zoom video conferencing with a pro license is available for all Swarthmore students. You can use this service to attend remote classes, meet with study groups, or virtually attend various campus events. You can access Zoom via the web at
+swarthmore.zoom.us
+or download the desktop or mobile applications. For more information on Zoom please visit our
+Zoom Video Conferencing page
+.
+LinkedIn Learning
+All students also have access to LinkedIn Learning via the college at
+linkedin.swarthmore.edu
+. LinkedIn Learning has a vast library of videos that provide online learning options for various subjects. You can learn more about programs or subjects you are covering in class, learn how to handle stress or better manage your time, and also find tips on writing resumes and preparing for job interviews. You can check out our current collection for students, which includes
+helpful video resources for learning remotely
+.
+Contact the Help Desk
+b93c0157-a277-47b5-bfe8-e6de5c523409
+ITSHELP
+Help Desk Contact Block

@@ -1,0 +1,35 @@
+Title: Rhino
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775115
+Version: 10
+---
+
+Description
+3D modeling software
+Access
+Everyone
+Platform
+MAC
+Yellow
+WINDOWS
+Blue
+About Rhino
+Rhinoceros (Rhino) is a 3D modeling program available for use on college and personally-owned computers.  More information is available from the
+Rhino web site
+.
+Installation Instructions
+Download
+Rhino
+for Windows or macOS from the
+Rhino download page
+.  Select the full version (not the evaluation version).
+Run the installer
+When prompted the the licensing information, select the Cloud Zoo
+Login via Google using your Swarthmore username
+Troubleshooting
+Changing License Settings
+In the past, Rhino had a local license manager. To switch your installation to the cloud license manager ("Cloud Zoo"):
+Start Rhino
+From the Tools menu, click Licenses
+Under the Rhino license, click Change Your License Key
+Click Login
+Login using the email address that is a member of the new team

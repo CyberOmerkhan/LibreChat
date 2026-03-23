@@ -1,0 +1,14 @@
+Title: langcenter212 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19529802
+Version: 2
+---
+
+Department
+Lang Center for Social Responsibility
+Location
+Lang Center for Social Responsibility 212
+Queue Name
+langcenter212
+Printer Model
+HP Officejet 8600
+facstaff_printing_hp_instructions

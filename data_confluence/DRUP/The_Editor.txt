@@ -1,0 +1,246 @@
+Title: The Editor
+URL: https://swatkb.atlassian.net/wiki/spaces/DRUP/pages/172949560
+Version: 20
+---
+
+2) Working with the Editor
+The
+body
+typically contains the main content that appears on a webpage. There is menu bar located at the top which is used to format text, add headings, styles, links, tables, etc.
+The editors functions are listed below.
+A visual of the location of editor functions starting on the upper left
+Going from left to right, the order of the editor functions is listed below. Each of the editors functions are described in the sections that follow.
+Undo | Redo
+Remove Formatting
+Bold, Italics, Bullet List, Ordered List
+Headings
+Styles
+Horizontal Rule
+Anchors
+Links
+Special Characters
+Find/Replace
+Tables
+Add Image in Body Copy
+Upload Image
+View HTML Source
+Toggle Full Screen
+2.1) Undo | Redo
+Allows you to undo or redo any edit you make to the body copy block.
+2.2) Remove Formatting
+Whenever you copy and paste text into Drupal from another source (Google Docs, Microsoft Word, PDFs, etc), the pasted text will use the font styling of the original source file (font type, color, size, etc). This font styling will likely be different from the font styling used on the Swarthmore site. The
+Remove Formatting
+function removes that imported formatting and makes the text look consistent with the rest of the website. Simply highlight the text you wish adjust using your cursor and then click the
+Remove Formatting
+button.
+Please note:
+All content on the website should use the same style found on the Swarthmore website. To ensure consistency, always use Remove Formatting option when you copy and paste content into the Drupal CMS.
+2.3) Bold / Italics / Bullet List / Ordered List
+Allows you to add bold and italics content as well as bullet and ordered lists.
+A Note About Lists
+There are two kinds of lists - bulleted and numbered lists and they serve different purposes.
+Numbered lists should be used when the order of completion is important.  For example, if you are doing a reverse sear on a steak, you need to slow cook the steak before you but it on high heat to sear the outside. The list would look something like this:
+Heat the oven to 250 F;
+Dry the steak surface and add any seasonings like salt and/or pepper;
+Place the steak in an oven proof pan for 15-20 minutes. You’ll want the steak to be about 30 degrees lower than the desired serving temperature;
+Sear the steak.  Put it on a hot grill or in a hot skillet.  Cook for 1-2 minutes on each side and 30-60 seconds on the sides;
+Baste with butter and add aromatics;
+Let it rest for 5-10 minutes;
+Serve
+Congratulate yourself on cooking a most delectable steak.
+A bulleted list is used when it doesn’t matter what comes first or last.  A simple example might be a packing list:
+charging cords and plugs;
+socks;
+shirts;
+slacks;
+toiletries and medications;
+extra pair of eye glasses;
+2.4) Headings
+Allows you to add headings to your content. All webpages follow a standard convention of ranking of headings from H1 to H6. The Page Title (the most important element) is the H1. If you include heading/subheadings in the page content, you would start with H2 and then use H3-H6 for additional sub-headings.
+Please note:
+Whenever using headings, you must follow the proper heading sort order. This is essential for accessibility, readability, and to maintain consistency. Headings are the number one way that visitors with screen readers navigate the web.  If you are curious to see this in action, take a look at
+Screen Reader Demo With Headings [YouTube]
+.
+H1:
+The title of the page
+H2:
+First point
+H3:
+Subsection of first point
+H3:
+Subsection of first point
+H3:
+Subsection of first point
+H2:
+Second point
+H3:
+Subsection of second point
+H4:
+Child of second subsection
+H4:
+Child of second subsection
+H3:
+Subsection of second point
+H2:
+Third point
+2.5) Styles
+The styles drop down menu allows you apply custom font styles to your content. This is useful if you wish to include lead paragraphs (slightly larger font size for the intro paragraph) or pull quotes (a quote pulled from the content) to your body content.
+2.6) Horizontal Rule
+Allows you to add a horizontal rule to your content.
+2.7) Anchors
+Anchor are internal links within the body content of a page that allow you jump to a section of the page. Anchors are typically placed at the beginning of the section heading or paragraph that you want visitors to jump to.
+The only requirement is to add a name for the anchor - the name should be one word and contain no spaces. Examples of good anchor names are:
+CreatingAnchors
+admissionsRequirements
+required-documents
+You will know you've successfully created an anchor when you see a red flag
+appear in the Copy Editor. This red flag will not be visible to the public and is intended to help remind you of its presence while editing. Clicking on the red flag will display the anchor tag id. If you need to edit the anchor name, you can click on that flag and the
+Anchor
+dialog will reopen.
+Using an Anchor Tag
+After you’ve created an anchor link somewhere in the body of your page, click the red flag
+to open the
+Anchor
+dialog.
+Using the anchor tag on the same page
+To use the anchor on the page that you’re currently editing, click on the link and then the
+Edit Link
+button
+on the dialog. Paste in
+#your-anchor
+, or
+#Definitions
+in the example below.
+In the
+Link URL
+field, add the anchor following a pound (#) symbol. For example, our id of
+Definitions
+would be entered as
+#Definitions
+.
+Using the anchor tag on a different page
+To use the anchor on a
+different
+page than the one you’re currently editing, append the id --
+#Definitions
+in our case – to the end of that page’s url, creating something like
+swarthmore.edu/my-example-site/my-example-page#Definitions
+or
+/node/100057#Definitions
+, if using the Drupal path as the URL. This link can then be pasted in the
+Link URL
+field of any link on your page.
+2.8) Links
+Adding links to other webpages or other content is one of the most common tasks you’ll be doing when creating webpages.  The most important think to remember about a link is the text of that link.  Make sure it is meaningful and lets a visitor know a little about what will happen when they visit that link.  Visit
+Unlock the Power of Meaningful Links
+to learn more. Here are some examples of informative and uninformative link text:
+Ineffective
+Effective
+WCAG-compliant links should explain their purpose for the link text alone.
+Click here
+to learn more.
+WCAG-compliant links should explain their purpose
+from the link text alone.
+Check your contrast levels using
+https://webaim.org/resources/
+contrastchecker/
+Check your contrast levels using
+WebAim’s  Contrast Checker
+Swarthmore’s Accessibility website
+includes five tips for preparing accessible materials
+Swarthmore’s Accessibility website includes
+five tips for preparing accessible materials
+Here
+is an introduction from WebAIM to links and hypertext
+WebAIM’s introduction to links and hypertext
+10 minute conversation
+How to have a
+10 minute conversation [PDF]
+2.8.1) Linking to another webpage in Drupal
+Highlight the text you wish to become a link
+Click the the chain icon in the menu bar. This will open the link editor window
+2.8.2 How the Link Editor Works
+Link URL
+- is where you would add the link or URL.
+Link to a Document
+- if linking to a document (hosted in Drupal) then you click this button.
+Advanced
+- opens/collapses the advanced tab which includes: CSS Classes, ID, and Open in a new window.
+Open in a new window
+- allows you to toggle whether the link should open in a new tab or not. The default setting is have the link open the same window/tab.
+Save / Cancel -
+click the check mark to save your edits or the x to cancel
+Note: It is recommended that when linking to an external website (ie not at
+swarthmore.edu
+) or to a document, that you have the link open in a new tab.
+2.8.3 Creating a link to another page in Drupal
+Start typing the name of the webpage you wish to link to. For example, if you wanted to link to the “Admissions & Aid” homepage, you would type “Admissions” and every page in Drupal that has the word “Admissions” in it’s title would appear in the list below.
+Select the webpage you wish to link to.
+After selecting the page you wish to click to, the link editor will switch back the minimized view. In place of the page name, you will see a reference like this /node/######. This is normal. This is how Drupal keeps track of internal links.
+Click the checkmark to save your changes or the X  to cancel.
+2.8.4 Creating a link using an URL
+Link URL - You can also simply copy and paste any URL into the field. This includes both external links, internal links, Google drive links, etc.
+Note: It is recommended that when linking to an external website (ie not at
+http://swarthmore.edu
+) or to a document, that you have the link open in a new window/tab located under the advanced options.
+2.8.5 Linking to a document
+You add a link to a document. Select the text you wish to become a link. Always include the file type to let people know that the link points to a file and not a website. For example, add [pdf] for a pdf file.
+Click the Link to Document Button to add a new document (or select) a existing document that has been previously uploaded to Drupal
+It is recommended always have PDFS (or other documents) open in a new tab.  You can control whether a link opens in a new tab, by clicking the Advanced tab
+Under the Advanced tab, slide the toggle to green to have the link open in a new window.
+How the “Link to Document” works
+Clicking the
+Link to Document
+Button will open a new window that allows you upload a new document to Drupal or select an existing document.
+Select Document
+- will display all the documents that has been previously uploaded into Drupal
+Upload Document
+- will allow you upload a new document
+Filename
+- lets you search the documents folder
+Name -
+allows you sort the folder by filename
+Created
+- allows you sort the folder by when it was uploaded.
+Radio Button
+- choose the the file you wish make become a link.
+Select Document
+- save your choice. You will then be returned to the previous window.
+Once the document is selected:
+The name of the file you selected will appear in the Link URL field
+Click the green check mark to add the link in Drupal.
+2.8.6 Edit or remove a link
+To edit or remove a link, click the link. The link editor window will appear.
+You can select the pencil icon to edit an existing link
+Or the paperclip X icon to remove the link.
+2.9) Special Characters
+This function allows you to add special characters (a,e,i,o,u with accents and other marks). This is most common for foreign words and names that might appear on the site
+2.10) Find & Replace
+Allows you to do a standard find and replace in the body content block.
+2.11) Tables
+Use this function to add table content to your webpage. Ideally, tables are created to share data e.g. dates and times of a train schedule.  Avoid using tables to control look and feel.
+You first select the number of rows and columns using the matrix.  Remember to include a column or row for table headings (see
+WebAims article on tables
+to learn more.)
+Add your column or row headings.
+Then you add your data.
+When creating a table you must include a
+Caption and column or row headings
+. These fields are critically important - they not only make tables more understandable and readable, they also help persons with disabilities understand what the table is about. Ideally, tables are created to share date. Avoid using tables to control layout. To learn more about creating accessible tables, take a look at
+WebAim’s article on tables
+.
+2.12) Add Image
+Visit 6.2)
+Adding an Image in the Body Copy
+to learn more about adding an image to the body copy
+2.13) Upload Image
+Allows you upload images directly to Drupal.
+2.14) HTML Source
+Clicking the
+HTML Source
+button will display the underlying HTML responsible for rendering the text formatting, links, images, and other elements that appear on the page. Editors who are comfortable working with HTML may find this functionality useful for troubleshooting, however it is not necessary for the general editing of content.
+2.15) Full Screen
+The
+Full Screen
+button will maximize the Copy Editor to take up the full browser window. This can be useful when working with a large amount of content or as a means of cutting down on distraction during the writing process.
+Click the button a second time in order to minimize the Copy Editor, returning it to its original size.

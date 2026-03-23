@@ -1,0 +1,14 @@
+Title: its-trainstation Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530286
+Version: 1
+---
+
+Department
+Information Technology Services
+Location
+Train Station
+Queue Name
+its-trainstation
+Printer Model
+HP LaserJet 4250
+facstaff_printing_hp_instructions

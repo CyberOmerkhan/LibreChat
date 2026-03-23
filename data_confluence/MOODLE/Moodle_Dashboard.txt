@@ -1,0 +1,34 @@
+Title: Moodle Dashboard
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20907472
+Version: 19
+---
+
+ITS automatically enrolls faculty and students in their courses using information from the Registrar's Office.  When logging into Moodle you will see all the courses available to you.
+Course Overview
+The course overview section (My Courses) contains a listing of all the courses available to you.  The default settings are to display each course in a box, sorted alphabetically, which is not always optimal.  There are several ways to organize the listings.
+filtering
+Filtering Course Listings
+It is possible to show only courses happening this semester or courses from the past or in the next semester (future).  There are other options viewing "starred" (favorite) courses or courses you have hidden.  The Moodle course listing uses the start and end dates of the course to determine which tab to put the course in (In Progress, Future, or Past).
+To view just the current courses, select the "In progress" filter.
+Sorting Courses
+Courses can be sorted by name or by the when they were "Last accessed".  If you tend to visit the same courses over and over, it is probably easier to sort by "Last accessed".
+Display
+The default view is "Card", which shows a course with its thumbnail image (which can be customized by the professor).   To condense the view, it is possible to switch to a "List" or "Summary" view.
+starringhiding
+Starring and Hiding
+It is possible to "star" commonly used courses and hide courses you are not interested in seeing.  Click on the settings for a course (three dots) and select "Star this Course" or "Remove from View".
+You can view starred courses using the course filter option described above.  To un-hide a course, use the filter option to display hidden courses and unhide them.
+Other Settings
+You can control how many courses show up on the home page with a control at the bottom of the "Course Overview" box.  There are other controls for switch to the next page.
+If you are an instructor, you can set a
+custom course image
+to show up on the course listing.
+I can't see my course
+If a course does not show up in the Moodle home page, check to see if the Dashboard view has a filter or if the course has been hidden.  See "
+Filtering Course Listings
+" and "
+Starring and Hiding
+" above.
+If the course doesn't appear anywhere in Moodle, you may not be enrolled in the course.  Check in Faculty Services (for faculty) or MySwarthmore (for students) to make sure you are enrolled in the course.
+Students
+: If you are enrolled in the course, but it does not show up in your Moodle home page, most likely your professor has not made the course available to students.  They might not be using Moodle or they may be waiting to make the course available.  Check with your professor.

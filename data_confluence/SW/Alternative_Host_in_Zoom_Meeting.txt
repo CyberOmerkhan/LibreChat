@@ -1,0 +1,26 @@
+Title: Alternative Host in Zoom Meeting
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20910825
+Version: 6
+---
+
+The
+Alternative Host
+option is an advanced feature available to
+Licensed
+account users. It allows you to schedule meetings and have another
+Licensed
+user with a Swarthmore ID host that session as well.
+To enable an
+Alternative Host
+follow these steps:
+Schedule a Zoom Meeting
+and the click on the "Show" button next to Options
+Once selected, input the user email(s) separated by a comma (see below). Please note, this user must be a
+Licensed account user
+and have a Swarthmore login ID.
+After the alternative host email addresses have been added, remember to hit the Save button at the bottom. The
+Alternative Host
+can now host your Zoom meeting by using the Join URL after logging in.
+Note: The first
+Alternative Host
+to join before the meeting scheduler will be granted host controls. The scheduler can reclaim host controls by going to Participants and selected Reclaim Host.

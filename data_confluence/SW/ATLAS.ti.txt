@@ -1,0 +1,26 @@
+Title: ATLAS.ti
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775208
+Version: 35
+---
+
+Description
+Qualitative data analysis tool
+Access
+Everyone
+Platform
+MAC
+Yellow
+WINDOWS
+Blue
+Location
+Creative Media Commons, Singer 222
+Background
+"ATLAS.ti is a powerful workbench for the qualitative analysis of large bodies of textual, graphical, audio and video data."  More information available at the
+ATLAS.ti web site
+. Tutorials on how to use ATLAS.ti software can be found on their
+video tutorials website
+.
+How to get a copy?
+While any faculty, staff, or student at Swarthmore can use ATLAS.ti on their personal and/or College computer, as well as the web version, please note that licenses are carefully tracked. Also, note that this software is purchased by ITS primarily for teaching purposes. While we support its use generally, it may be necessary to limit users if it becomes necessary during classes that require all the licenses to be available. We strongly encourage faculty who need this tool for their research to purchase their own licenses. Please visit our
+Service Portal
+to request a license code and download link.

@@ -1,0 +1,18 @@
+Title: Adding More Sections or Weeks in Moodle
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20908463
+Version: 9
+---
+
+By default, new courses are created with sections labeled "New Section.”  Moodle can also display each section as a week with the dates at the heading.
+To modify the number of sections (or weeks) showing in the course:
+Go to your Moodle course and turn editing on.
+Go to the bottom of the page and click on
+Add Section
+or
+Add Week
+below the last section of the course.  If the link doesn't appear, expand the last section.
+Repeat as needed to add more sections
+Reordering sections
+To reorder sections, turn on edit mode and move the cursor to to the right of the section title.  The cursor will switch to a crosshair symbol.  Click and drag the section up or down.
+The top section is a header section.  It cannot be moved.
+It is also possible to reorder items or sections using the course index on the left hand side of the page.

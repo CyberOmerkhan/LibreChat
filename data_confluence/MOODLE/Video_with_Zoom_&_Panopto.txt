@@ -1,0 +1,16 @@
+Title: Video with Zoom & Panopto
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20908497
+Version: 16
+---
+
+Zoom and Moodle
+Zoom integration with Moodle
+Adding a Zoom Video Conference to a Course
+Panopto and Moodle
+Renaming a video in Panopto
+Manually adding Zoom videos to Panopto
+View Panopto quiz results
+Moodle Help Categories
+1
+true
+0

@@ -1,0 +1,39 @@
+Title: Step 2 - Install Web Applications In CPanel Domain of One's Own
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/231833628
+Version: 2
+---
+
+Next Steps: Install a Web Application in Your Space
+Domain of One's Own
+makes it very simple to install certain web applications.
+Web applications are special software that run on a web server and help you to build and manage a website. The type of site you build depends on the type of application you install. Here are some examples of applications that you can install within the Domains at Swarthmore web hosting interface:
+WordPress
+WordPress is a simple-to-use blogging application. The tool also comes with a huge array of plugins & themes to allow you to create virtually any kind of website imaginable. Take a look at our specific instructions for
+installing a WordPress site using Domain of One's Own
+.
+Omeka
+Omeka is an open-source web application that can be used to create and display online digital collections and archives. Take a look at our specific instructions for
+installing the Omeka application using Domain of One's Own
+.
+Scalar
+Scalar is a content management system with the idea of creating non-linear books on the web. If you are looking for a way to create and share media-rich texts, Scalar might be the perfect tool for you.
+Install Scalar using Domain of One's Own
+.
+MediaWiki
+MediaWiki is an open-source publishing platform that can be used for creating a collaborative document repository. It’s the software that drives the
+Wikipedia
+website. Take a look at our instructions for
+installing the MediaWiki application using Domain of One's Own
+.
+Grav
+Grav
+is a content management system (CMS) or, said another way, it’s an application to make websites. But differs from other CMSs like Drupal or WordPress in its underlying technology. While it’s a PHP app like those two, unlike them it does not have a database. All data is written directly to files rather than stored and retrieved from a database. This is known as a flat-file system and it can help with performance given numerous database calls can slow down sites.
+Install Grav using Domain of One's own
+.
+What Exactly is a Web Application?
+In the most general terms, a web application is a software that runs on a web server. A web server is a designated computer set up to host web pages.  When installed, web applications create an environment that allows users to build websites.
+The applications you install will determine what kind of website you will ultimately build.
+Most web applications are comprised of two components: files and a database. When you install a web application, you will need to make sure all of the files are copied over into the appropriate location AND that a database (and database user) has been set up to connect to those files. Often, you will have to do some configuration to make sure the application knows how to access the database.
+The system we use for
+domains.swarthmore.edu
+uses a special script installer called Installatron (in cPanel) that allows you to automatically install dozens of open source applications. When you use Installatron, you don’t need to worry about moving files, creating databases, or doing the initial configuration. It’s all taken care of for you.

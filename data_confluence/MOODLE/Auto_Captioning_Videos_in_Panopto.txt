@@ -1,0 +1,5 @@
+Title: Auto Captioning Videos in Panopto
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20907894
+Version: 3
+---
+

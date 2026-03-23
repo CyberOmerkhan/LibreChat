@@ -1,0 +1,47 @@
+Title: Calendar Frequently Asked Questions (FAQs)
+URL: https://swatkb.atlassian.net/wiki/spaces/GA/pages/19660899
+Version: 9
+---
+
+Visual Reference Guide
+Add the Academic Calendar to Google Calendar
+To add the Academic Calendar to your list of calendars, open your calendar in Google, then:
+Click the "+" next to "Add a coworker's calendar"
+Select the "From URL" option
+Copy and paste this link into the URL box: webcal://25livepub.collegenet.com/calendars/swarthmore-college-events.ics?mixin=362486
+Then click "Add Calendar"
+You can rename the calendar or change the color after it is added by hovering over the calendar name (found in your "Other calendars" list) and then clicking the three-dot "more options" icon:
+and choosing "Settings"
+Please note: Swat Central does not currently have a way of properly displaying All Day Events. This means that they will appear on your calendar as events that span from 12 AM until 11:59 PM on the scheduled day. Since this method creates a new sub-calendar for the Academic events in your Google Calendar, you will be able to easily toggle the view on and off by simply clicking on the calendar name.
+Sharing Your Calendar
+You can share your calendar with family and friends. (
+Link to Google Documentation
+) Here are a couple of examples of what you can do with sharing:
+Share your main calendar with someone so they can see your schedule.
+Create a new calendar that multiple people can edit, like a "Hiking" calendar that everyone in a hiking group adds events to.
+When you add someone to your calendar, you can decide how they see your events and whether they can also make changes like adding or editing events.
+Invite People to Your Event
+You can add anyone with an email address to your event, even if they don't have Google Calendar (
+Link to Google Documentation
+)
+Manage Multiple Calendars
+If you need to directly manage people's calendars, see the document below. In that guide, you will learn about setting up delegated Google calendars, common Google Calendar tasks, tips and tricks to improve efficiency, and recommended Google Calendar Labs for administrative assistants.
+Google Calendar for Administrative Assistants (Managers of Multiple Calendars)
+gdoc.
+View Managed Calendars
+Managed Calendars are not associated with a person but are used by departments for various reasons. To view a Managed Calendar follow these steps:
+Click on the down arrow next to "Other Calendars"
+Browse Interesting Calendars
+Click the "more" tab
+Click "Resources for
+Swarthmore.edu
+" and subscribe to the calendar.
+How to Hide Calendars Shared with You
+If you would like to hide a calendar that has been shared with you select the colored box next to the calendar name.  To view a calendar shared with you click on the calendar name.
+View Shared Calendars on Mobile
+Log into Google Calendar in any web browser, then open a new tab and visit
+https://www.google.com/calendar/iphoneselect
+and you'll see all of the calendars you own and ones that are shared with you. Check the calendar you want to see then refresh your calendar.
+If you'd like more information here is a
+link to the full set of instructions
+.

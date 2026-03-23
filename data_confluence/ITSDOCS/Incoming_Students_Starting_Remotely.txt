@@ -1,0 +1,51 @@
+Title: Incoming Students Starting Remotely
+URL: https://swatkb.atlassian.net/wiki/spaces/ITSDOCS/pages/20382931
+Version: 7
+---
+
+2
+Swarthmore Account
+Student Accounts
+Setting Your First Password
+Set First PW
+For instructions on how to reset your password in the future, please visit our
+Password Reset instructions page
+.
+Duo Two-Factor Authentication
+Duo Intro
+Swarthmore Virtual Private Network (VPN)
+ExplainVPN
+How to Install the Swarthmore VPN
+VPN Install
+Logging Into the Swarthmore VPN
+Below are the instructions for how to connect to the Swarthmore VPN from a macOS or Windows computer. For more information on how to connect to the Swarthmore VPN from other devices, please see our
+VPN and Off-Campus Access page
+.
+VPN Connect
+Anti-Virus Protection
+Antivirus
+Information Security
+Keeping your account and data secure is very important. Using Duo, the Swarthmore VPN, and having up-to-date anti-virus protection is only a small part of a number of things you can do to ensure you keep your data secure. Please check our page on
+how to work and learn safely while remote
+. Please also check out our
+tips for better wifi
+.
+Zoom
+Zoom video conferencing with a pro license is available for all Swarthmore students. You can use this service to attend remote classes, meet with study groups, or virtually attend various campus events. You can access Zoom via the web at
+swarthmore.zoom.us
+or download the desktop or mobile applications. For more information on Zoom please visit our
+Zoom Video Conferencing page
+.
+Software
+Swarthmore provides software for download to assist our students in their learning. You can browse and install available software from our
+Software Installation page
+.
+Please note that not all software listed on our installation page is available for students to download. Check the
+Access
+column - if it lists
+Students
+or
+Everyone
+it is available for student download. Make sure to also check the
+Platform
+column to ensure the software is compatible with your computer's operating system.

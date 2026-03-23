@@ -1,0 +1,29 @@
+Title: Phishing
+URL: https://swatkb.atlassian.net/wiki/spaces/PS/pages/20382673
+Version: 10
+---
+
+Unfortunately,
+Phishing
+is a common experience for email users these days.  Swarthmore email users often receive requests for their network/email passwords, user IDs, and other private data.  Some of these emails can be very convincing and appear to be from Swarthmore faculty, staff, or students.  It's important to realize that the "From:" address in any email can be
+easily forged
+.
+To see some of the most recent phishing attempts targeting the campus community, go visit the "Phish Bowl" at
+https://www.swarthmore.edu/PhishBowl
+However, you should know that ITS will
+NEVER
+, ever request your password!  Emails requesting your password or other personal data should simply be deleted upon receipt.  You should also forward a copy of these to
+phishing@swarthmore.edu
+so that ITS is aware.
+There are three additional tips that should help you recognize phishing emails:
+ITS will
+NEVER
+threaten you in an email (e.g., if you don't click, you will lose access, etc.)
+Emails actually sent by ITS will
+never
+end up in your "Spam" folder
+If you're still not sure, you can forward the email to
+phishing@swarthmore.edu
+or at least
+manually
+enter the URL of the target site into your browser.

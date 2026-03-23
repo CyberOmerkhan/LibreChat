@@ -1,0 +1,8 @@
+Title: Searching for Courses
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20907074
+Version: 1
+---
+
+Some people are enrolled in many courses and it can be hard to find a specific Moodle course in the Course Overview listing.  In this case, it may be faster to search for a course.
+On the Moodle home page, look for the "Browse all courses" link.
+Click the link and enter text to search for.  A best bet is to search for the department, course number, and semester code.  For example "BIOL001 F19".  The search will also work with course names but they are sometimes abbreviated.

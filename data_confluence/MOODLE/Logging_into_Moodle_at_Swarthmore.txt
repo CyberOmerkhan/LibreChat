@@ -1,0 +1,29 @@
+Title: Logging into Moodle at Swarthmore
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20907198
+Version: 9
+---
+
+Swarthmore Faculty, Staff, and Students
+Go to
+moodle.swarthmore.edu
+, click on the large garnet-colored
+Log in
+button and enter your Swarthmore username and password.  If you are already logged into another Swarthmore service (such as Gmail), you may be logged in automatically without being prompted to enter a password.
+Bryn Mawr College, Haverford College, University of Pennsylvania, and Strath Haven High School students
+You must be registered for a Swarthmore course to log into Moodle.  After registering for a course, you will receive an email with your username and instructions for setting up your Swarthmore password.  For more information see the
+help page.
+Once you have your Swarthmore credentials set up, go to
+moodle.swarthmore.edu
+, click on the large garnet-colored
+Log in
+button and enter your Swarthmore username and password.
+If you have not yet registered for a course, but need access to the content, ask your professor about guest access. See
+Special Swarthmore Users and Guests
+ITS creates special manual accounts for some guests and special users who are not officially registered for a course.
+For these users, please visit
+moodle.swarthmore.edu,
+click on the
+Visitor & Special User Login
+button and enter the username and password provided.  If you do not know your username or password, click on the link labeled
+Forgotten your username or password?
+and enter your username or email.

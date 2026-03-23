@@ -1,0 +1,40 @@
+Title: Recommended Computers
+URL: https://swatkb.atlassian.net/wiki/spaces/HW/pages/20217933
+Version: 15
+---
+
+ITS recommends having an Apple or Dell computer that meets the minimum specifications listed below.  Follow the "Visit" links below each heading for education discounts.  For departmental purchases with Swarthmore funds, order through ITS.
+NOTE: Swarthmore College recommends that all students bring a laptop computer that can be used in class, rather than a desktop computer. However if bringing more than one computer, a desktop system can offer some benefits, such as a larger screen.
+Minimum Hardware Requirements
+Apple
+Recommended operating system: Mac OS 14 or Higher
+For education, discounts visit
+Apple Computer
+iMac Desktop
+MacBook Laptop
+Version of macOS no older than two years
+Version of macOS no older than two years
+M Series Processor
+M Series Processor
+16GB RAM
+16GB RAM
+256GB SSD
+256GB SSD
+24" Widescreen display
+13" Widescreen display
+Dell
+Recommended operating system:  Windows 11
+For education, discounts visit
+Dell Computer
+Desktop
+Laptop
+Windows 11
+Windows 11
+Intel i7 Processor or higher
+Intel i7 Processor or higher
+16GB RAM
+16GB RAM
+256 GB SSD
+256 GB SSD
+24" Widescreen display
+13" Widescreen display

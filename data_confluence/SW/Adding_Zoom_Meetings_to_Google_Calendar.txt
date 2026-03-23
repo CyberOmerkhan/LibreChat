@@ -1,0 +1,23 @@
+Title: Adding Zoom Meetings to Google Calendar
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20909637
+Version: 1
+---
+
+You can add meetings you create in the Zoom web interface to your Google Calendar and invite guests.
+Go to
+swarthmore.zoom.us
+Log in with your Swarthmore credentials
+Click
+Schedule a Meeting
+(on the top right)
+Configure the meeting settings
+Click
+Save
+Add to
+Google Calendar
+Choose your Swarthmore account to sign in
+Allow Zoom to access your Swarthmore Google account
+Add Guests to the calendar invite (optional)
+Click
+Save
+This will send a calendar invite with the Zoom meeting details included.

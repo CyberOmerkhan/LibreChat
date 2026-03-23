@@ -1,0 +1,25 @@
+Title: Making a course available to students
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20907458
+Version: 26
+---
+
+Making a course available to students
+By default, courses are
+not
+available
+to students. Courses that are available to students are listed in red and courses that are not available to students are listed in grey in your course listing. To make a course available, go to
+Settings Tab
+(under the course title).
+Find Settings Tab
+In the top section labeled
+General
+, switch
+Course Visibility
+to "Show".
+Moodle Guests versus Moodle Users
+All Swarthmore community members (employees and students taking courses at Swarthmore – including Tri-Co students, UPenn students, and high school students) are Moodle users.  In some cases, an instructor would like to grant someone without a Moodle user account access to a course.  If the person needs to see the content of the course, but does not need to have a unique identity in the class (i.e. does not need to submit papers, have a gradebook entry, or post to forums) then the best way to allow the person/people to access the course is through Guest Access.  See below for enabling Guest Access in Moodle.  On the other hand, if the outside person will need to have editing rights to the course or will need a gradebook entry or will need to post to a forum under his/her own name, then the person will need a Swarthmore account.  To get a Swarthmore account,
+request a sponsored account from the ITS Service Portal
+.
+Making a course available to guests
+See the help page on
+Making a course available to guests

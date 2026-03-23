@@ -1,0 +1,40 @@
+Title: Read&Write
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775071
+Version: 30
+---
+
+Description
+Assistive learning software that supports literacy needs.
+Access
+Everyone
+Platform
+MAC
+Yellow
+WINDOWS
+Blue
+Location
+Public areas, Creative Media Commons, Education Materials Center, Language Center, McCabe 306, Singer 222
+Installation Instructions
+To install
+,
+download the appropriate file below, unzip, and run the installer.
+License Activation
+IMPORTANT: Launch Read&Write and sign in using your Swarthmore Google account (
+e.g., username@swarthmore.edu).
+Download
+Windows
+macOS
+Browser Extensions
+There is robust support for
+Read&Write as a browser extension
+. As part of our license, we also have access to the free version of
+OrbitNote's browser extension
+and to Screenshot Reader. You will need to download these for your browser to make use of them.
+Features
+New Features & Functionality
+OrbitNote Feature Tour
+Read&Write Feature Tour
+Read&Write in the Workplace
+Screenshot Reader by TextHelp
+Using Read & Write 12 with JAWS for Windows
+Using Read&Write with Voiceover for Mac

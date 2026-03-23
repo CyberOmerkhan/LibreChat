@@ -1,0 +1,42 @@
+Title: Moodle Forums
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20908395
+Version: 11
+---
+
+Moodle forums are discussion boards in which students and faculty can post topics and replies.   An overview of the Moodle forum activity is available from the Moodle documentation site:
+https://docs.moodle.org/en/Forum_activity
+Forum settings
+Create a Moodle forum by turning editing on and adding the
+Forum
+activity.  There are several settings to be aware of.  The following sections cover the most important settings.
+Forum Type
+There are a variety of forum types.  Clicking on the question mark button next to the
+Forum type
+setting shows a brief overview of each. From the Moodle documentation:
+Moodle Forum Types
+There are five different types of Moodle Forums:
+A single simple discussion: One discussion topic, which everyone can reply to
+Each person posts one discussion: Each student can post exactly one new discussion topic, which everyone can then reply to.
+Q and A forum: Students must first post their perspectives before viewing other students’ posts.
+Standard forum displayed in a blog-like format: An open forum where anyone can start a new discussion at any time,  in which discussion topics are displayed on one page with “Discuss this topic” links.
+Standard forum for general use (default): An open forum where anyone can start a new discussion at any time.
+Subscriptions
+Subscribing to a forum means that you will receive an email every time there is a new post to the forum.  Instructors can change the default behavior of subscriptions to a variety of settings.  From the Moodle documentation:
+solid
+Moodle Forum Subscriptions
+There are 4 subscription mode options:
+Optional subscription - Participants can choose whether to be subscribed
+Forced subscription - Everyone is subscribed and cannot unsubscribe
+Auto subscription - Everyone is subscribed initially, but can choose to unsubscribe at any time
+Subscription disabled - Subscriptions are not allowed
+To see who is subscribed to the forum, enter the forum and click
+Subscriptions
+→
+View subscribers.
+Grade and Ratings
+It is possible to generate a grade for each student based on their participation in the forum.  The grade is derived from a rating for the student's posts and can be calculated in a variety of ways (ask your Academic Technologist for more details).
+Announcements
+The Announcements forum is a special forum used for class news. Only instructors can post to this forum and everyone is forced to subscribe to this forum.
+To remove the Announcements forum from the front page, see
+Deleting the Announcements Forum
+In previous versions of Moodle, the Announcements forum was named "News Forum." The function is the same but the name was updated to provide a clearer indication of its purpose.

@@ -1,0 +1,57 @@
+Title: Active Learning
+URL: https://swatkb.atlassian.net/wiki/spaces/ACADTECH/pages/20910029
+Version: 11
+---
+
+What is Active Learning?
+Active Learning strategies introduce student activity into the lecture and promote student engagement through collaborative learning, cooperative learning, and problem-based learning. One of the most commonly used definitions of Active Learning is “instructional activities involving students in doing things and thinking about what they are doing” (Bonwell & Eison, 1991, p. 2).
+What is an Active Learning Classroom (ALC)?
+An ALC is a student focused room with enhanced technology that supports the pedagogy behind Active Learning. Often these rooms allow for a merging of lecturing, group work, and hands-on activities. We're trying to create an infrastructure that better supports group activities in the classroom, mobile furniture, more board space, mobile boards, wireless projection and in some cases multiple displays or projectors. In ITS we feel it’s important that we better support our faculty by researching and providing more outreach on these types of spaces.
+Why Is Active Learning Important?
+There is some significant research dating back almost 30 years that suggest Active Learning strategies encourage student engagement and improve short-term and long-term recall of information.  Although there are many other factors that go into student learning outcomes some well noted Active Learning impacts on student success include:
+Increased class attendance (typically > 90%)
+Improved student performance when instructors move to active, student-centered teaching methods
+Increased conceptual understanding when compared to lecture/laboratory classes
+Drastically reduced failure rates, especially for women and minorities
+Provided opportunities to strengthen student-faculty relationships
+Provided opportunities that strengthen student-to-student relationships, which benefits collaborative project outcomes  Were found by students to be effective for teamwork and collaborative projects
+Encouraged discussion by helping students feel active and engaged
+Perceived positively by both students and instructors
+Research Behind Active Learning
+If you are interested in reading more about the research behind these findings, please take a look at some of the links below.
+Active learning increases student performance in science, engineering, and mathematics. Freeman et al. PNAS.
+[PDF]
+Teaching and Learning in Active Learning Classrooms, FaCit Central Michigan University Research, 2014
+[PDF]
+Does Active Learning Work? A Review of Research. M. Prince.
+[PDF]
+Using Active Learning Instructional Strategies to Create Excitement and Enhance Learning. Jim Eison.
+[PDF]
+Bonwell, C. C., & Eison, J. A. (1991). Active learning: Creating excitement in the classroom (ASHE-ERIC Higher Education Rep. No. 1).
+[PDF]
+Higher Ed ALC Pilot Programs
+The SCALE-UP Project: A Student-Centered Active Learning Environment for Undergraduate Programs at NCSU
+[PDF]
+Indiana University Expands Active Learning Initiative
+Getting Started with Active Learning
+Using Active Learning techniques does not mean you need enhanced technology or mobile furniture. You could start off by using some low barrier strategies to get you started. Try starting off small by using the “bookend” method:
+Begin with an activity
+Give a small lecture
+End with an activity
+Example Activity Methods to Get You Started
+Think pair share
+:
+Students think independently about the question that has been posed, forming ideas of their own.Then they are grouped in pairs to discuss their thoughts. After which the pairs share their ideas with a larger group, such as the whole class.
+Jigsaw:
+Divide students into small groups. Each member of the group is assigned a portion of an assignment or research project. Each member must research the material pertaining to their section of the project and be prepared to discuss it with their classmates.
+Shared Brainstorming:
+Divide the class into small groups. Let students move around the room and respond to questions written on white-boards or flip charts.  Have a different question on each sheet. Team members jot down answers to the given question. Have each group rotate to another sheet containing a different question. At the end of the activity, each group returns to their original question sheet, reviews the given responses, generates a summarization of ideas, and shares their conclusions with the entire group.
+How Can You Find Out More?
+If you are interested in incorporating more Active Learning techniques and/or teaching in an Active Learning Classroom, please contact us with any questions or interest you may have. For more information please email us at
+support@swarthmore.edu
+.
+References
+Bonwell, C. C., & Eison, J. A. (1991). Active learning: Creating excitement in the classroom (ASHE-ERIC Higher Education Rep. No. 1).
+[PDF]
+Teaching and Learning in Active Learning Classrooms, FaCit Central Michigan University Research, 2014
+[PDF]

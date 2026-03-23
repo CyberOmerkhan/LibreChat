@@ -1,0 +1,14 @@
+Title: health-worth129 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530478
+Version: 1
+---
+
+Department
+Health Services
+Location
+Worth Health Center
+Queue Name
+health-worth129
+Printer Model
+HP LaserJet 400 M401
+facstaff_printing_hp_instructions

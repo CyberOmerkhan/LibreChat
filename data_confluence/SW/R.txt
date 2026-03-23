@@ -1,0 +1,33 @@
+Title: R
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775236
+Version: 7
+---
+
+Description
+Open source statistics program
+Access
+Everyone
+Platform
+MAC
+Yellow
+WINDOWS
+Blue
+LINUX
+Green
+Installation Information
+Visit the
+R Project website
+for downloads and installation instructions.
+Learning R
+There are several ways to learn
+R
+at Swarthmore. If you're in a class that requires
+R
+, please talk with your instructor first. There are also resources available through the open source R Project and various blogs and sites.  Swarthmore has a limited supply of licenses for online training through
+DataCamp
+as well, targeted for Faculty and Staff users who are interested in learning
+R
+for use in their research and/or classes.
+Accessibility Features
+R has a number of
+options and features that can improve accessibility

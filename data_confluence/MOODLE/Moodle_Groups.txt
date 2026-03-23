@@ -1,0 +1,84 @@
+Title: Moodle Groups
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/238387203
+Version: 4
+---
+
+1
+6
+false
+none
+list
+true
+Group levels
+Groups can be used on two levels:
+Course level - The group mode defined at the course level is the default mode for all activities defined within that course.
+Activity level - Each activity that supports groups can also have its own group mode defined. If the course setting "Force group mode" is set to "Yes" then the option to define the group mode for individual activities is not available. If it is set to "No", then the teacher may change the group mode.
+What is the 'groups mode' setting?
+You can have several classes/groups working in a single course with different (or the same) teacher. Groups mode is a way of filtering the students so that work and grades can be accessed separately. See Moodle
+Groups
+support page for more information. There are three different groups modes:
+No groups
+- There are no groups. In collaborative spaces such as Forums or Wikis, all class members can participates in the activity.
+Visible Groups
+- Group members interact with their own group, but can also view work from other groups (e.g, students can read, but not reply to another group's Forum posts).
+Separate Groups
+- Group members can only see activity made within their own group.
+For example, enabling either separate or visible groups on an assignment drop-box enables staff to filter the student submissions to see only those from a particular tutor group. With visible groups, students can see which other groups are doing the same activities as they are; with separate groups, they do not know which other groups are doing the same activities.
+Using groups with discussion forums allow teachers to restrict interaction between students. Separate groups mean only students in the same group can see and participate in discussions within a particular forum. Visible groups allow students to see other group's discussions, but only participate in their own group's discussions.
+What is the 'force' setting?
+If force is set to yes, then all activities are group activities. This overrides any settings for individual activities. If force is set to no, then activities are only group activities if they have been set to group mode. In this case, each activity requires to be set to group mode individually.
+How to set up group mode
+Login to your Moodle page
+Click on the
+Settings
+tab at the top of the course page
+Scroll down and select
+Groups
+to view and adjust group settings.
+From the
+Group mode
+drop-down menu,
+choose a default group setting:
+No groups
+,
+Separate groups
+, or
+Visible groups
+.
+(Optional) select Force group mode.  Reminder:  If Force Group is set to
+Yes
+then the option to define the group mode for individual activities is not available. If it is set to
+No
+, then the teacher may change the individual activity’s group mode.
+Scroll to the bottom of the page and click
+Save changes
+.
+How to create a group
+Login to Moodle course
+Select
+Participants
+from Course navigation
+Select
+Groups
+from the dropdown menu
+Add a group name and optional description
+Select group visibility
+Click the 'Save changes' button
+Select the group to which you want to add participants, then click the 'Add/remove users button
+In the "Potential members" list, select the users you want to add to the group. Multiple users may be selected using the Crtl key.
+Click the Add button to add the users to the group
+View groups in Moodle gradebook
+Navigate to the gradebook by selecting the
+Grades
+tab
+Click
+[Grader report]
+from the far left dropdown menu (if it is not already selected)
+Within the dropdown menu labeled
+Select
+separate groups
+or
+Select
+visible Groups
+(depending on your selection above), you can choose to display a single group’s grades, or grades for all students or select
+All Participants

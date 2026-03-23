@@ -1,0 +1,21 @@
+Title: Adding an RSS feed to a Moodle Course
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20907186
+Version: 11
+---
+
+Some faculty members find it useful to include an RSS feed in their Moodle courses. These can be from Swarthmore hosted sites (e.g. a WordPress course site) or from other publicly available sources.
+Log into the Moodle course and turn editing on
+In the Block Drawer on the right side of the page, click
+Add a Block
+.  If the right side Block Drawer isn't visible, click the "less-than" button (Open Block Drawer) on the top right of the page.
+Choose
+Remote RSS feeds
+from the dropdown.
+The Block settings dialog will open
+Make your choices from the options here including:
+Whether to display each link's description
+Max number of entries to show per block
+Which feeds you would like to make available in the block (Click the "Add/edit feeds" link to add or change feeds.)
+Title of the block
+Whether a link to the original site should be displayed
+Save Changes

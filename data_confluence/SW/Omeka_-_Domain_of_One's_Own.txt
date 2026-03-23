@@ -1,0 +1,27 @@
+Title: Omeka - Domain of One's Own
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775803
+Version: 3
+---
+
+Omeka
+is an open-source web application that can be used to create and display online digital collections. Developed by programmers at George Mason University, Omeka was designed to be user-friendly, both during installation and during daily usage.
+Installing Omeka
+To install Omeka, use these simple steps:
+To get started you’ll need to login to your control panel (
+https://domains.swarthmore.edu/dashboard/
+) using your Swarthmore username and password.
+Once logged in you’ll be at the homepage of your control panel. Navigate to the
+Applications
+section of the cPanel, and you’ll see some featured applications. From these, select
+Omeka
+.
+This page gives you more information about the Omeka software. To begin the install click
+install this application
+in the upper-right hand corner.
+On the next page, the installer will ask for some information about this install. The first thing you’ll want to do is decide where to install it. Select your subdomain from the drop-down menu.
+In
+Settings
+, you’ll need to enter your name, email, and password. This is the username and password you’ll use to login to Omeka.
+By default the installer will automatically backup your website and update it anytime a new version comes out.
+The installer will create a database for you automatically, but if you’ve already created one for this website you can choose “Let me manage the database settings” and enter the details.
+Finally, click the "Install" button

@@ -1,0 +1,69 @@
+Title: New Faculty Starting On-Campus
+URL: https://swatkb.atlassian.net/wiki/spaces/ITSDOCS/pages/20383026
+Version: 7
+---
+
+2
+Swarthmore Account
+PS
+FacStaff Accounts
+Setting Your First Password
+PS
+Set First PW
+Duo Two-Factor Authentication
+ITSHELP
+Duo Intro
+Requesting Computers, Equipment, and Services
+Discuss with your department chair what computer, peripheral equipment, and access to services you may need for your classes. Some of these can be set up during your account creation, your department chair or AA may be able to grant you access to some services, and some requests may need department approval. Departments can make requests for equipment and services for new faculty through our support portal (
+support.swarthmore.edu
+). The Service Catalog requires login with a Swarthmore account.
+Some common things departments request for new faculty on our support portal include:
+Access to department groups/listservs, Drive folders, and calendars
+Office phone and number
+Computers and peripheral equipment
+For additional resources on purchasing a computer, you can check out our guide on
+buying a computer
+.
+Once services are set up for you, such as office phones, you will receive notifications at your Swarthmore email address. Please make sure you check there for updates and further instructions. If you requested physical equipment we will coordinate how to get that equipment to you through the request process.
+If you need assistive technology or equipment, please review the Human Resources page for
+Faculty and Staff Disability Resources
+.
+Connect to the Swarthmore Wi-Fi (eduroam)
+You can connect to the campus Wi-Fi, eduroam, using the steps below.
+IAA
+eduroam connect
+IAA
+Register SafeConnect
+For more information on connecting mobile devices such as Android devices, you can visit our
+wireless internet access page
+.
+Accessing Moodle
+Logging into Moodle
+Moodle is a learning platform designed to provide educators and learners with a single robust, secure, and integrated system to create personalized learning environments.
+All courses and enrollments have been entered into Moodle, so instructors can log in and get started on their courses right away.
+Go to
+moodle.swarthmore.edu
+Click on the "Log in" button and log in with your Swarthmore username and password
+If you have courses available, they will be shown in the middle of the screen.   Click on a course to enter it.
+In a course, click the "Turn Editing On" button (top right) to begin adding content.
+See below for more Moodle resources.
+Start of the Semester Resources
+For information on Moodle, including advanced tips, please check out our
+Moodle documentation
+.
+Zoom
+Zoom video conferencing with a pro license is available for all faculty. You will use this service to provide virtual class access and attend meetings. You can access Zoom via the web at
+swarthmore.zoom.us
+or download the desktop or mobile applications. For more information on Zoom please visit our
+Zoom Video Conferencing page
+.
+Software
+The most commonly used software should already be loaded onto any college-issued computer you receive, but if you need additional software you can see what is available to download from our
+software installation page
+.
+If there is software you need that is not on our installer page, please consult with our
+Academic Technology department
+.
+Contact the Help Desk
+ITSHELP
+Help Desk Contact Block

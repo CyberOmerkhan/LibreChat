@@ -1,0 +1,37 @@
+Title: Email Headers
+URL: https://swatkb.atlassian.net/wiki/spaces/PS/pages/20383899
+Version: 4
+---
+
+If you are requested by ITS to provide a copy of an email with "headers displayed," please refer to the section below that corresponds to how you read your email.
+To extract email headers from Gmail:
+Open the email message.
+Click the three vertical dots adjacent to the
+Reply
+link in the upper-right corner of the email message.
+Click
+Show Original
+.
+Copy and paste the information from the new window into an email.
+To extract email headers from Thunderbird:
+Double-click the message to open it in a separate window.
+From the View menu, select
+Headers
+>
+All
+.
+Click the
+Forward
+button to forward the email.
+(You can then go back to the View menu and select
+Headers > Normal
+.
+To extract email headers from Apple Mail:
+Select the email in the Inbox.
+Open the
+View
+menu, select
+Message > Raw Source
+.
+Copy the resulting text.
+Paste the text into an email.

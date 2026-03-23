@@ -1,0 +1,25 @@
+Title: SPSS
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20774916
+Version: 21
+---
+
+Description
+Statistics software
+Access
+Faculty & Staff
+Platform
+MAC
+Yellow
+WINDOWS
+Blue
+About SPSS
+SPSS is a computer program used for statistical analysis made by
+IBM
+SPSS version 29 is available, please upgrade any previous versions.
+Installation Instructions
+See the
+installation instructions
+Off Campus Use
+SPSS requires
+VPN
+when using the software from off-campus.

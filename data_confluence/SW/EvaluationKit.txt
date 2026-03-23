@@ -1,0 +1,17 @@
+Title: EvaluationKit
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775326
+Version: 4
+---
+
+Description
+Course evaluation service
+Access
+Faculty & Staff
+Platform
+WEB
+Red
+Description
+EvaluationKit is an online course evaluation service with configurable questions, flexible options, and extensive reporting.
+Because it takes some time to write, configure, and distribute the survey, it is best for department-wide surveys or similar course evaluations used by multiple instructors.  Once set up, it can be used within Moodle or as a separate site.  Contact your
+Academic Technologist
+for more information about getting started with EvaluationKit.

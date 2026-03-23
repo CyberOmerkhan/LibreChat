@@ -1,0 +1,27 @@
+Title: fac-services-label Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19529779
+Version: 2
+---
+
+Department
+Facilities Management
+Location
+Services Building
+Queue Name
+fac-services-label
+Printer Model
+Zebra ZTC ZM400-200dpi ZPL
+Connecting from Windows
+Click your
+Start
+button.
+In the
+Search
+box Type
+\\swat-print
+in the search box and press Enter. If prompted for credentials, enter GARNET\username in the username field, and your password.
+Find the
+printer queue name from the table above.
+Double-click on the printer (it will install automatically)
+Connecting from macOS
+There are no Mac drivers for this printer.

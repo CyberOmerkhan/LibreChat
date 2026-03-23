@@ -1,0 +1,14 @@
+Title: arb-wister102 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19529825
+Version: 4
+---
+
+Department
+Scott Arboretum
+Location
+Wister Center 102
+Queue Name
+arb-wister102
+Printer Model
+Canon iR-ADV C257/357 PS
+facstaff_printing_canon_instructions

@@ -1,0 +1,14 @@
+Title: arb-cunningham2nd-color Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530074
+Version: 2
+---
+
+Department
+Scott Arboretum
+Location
+Cunningham House 2nd Floor
+Queue Name
+arb-cunningham2nd-color
+Printer Model
+HP LaserJet 200 color M251
+facstaff_printing_hp_instructions

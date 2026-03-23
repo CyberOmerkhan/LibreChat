@@ -1,0 +1,14 @@
+Title: econ-kohlberg216 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530433
+Version: 2
+---
+
+Department
+Economics
+Location
+Kohlberg 216
+Queue Name
+econ-kohlberg216
+Printer Model
+Canon MF1643 II Series PS
+facstaff_printing_canon_instructions

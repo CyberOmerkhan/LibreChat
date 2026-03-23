@@ -1,0 +1,8 @@
+Title: Troubleshooting Panopto Videos
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20906731
+Version: 3
+---
+
+If you are having trouble viewing Panopto videos in Moodle, you may need to adjust your browser settings.  Common symptoms are a black video window or a login window that pops up and immediately disappears.
+Visit the Panopto help link below to learn more:
+How Do I Enable Third Party Cookies in Supported Browsers?

@@ -1,0 +1,39 @@
+Title: Connecting to Network Drives and File Servers
+URL: https://swatkb.atlassian.net/wiki/spaces/ACADTECH/pages/20909683
+Version: 4
+---
+
+ITS maintains network drives and file servers to store research and departmental data.  This page contains instructions for connecting these drives to your computer.
+If on wifi or accessing from off-campus, you must connect to
+VPN
+.
+Windows (college-owned)
+Right-click Windows icon in the bottom-left corner
+Go to
+Run
+In the box, type
+\\<name of server>.swarthmore.edu
+Windows (personal computer)
+Right-click Windows icon in the bottom-left corner
+Go to
+Run
+In the box, type
+\\<name of server>.swarthmore.edu
+Log onto server with your Swarthmore credentials
+Type your user name as
+garnet\<your user name>
+macOS (college-owned or personal)
+Click
+Finder
+Click on
+Go
+in the top menu bar
+Click
+Connect to Server
+in the drop-down list
+In the Server Address box, type
+smb://<name of server>.swarthmore.edu
+Type
+garnet\<your user name>
+and your Swarthmore password when prompted
+Click connect

@@ -1,0 +1,36 @@
+Title: Extended time on Quizzes
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20908365
+Version: 10
+---
+
+It is possible to give specific students (or groups of students) a different time limit on quizzes. This is useful for students that need extended time. It is also possible to modify the quiz start and end dates in case students need an extension or provide an additional attempt for a quiz if a student needs a retake. To make these changes follow the steps below.
+Go to the Moodle course page and turn editing on.
+Enter the quiz by clicking on its title.
+Click on
+More
+from the top menu.
+Select
+Overrides
+.
+Select
+User overrides
+(or
+Group overrides
+if you need to do this for a defined course group).
+Click the
+Add user override
+button.
+Enter the override settings you wish to utilize.
+Search for the student, or click in the empty search box to select the student(s) from the list of class participants.
+You may set a password to access the quiz.
+You can also adjust the open and close times independently of the original quiz timing.
+The “Time limit” option allows you to set the length of time allowed for the student.
+The number of quiz attempts can be set under “Attempts allowed.”
+Click
+Save
+.
+These overrides will be listed on the User overrides page.
+User overrides will need to be set for each applicable quiz or assignment in the course.
+Additional Resources
+ITS Blog post from 05/12/2022:
+How to allow extra time on exams, quizzes and assignments in Moodle (Moodle Accessibility – Part 1)

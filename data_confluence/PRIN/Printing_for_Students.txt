@@ -1,0 +1,15 @@
+Title: Printing for Students
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19529862
+Version: 13
+---
+
+Printers are available in public computing areas and in the residence halls for student use. There is no charge for printing but we ask students to refrain from printing multiple copies or wasting paper. Large print jobs such as multi-copy color printing, binding, and posters for student organizations are handled by
+Print Services
+.
+For instructions on how to add a specific public area printer, select the printer from the list below or search for a location.
+student_printer
+Select a printer or search by location.
+Location, Department
+100
+Title
+label = "student_printer" and space = currentSpace()

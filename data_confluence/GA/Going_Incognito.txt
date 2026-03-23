@@ -1,0 +1,12 @@
+Title: Going Incognito
+URL: https://swatkb.atlassian.net/wiki/spaces/GA/pages/19661413
+Version: 4
+---
+
+Going incognito
+in the Chrome browser
+prevents Chrome from saving your browsing history.  It is a good idea to trigger this whenever you are on a public computer.
+Did you know?
+Safari and Firefox feature their own options for incognito or private browsing!
+Firefox private browsing
+Safari private browsing

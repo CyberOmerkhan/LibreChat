@@ -1,0 +1,59 @@
+Title: Domain of One's Own: WordPress Themes
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775195
+Version: 2
+---
+
+WordPress Themes
+When it comes to WordPress, customizing the look of your site is simple and straightforward. When you install WordPress, the default (or pre-set) theme is called
+Twenty Twenty-One
+(as of WordPress version 5.7). It is a very customizable theme. You can also easily modify the colors of the different fonts and backgrounds used in the theme.
+You can find out more about
+customizing the homepage layout here
+. You can also read more general information about
+Twenty Twenty-One
+.
+In addition to
+Twenty Twenty-One
+, you’ll have other themes available to you. If
+Twenty Twenty-One
+doesn’t meet your needs, you can activate another theme on your site or install a completely new one.
+Activating Themes
+Start at your WordPress site’s
+Dashboard
+.
+Navigate to
+Appearance > Themes
+in the left-hand menu navigation. You will see “Themes” after mousing over “Appearance.” Click on “Themes.”
+You will see thumbnail images representing each of the themes currently installed. Simply mouseover any one of them, and click the
+Activate
+link.
+That’s all you need to do to change the look of your site with a new theme. Themes can be further customized after activation by going to
+Appearance > Customize
+. Customization options will vary with the installed theme.
+Installing Themes
+If none of the themes that were provided when you installed WordPress are what you’re looking for, you can always search for and install other themes from the WordPress Theme Repository.
+Navigate to
+Appearance > Themes
+in the left-hand menu navigation. You will see “Themes” after mousing over “Appearance.” Click on “Themes.”
+Installing new themes is quite simple. You start by going to the
+Add New
+Button.
+When you mouse over the thumbnail picture of a theme three choices should appear:
+Install
+,
+Preview
+, and
+Details & Preview
+.
+Preview
+lets you see what your content would look like without committing you to installing the theme.
+Details & Preview
+does the same, but allows you to see the description of the theme while previewing.  Click
+Install
+to add a new theme to your theme menu options.
+Once the theme is installed, an
+Activate
+button will appear in place of the Install button. Click
+Activate
+to make the theme live.
+Once activated, your site will be using the new theme. Visit your site’s homepage to view your new theme.

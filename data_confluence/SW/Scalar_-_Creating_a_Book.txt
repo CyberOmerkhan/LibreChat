@@ -1,0 +1,20 @@
+Title: Scalar - Creating a Book
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775858
+Version: 1
+---
+
+To get started in Scalar, you will need to create a book.
+Go to your Scalar site via the My Apps link or the Scalar URL you established during the setup process.
+Log in to Scalar using the username and password you set up during the installation process.
+Go to the top right corner and click, "
+Dashboard
+".
+Select the "
+My Account
+"
+tab and at the bottom of the page type in a title for your book. This can be changed at a later time if needed. Click "
+Create
+".
+You now see your book in the “
+My books
+” list. From there you will be able to build your Scalar book.

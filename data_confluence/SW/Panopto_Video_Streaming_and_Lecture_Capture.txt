@@ -1,0 +1,59 @@
+Title: Panopto Video Streaming and Lecture Capture
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775331
+Version: 15
+---
+
+Description
+Video streaming and lecture capture system
+Access
+Everyone
+Platform
+MAC
+Yellow
+WINDOWS
+Blue
+web
+Red
+What is Panopto?
+Panopto is our cloud based video streaming and lecture capture system that makes it easy to stream, record, and share videos. Panopto can capture your screen, audio, and/or video from web-cams and other devices to record live lectures, student or guest presentations, demonstrations, and/or supplemental materials. You can also upload any previously created video to Panopto to be shared via link or embedded into any web page, including Moodle.
+Panopto is available online at
+panopto.swarthmore.edu
+(login required).  The Panopto software is installed on all the classroom computers on campus. You can also download it to your own computer.
+Panopto with Moodle
+Using Panopto with Moodle
+Panopto can be integrated with Moodle so that your videos can automatically upload to your course and be viewed by your students. Instructions for adding Panopto into your Moodle course can be found in our
+Moodle documentation
+.
+Why use Panopto?
+The Panopto video platform can be used to:
+Record your lectures so that students can view them later
+Record supplemental material to be viewed before class
+Record guest lecturers
+Upload and embed videos into your Moodle page
+What can I record with Panopto?
+PowerPoint/ Keynote Slides
+Panopto can record your PowerPoint/Keynote for viewers to later search by keywords that are timestamped to find any text in your slide. Click or search for any text in a PowerPoint/Keynote and you will be taken to the point in the recording where it’s mentioned.
+Panopto and Zoom Cloud Recording Integration
+Panopto's Zoom integration allows all meetings and webinars recorded in Zoom Cloud to be imported into Panopto automatically. By default, recordings will be added to a user's My Folder based on the host's email address. If Panopto does not find a matching email address, the meeting or webinar recording will be placed in a default folder and a view link will be emailed to the meeting host. Settings are also available to
+map meeting recordings to other folders
+.
+Audio/Video
+Most classroom computers have a built-in camera and microphone. For better audio/video quality you can use an external USB microphone and USB web-cam. Contact
+Classroom and Conferencing Technologies
+at 610-957-6201 or email
+avbox@swarthmore.edu
+to check out these items for loan.
+Computer Screen
+Panopto can record what shows on your computer screen. This is useful for showing material from a web-browser or other software outside of PowerPoint/Keynote ie: Google Slides, Prezi.
+Other Panopto features include:
+Upload previously recorded video to your video folder to share via link or embed in webpage
+Auto-caption or send us a caption request for your videos
+Video analytics
+Quizzes
+Need more help? Here is a video showing what you need before you get started with Panopto.
+If you have any questions, contact
+Classroom and Conferencing Technologies
+at 610-957-6201 or email
+avbox@swarthmore.edu
+true
+Additional Help Documentation

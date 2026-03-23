@@ -1,0 +1,14 @@
+Title: engin-singer221 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530116
+Version: 2
+---
+
+Department
+Engineering
+Location
+Singer 221
+Queue Name
+engin-singer221
+Printer Model
+HP Laserjet PCL 4/5
+facstaff_printing_hp_instructions

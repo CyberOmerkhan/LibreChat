@@ -1,0 +1,148 @@
+Title: Creating Posts In WordPress With Classic Editor
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20774985
+Version: 5
+---
+
+Note
+Please note these instructions are for the WordPress Classic Editor. If you are looking for instructions on how to use the Block Editor, Please see our documentation on
+Creating Posts With WordPress Block Editor
+.
+What Are WordPress Posts?
+Posts are blog entries listed in reverse chronological order on your website. They are often articles or updates you share to offer up new content to your readers.
+Posts are always associated with a date, which is included in the URL. Sometimes, posts are confused with pages. See WordPress' documentation
+Post vs. Page
+for an explanation of the differences. below, you will find directions for creating a new blog post.
+Creating a New Post
+After logging into the
+Dashboard
+, click the
+Posts
+tab
+Click the
+Add New
+sub-tab
+Fill in the input fields
+As needed, select a
+category
+, add
+tags
+, and make other selections from the sections on the side of post. Explanations of of these sections below.
+When you are ready, click
+Publish
+. If you are not ready, click
+Save Draft
+Uploading Media / Documents
+You can upload the following image types to a post or page on your blog by using the
+Add Media
+button found to the above left your visual editor:
+.jpg/.jpeg
+.gif
+.png
+.mp3
+.mp4
+.pdf
+.doc/.docx
+Adding Media Files to a Post or Page
+Go to
+Posts
+->
+Add New
+or
+Pages
+->
+Add New
+, or open an existing post in editing mode.
+Place your cursor where you would like the image to appear, and click on the
+Add Media
+button found on the top left, above your editor.
+Drag and drop or select files to upload from your computer. Or select files from from previous uploads in your Media Library
+Once the uploading process has completed, you will be given the option to edit some settings before inserting the image into the post/page.
+URL
+- The full direct link to where the image is stored on your site. This cannot be changed.
+Title
+- Text displayed as a tooltip (when a mouse is hovered over the image).
+Caption
+- Image caption displayed directly underneath the image.
+Alt Text
+- Controls what text replaces the image for readers using screenreaders and other assistive technology and readers who have limited internet access or low bandwidth for whom images may not appear.
+Description
+- Text displayed with the image in your dashboard and attachment pages on your blog.
+Alignment
+– The position of the image within your post or page, Left, Right, or Center
+Link To
+: – The Link To settings determine the URL/web address to which the image will be linked when clicked on by a visitor to your site.
+Size
+– The size of the image. You can select
+Thumbnail
+,
+Medium
+, or
+Full Size
+. You can change this later under
+Settings
+->
+Media
+.
+When finished choosing your image settings, click on the
+Insert into Post
+button
+Creating a Gallery of Images
+After clicking the
+Add Media
+button, select
+Create Gallery
+from the left side panel
+Select all the images you want in your gallery. Each image selected will have check mark at the top right of the image
+Once images are selected, click the
+Create New Gallery
+button
+Summary of Post/Page Editing
+Title
+- The title of your post. You can use any words or phrases. Avoid using the same title twice as that will cause problems. You can use commas, apostrophes, quotes, hyphens/dashes, and other typical symbols in the post.
+Post Editing Area
+- The blank box where you enter your writing, links, links to images, and any information you want to display on your site. You can use either the
+Visual
+or the
+Text/HTML
+view to compose your posts.
+Preview button
+- Allows you to view the post before officially publishing it.
+Save
+- Allows you to save your post as a draft / pending review rather than immediately publishing it. To return to your drafts later, visit
+Posts
+> Edit
+from the list of posts.
+Publish
+- Publishes your post on the site. You can edit the time when the post is published by clicking the
+Edit
+link to the right of the
+Publish Immediately
+option and specifying the time you want the post to be published. By default, at the time the post is first auto-saved, that will be the date and time of the post within the database.
+Tags
+-
+(For Posts Only)
+Refers to micro-categories for your blog, similar to including index entries for a page. Posts with similar tags are linked together when a user clicks one of the tags. Tags have to be enabled with the right code in your theme for them to appear in your post. Add new tags to the post by typing the tag into the box and clicking
+Add
+.
+Categories
+-
+(For Posts Only)
+The general topic the post can be classified in. Generally, bloggers have 7-10 categories for their content. Readers can browse specific categories to see all posts in the category. To add a new category, click the +Add New Category link in this section. You can manage your categories by going to
+Posts > Categories
+.
+Excerpt
+- A summary or brief teaser of your posts featured on the front page of your site as well as on the category, archives, and search non-single post pages.
+Password Protect This Post
+- To password protect a post, click
+Edit
+next to
+Visibility
+in the
+Publish
+area to the top right, then click
+Password Protected
+, click
+Ok
+, and enter a password. Then click
+Ok
+. *Note - Editor and Admin users can see password protected or private posts in the edit view without knowing the password.

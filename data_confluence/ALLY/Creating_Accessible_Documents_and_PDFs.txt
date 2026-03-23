@@ -1,0 +1,521 @@
+Title: Creating Accessible Documents and PDFs
+URL: https://swatkb.atlassian.net/wiki/spaces/ALLY/pages/352616510
+Version: 2
+---
+
+Accessibility is crucial for ensuring that all users, including those with disabilities, can access your materials. The key is preparing the source content for optimal accessibility.  What follows are key steps and tools for creating accessible documents across various platforms like Microsoft Office, Google Workspace, and Adobe Acrobat.
+6
+1
+false
+2em
+default
+list
+true
+Deepen your understanding: How people interact with content
+To really understand more about how different people interact with your content we suggest exploring
+Stories of Web Users
+from the World Wide Web Consortium (W3C). Swarthmore’s
+Accessibility Awareness Training
+course is also available if you’d like a general understanding of physical and digital accessibility.  Please reach out to accessibility@ if you are unable to access the course.
+[link to SR demo]
+Creating accessible PDFs doesn’t have to be difficult. What we share here is how to create accessible PDFs for our everyday content. If you are doing something more involved, we strongly recommend the LinkedIn Learning course titled
+Creating Accessible PDFs
+by Chad Chelius.
+LinkedIn Learning
+is a free learning resource available to everyone at Swarthmore.
+General Guidelines for Accessibility
+Use Built-in Styles
+: Use built-in headings, lists, and styles in document editors (e.g., Word, Google Docs) to provide structure. See:
+In-program Styles in "Fast Five" Essentials to Preparing Materials
+.
+Accessibility Checkers
+: Use in-program accessibility checkers to identify most accessibility issues. See:
+Accessibility Checkers in “Fast Five” Essentials to Preparing Materials
+.
+Convey Meaning with Words
+: Use descriptive text—especially for links, images, and headings—to ensure users can understand the content without visual cues. See:
+Convey meaning with words in “Fast Five” Essentials to Preparing Materials
+.
+Alternative Text for Images
+: Provide descriptive alt text for images, charts, and other visual elements to ensure users in a low-bandwidth area, users with low vision, and blind users have access to the same material. See:
+Images Tutorial by the World Wide Web (W3C) Web Accessibility Initiative (WAI)
+.
+Headers and Footers:
+Use headers and footers for
+non-essential
+information such as pages numbers, repeating the document title, etc. Headers and footers can not always be accessed by assistive technologies such as screen readers.
+Important! Set the Language:
+Set the language of your document to ensure any spelling or grammar check uses the correct dictionary and any assistive technology reads in the correct language. See:
+Setting a language in “Fast Five” Essentials to Preparing Materials
+.
+A Note About Scans
+Before you create scans of content, please visit and follow the advice on the University of Washington’s page about
+Creating High Quality Scans
+.
+This will increase the likelihood of creating a more accurate and accessible document.
+All Swarthmore copiers are set to create OCR (Optical Character Recognition) scans. In other words, they will do their best to convert scans to text rather than pictures of text.
+Once the scan is created, jump to Acrobat for PDFs.
+Microsoft Office Documents
+Install
+Microsoft Office 365
+.
+Check for Updates
+: If you have Microsoft Office 365 installed, ensure your version is updated by navigating to:
+Help
+(in the top menu)
+Check for Updates
+.
+Open the document
+you want to work on.
+Check Document Structure
+: Ensuring proper document structure is helpful for many and essential for those who use screen readers. Fortunately, this is very easy to check.
+View
+(in the
+Ribbon
+)
+Check Navigation Pane
+Select the
+Document Map
+. This is the second tab on the left side of your document and it looks like a bulleted list.
+If the
+Document Map
+has no contents or does not make sense as an overview of what is in each section of the material, use built-in headings, lists, and styles to provide structure. See:
+In-program Styles in "Fast Five" Essentials to Preparing Materials
+.
+A visual path to the document map in Word on a Mac
+A visual path to the document map on a Windows machine. It is slightly different in that the Window’s version uses the text “Headings”.
+Accessibility Checker
+: Run the Accessibility Checker and make any suggested fixes. Keep in mind that the Accessibility Checker does not check document structure.
+Important note:
+Always run it before exporting to PDF. See:
+In-program Accessibility Checkers in “Fast Five” Essentials to Preparing Materials
+Select the
+Review
+menu.
+Run
+Accessibility Checker
+.
+Fix any issues found.
+Proceed to the metadata step.
+Set the Language
+: Add the document language to ensure documents are read in the correct language. See:
+Setting a language in “Fast Five” Essentials to Preparing Materials
+.
+Depending on what version of Microsoft Office you have there may be a couple of ways to set the language:
+Method one
+Select
+Tools
+from the top menu.
+Select
+Language
+.
+Method two
+Select
+File
+from the top menu.
+Select
+Options
+.
+Select
+Language
+.
+Method three
+Navigate to the
+Review
+menu.
+About the fourth section from the left is Language.
+Select
+Language
+.
+Select
+Set your proofing language
+.
+Change the language for selected text or current document as needed.
+If this is the language you regularly write and work in, select
+Set as Default
+.
+Metadata
+: Add a title and fill in properties to make your documents easier to find:
+Select the
+File
+menu.
+Select
+Properties
+.
+Select the
+Summary
+tab.
+Fill out the
+Title
+and any other relevant fields with proper information or metadata.
+Select
+OK
+.
+Exporting Microsoft Office 365 materials to PDF
+Run the
+Accessibility Checker
+.
+Make any suggested corrections.
+Recheck the document if necessary until all tests are passed.
+Navigate to the
+File
+menu.
+Select
+Save As
+.
+in the
+File Format
+field, select
+PDF
+.
+Choose
+Best for electronic distribution and accessibility (use Microsoft online service)
+.
+Select
+Export
+.
+Exporting to PDF using Microsoft Office 2019
+Windows
+If you are running Microsoft Office 2019 on Windows, you can follow these instructions:
+Select
+Save As Adobe PDF
+,
+Open the Options menu,
+Ensure that Convert document information and
+Enable Accessibility and Reflow with tagged Adobe PDF are selected.
+Select Save
+.
+If necessary, select
+More options…
+Add a title
+here if one doesn’t yet exist.
+Select
+Options
+to ensure
+Document structure tags for accessibility
+and
+PDF/A compliant
+are selected.
+Mac
+Select the
+File
+menu.
+Choose the
+Save As
+option. (an alternative to selecting the menus is the keyboard shortcut:
+Shift
++
+Command
++
+S.
+)
+Choose a location on your computer to save the PDF version.
+Change the
+File Format
+field to PDF.
+Select
+“Best for electronic distribution and accessibility”
+.
+Click
+“Export”
+.
+Additional Resources for Microsoft Office Documents
+Microsoft's Create Accessible PDFs
+WebAIM's Converting Documents to PDFs
+Make your Excel documents accessible to people with disabilities
+Make your PowerPoint presentations accessible to people with disabilities
+Make your Word documents accessible to people with disabilities
+Google Workspace Documents
+Important note
+: Our experience indicates that the Microsoft Office suite does a more thorough job when converting materials to PDFs than Google Workspace. This is particularly true if you change any of the default settings. We recommend exporting your Google Workspace documents to the Microsoft Office equivalent first, using the Accessibility Checker, and then exporting to PDF.
+Grackle add-on
+Use the Grackle add-on as the accessibility checker for Google Docs, Sheets, and Slides. Each document type has its own extension e.g.
+Grackle Docs
+,
+Grackle Sheets
+, or
+Grackle Slides
+—Grackle will help you with the following:
+Checking Accessibility;
+Setting the language;
+And adding metadata like title.
+Installing Grackle
+To add the Grackle plugin you must have a Google suite document open. Follow the directions below or visit
+Grackle - Making Google Documents Accessibl
+e
+on the ITS blog.
+Select the
+Extensions
+menu.
+Navigate to
+Add-ons
+.
+Select
+Get Add-ons
+.
+Search for
+Grackle
+.
+Select and install Grackle
+for the app you’re currently using (Docs, Sheets, Slides).
+Running Grackle
+Go to
+Extensions
+on the top menu.
+Choose
+Grackle Docs
+(or Grackle Sheets, or Grackle Slides).
+Choose
+Launch
+. It may take several seconds to run.
+Make any required changes.
+Recheck with Grackle until all tests are passed.
+Important Note
+:
+if you have tables and/or images in your document, Grackle may show you a screen with what appears to be a single button with Locate and Tag. These are actually two separate buttons,
+Locate
+and
+Tag
+.
+Selecting
+Locate
+will take you to the place in the document where the error is.
+Selecting
+Tag
+will activate a pop-up for you to fill in with the proper information.
+In Grackle, Locate and +TAG look like one big button but are two different buttons
+Important Note
+:
+If your document contains several tables, we highly recommend using Microsoft products as these make it easier to create accessible tables.
+Exporting Google materials to PDF
+Important note:
+If your document is complex, we recommend using Microsoft Word rather than GSuite. Word has better tools to increase accessibility in complex documents.
+Run
+Grackle
+.
+Make any suggested corrections.
+Recheck the document if necessary until all tests are passed.
+In the Grackle panel, select
+Export to PDF
+. You may have to grant permissions to Grackle on your first export or if you’ve recently cleared your cache.
+A modal window will open. Choose
+Start.
+Grackle has a window that prompts the export to an accessible PDF and shows its progress.
+A Common Grackle Error
+Chrome can get confused when there is more than one user logged in to a browser, and it causes add-ons to hang. Visit
+Grackle not responding
+for possible solutions.
+Pages (Apple)
+Pages does not have an accessibility checker, but you can follow the other
+general guidelines for accessibility
+which include the following:
+Use Built-in Styles. See:
+In-program Styles in "Fast Five" Essentials to Preparing Materials
+.
+Set the language. See:
+Setting a language in “Fast Five” Essentials to Preparing Materials
+Use Styles and Headings
+Apply heading styles by selecting
+Format
+and choosing appropriate headings.
+Type the text you want into Pages.
+Select a sentence/phrase that you want to become a heading.
+Select
+Format.
+Select the heading you want, such as the Heading 1 button.
+See also:
+Intro to paragraph styles in Pages | Mac help
+.
+Setting language
+Choose
+File
+from the menu at the top of your screen.
+Select
+Advanced
+.
+Choose the
+Language & Region
+In the dialog box that appears, first choose
+Language
+Important Note:
+According to Apple support page on
+Change a document’s language and formatting
+, changing the language of a document may reset the language and region of your computer. However, we have not experienced this. If you do discover this has happened, go to:
+System Settings,
+Search for Language & Region,
+Change to your preferred language,
+and ensure it is set as the Primary.
+Next, choose
+Region
+.
+Choose
+Okay
+.
+Exporting Pages documents to PDF
+Pages documents can be exported to PDF, but additional accessibility checks and modifications are often required in Adobe Acrobat to ensure compliance. Fixing documents in Acrobat can be very time consuming. We strongly recommend pulling your document into Microsoft Word rather than Acrobat.
+LibreOffice
+Exporting LibreOffice materials to PDF
+Choose
+Export As
+>
+PDF
+.
+Select
+Tagged PDF
+or
+Universal Accessibility (PDF/UA)
+for better accessibility.
+Adobe Acrobat for PDFs
+You can work with PDF documents or convert documents to and from PDFs in many ways.
+Adobe Acrobat
+is available for download for all Swarthmore community members. It is also installed on all of the computers in Swarthmore’s public computing labs. The instructions below pertain to Acrobat version 24.4.20272.0 or higher.  If you have an older version of Acrobat, please update to the latest version.
+Adobe Acrobat Accessibility: Considerations
+Fewer accessibility errors occur when one creates the document in Microsoft, runs the
+Accessibility Checker
+and then uses the
+Save As…PDF option
+.
+Important Note
+:
+Do not create forms in Acrobat. PDF forms are very very difficult to make accessible. If you need to create an accessible form, please contact
+ITS Support
+for help.
+Using Acrobat to Increase Accessibility
+There are several elements in PDFs that are required to make them accessible. These include:
+Preparing the original document, regardless of the tool you use (e.g. Word, Sheets, scanned document) for optimal accessibility.
+Ensuring text is text and not a picture of text.
+To test this, copy a few sections of what should be text and paste it into a simple text editor such as Notepad.
+Quickly Check a Scan Using Copy/Paste
+Providing tags or structure.
+Providing meaningful alternative text for all images that are not marked as decorative.
+Testing reading order.
+Providing a title in the metadata.
+See:
+Changing the title of an Adobe PDF
+in ITS’ Solutions.
+Identifying the global language of the material in the metadata.
+See:
+Changing the global language of an Adobe PDF
+in ITS’ Solutions.l
+You can check each of these individually, or you can use one of Acrobat’s built-in tools to help.
+Acrobat’s automated accessibility tool
+The tool we have found to be most helpful is the
+Make Accessible
+tool. For whatever reason, it is a little hard to find right out of the box, but you can easily find it using the following steps:
+Open
+the document you want to work on.
+Use the
+Search
+tool.
+Enter
+Manage Actions
+.
+Choose
+Make Accessible
+,
+and follow the prompts.
+If you can’t find “Manage Actions” use Acrobat’s search tool.  Remember a document has to be opened to get access to this menu.
+Older versions of Acrobat
+If the instructions above don’t match what you are seeing, you may have an older version of Acrobat and we encourage you to update to the most recent version as soon as you can. That said, you can still take advantage of the built-in tools but the path is a little different. In older versions, look for
+Action Wizard
+under
+Tools
+, and then choose
+Make Accessible
+.  You can also use search while in the document, only the search term will be “Action Wizard”.
+Scanned PDFs
+You may wish to scan material for a course or other purpose. Follow the steps on the University of Washington’s
+Creating High Quality Scans
+to prepare the material.  There is a direct correlation between the quality of the document to be scanned and the accuracy of the conversion to text.
+Quickly Check a Scan Using Copy/Paste
+To quickly double-check the quality of a scan:
+Choose 2-3 different pages or areas of the PDF.
+Copy each page or area.
+Paste that content into a text editor like Notepad or Word.
+Evaluate: How accurate is the paste? If there is fewer than one error per paragraph, you have a good scan.
+Making pre-existing PDFs Accessible
+Add additional attributes to the PDF
+Select
+Make Accessible
+to automate many of the tagging processes.
+Use the
+Accessibility Check
+tool to identify and fix any remaining issues. Use
+Tags
+to create an accessible reading order.
+Add alternative text for images by right-clicking the image and selecting
+Edit Alt Text
+.
+Check and fix
+Reading Order
+.
+Reading order is particularly important and can be quite illogical. For example, you might think that the first paragraph you see is what is read first, but this is not always the case. The only way to determine if the reading order is correct is to check it.
+SensusAccess for Document Conversion
+Use
+SensusAccess
+to convert documents to accessible formats like tagged PDFs, audio, Braille, or e-text. This service is useful when dealing with non-text-based PDFs.
+Best practices for PDF accessibility
+Prepare source content:
+Prepare the original document, regardless of the tool you use (e.g. Word, Sheets, scanned document), for optimal accessibility.
+Avoid PDF Forms
+: Creating accessible PDF forms can be extremely challenging. Consider web forms or seek assistance from your IT support team to discuss accessible options.
+Use HTML for Web Content
+: HTML is inherently more accessible than PDFs. If possible, provide content in HTML format or offer a web version of your document.
+Principles of Accessible Design
+: Follow best practices for digital accessibility as outlined in Ability Net’s article “
+The seven principles of universal design
+”.
+Webpage Creation
+: Ensure that your web content adheres to accessibility standards. For additional information on web pages see:
+Best Practices: Webpage Creation
+Guidance for creating content on Swarthmore’s main websites
+Remember that
+PDFs are not recommended for STEM content
+.
+The primary reason is that formulas are often converted to images which require descriptive text (alt text).  That descriptive text can become quite cumbersome and inefficient compared to a formula. Many in the field recommend tools such as Chem4Word, Wiris’ MathType and ChemType, and leaving the material in LaTeX if that is your authoring tool.
+Resources
+Deepen your understanding of users
+Stories of Web User
+Accessibility Awareness Training [Swat Moodle]
+.  If you are unable to access the course, please reach out to Accessibility@ and request that we enroll you.
+Software
+Microsoft Office 365
+Microsoft Ribbon
+Grackle - Making Google Documents Accessibl
+e
+Grackle Docs
+,
+Grackle Sheets
+,
+Grackle Slides
+Adobe Acrobat
+PDF
+University of Washington - Creating High Quality Scans
+Microsoft's Create Accessible PDFs
+WebAIM's Converting Documents to PDFs
+WCAG PDF Techniques
+LibreOffice's Universal Accessibility (PDF/UA)
+SensusAccess
+: Free to Swaties. This is an online service for converting documents into accessible formats. Keep in mind that the quality of the original document/scan will have a direct impact on accessibility of the conversions.
+Creating Accessible PDFs
+by Chad Chelius. Excellent LinkedIn Learning course and highly recommended.
+Adobe Specific
+Guided Actions
+Changing the title of an Adobe PDF
+Changing the global language of an Adobe PDF
+General Information
+Principles of Accessible Design
+Best Practices: Webpage Creation
+Guidance for creating content on Swarthmore’s main websites
+LinkedIn Learning
+.
+Creating Accessible PDFs
+by Chad Chelius. Excellent LinkedIn Learning course and highly recommended.
+Setting a language in “Fast Five” Essentials to Preparing Materials
+.
+In-program Accessibility Checkers in “Fast Five” Essentials to Preparing Materials
+Universal Design
+The seven principles of universal design | AbilityNet
+Reach Everyone, Teach Everyone [Swat library]
+Small Teaching Online [Swat library]
+Universal Design in Higher Education

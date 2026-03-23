@@ -1,0 +1,29 @@
+Title: Zoom Phone
+URL: https://swatkb.atlassian.net/wiki/spaces/IAA/pages/19661743
+Version: 8
+---
+
+We have some exciting news to share about a new campus initiative. In order to better support remote and hybrid work, and in collaboration with our campus partners, ITS is working closely with Zoom to begin migrating our current Cisco Phone System to Zoom Phone.
+The project will be implemented in multiple phases, beginning this fall. This summer, alongside ITS, we will also invite a few departments to join as early adopters. We anticipate that many members of our community will opt to utilize Zoom's virtual phone features via their computer or mobile device app rather than relying on physical desk phones.
+For answers to frequently asked questions visit our
+Zoom Phone Project FAQs
+page. For questions regarding the project timeline, migration process, or training please visit the
+Zoom Phone Project Rollout
+page. You can also still view the
+recorded Zoom Phone training sessions (GDoc)
+- login is required.
+We understand that transitioning to Zoom Phone represents a significant change from our current telecommunications system, and we are here to provide support. If you have any questions or concerns during the transition, please don't hesitate to contact us through our
+ITS Service Portal
+.
+1
+{"body":{"text":{"fontSize":14,"color":"#333","textAlign":"left","fontWeight":"normal"}},"header":{"icon":{"size":26,"name":"faPhone","color":"#ffffff"},"backgroundColor":{"color":"#333333"}},"headline":{"text":{"text":"Zoom Phone Services","fontSize":18,"color":"#ffffff","textAlign":"left","fontWeight":"normal"},"alignment":{"horizontal":"start"},"border":{"color":"#999","style":"solid","top":false,"right":false,"bottom":true,"left":false,"width":1}},"base":{"boxShadow":{"shadows":[{"color":"rgba(0, 0, 0, 0.2)","x":0,"y":0,"blur":6,"spread":0},{"color":"rgba(0, 0, 0, 0.4)","x":0,"y":20,"blur":10,"spread":-15}]},"backgroundColor":{"color":"#ffffff"},"size":{}}}
+Make and receive calls on your desktop
+Make and receive calls on your mobile devices
+Transferring calls
+Transition a call into a video meeting
+1
+{"body":{"text":{"fontSize":14,"color":"#333","textAlign":"left","fontWeight":"normal"}},"header":{"icon":{"size":26,"name":"faVoicemail","color":"#ffffff"},"backgroundColor":{"color":"#333333"}},"headline":{"text":{"text":"Voicemail & Account Services","fontSize":18,"color":"#ffffff","textAlign":"left","fontWeight":"normal"}},"base":{"boxShadow":{"shadows":[{"color":"rgba(0, 0, 0, 0.2)","x":0,"y":0,"blur":6,"spread":0},{"color":"rgba(0, 0, 0, 0.4)","x":0,"y":20,"blur":10,"spread":-15}]},"backgroundColor":{"color":"#ffffff"},"size":{}}}
+Managing voicemail messages
+Setting up a voicemail greeting and hold music
+Changing phone settings (web portal)
+Changing phone settings (app/mobile)

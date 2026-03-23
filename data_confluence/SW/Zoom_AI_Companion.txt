@@ -1,0 +1,37 @@
+Title: Zoom AI Companion
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/443023381
+Version: 2
+---
+
+The Zoom AI Companion feature can automatically take meeting minutes and allow attendees to ask questions about the meeting content. This feature is particularly useful for latecomers to catch up on what they've missed. Zoom can generate a meeting summary of key points, decisions, and action items and email it to the host and optionally to attendees.
+Setting up
+The Zoom AI Companion is off by default, but any Swarthmore Licensed user hosting a meeting can enable it.
+To enable in-meeting AI questions
+Log into
+https://swarthmore.zoom.us
+Click on
+Settings
+(left menu)
+Click on the
+AI Companion
+tab
+Enable the
+Allow users to ask AI Companion questions about the meeting
+option
+To receive post-meeting summaries, enable the
+Meeting summary with AI Companion
+option.
+The AI Companion tab also has options about automatically starting the AI companion, permissions, and meeting summary settings.
+When the AI Companion is turned on in a meeting there will be an AI Companion button on the bottom toolbar and an animated AI "sparkle" symbol at the top of the window.  If enabled for participants, they will see a popup notification.
+For transparency, ITS recommends that the host of the meeting let attendees know when the AI Companion is enabled for a meeting.
+AI Accuracy
+AI systems are not perfect and may sometimes generate inaccurate or biased information. As a result, the quality of meeting summaries could vary. Be sure to review the content carefully before relying on it.
+Privacy and Security
+Zoom does
+not
+train their AI models on data from Swarthmore's Zoom meetings:
+How Zoom AI Companion features handle your data
+. However, we advise against enabling the Zoom AI Companion when discussing High Risk (Confidential) data per Swarthmore's
+Administrative Information Classification system
+.
+If you are a meeting participant, the AI Companion button on the bottom toolbar and the animated AI "sparkle" symbol at the top of the window will alert you that the Zoom AI Companion is enabled.

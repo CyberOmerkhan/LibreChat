@@ -1,0 +1,176 @@
+Title: Specialized Content
+URL: https://swatkb.atlassian.net/wiki/spaces/DRUP/pages/172818481
+Version: 20
+---
+
+9.1) Site Settings
+All websites have
+Site Settings
+that allows editors to manage the global settings of their website. A website’s
+Site Settings
+include the following:
+Contact Block
+- This is the department contact information located below the left hand navigation. It includes department's mailing address, phone/fax numbers, email, hours of operation, and social media links.
+Shared Site Content
+- This is a special content zone that appears at the bottom of every page of your site. Any component added to this content zone will appear on all the pages of your site.
+9.1.1) Accessing  Site Settings
+There are two ways to access the Site Settings:
+1) After logging into Drupal and navigating to your website, a link to
+Site Settings
+will appear in menu bar at the top next to your name.
+2) Another link to
+Site Settings
+will also appear next in between Edit Page and Page Revisions.
+9.2) The Contact Block
+All websites have a contact block that appears below the site’s navigation in the left column. This information appears on all the webpages of your site. Clicking the
+Site Settings
+link (see section 9.1 above) will open the Site Settings Editor which allows you to edit this information. The information in the contact block includes:
+Address
+Phone/Fax
+Email
+Hours
+Social Media - allows you to add links to your department’s social media accounts.
+Contact and Social Media (Deprecated) - allows you to customize your contact information. Unless you have specific reason to customize your contact information, it is generally commended that you use the standard fields (address, phone, email, hours) listed above.
+There are two ways to manage the contact block.
+Built-In Fields
+- allows you to use the standardized formatting.
+Deprecated field
+- allows you to customize your information
+9.2.1) Using the built-in default contact fields (recommended)
+Add your mailing address information
+Add your phone/fax numbers.
+Note: the phone Link field must use following format:
+tel:xxx-xxx-xxxx
+(ex: tel:610-328-8000)
+Add your department’s email address
+Add your hours of operation (optional)
+Add your social media account (optional)
+If you are using the built-in contact fields, then do not use the deprecated field (see 9.2.2. below)
+Built-In Fields will display like this:
+In Site Settings, you manage that information in the following fields:
+9.2.2) Using the deprecated field to customize your contact block
+Add all your information to one field and customize it as needed
+Add you social media information (optional)
+If using the deprecated field
+,
+do not use the other built-in fields (address, phone/fax, email) listed above in 9.2.1
+9.2.3) Working with the Contact and Social Media (deprecated field)
+Located in the upper right corner of the Contact and Social Media (deprecated) field are three vertical dots. Clicking this icon will open a mini editor menu to allow you format the text using the standard editor tools and add links.
+9.3) Shared Site Content
+All websites have a special zone called the
+Shared Site Content zone
+. Any component(s) added to this special zone will appear on ALL the webpages of your website. It should be used strategically and sparingly depending on the specific needs of your site.
+Please note:
+It is recommended that you do not include more than one component at a time in the Shared Site Content.
+9.3.1) Editing an existing component in the Shared Site Content zone.
+After clicking on
+Site Settings
+link, scroll to the
+Shared Site Content
+section in the Site Settings editor.
+Any components that currently appear in your site’s Shared Site Content zone will appear here. You can edit the content of those components directly through the Shared Site Content editor.
+After making your changes, click
+Save
+located at bottom of the editor.
+[add screen grab of Shared Site Content editor with an existing link list pane]
+9.3.2) Adding  a new component to the Shared Site Content zone.
+After clicking on
+Site Settings
+, scroll to the bottom of
+Shared Site Content
+section in the Site Settings editor.
+Located at the bottom
+Shared Site Content
+section is drop down menu called
+Add Component to Shared Site Content.
+Select the new component type you wish to add to your sites'
+Shared Site Content
+zone. There are four types component types that can be added to Shared Site Zone: Call To Action, Feature, Feature Link List, Link List.
+Add the information to the component.
+Click
+Save
+located at bottom of the editor
+[add screen grab of drop down selector]
+9.3.3) Removing  a component from the Shared Site Content zone.
+After clicking on
+Site Settings
+link, scroll to the
+Shared Site Content
+section in the Site Settings editor.
+Find the component, you wish to remove. Located in the upper right corner of the component will be a Remove button. Click the remove button.
+Then click
+Save
+located at bottom of the editor.
+[add screen grab of remove button]
+9.4) News
+Some departments include a
+News Feed Component
+on their website. The content that appears in news feed component is produced by the Communications Office. Whenever a news story is written for the Swarthmore website, it is also tagged by the Communications Office to automatically appear on the appropriate websites that also have an active news feed component.
+Some departments also choose to write their own news stories. If a department writes their news stories that they wish to appear in their
+News Feed Component
+, then they would need to follow these two steps:
+Create a NEWS page in Drupal.
+Write the story using the News page template.
+When your news story is ready for publication, contact the Communications Office at
+webeditor@swarthmore.edu
+. Communication's editors will then tag the news story so that it appears in the correct news feeds component.
+Any questions about news that appears (or doesn’t appear) in your department News Feed Component, should be directed to Communications Office at
+webeditor@swarthmore.edu
+.
+9.5) Events
+Many departments also include a
+Events Calendar Feed Component
+on their website. The content that appears in the Events Calendar Feed Component is pulled directly from the
+Campus Calendar
+(SwatCentral/25Live). Whenever an event is entered into
+Swat Central
+, it can also be setup to appear on the appropriate Events Calendar Component in Drupal. Having an Events Calendar component on your site is great way to promote upcoming events on both your website and Campus Calendar.
+For any questions about reserving space or using
+Campus Calendar
+(Swat Central/25Live) system, please contact the
+Events Management
+office at
+space@swarthmore.edu
+.
+For any questions about  particular events that appears (or don't appear) in your Events Calendar Feed Component, please contact the Campus Calendar administrators at
+calendar@swarthmore.edu
+.
+9.6) Acalog
+Academic departments manage course data through the
+Acalog
+system by the Registrar’s Office. Questions about Acalog should directed to the
+Registrar’s Office
+. The course data in Acalog is then syndicated to each department’s corresponding courses page in Drupal (Example:
+History
+).
+Questions about how the content appears on the Drupal page should be directed to the web team at
+web-update@swarthmore.edu
+9.7) Videos
+Drupal supports both
+Youtube
+and
+Vimeo
+videos. Several components allow videos. These include:
+Feature
+,
+Feature Link List
+,
+Slideshow/Gallery
+, and
+Video Only
+components. Learn more about adding videos to specific components by clicking on any of the links listed above.
+NOTE: Videos that appear on the
+Swarthmore.edu
+website must meet certain requirements. Videos that do not meet these criteria are subject to removal.
+The video must include closed captioning of the audio in order to meet Swarthmore’s accessibility standards.
+The video must not include any copyrighted material such as copyrighted music or images.
+9.8) Forms
+There are three options for creating online forms. Which option is most appropriate will depend on the specific needs of the project.
+Google Forms
+- is a simple and easy way to create an online form, online surveys, and quizzes.
+Qualtrics
+- is a full-featured online survey tool that can be used to create and distribute online surveys. Qualtrics is supported by most of the top colleges and universities in the country and offers a simple, easy to understand interface, along with the power and flexibility of the best online survey tools. Qualtrics is available to all members of Swarthmore community and has been used for faculty and student research, informal polls, online voting for committees, order forms, and course evaluations.
+Drupal Forms
+- is an online form that is built directly in Drupal. Drupal forms must be created by the Web Team. Contact us at
+web-update@swarthmore.edu
+for more information on building Drupal forms.

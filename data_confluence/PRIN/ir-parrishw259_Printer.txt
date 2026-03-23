@@ -1,0 +1,14 @@
+Title: ir-parrishw259 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530001
+Version: 2
+---
+
+Department
+Institutional Research
+Location
+Parrish W259
+Queue Name
+ir-parrishw259
+Printer Model
+HP LaserJet 4050 Series
+facstaff_printing_hp_instructions

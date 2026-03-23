@@ -1,0 +1,98 @@
+Title: Working Remotely
+URL: https://swatkb.atlassian.net/wiki/spaces/remote/pages/20217861
+Version: 81
+---
+
+none
+Accessing Swarthmore Remotely
+For all Employees
+Check your Duo devices
+Have at least one device registered with Duo that you can access from off-campus
+We strongly recommend adding your smartphone, or an app-enabled mobile device, to the Duo app
+Check any hardware tokens you may have for Duo authentication and ensure they are working properly
+Install the
+Swarthmore Virtual Private Network (VPN)
+on any devices you wish to use off-campus
+Verify that you can log in to the Swarthmore VPN and that the VPN application is up-to-date
+Upload files to Google Drive and review
+Google Drive File Sharing
+for collaborating on documents and projects
+Make sure you can connect to the Internet. Check out our
+tips for better WiFi
+for more information.
+More Resources
+Zoom Video Conferencing
+Working Safely Online Remotely
+Cybersecurity Video Resources
+LinkedIn Learning: Thriving Through Change
+[pdf]
+Forwarding Calls from Your Office Phone
+Equipment Removal for Remote Work
+ITS Training Events
+For Faculty
+Teaching Remotely
+Help with Moodle
+LinkedIn Learning Remote Resources for Faculty
+For Staff
+LinkedIn Learning Remote Resources for Staff
+Resources for Working Remotely (Particularly Admin Staff)
+[GDoc]
+For Students
+Resources for Learning Remotely
+LinkedIn Learning Remote Resources for Students
+LinkedIn Learning: Thriving Through Change
+[pdf]
+Help Desk Support Offerings
+The ITS Help Desk is located in Beardsley 110 [
+campus map
+]. It is the first point of contact for all requests, incidents, and problems related to technology services provided by Swarthmore College. Support is provided via the
+ITS Service Portal
+, phone, zoom, and in-person appointments. During the school year, after hours and weekend support is provided by the student IT Consultant in McCabe Library. The Help Desk offers extended support options to meet the varying needs of the college community.
+note
+Hours, operations, and coverage are modified during semester breaks and college observed holidays. Hours and operations may also vary prior to the start of the Fall/Spring semesters to allow our staff to prepare for the return of students. Visit
+The Dash
+for current hours.
+Hours, operations, and coverage are modified during semester breaks and college observed holidays. Hours and operations may also vary prior to the start of the Fall/Spring semesters to allow our staff to prepare for the return of students. Visit
+The Dash
+for current hours.
+ITS Service Portal
+Visit the ITS Service Portal (
+http://support.swarthmore.edu
+) to quickly find answers to questions and solutions to common issues. Enter a ticket for support or to request a service. See information about upcoming maintenance, service outages, and important announcements. The portal is interactive and available 24/7/365 days a year. It offers how-to guides and FAQs.
+Phone Support
+Phone support is available at x8513 or 610-328-8513. If no one answers, please leave a message. A voicemail message will create a support ticket for follow-up. When leaving a voicemail message, please provide your name, Swarthmore username, a return phone number, and an alternate email address if you are unable to access your Swarthmore account or email.
+In-Person & Remote Support
+The hours listed below are during the semester when classes are in session
+Beardsley Help Desk Appointments and Drop-ins
+The ITS Help Desk provides limited drop-in support and recommends making an appointment to ensure that someone is available to help you. To schedule in-person support or computer drop-off, enter a
+ticket
+and then
+select a time slot
+:
+Hours for In-Person Appointments at the Beardsley Help Desk:
+Visit
+The Dash
+for current hours.
+Monday-Thursday 9:30 am-3:30 pm
+Friday 9:30 am-12:30 pm
+Remote Support Hours (phone, portal, zoom)
+The ITS Help Desk endeavors to resolve requests virtually as a first option since most issues can be solved remotely via Phone or Zoom support. Virtual Zoom support can be scheduled by entering a ticket via the ITS Service Portal (
+support.swarthmore.edu
+)
+Extended Hours for Remote Support:
+Visit
+The Dash
+for current hours.
+Monday-Thursday 8 am-10 pm (when classes are in session)
+Friday 8 am-8 pm (when classes are in session)
+Saturday Closed
+Sunday 4 pm-10 pm (when classes are in session)
+McCabe Library - IT Consultant (walk-up, phone, portal, zoom) - when classes are in session
+Walk-up and Remote Support Available (support hours are only available during the academic year when classes are in session):
+Hours for McCabe Library - Student IT Consultant
+Visit
+The Dash
+for current hours.
+Sunday-Thursday 4 pm-10 pm
+Friday 4 pm-8 pm
+Saturday Closed

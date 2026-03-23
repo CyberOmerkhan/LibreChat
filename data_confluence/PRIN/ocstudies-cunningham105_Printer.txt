@@ -1,0 +1,14 @@
+Title: ocstudies-cunningham105 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530248
+Version: 2
+---
+
+Department
+Off-Campus Studies
+Location
+Cunningham House 105
+Queue Name
+ocstudies-cunningham105
+Printer Model
+Canon iR-ADV C3826 PS
+facstaff_printing_canon_instructions

@@ -1,0 +1,14 @@
+Title: pres-parrishe236-color Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530471
+Version: 1
+---
+
+Department
+President's Office
+Location
+Parrish E236
+Queue Name
+pres-parrishe236-color
+Printer Model
+HP LaserJet 500 color M551
+facstaff_printing_hp_instructions

@@ -1,0 +1,14 @@
+Title: psych-singer208-color Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530251
+Version: 3
+---
+
+Department
+Psychology
+Location
+Singer 208
+Queue Name
+psych-singer208-color
+Printer Model
+HP LaserJet 400 M401dne
+facstaff_printing_hp_instructions

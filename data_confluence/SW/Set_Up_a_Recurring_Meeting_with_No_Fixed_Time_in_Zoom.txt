@@ -1,0 +1,30 @@
+Title: Set Up a Recurring Meeting with No Fixed Time in Zoom
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20909085
+Version: 2
+---
+
+Set up a recurring meeting with No Fixed Time
+Sign into swarthmore.zoom.us using your Swarthmore credentials.
+Click on the
+Meetings
+tab from the left-hand menu.
+Click on
+Schedule a meeting
+from the top right.
+Enter the information for the meeting.
+The
+Topic
+will be the name of the meeting. If it is for a class, be sure to title it with the name of the course and the semester the meeting is for.
+Select the
+Recurring meeting
+check box.
+Select
+No Fixed Time
+from the
+Recurrence
+dropdown menu.
+Set meeting options that are applicable.
+Click
+Save
+when finished.
+Share the zoom meeting invitation through your Moodle course, calendar invite, or email.

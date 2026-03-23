@@ -1,0 +1,14 @@
+Title: adm2-parrishc383 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530134
+Version: 2
+---
+
+Department
+Admissions
+Location
+Parrish C383
+Queue Name
+adm2-parrishc383
+Printer Model
+Canon iR3235/iR3245 PS
+facstaff_printing_canon_instructions

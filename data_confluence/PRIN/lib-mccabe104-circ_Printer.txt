@@ -1,0 +1,14 @@
+Title: lib-mccabe104-circ Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19529815
+Version: 2
+---
+
+Department
+Libraries
+Location
+McCabe Library 104
+Queue Name
+lib-cornell104-circ
+Printer Model
+HP LaserJet 400 M401dne
+facstaff_printing_hp_instructions

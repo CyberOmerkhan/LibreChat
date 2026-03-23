@@ -1,0 +1,14 @@
+Title: theatre-lpac105 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530341
+Version: 1
+---
+
+Department
+Theatre
+Location
+Lang Performing Arts Center 105
+Queue Name
+theatre-lpac105
+Printer Model
+HP LaserJet 400 M401dne
+facstaff_printing_hp_instructions

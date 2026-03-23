@@ -1,0 +1,29 @@
+Title: JAWS
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775014
+Version: 22
+---
+
+Description
+Screen reader
+Access
+Everyone
+Platform
+WINDOWS
+Blue
+Location
+McCabe Library (Room 007), Cornell Library  (Room L18)
+About JAWS
+JAWS for Windows is a powerful accessibility solution that reads information on your screen using synthesized speech. JAWS provides many useful commands that make it easier to use programs, edit documents, and read Web pages. With a refreshable braille display, JAWS can also provide braille output in addition to, or instead of, speech. An array of versatile features and customizable options lets you tailor JAWS for your individual needs and preferences.
+Swarthmore Enterprise License
+Swarthmore has an Enterprise license for JAWS. This allows up to five concurrent users to connect to the Freedom Scientific license server for using JAWS. If you try to connect when all licenses are already in use, JAWS will launch in "Demo mode," which will work for only 40 minutes. Please be sure to close JAWS on your computer when you are done using it so the license will be available to other users.
+Installation Instructions
+Installation instructions
+.
+For assistance,  contact the Student Disability Services Office (
+studentdisabilityservices@swarthmore.edu
+) or the
+Help Desk at x4357 or
+support@swarthmore.edu
+.
+Download
+JAWS 64bit for Windows

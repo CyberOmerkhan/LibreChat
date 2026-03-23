@@ -1,0 +1,14 @@
+Title: chem-scicenter275-label Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530157
+Version: 2
+---
+
+Department
+Chemistry
+Location
+Science Center 275
+Queue Name
+chem-scicenter275-label
+Printer Model
+Dymo LabelWriter 450 Twin Turbo
+facstaff_printing_dymo_instructions

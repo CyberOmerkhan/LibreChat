@@ -1,0 +1,14 @@
+Title: arb-cunningham2 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19529818
+Version: 3
+---
+
+Department
+Scott Arboretum
+Location
+Cunningham House
+Queue Name
+arb-cunningham2
+Printer Model
+Canon iR-ADV C5840/5850 PS
+facstaff_printing_canon_instructions

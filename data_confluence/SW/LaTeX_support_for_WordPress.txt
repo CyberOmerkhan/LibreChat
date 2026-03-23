@@ -1,0 +1,78 @@
+Title: LaTeX support for WordPress
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775753
+Version: 4
+---
+
+Note
+This plugin requires that a user either create an account at
+WordPress.com
+, or has ITS set up the plugin using our general purpose account.
+In the event that LaTeX support would be a useful feature on your WordPress site, the JetPack plugin will need to be installed. If you do not have access to add plugins to your site please visit our
+Service Portal
+to submit a ticket requesting access.
+Installation and Activation
+Log into your WordPress site and navigate to the
+Dashboard
+area.
+On the left side of the screen, click on the
+Plugins
+menu item.
+From the
+Plugins
+screen, check to see if the
+Jetpack
+plugin is installed and activated. If the plugin is not already installed or activated:
+Install the plugin by visiting
+Plugins → Add new
+and searching for the
+Jetpack – WP Security, Backup, Speed, & Growth
+plugin and clicking the
+Install Now
+button.
+Activate the plugin by visiting
+Plugins
+, finding the list item for
+Jetpack
+, and clicking the
+Activate
+link just below the list item.
+The page should refresh and display an overview of the plugin's functionality. Find and click the
+Set up Jetpack
+button on this page. If you do not see the overview, return to the
+Plugins
+screen and a green banner should now be visible. Click the
+Set up Jetpack
+button.
+You will be prompted to authenticate using either a WordPress.com or Google account.
+You should be able to use your Swarthmore College Google account to authenticate. This will likely be the easiest process.
+Alternately, if you already have a WordPress.com account, you can use that. Otherwise, if you don't want to create a WordPress.com account, contact
+support@swarthmore.edu
+to have ITS finish the configuration.
+You will be taken to
+Jetpack's Pricing page
+. Scroll towards the bottom and click the
+Start for Free
+button.
+The page should refresh and a
+Jetpack
+menu item will be added to the left side menu of the
+Dashboard.
+Additionally,
+Jetpack
+may present you with a survey about your site that will help the plugin recommend configuration options, this can be safely dismissed if you just want to install LaTeX support, or completed if you'd like to to see their recommendations.
+Click or hover over the
+JetPack
+menu item to reveal a sub menu. Choose
+Settings
+from this sub menu.
+From the
+Settings
+page, find and click the
+Writing
+tab.
+Scroll down to find and activate the
+Use the LaTeX markup language to write mathematical equations and formulas
+option.
+Using LaTex in WordPress
+After following the Installation and Activation instructions, LaTeX is now available for both Posts and Pages.
+Full Documentation for JetPack's Beautiful Math plugin.

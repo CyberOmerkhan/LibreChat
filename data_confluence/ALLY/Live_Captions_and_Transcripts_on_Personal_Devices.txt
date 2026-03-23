@@ -1,0 +1,42 @@
+Title: Live Captions and Transcripts on Personal Devices
+URL: https://swatkb.atlassian.net/wiki/spaces/ALLY/pages/263815169
+Version: 3
+---
+
+Guidance for remote events
+If you are attending a remote event hosted by Swarthmore, captions and transcripts are enabled by default.  At the moment, Zoom is Swarthmore’s electronic meeting platform.  To get to transcripts, go to Captions (towards the bottom middle of the screen) then live captions.
+If you are attending an event that uses a different platform, you can request that captions and transcripts be enabled, and that they provide instructions on how to access them in the platform they are using.
+Turning on live captions on your computer OS (Operating System)
+Both Mac and Windows offer support for individual live captions.  Here are some instructions on how to do this:
+Mac
+From the Apple menu
+Select System Settings,
+Then select Accessibility,
+Then select Live Captions (Beta),
+And toggle to On.
+See:
+Use Live Captions on Mac - Apple Support
+Windows
+From the Start menu
+Select All apps,
+Then select Accessibility,
+And select Live captions.
+See:
+Use live captions to better understand audio - Microsoft Support
+Turning on live captions on your mobile devices
+Nearly every mobile OS now offers support for live captioning at events.  If this is something you think will be needed, be aware that you will want to sit close to the person speaking or near a good room speaker.
+On iPhone or iPad
+Apple's Live Captions feature can be used to transcribe spoken audio in real time on Apple devices. This feature can be used at events to help attendees follow along with speakers. Here are some ways to use Live Captions:
+To turn on Live Captions,
+Go to Settings,
+Accessibility,
+Hearing, and
+Live Captions.
+You can customize the appearance of the captions, including the font size, color, and background color. Live Captions can be used in many apps, including FaceTime and Podcasts.
+Android
+Android devices with Android 10 or later can use live captions for real-time captioning at events. To enable live captions, you can:
+Open your device's Settings app
+Tap Accessibility
+Select Live Captions
+Turn on Use Live Captions
+You can turn live captions on and off by using your device's volume controls. You can also use touch and hold or double tap to move, hide, expand, or contract the caption box

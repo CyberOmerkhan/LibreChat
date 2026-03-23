@@ -1,0 +1,20 @@
+Title: his-trotter217 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530003
+Version: 8
+---
+
+Department
+History
+Location
+Trotter 217
+Queue Name
+his-trotter217
+Printer Model
+Canon iR-ADV 4745/4751 PS
+Print Release Station
+Yes
+facstaff_printing_canon_instructions
+cecefca7-004e-492e-8dc6-741c7cbade35
+facstaff_printing_release_station_instructions
+eJyLjgUAARUAuQ==
+false

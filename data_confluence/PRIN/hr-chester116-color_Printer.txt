@@ -1,0 +1,21 @@
+Title: hr-chester116-color Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/180256769
+Version: 7
+---
+
+Department
+Human Resources
+Location
+Chester 101 Room 116
+Queue Name
+hr-chester116-color
+Printer Model
+Canon iR-ADV C5840/5850 PS
+Print Release Station
+Yes
+535c70fc-d8e0-4dd0-a9ba-fe4a1678ca0c
+facstaff_printing_canon_instructions
+cecefca7-004e-492e-8dc6-741c7cbade35
+facstaff_printing_release_station_instructions
+eJyLjgUAARUAuQ==
+false

@@ -1,0 +1,15 @@
+Title: TAP+ / VitalSource Link in Moodle
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/245530774
+Version: 2
+---
+
+As part of the Textbook Affordability Program (TAP), the Bookstore is making many textbooks available online through Moodle using the VitalSource service.  This e-books program is called TAP+. You may see a link in your course to TAP+ Books. This is how you and your students can access the e-books.
+Adding a link to VitalSource
+If your course uses a VitalSource e-book, adding a link in Moodle will give your students access to the content. To add a link:
+Turn editing on
+Add an activity or resource
+Select
+VitalSource
+Give the activity a name such as “TAP+ Books”
+Click
+Save and return to course

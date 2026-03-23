@@ -1,0 +1,14 @@
+Title: hr-chester104 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/370147329
+Version: 1
+---
+
+Department
+Human Resources
+Location
+Chester 101 Room 104
+Queue Name
+hr-chester104
+Printer Model
+HP LaserJet Series PCL 4/5
+facstaff_printing_hp_instructions

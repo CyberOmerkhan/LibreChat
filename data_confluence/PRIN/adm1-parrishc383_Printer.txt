@@ -1,0 +1,14 @@
+Title: adm1-parrishc383 Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19529923
+Version: 3
+---
+
+Department
+Admissions
+Location
+Parrish C383
+Queue Name
+adm1-parrishc383
+Printer Model
+Canon iR-ADV 6780 PS
+facstaff_printing_canon_instructions

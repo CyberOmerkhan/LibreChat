@@ -1,0 +1,47 @@
+Title: MathType
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20774964
+Version: 28
+---
+
+Description
+Equation editor
+Access
+Everyone
+Platform
+MAC
+Yellow
+WINDOWS
+Blue
+WEB
+Red
+About MathType
+MathType is an interactive equation editor for Windows and Macintosh that lets you create mathematical notation for word processing, web pages, desktop publishing, presentations, e-learning, and for TeX, LaTeX, and MathML documents.
+MathType includes
+ChemType
+, an extension for creating chemical notation.
+MathType will typeset handwritten equations.
+Versions
+MathType is available in different formats:
+Google Docs
+Microsoft Office
+Moodle
+Google Docs
+Follow the
+instructions for installing and activating MathType for Google Docs
+.  This process involves installing the MathType add-on for for Google Docs.  Make sure to use your Swarthmore Google account.
+Microsoft Office
+Download MathType for Word or Windows
+To use the Microsoft 365 version of MathType, you need a swarthmore.edu Microsoft account. Information on obtaining that account can be found on our Office 365 page:
+Microsoft Office 365
+Use the
+license information
+to complete the installation process on a college-owned Windows computer.
+More information on
+MathType with Microsoft Office on macOS
+.
+Moodle
+There are buttons for MathType and ChemType in every text editor in Moodle.  First click to expand the toolbar, then click on the MathType or ChemType icon to insert an equation.
+Example usage
+Instructors can use MathType in quiz questions.
+Students can respond to quiz questions using MathType.
+Instructors can use MathType in Moodle pages or assignment descriptions

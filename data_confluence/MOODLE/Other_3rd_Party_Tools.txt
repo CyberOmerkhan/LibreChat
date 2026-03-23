@@ -1,0 +1,6 @@
+Title: Other 3rd Party Tools
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20907646
+Version: 3
+---
+
+There are a number of external tools that can be used from within a Moodle class to add functionality. These are set up to allow students to access other websites and activities without requiring a separate user account or login.

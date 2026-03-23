@@ -1,0 +1,72 @@
+Title: Using Git with RStudio Server
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775008
+Version: 2
+---
+
+Git is an open source software version control system.  RStudio Server has Git integration built in, which makes it convenient to keep track of your R project files.  If you are collaborating only with other Swarthmore users, ITS maintains a GitHub Enterprise system just for the college, which makes it easy to share your work with other people at Swarthmore.  Because this system is protected from outside users, there are a few steps to get set up first.
+Set up your RStudio SSH key
+An SSH key is required to authenticate the connection between RStudio and Swarthmore's GitHub Enterprise system.  To set up the key:
+Log into RStudio Sever
+Tools → Global Options → Git/SVN
+Create RSA Key (or View public key, if you have previously completed this step)
+Copy the public key text
+Log into Swarthmore's GitHub Enterprise system:
+https://github.swarthmore.edu
+Click on your avatar (top right of screen)
+→
+User Settings
+→
+SSH and GPG Keys
+Add SSH Key
+Give the key a title (e.g. "RStudio") and paste the public key into the Key section, then save.
+Set up your Name and Email
+You should set up your name and email so that your commits are properly attributed to you.  In RStudio, go to
+Tools → Shell
+and type:
+Replace the text in bold with your information
+git config --global user.email "
+me@
+swarthmore.edu
+"
+git config --global
+user.name
+"
+my name
+"
+Setting up a new RStudio Project with Git
+In RStudio: File menu
+→
+New Directory project in RStudio
+As part of the setup you will have the option to create a git repository as part of the project
+Notice that there is a "Git" tab on the top right window: you can use the controls there to stage, commit, and ignore your files.
+You can now work to develop your R scripts and commit to the master branch as needed.
+Configuring a remote repository
+To push to a remote repository, you need to set things up using the command line.  First, set up a Git repository (if you haven't already).  This can be on GitHub.com, Swarthmore's GitHub Enterprise server (
+https://github.swarthmore.edu
+) or wherever else you have access to a Git server.  Copy the SSH URL for the repository.
+Back in RStudio, Click on
+Tools → Shell
+and type:
+Replace the text in bold with your actual SSH URL
+git remote add origin
+SSH_URL
+_
+TO
+_
+GITHUB
+_
+REPO
+git push -u origin master
+Once you have completed this step from the command line, you can push and pull from the Git RStudio window (you may need to click on the refresh button to enable the push and pull buttons).
+Cloning an Existing RStudio Project using Git
+If you want to work on an existing project that is already in Git, create a new Project in RStudio and select the "Version Control" option
+In setting up the Git project, use the SSH URL from the repository for the "Repository URL"
+Creating new Branches and Other Operations
+The RStudio Git integration only provides a few features.  You may need to revert to the command line (shell) for more than the basics.
+For example, to create a new branch, you will need to use the shell:
+git checkout -n myNewBranch
+Once you have created a new branch, you can switch branches using the RStudio Git window.
+Credits
+Thanks to Ewen Harrison for the "RStudio and GitHub" blog post on R-bloggers:
+http://www.r-bloggers.com/rstudio-and-github/
+for providing a good summary of how to use RStudio with GitHub.

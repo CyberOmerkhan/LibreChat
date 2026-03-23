@@ -1,0 +1,117 @@
+Title: Printing Instructions for Students
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19529881
+Version: 38
+---
+
+HP Student Printing Instructions
+student_printing_hp_instructions
+INLINE
+Connecting from Windows
+Click your Start button
+Select Search.
+Type in
+\\restech
+and press Enter. If prompted for credentials, enter
+GARNET\username
+in the username field, and your password. (
+Note** may need to type the complete address if print jobs fail to complete:
+\\restech.swarthmore.edu
+)
+Find the
+printer's queue name
+from the table at the top of this page.
+Double-click on the printer
+it will install automatically and be available from your Printers control panel
+Connecting from macOS
+Open
+System Settings
+, select
+Printers & Scanners
+.
+Choose
+Add Printer, Scanner, or Fax
+add a printer
+Click the
+tab at the top of the
+Add Printer
+page
+In the Address field, type
+restech
+For Protocol, choose
+Line Printer Daemon - LPD
+In the
+Queue
+field, enter the
+printer queue name from the table at the top of this page.
+Under
+Name
+, copy and paste name from
+Queue
+field.
+Under
+Use
+, select the option for
+Select Software...,
+and search for
+the printer model from the table at the top of this page.
+Click
+Add
+. After you click Add, the Printer list window will reappear with the selected printer added to the list of printers.
+Canon Student Printing Instructions
+student_printing_canon_instructions
+1712695403945
+Connecting from Windows
+Click your Start button
+Select Search.
+Type in
+\\restech
+and press Enter. If prompted for credentials, enter
+GARNET\username
+in the username field, and your password. (
+Note** may need to type the complete address if print jobs fail to complete:
+\\restech.swarthmore.edu
+)
+Find the
+printer's queue name
+from the table at the top of this page.
+Double-click on the printer
+it will install automatically and be available from your Printers control panel
+Connecting from macOS
+Before you Begin:
+Download and install the Mac Printer Drivers first.
+Download Mac Drivers
+Run the installer. This installer may warn that it cannot open because it is from an unidentified publisher.  You can launch the installer by control-clicking on the file and choosing "open".
+Open
+System Settings
+, select
+Printers & Scanners
+.
+Choose
+Add Printer, Scanner, or Fax
+add a printer
+Click the
+tab at the top of the
+Add Printer
+page
+In the Address field, type
+restech
+For Protocol, choose
+Line Printer Daemon - LPD
+In the
+Queue
+field, enter the
+printer queue name from the table at the top of this page.
+Under
+Name
+, copy and paste name from
+Queue
+field.
+Under
+Use
+, select the option for
+Select Software...,
+and search for
+the printer model from the table at the top of this page.
+Click
+Add
+. After you click Add, the Printer list window will reappear with the selected printer added to the list of printers.

@@ -1,0 +1,59 @@
+Title: Domain of One's Own: WordPress Plugins
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20775231
+Version: 3
+---
+
+WordPress Plugins
+WordPress has a lot of functionality built in, but occasionally you may want to do something with WordPress that the default software can’t handle. There are ways to augment and extend what WordPress can do by using software plugins. Whether you require photo galleries, site statistics, automatic Twitter and Facebook sharing of posts, or something else entirely — you will find that there is likely an available plugin that can do what you need. If you are unsure about which plugins to use and which ones are safe, you can always reach out to ITS by emailing
+support@swarthmore.edu.
+Below is a list of ITS-approved plugins.
+ITS approved WordPress plugins
+Authors Widget
+- Authors Widget shows the list or cloud of the authors, with the number of posts, link to RSS feed next to their name, avatar. It is useful in a multi-author blog, where you want to have the list in the side menu.
+Category Sticky Post
+- Mark a post to be placed at the top of a specified category archive. It's sticky posts specifically for categories.
+Co-Authors Plus
+- Allows multiple authors to be assigned to a post. This plugin is an extended version of the Co-Authors plugin developed by Weston Ruter.
+Custom CSS and JavaScript
+- Easily add custom CSS and Javascript code to your WordPress site.
+Regenerate Thumbnails
+- Regenerate the thumbnails for one or more of your image uploads. Useful when changing their sizes or your theme.
+WordPress Importer
+- Import posts, pages, comments, custom fields, categories, tags and more from a WordPress export file.
+PDF Embedder
+- Embed PDFs straight into your posts and pages, with flexible width and height. No third-party services required.
+Knight Lab TimelineJS
+- A simple shortcode to display TimelineJS.
+WordPress Classic Editor
+-
+Classic Editor restores the previous (“classic”) WordPress editor and the “Edit Post” screen.
+Installing Plugins
+To start using and installing plugins just follow these simple instructions:
+Log in to your WordPress dashboard.
+From the left side menu locate and click
+Plugins
+. You will be given a list of all your currently installed plugins.
+This menu allows you to activate and disable specified plugins on an individual basis via the options located under each plugin name. If you wish to handle multiple plugins at once, you may use the bulk action drop-down menu to simultaneously activate/disable multiple plugins by checking desired plugins. Additionally, you use this menu to sort installed plugins using the sorting options above the bulk action menu.
+To install a new plugin, click “
+add new
+” either from the plugin sidebar or the main plugin menu. You will then be redirected to a search engine where you can search using general or specific terms to find plugins.  Try searching for “photo gallery” — the search should return plugins that suit displaying image files in a gallery format.
+Once you locate a plugin you wish to install, hit the “
+install now
+” option. This will automatically install the plugin. You will have to activate the plugin to use it; you should also see a prompt asking if you would like to activate the plugin at this time.
+After installing your plugin be sure to visit the developers’ website if you have any additional questions about how the plugin works, as some plugins may require certain codes or other actions to be used properly.
+Some plugins will have their own settings page located under
+Settings
+, while other plugins will install their own menu on the left-hand side of the Dashboard. The best way to understand how to use a plugin is to make sure you’ve read the documentation available on the plugin’s website as every plugin behaves differently and sometimes it won’t be explicit how the plugin interacts with your website.
+To Activate Existing WordPress Plugins
+Some WordPress Plugins come pre-installed on your WordPress site but they need to be activated in order to use them. In order to activate pre-installed plugins follow the steps below.
+Log in to WordPress and go to your Dashboard
+Click Plugins on the lefthand menu
+Under the plugin you want to activate, select Activate.
+If you do not see the plugin you want pre-installed on the plugin page be sure to email
+support@swarthmore.edu
+so we can install if for you.
+To Deactivate WordPress Plugins
+If for some reason you no longer want to use the plugin, you can always deactivate it. To deactivate a plugin follow the steps below.
+Log in to WordPress.
+Click Plugins.
+Under the plugin you want to deactivate, select Deactivate.

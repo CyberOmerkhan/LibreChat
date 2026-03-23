@@ -1,0 +1,37 @@
+Title: Record Your Name Pronunciation in Moodle
+URL: https://swatkb.atlassian.net/wiki/spaces/MOODLE/pages/20908621
+Version: 11
+---
+
+Recording your name
+Recording how to pronounce your name will make it easier for professors and students to learn how to say it.  To start, log into
+Moodle
+.
+Click on your name (top right) and select
+Profile
+Under
+User details
+, select
+Edit profile
+Above the
+Description
+text box, select the microphone icon and record your name
+Select
+Attach recording
+Go to the bottom of the page and select
+Update profile
+To update the pronunciation, edit the Description section.  Delete the original recording and make a new recording.
+Some versions of the Safari web browser may not properly display the audio recording button.  If you don't see the microphone icon, try again using the Chrome, Firefox, or Opera browser.
+Listening to others' name pronunciations
+Recordings are only available for people who have submitted a pronunciation.  Not all people have recorded their names in Moodle.
+To hear how to pronounce other people’s names in Moodle:
+In your Moodle course, select
+Participants
+from the left-hand navigation column
+Click on a name
+Play the audio located under their name and photo
+Faculty Services
+For professors, student name pronunciations are available in Faculty Services in the following locations:
+Each student’s individual record
+Course rosters
+Class photo list (linked from course roster page)

@@ -1,0 +1,66 @@
+Title: Creating New Pages
+URL: https://swatkb.atlassian.net/wiki/spaces/DRUP/pages/182157323
+Version: 13
+---
+
+This section covers adding new pages to Drupal. There are three types of pages that can be created in Drupal:
+Standard Pages
+,
+News Story Pages
+, and
+News Links.
+Standard Page
+- Most pages created in Drupal are standard pages. These are all-purpose pages used for most types of content.
+News Pages
+- News pages are intended for
+news stories
+which are syndicated to
+News Feed components
+. The News Page has several additional fields to support syndication including: Author, Post Date, Thumbnails, Abstracts, and Related Stories. This page type also has some additional social media sharing functionality. This page type is used primarily by the Communications Office (and by some departments) who generate their own news stories for the website.
+News Links
+- Is a specialized page type used to syndicate non-Drupal stories to the
+News Feed component
+. New links are typically only used by the Communications Office to include external news stories on the Swarthmore website.
+3.1 Creating Standard Pages
+Click on “Site Settings” in the top menu bar.
+Click on “Add Standard Page”
+This will open the Editor where all the fields are blank. Begin entering in your information:
+1) Title - Give the new webpage a title. This is the only required field.
+2) Subtitle - Give the an page an optional subtitle.
+3) Primary Image - Add an optional image. Learn more about adding images.
+4) Body - Add your page content here.
+5) Components - Add optional components. Learn more about adding components.
+6) Select if you wish to save page in either DRAFT mode or PUBLISHED more. Learn more about publishing.
+7) Click the SAVE Button
+Congratulations! You have created a new page in the Drupal CMS.
+Here is an side-by-side comparison of what appears in the Editor and what appears on a webpage:
+3.2 Creating News Pages
+Note: News Pages will NOT appear in news feed component unless it has been first tagged by the Communications Office. If you have questions about news stories, please contact the Communications Office at
+web-update@swarthmore.edu
+Click on “Site Settings” in the top menu bar.
+Click on “Add News Page”
+The Page Layout drop down menu should display
+Standard News
+Add a Title to the News Story
+Add an optional subtitle
+Add an optional primary image to the news story
+Add content to the body content block
+Add an optional news label
+Add attribution in the following format (by author name)
+Add a thumbnail image (if different from the primary image)
+Add optional related stories if their are specific news stories you wish to link to in the story related news sectiom
+Add optional components
+Select the page as DRAFT or PUBLISHED
+Click Save
+3.3 Creating News Links
+Note: News Links will NOT appear in news feed component unless it has been first tagged by the Communications Office. If you have questions about news links, please contact the Communications Office at
+web-update@swarthmore.edu
+.
+Click on “Site Settings” in the top menu bar.
+Click on “Add News Link”
+Add a Title
+Add the Link to the external website
+Add a Label to provide further context to readers. For news links, this is typically the name of publication or website that you are linking too.
+Add a thumbnail image that will appear in news listing
+Save the News Link as either Draft or Published. Note that News Links will NOT appear in News Feed component until they have been published.
+Click SAVE.

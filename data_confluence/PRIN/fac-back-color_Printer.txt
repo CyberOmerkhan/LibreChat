@@ -1,0 +1,14 @@
+Title: fac-back-color Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19529823
+Version: 1
+---
+
+Department
+Facilities Management
+Location
+Services Building
+Queue Name
+fac-back-color
+Printer Model
+HP Color LaserJet Enterprise M750
+facstaff_printing_hp_instructions

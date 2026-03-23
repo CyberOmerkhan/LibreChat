@@ -1,0 +1,14 @@
+Title: McCabe ERR Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19529957
+Version: 3
+---
+
+Department
+Libraries
+Location
+McCabe Library 3rd Floor
+Queue Name
+McCabe_3rd
+Printer Model
+HP LaserJet PCL 4/5
+student_printing_hp_instructions

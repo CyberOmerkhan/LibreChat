@@ -1,0 +1,14 @@
+Title: Worth J Printer
+URL: https://swatkb.atlassian.net/wiki/spaces/PRIN/pages/19530588
+Version: 1
+---
+
+Department
+Residence Halls
+Location
+Worth J
+Queue Name
+Worth_J
+Printer Model
+HP LaserJet Series PCL 4/5
+student_printing_hp_instructions

@@ -1,0 +1,141 @@
+Title: Subdomains and Subdirectories - Domain of One's Own
+URL: https://swatkb.atlassian.net/wiki/spaces/SW/pages/20774983
+Version: 9
+---
+
+One easy way to organize your domain is to
+create subdomains
+, in which you can then install other applications. In addition, you can set up subfolders (also called subdirectories) for your site, which can also have their own applications installed in them. This guide will help you with:
+Understanding the difference between subdomains and subdirectories (subfolders)
+Setting up a subdomain
+Mapping your domain
+Subdomains vs. Subdirectories
+When you’re first getting started with a new space on a new web host, you might think of yourself as owning a small “territory” of the web. Everything you place in your public folder on the server becomes available for anyone on the web to see (assuming they know the address of your site).
+If you’re just putting up a handful of static HTML pages that you want to make available to colleagues, friends, or family by sending them links, then working with this large, unorganized space may work. But as soon as you get to the point where you want to organize your site, you’re going to need a new strategy.
+Consider this scenario: you want to have a personal blog on your new website, where you share pictures and short written pieces with family, friends, and colleagues. In addition, you’re working on a large research project that requires you to build a web-based repository of digital images related to your discipline. You want to use one application (say,
+WordPress
+) to manage your personal blog. For your research project, you’ve settled on another open-source application (say,
+Omeka
+). Both of these are applications that need to be installed on your web host, but you can’t just put them both at your main domain name – if you did, both sites would quickly experience conflicts and errors. You need to cordon off separate spaces for your different web “properties.”
+There are two primary strategies for parceling up your webspace. You can create
+subdomains
+or
+subdirectories
+. But before you can understand the difference, you need to first understand what we mean when we talk about your
+root
+domain.
+Root Domain
+Let’s say you’ve registered a new domain called
+yourdomain.com
+. Anything that is stored at this core URL is considered to be at the
+root
+of your domain: Nothing comes before the address or after the address. You can certainly decide that you simply want to have a single site on your web host (say a blog running WordPress), and you can set that blog up at your domain’s root. To get to your site in this scenario, users would simply go to
+yourdomain.com
+.
+Subdomains
+When you want to do more than just have a single site at the root of your site, you need to decide how to organize your space. One way to do so is by setting up subdomains.
+You’re already familiar with the concept of subdomains, even if you don’t know it. Consider Swarthmore’s public website at
+https://www.swarthmore.edu
+. As you browse parts of that site, you’ll notice that the domain changes. For example, when you look at the
+ITS Blog
+website, the URL is no longer just
+swarthmore.edu
+. Now the root of the URL is at
+blogs.swarthmore.edu
+, indicating that you’re on the part of the site that is dedicated to ITS blog posts.
+As you can see the domains serve two purposes: they help to organize the site from a technical perspective, but they also serve as indications to the users that they are in a new/different space. As you can see, with each subdomain you can create a distinct, individual website.
+Subdirectories
+The alternative for organizing your space is to simply set up subdirectories. These function much like file folders on your computer. Instead of creating a blog at
+blog.yourdomain.com
+you would place it in a subdirectory called “blog” making the address
+yourdomain.com/blog
+. Setting up a subdirectory is really easy. You can create folders on the fly when installing applications (like WordPress), and you can also manually create them in your file browser.
+There is one particular issue you need to be aware of. Let’s say you’ve installed WordPress to be your primary blog at
+yourdomain.com
+. Later, you decide you want to create another image gallery site on your site, and you want to place it at
+yourdomain.com/gallery
+. But, if for some reason you’ve already created a page on your WordPress site called “Gallery” then the URL
+yourdomain.com/gallery
+will already be taken. If you try to create a subdirectory of the same name, you’ll get a conflict and errors.
+Tips, Review, and Examples
+To help you better visualize the difference, here’s an example of how you might organize your site using the subdomain vs. the subdirectory approach.
+Subdomain Approach
+Do this
+Subdirectories Approach
+yourdomain.com
+(“root”)
+Install WordPress as your “main site”
+yourdomain.com
+(“root”)
+course1.yourdomain.com
+Install a second WordPress instance for a course you’re taking
+yourdomain.com/course1
+photos.yourdomain.com
+Install ZenPhoto for a public photo gallery of your photos
+yourdomain.com/photos
+docs.yourdomain.com
+Install MediaWiki for a club you belong to that wants to collaboratively edit its bylaws
+yourdomain.com/docs
+files.yourdomain.com
+Install OwnCloud so you can access your files on your laptop and at work
+yourdomain.com/files
+This is just one example of how you might organize your site and then use different sections to do different things. There is no one solution to this challenge, and what you do should be driven by what makes sense to you! To summarize:
+Subdomains
+are generally a cleaner, more elegant solution to organizing your site. You’re less likely to get conflicts or errors. However, when using subdomains the process is slightly more complicated: You must first create subdomains before you can install anything in them.
+Subdirectories
+don’t create as attractive URLs as subdomains, but they’re easier to set up. They can, however, result in conflicts with existing web pages.
+As soon as you create subdomains or subdirectories to organize your site, you need to consider how people are going to find them. If you’ve created a new primary blog at
+blog.yourdomain.com
+, and someone goes to just
+yourdomain.com
+, they won’t see that new site. It is possible to set up
+redirects
+to avoid this issue. You can also always create links from pages on one subdomain of your site to another.
+If you really just need one site, sometimes installing at the root of your domain is the easiest thing to do, at least as you’re getting started. You can always add more pieces to your territory later with either subdomains or subdirectories.
+Map Your Domain (or a Subdomain)
+If you already have a digital presence that you’d like to pull into your hosting space,
+domain mapping
+is an option you may wish to explore. This allows you to assign your domain (or a subdomain) to another service. Some services that work with domain mapping are:
+WordPress.com
+Google Sites
+Tumblr
+Blogger
+When you map a domain, users who visit your URL will automatically see your space on one of these services. It’s a great way to incorporate your activity elsewhere into your domain, and it might be a good first step if you’ve already established a presence somewhere else and just want to point your new domain to that space.
+An Option to Register Your Own Domain
+This web hosting space currently utilizes both
+subdomains
+of your school’s project URL and
+top-level domains
+(a .com, .net, .org address) after initial signup. You have the option to start with a free subdomain and then later decide you’d like to purchase a
+top-level domain
+after using the space.  You can do this by registering a domain with a service provider (we make a recommendation below, but any domain provider should work) and adding it to your space as an
+Addon Domain
+.
+To start you’ll need to get the domain registered. When choosing a domain we recommend keeping it all lower-case, avoiding hyphens, keeping it short, and of course, it will need to be a unique address. Reclaim Hosting has made the process of registering a domain quite simple, and the domain will work with very few additional steps due to the integration they have with our hosting system.
+Visit the Register Domain page to register a domain
+,  and type in the domain you’d like to purchase:
+After ensuring the domain is available for purchase you’ll be prompted to select whether you’d like to protect the contact information associated with the domain. This option (referred to as
+ID Protect
+) is free to add. We recommend checking this ID Protect box to protect your contact information.
+You’ll also be prompted for
+nameservers
+for the domain. If registering the domain through Reclaim Hosting you can leave these with the default. If you decide to register the domain elsewhere, you’ll want to point the nameservers to
+ns1.reclaimhosting.com
+and
+ns2.reclaimhosting.com
+in order for the domain to work with our system.
+Once you’ve completed the checkout process with payment information the domain will be registered automatically.
+The last step is to connect it to your existing cPanel hosting account. To do that you’ll navigate to your
+cPanel > Domains > Add-on Domains
+.
+On the following page, type your newly purchased domain in the
+new domain name
+field. (The
+subdomain
+and
+Document Root
+fields will populate automatically.)
+You can change the document root (the directory of your files) if you wish. Some folks like to remove the “.com” from the Document Root field for convenience when using FTP. The option to create an additional FTP account is present but not necessary. Once the domain is entered click
+Add Domain
+to add the domain to your hosting account.
+At this point, the domain will now be hosted in your account and you can use it to install applications, upload files, and any number of other actions available to you in cPanel.
